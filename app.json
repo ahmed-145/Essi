@@ -1,0 +1,57 @@
+{
+  "expo": {
+    "name": "Essi: Learn Nubian",
+    "slug": "essi",
+    "owner": "ahmeed145",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "essi",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#1B6CA8",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.essi.learn",
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio"
+        ]
+      }
+    },
+    "android": {
+      "package": "app.essi.learn",
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS"
+      ]
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Allow Essi to record your voice for community contribution."
+        }
+      ],
+      "expo-notifications",
+      "expo-asset",
+      "@sentry/react-native"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "a0574490-53eb-4f95-acde-de1283cc06e5"
+      }
+    }
+  }
+}
