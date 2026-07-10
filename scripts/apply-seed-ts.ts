@@ -1,5 +1,5 @@
 // Mock React Native asset require calls for non-JS files under standard Node
-require.extensions['.ogg'] = function () { return 42; };
+require.extensions['.mp3'] = function () { return 42; };
 require.extensions['.wav'] = function () { return 42; };
 
 import fs from 'fs';
@@ -133,7 +133,7 @@ async function run() {
       let data = { ...extra };
       if (data.audio_url && typeof data.audio_url === 'number') {
         // If it's a static require, map it to a placeholder or a synthetic CDN link
-        data.audio_url = `https://cdn.essi.app/audio/${id}.ogg`;
+        data.audio_url = `https://cdn.essi.app/audio/${id}.mp3`;
       }
 
       exercisesToUpsert.push({

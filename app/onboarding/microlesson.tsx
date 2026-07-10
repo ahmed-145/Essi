@@ -3,7 +3,7 @@
 // Old Nubian script visual introduction, gentle haptics, next step on completion.
 
 import React, { useState } from 'react';
-import { View, Text, Pressable, StyleSheet } from 'react-native';
+import { View, Text, Pressable, ScrollView, StyleSheet } from 'react-native';
 import { useRouter } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import * as Haptics from 'expo-haptics';
@@ -108,9 +108,9 @@ export default function MicroLesson() {
         </Pressable>
       </View>
 
-      <View style={{ flex: 1, paddingHorizontal: 24, paddingTop: 14 }}>
+      <ScrollView style={{ flex: 1 }} contentContainerStyle={{ paddingHorizontal: 24, paddingTop: 14, paddingBottom: insets.bottom + 32 }}>
         {step === 'intro' && (
-          <View style={{ flex: 1 }}>
+          <View style={{ width: '100%' }}>
             <Text style={{ fontFamily: 'Fraunces-SemiBold', fontSize: 26, color: colors.ink, lineHeight: 30 }}>
               Let's learn your first words.
             </Text>
@@ -167,7 +167,7 @@ export default function MicroLesson() {
         )}
 
         {step === 'grammar' && (
-          <View style={{ flex: 1 }}>
+          <View style={{ width: '100%' }}>
             <Text style={{ fontFamily: 'Fraunces-SemiBold', fontSize: 26, color: colors.ink, lineHeight: 30 }}>
               How suffixes work.
             </Text>
@@ -178,7 +178,7 @@ export default function MicroLesson() {
               Mattokki builds meanings by adding suffixes to the end of noun roots.
             </Text>
 
-            <View style={{ backgroundColor: '#fff', borderRadius: 24, padding: 22, borderWidth: 1.5, borderColor: colors.hairline, flex: 1, marginBottom: 20 }}>
+            <View style={{ backgroundColor: '#fff', borderRadius: 24, padding: 22, borderWidth: 1.5, borderColor: colors.hairline, marginBottom: 20 }}>
               <View style={{ flexDirection: 'row', alignItems: 'baseline', gap: 6, flexWrap: 'wrap' }}>
                 <Text style={{ fontFamily: 'Inter-Bold', fontSize: 24, color: colors.ink }}>essi</Text>
                 <Text style={{ fontFamily: 'Inter-Bold', fontSize: 24, color: colors.terra }}>-we:r</Text>
@@ -226,7 +226,7 @@ export default function MicroLesson() {
         )}
 
         {step === 'quiz' && (
-          <View style={{ flex: 1 }}>
+          <View style={{ width: '100%' }}>
             <Text style={{ fontFamily: 'Fraunces-SemiBold', fontSize: 26, color: colors.ink, lineHeight: 30 }}>
               Prove your memory.
             </Text>
@@ -237,7 +237,7 @@ export default function MicroLesson() {
               Match each Mattokki word on the left with its translation on the right.
             </Text>
 
-            <View style={{ flexDirection: 'row', gap: 20, flex: 1 }}>
+            <View style={{ flexDirection: 'row', gap: 20 }}>
               {/* Left Column (Nubian) */}
               <View style={{ flex: 1, gap: 10 }}>
                 {VOCAB.map((item) => {
@@ -308,7 +308,7 @@ export default function MicroLesson() {
             </View>
           </View>
         )}
-      </View>
+      </ScrollView>
     </View>
   );
 }

@@ -54,7 +54,7 @@ export default function Heritage() {
 
   return (
     <View style={{ flex: 1, backgroundColor: colors.lime, paddingTop: insets.top }}>
-      <ScrollView style={{ flex: 1 }} contentContainerStyle={{ padding: 24, paddingBottom: 40 }}>
+      <ScrollView style={{ flex: 1 }} contentContainerStyle={{ padding: 24, paddingBottom: insets.bottom + 32 }}>
         {/* Header progress */}
         <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginTop: 12 }}>
           <Text style={{ fontSize: 11, letterSpacing: 4, color: colors.terra, fontFamily: 'Inter-Bold', textTransform: 'uppercase' }}>
@@ -111,16 +111,17 @@ export default function Heritage() {
             );
           })}
         </View>
+
+        <View style={{ marginTop: 24, marginBottom: 16 }}>
+          <EssiButton 
+            title="Continue →" 
+            arabicTitle="استمر" 
+            variant="primary" 
+            disabled={!selectedId} 
+            onPress={handleContinue} 
+          />
+        </View>
       </ScrollView>
-      <View style={{ padding: 24, paddingBottom: insets.bottom + 16 }}>
-        <EssiButton 
-          title="Continue →" 
-          arabicTitle="استمر" 
-          variant="primary" 
-          disabled={!selectedId} 
-          onPress={handleContinue} 
-        />
-      </View>
     </View>
   );
 }

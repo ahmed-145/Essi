@@ -29,7 +29,7 @@ const mappings = {
   'xnz_0046': '100.ogg'    // aman
 };
 
-const srcDir = path.join(__dirname, '..', 'nobiina_extracted_audio');
+const srcDir = path.join(__dirname, '..', 'nobiina_rebuilt_ogg');
 const destDir = path.join(__dirname, '..', '..', 'assets', 'audio');
 
 if (!fs.existsSync(destDir)) {
