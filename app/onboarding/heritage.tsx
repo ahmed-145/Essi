@@ -2,12 +2,13 @@
 // PRD §7 Screen 4: Nothing at all, A few words from home, Can hold basic conversation.
 // Helps tailor pacing or routing during initial setup.
 
-import React from 'react';
+import React, { useState } from 'react';
 import { View, Text, ScrollView, Pressable } from 'react-native';
 import { useRouter } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import * as Haptics from 'expo-haptics';
 import { colors } from '../../lib/colors';
+import { EssiButton } from '../../components/EssiButton';
 
 const OPTIONS = [
   {
@@ -39,11 +40,15 @@ const OPTIONS = [
 export default function Heritage() {
   const r = useRouter();
   const insets = useSafeAreaInsets();
+  const [selectedId, setSelectedId] = useState<string | null>(null);
 
   const select = (id: string) => {
     Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
-    // Path preferences can be recorded or routed accordingly.
-    // For MVP, all user segments start on L1 but with tailored encouragement.
+    setSelectedId(id);
+  };
+
+  const handleContinue = () => {
+    if (!selectedId) return;
     r.push('/onboarding/goal' as any);
   };
 
@@ -68,42 +73,54 @@ export default function Heritage() {
         </Text>
 
         <View style={{ gap: 12 }}>
-          {OPTIONS.map((opt) => (
-            <Pressable
-              key={opt.id}
-              onPress={() => select(opt.id)}
-              style={({ pressed }) => ({
-                backgroundColor: '#fff',
-                borderRadius: 20,
-                padding: 18,
-                borderWidth: 1.5,
-                borderColor: pressed ? colors.terra : colors.hairline,
-                flexDirection: 'row',
-                alignItems: 'center',
-                gap: 16,
-                transform: [{ scale: pressed ? 0.98 : 1 }],
-              })}
-            >
-              <View style={{
-                width: 46, height: 46, borderRadius: 23,
-                backgroundColor: colors.limeDeep,
-                alignItems: 'center', justifyContent: 'center',
-              }}>
-                <Text style={{ fontSize: 22 }}>{opt.emoji}</Text>
-              </View>
+          {OPTIONS.map((opt) => {
+            const isSelected = selectedId === opt.id;
+            return (
+              <Pressable
+                key={opt.id}
+                onPress={() => select(opt.id)}
+                style={({ pressed }) => ({
+                  backgroundColor: isSelected ? colors.limeDeep : '#fff',
+                  borderRadius: 20,
+                  padding: 18,
+                  borderWidth: 1.5,
+                  borderColor: isSelected ? colors.terra : colors.hairline,
+                  flexDirection: 'row',
+                  alignItems: 'center',
+                  gap: 16,
+                  transform: [{ scale: pressed ? 0.98 : 1 }],
+                })}
+              >
+                <View style={{
+                  width: 46, height: 46, borderRadius: 23,
+                  backgroundColor: isSelected ? colors.terra : colors.limeDeep,
+                  alignItems: 'center', justifyContent: 'center',
+                }}>
+                  <Text style={{ fontSize: 22 }}>{opt.emoji}</Text>
+                </View>
 
-              <View style={{ flex: 1 }}>
-                <Text style={{ fontFamily: 'Cairo-Bold', fontSize: 15, color: colors.ink, textAlign: 'left' }}>
-                  {opt.title_ar}
-                </Text>
-                <Text style={{ fontFamily: 'Inter-SemiBold', fontSize: 13, color: colors.ink2, marginTop: 2 }}>
-                  {opt.title_en}
-                </Text>
-              </View>
-            </Pressable>
-          ))}
+                <View style={{ flex: 1 }}>
+                  <Text style={{ fontFamily: 'Cairo-Bold', fontSize: 15, color: colors.ink, textAlign: 'left' }}>
+                    {opt.title_ar}
+                  </Text>
+                  <Text style={{ fontFamily: 'Inter-SemiBold', fontSize: 13, color: colors.ink2, marginTop: 2 }}>
+                    {opt.title_en}
+                  </Text>
+                </View>
+              </Pressable>
+            );
+          })}
         </View>
       </ScrollView>
+      <View style={{ padding: 24, paddingBottom: insets.bottom + 16 }}>
+        <EssiButton 
+          title="Continue →" 
+          arabicTitle="استمر" 
+          variant="primary" 
+          disabled={!selectedId} 
+          onPress={handleContinue} 
+        />
+      </View>
     </View>
   );
 }

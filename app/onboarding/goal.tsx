@@ -2,7 +2,7 @@
 // PRD §7 Screen 5: 3 mins (drop), 10 mins (cup), 20 mins (river).
 // Dynamically renders three traditional Nubian pottery vessels filled with water.
 
-import React from 'react';
+import React, { useState } from 'react';
 import { View, Text, ScrollView, Pressable } from 'react-native';
 import { useRouter } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -10,6 +10,7 @@ import Svg, { Path, Defs, LinearGradient, Stop } from 'react-native-svg';
 import * as Haptics from 'expo-haptics';
 import { useUserStore } from '../../stores/userStore';
 import { colors } from '../../lib/colors';
+import { EssiButton } from '../../components/EssiButton';
 
 const OPTIONS = [
   {
@@ -84,10 +85,16 @@ export default function Goal() {
   const r = useRouter();
   const insets = useSafeAreaInsets();
   const patchProfile = useUserStore((s) => s.patch);
+  const [selectedMinutes, setSelectedMinutes] = useState<number | null>(null);
 
   const select = (minutes: number) => {
     Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
-    patchProfile({ daily_goal_minutes: minutes as any });
+    setSelectedMinutes(minutes);
+  };
+
+  const handleContinue = () => {
+    if (selectedMinutes === null) return;
+    patchProfile({ daily_goal_minutes: selectedMinutes as any });
     r.push('/onboarding/microlesson' as any);
   };
 
@@ -115,45 +122,57 @@ export default function Goal() {
         </Text>
 
         <View style={{ gap: 14 }}>
-          {OPTIONS.map((opt) => (
-            <Pressable
-              key={opt.minutes}
-              onPress={() => select(opt.minutes)}
-              style={({ pressed }) => ({
-                backgroundColor: '#fff',
-                borderRadius: 22,
-                padding: 20,
-                borderWidth: 1.5,
-                borderColor: pressed ? colors.terra : colors.hairline,
-                flexDirection: 'row',
-                alignItems: 'center',
-                gap: 20,
-                transform: [{ scale: pressed ? 0.98 : 1 }],
-              })}
-            >
-              <View style={{
-                width: 90,
-                alignItems: 'center',
-                justifyContent: 'center',
-              }}>
-                <PotteryJar size={opt.size} waterFillColor={opt.waterColor} />
-              </View>
+          {OPTIONS.map((opt) => {
+            const isSelected = selectedMinutes === opt.minutes;
+            return (
+              <Pressable
+                key={opt.minutes}
+                onPress={() => select(opt.minutes)}
+                style={({ pressed }) => ({
+                  backgroundColor: isSelected ? colors.limeDeep : '#fff',
+                  borderRadius: 22,
+                  padding: 20,
+                  borderWidth: 1.5,
+                  borderColor: isSelected ? colors.terra : colors.hairline,
+                  flexDirection: 'row',
+                  alignItems: 'center',
+                  gap: 20,
+                  transform: [{ scale: pressed ? 0.98 : 1 }],
+                })}
+              >
+                <View style={{
+                  width: 90,
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                }}>
+                  <PotteryJar size={opt.size} waterFillColor={opt.waterColor} />
+                </View>
 
-              <View style={{ flex: 1 }}>
-                <Text style={{ fontFamily: 'Cairo-Bold', fontSize: 16, color: colors.ink, textAlign: 'left' }}>
-                  {opt.label_ar}
-                </Text>
-                <Text style={{ fontFamily: 'Inter-Bold', fontSize: 14, color: colors.ink2, marginTop: 1 }}>
-                  {opt.label_en}
-                </Text>
-                <Text style={{ fontSize: 11.5, color: colors.ink3, marginTop: 4 }}>
-                  {opt.desc_en}
-                </Text>
-              </View>
-            </Pressable>
-          ))}
+                <View style={{ flex: 1 }}>
+                  <Text style={{ fontFamily: 'Cairo-Bold', fontSize: 16, color: colors.ink, textAlign: 'left' }}>
+                    {opt.label_ar}
+                  </Text>
+                  <Text style={{ fontFamily: 'Inter-Bold', fontSize: 14, color: colors.ink2, marginTop: 1 }}>
+                    {opt.label_en}
+                  </Text>
+                  <Text style={{ fontSize: 11.5, color: colors.ink3, marginTop: 4 }}>
+                    {opt.desc_en}
+                  </Text>
+                </View>
+              </Pressable>
+            );
+          })}
         </View>
       </ScrollView>
+      <View style={{ padding: 24, paddingBottom: insets.bottom + 16 }}>
+        <EssiButton 
+          title="Continue →" 
+          arabicTitle="استمر" 
+          variant="primary" 
+          disabled={selectedMinutes === null} 
+          onPress={handleContinue} 
+        />
+      </View>
     </View>
   );
 }
