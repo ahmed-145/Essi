@@ -1,92 +1,159 @@
-# Essi — Learn Nubian
+# 🪔 Essi — Learn Nubian (اسقي جذورك)
 
-> The world's first mobile learning platform for Mattokki (Kenzi) — the severely endangered indigenous language of the Egyptian Nubian people.
-
-This is the **frontend / UI scaffold** that mirrors the design canvas in this same project. It's a real, runnable React Native + Expo codebase you can build out into the full product.
-
-**Tagline.** اسقي جذورك — _Water your roots._
+> The world's first complete, backend-integrated mobile learning platform for **Mattokki (Kenzi)** — the severely endangered indigenous language of the Egyptian Nubian people.
+> 
+> *“اسقي جذورك — Water your roots.”*
 
 ---
 
-## What's in here
+## 🌊 Overview
+
+Essi has evolved from a simple vertical-slice prototype into a **fully functional, production-ready React Native + Expo mobile application** backed by a custom server-side **Supabase + PostgreSQL ML-SRS engine**. 
+
+Every feature specified in the PRD from **Phase 0 to Phase 5** is complete, tested, and fully type-checked. The platform integrates real, reverse-engineered native speaker audio assets mapped to a source-verified grammar database.
+
+---
+
+## 🛠️ Technology Stack & Architecture
+
+### Frontend (Mobile App)
+* **Core Framework**: Expo Router v3 (SDK 54) + React Native
+* **Styling**: NativeWind (Tailwind CSS) with custom theme tokens mirroring the traditional Nubian color palette (Ochre, Nile Blue, Alabaster)
+* **Animations**: React Native Reanimated v4 + Gesture Handler v2 for seamless, high-performance fluid drag-and-drop actions
+* **State Management**: Zustand + AsyncStorage for lightning-fast local settings and mid-lesson persistence
+* **Telemetry & Error Tracking**: Sentry React Native + PostHog (EU Region) fully integrated
+
+### Backend (Database & API)
+* **Database**: Supabase PostgreSQL with strict Row Level Security (RLS) policies limiting access to authenticated owners
+* **Linguistic engine (ML-SRS)**: Server-side SM-2 spaced repetition engine running via PostgreSQL triggers (`trg_update_srs_on_answer`) and custom RPC functions (`generate_review_session`) to compute morphological acquisition decay curves
+* **Auth**: Email/Password authentication flow fully integrated with automatic database profile provisioning
+
+---
+
+## 📂 Codebase Structure
 
 ```
 essi-rn/
-├── app/                          Expo Router file-based routes
-│   ├── _layout.tsx               Root layout, font loading, audio init
-│   ├── index.tsx                 Welcome (Screen 1)
-│   ├── onboarding/               Screens 2–8 of onboarding
-│   ├── (tabs)/                   Home, Practice, Profile, Settings
-│   └── lesson/[id].tsx           Lesson player with 4 exercise types
+├── app/                          # Expo Router File-Based Routing
+│   ├── _layout.tsx               # Entry point, Font Loading, Sentry/PostHog init
+│   ├── index.tsx                 # Dynamic router guard (Welcome / Home redirect)
+│   ├── (tabs)/                   # App Navigation Shell
+│   │   ├── home.tsx              # Skill Tree Lesson Map (Locked/Active states)
+│   │   ├── practice.tsx          # ML-SRS Daily Review controller
+│   │   ├── profile.tsx           # Stat dashboard (XP, accuracy, weakest rules)
+│   │   └── settings.tsx          # Account settings, volume slider, script toggles
+│   ├── onboarding/               # Complete 8-screen Acquisition Funnel
+│   │   ├── context.tsx           # Step 1: Historical Nile context
+│   │   ├── motivation.tsx        # Step 2: User motivation tags
+│   │   ├── heritage.tsx          # Step 3: Heritage baseline assessment
+│   │   ├── goal.tsx              # Step 4: Pottery-vessel goals (Gulla SVG)
+│   │   ├── microlesson.tsx       # Step 5: Micro-interactive quiz
+│   │   ├── success.tsx           # Step 6: Day 1 streak animation
+│   │   └── auth.tsx              # Step 7: Auth onboarding screen
+│   └── lesson/
+│       ├── [id].tsx              # Lesson Player controller (Answer timing, queue looping)
+│       └── complete.tsx          # Interactive metrics, haptics, spring entry animations
 ├── components/
-│   ├── MattokkiText.tsx          Tri-script text component (PRD §6.2)
-│   ├── EssiButton.tsx
-│   ├── ScriptToggle.tsx
-│   ├── AppTopBar.tsx / BottomNav.tsx
-│   ├── brand/                    Sunburst, OilLampFlame, Drop, TreeGrassFrieze…
-│   └── exercises/                AudioMatching, WordArrangement, SuffixSnap, MCQ
-├── stores/                       Zustand: script, user, srs
-├── lib/
-│   ├── colors.ts                 Full Nubian palette from PRD §5.3
-│   ├── fonts.ts                  Cairo, Fraunces, Sawarda Nubian, Inter
-│   ├── srs.ts                    ML-SRS algorithm (PRD §6.4) — SM-2 extended
-│   ├── audio.ts                  Expo AV wrapper
-│   └── api.ts                    Supabase / API client
+│   ├── MattokkiText.tsx          # Tri-script toggle (Coptic / Latin / Arabic)
+│   ├── ScriptToggle.tsx          # Global script selector
+│   ├── AppTopBar.tsx             # Header tracking Streak + XP
+│   ├── GrammarTooltipModal.tsx   # Interactive morpheme popovers
+│   └── exercises/                # Dynamic Exercise Components
+│       ├── AudioMatchingExercise.tsx   # Waveform voice visualizer + CDN failure recovery
+│       ├── WordArrangementExercise.tsx  # Gesture-based SOV drag-and-drop slots
+│       ├── SuffixSnapExercise.tsx      # Drawer layout w/ morpheme-boundary snap highlights
+│       └── MCQExercise.tsx             # Tri-script question cards
 ├── data/
-│   ├── lessons/                  Lesson 1 fully populated as JSON shape
-│   ├── morphology-rules.ts       All accusative allomorphs etc.
-│   └── lexicon.ts                Verified core vocabulary (PRD Appendix A)
-├── types/                        TS types for lesson, exercise, srs, user
-├── assets/
-│   └── fonts/                    Place Sawarda Nubian .ttf here
-└── package.json, app.json, …     Expo + TS config
+│   ├── lessons.ts                # Lessons database (L1-L12, 96 exercises)
+│   ├── lexicon.ts                # 25 verified Mattokki roots + audio bindings
+│   └── morphology-rules.ts       # Accusative, copula, and indefinite morphology rules
+├── scripts/
+│   ├── apply-seed-ts.ts          # TS Seed loader directly reading database models
+│   └── apply-seed.js             # Deprecated vanilla JS seed loader
+├── stores/                       # Zustand Local Stores
+│   ├── authStore.ts              # Session tracking
+│   ├── userStore.ts              # Real-time XP & Streak debounced Sync to Supabase
+│   └── lessonProgressStore.ts    # Mid-lesson crash recovery store
+└── assets/audio/                 # Extracted native speaker recordings
 ```
 
-## What's mocked / TODO
+---
 
-This is a working frontend scaffold, not a complete app. Specifically:
+## ⚡ Setup & Execution
 
-- **No backend yet.** `lib/api.ts` returns mocked data; wire it to Supabase.
-- **No real audio yet.** `lib/audio.ts` plays silence; drop `.m4a` files into S3 and replace URLs.
-- **Sawarda Nubian font isn't included** (proprietary). Drop the `.ttf` into `assets/fonts/` and it'll load. `MattokkiText` falls back to Noto Sans Coptic.
-- **Push notifications stubbed** — see `lib/notifications.ts`.
-- **Auth screen is UI-only** — wire to `supabase.auth.signInWithApple/Google/OtpEmail`.
-- **Tests, error boundaries, analytics** — not wired in.
-
-## Running
-
+### 1. Install Dependencies
+Ensure you are inside the React Native directory:
 ```bash
-cd essi-rn
+cd Essi-fr/essi-rn
 npm install
+```
+
+### 2. Configure Environment Variables
+Copy `.env.example` to `.env` and fill in your Supabase details:
+```bash
+cp .env.example .env
+```
+Ensure you have the following keys:
+```env
+EXPO_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
+EXPO_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
+SUPABASE_SERVICE_ROLE_KEY=your-service-role-key  # Only needed on your machine to seed the database
+```
+
+### 3. Seed your Database
+Essi features a dynamic TypeScript seed script that maps your local codebase lessons, morphology rules, and lexicon items directly into your live Supabase project.
+
+Run the seed script (CommonJS compilation target overrides are provided inline):
+```bash
+npx ts-node -O '{"module":"commonjs"}' scripts/apply-seed-ts.ts
+```
+
+### 4. Run the App
+Launch the Expo development server:
+
+#### Standard local launch:
+```bash
 npx expo start
 ```
 
-Then press `i` for iOS simulator, `a` for Android emulator, or scan the QR with Expo Go on a real device.
-
-For a real build (App Store / Play Store):
-
+#### Bypassing local firewalls (Tunnel Mode):
+If your phone is on cellular data or the local router restricts connections:
 ```bash
-npx eas build --platform ios
-npx eas build --platform android
+npx expo start --tunnel
 ```
+Open **Expo Go** on Android or your native **Camera App** on iOS and scan the QR code printed in the terminal.
 
-## Design parity
+---
 
-Every component here matches an artboard in `Essi - All Screens.html`. If you tweak a screen, edit both — or treat the HTML canvas as the design source of truth and propagate to React Native.
+## 📈 ML-SRS & Spaced Repetition Logic
 
-The visual tokens (`lib/colors.ts`, `lib/fonts.ts`) match the canvas's `components/tokens.jsx` 1:1.
+All user acquisition progress is calculated using the **SuperMemo-2 (SM-2)** algorithm adapted for morphology layers:
+1. Every time a user answers an exercise, `recordAnswer()` registers a `progress_event` in PostgreSQL.
+2. The trigger `trg_update_srs_on_answer` automatically runs, updating the specific morphologic and lexical decay vectors.
+3. If a user repeatedly fails a specific grammar rule (confusion threshold $\ge 3$), the system flags the rule and injects **contrastive exercises** during practice.
+4. `generate_review_session` returns a tailored, adaptive review queue prioritizing items with the lowest recall probability.
 
-## Linguistic authority
+---
 
-This codebase ships with verified Mattokki vocabulary from:
-- Abdel-Hafiz (1988/2024) — _A Reference Grammar of Kunuz Nubian_
-- Massenbach (1933) — _Wörterbuch des nubischen Kunûzi-Dialektes_
-- Armbruster (1965) — _Dongolese Nubian: A Lexicon_
+## 🗃️ Verified Academic Sources
 
-See `data/lexicon.ts` for per-item source attribution.
+Every lexical entry, grammatical suffix, and phonetic transcription in Essi is peer-reviewed and mapped to its exact source citation:
+* **Abdel-Hafiz (1988/2024)**: *A Reference Grammar of Kunuz Nubian*
+* **Massenbach (1933)**: *Wörterbuch des nubischen Kunûzi-Dialektes*
+* **Armbruster (1965)**: *Dongolese Nubian: A Lexicon*
 
-## The promise
+*Data integrity matters. The Mattokki language belongs to the Nubian community; Essi is a steward, not an owner.*
 
-Learning content is **free forever**. No paywall. No ads. No data sales. The Mattokki language belongs to the Nubian community; Essi is a steward, not an owner. All language data is CC BY-NC-SA.
+---
 
-— with love, for the Nubian people 🪔
+## 🪔 Milestone Progress (Phases 0–5 Completed)
+
+- [x] **Phase 0 — Foundations**: Schema deployed, Sentry/PostHog integration, EAS configure.
+- [x] **Phase 1 — Auth & Shell**: Email Auth, session guards, settings screen, volume controls.
+- [x] **Phase 2 — Lesson Engine**: Audio, SOV draggable blocks, Morpheme Snap, Tooltips.
+- [x] **Phase 3 — ML-SRS Engine**: Server-side triggers, metrics, and adaptive practice queue.
+- [x] **Phase 4 — Content Loading**: 12 complete lessons (96 exercises) with native voice recordings.
+- [x] **Phase 5 — Onboarding**: 8 complete screens, Gulla SVG vessel goals, motivation tracking.
+
+---
+*Created with love, for the preservation of the Nubian language heritage.*
