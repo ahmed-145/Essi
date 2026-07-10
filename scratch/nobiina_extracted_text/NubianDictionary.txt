@@ -1,0 +1,2005 @@
+﻿ⲁⲁⲃ,fish,يصطاد السمك بالشبكة
+ⲁⲁⲃⲓⲣ,surround,يحيط  ، يجلِّد
+ⲁⲁⲃⲟⲟ,float,ينبسط أو يعوم فوق السائل
+ⲁⲁⲅ,sit - stay - continue,يجلس ، بادئة للاستمرارية
+ⲁⲁⲇ,fragrance - tool handle,خلطة من الروائح  ، يد الآلة
+ⲁⲁⲇⲇⲓ,hyenas,الضبع
+ⲁⲁⲇⲉⲙ,human,الإنسان  ، بنى آدم
+ⲁⲁⲗⲉⲉ,grass,نجيل  ، حشائش
+ⲁⲁⲛⳝⲓ,living,الحياة
+ⲁⲁⲣ,plant creeping,يفترش النبات على الأرض
+ⲁⲁⲣⲧⲓ,island,جزيرة
+ⲁⲁⲣⲧⲓⲅⲁⲁϣⲁ,Artgasha (a village in Dungula),آرت قاشا (  قرية فى دنقلة)
+ⲁⲁⲥ,measure - instigation - gossib,يقيس - فتنة  ، نميمة
+ⲁⲁⲥ,obituary - mourning,خبر وفاة  ، نعى
+ⲁⲁⲥⲕⲁⲁⲅⲁⲧⲧⲓ,instigator - gossiber,فتان  ، نمام
+ⲁⲁⲧⲉⲉ,wall shadow,ظل الجدار
+ⲁⲁⲫⲓ̈ⲁ,Afia - a village in Nasr el Nuba,عافية ( قرية فى نصر النوبة)
+ⲁⲁⲫⲓ̈ⲁⲗⲟⲅⲟ,good bye,مع السلامة ، بالعافية
+ⲁⲁⲱ = ⲁⲁⲓ̈,do ,يعمل ، يفعل ، يصنع
+ⲁⲁⲱⲓⲣ,deliver,يذهب بالشئ
+ⲁⲁⲱⲱⲉ,no,لا ( عكس نعم)
+ⲁⲁϭϭⲓ,bran, نخالة ، ردَّة
+ⲁⲁⳡ,live,يحيى ، يعيش
+ⲁⲃⲁ,I wonder,هل يا ترى
+ⲁⲃⲁⲁ,bride stuff given by the groom,لوازم العروسة التى يقدمها العريس
+ⲁⲃⲁⲁⲅ,back,وراء ، خلف
+ⲁⲃⲁⲁⲇⲟⲅⲉⲉ,collared dove,اليمامة المطوقة
+ⲁⲃⲁⲁⲓ̈ⲓⲣ,boat rope,حبل ( من أدوات المركب)
+ⲁⲃⲁⲁⲕ,inheritance,إرث ، ميراث ، تركة
+ⲁⲃⲁⲁⲣ,spin - get dizzy, يدور ، يلف ، يدوخ
+ⲁⲃⲁⲇ,publican plant - becomes longer,العشار ، نبات صحراوى - يطول
+ⲁⲃⲁⲕⲕ,peel,يتقشر الحائط
+ⲁⲃⲁⲗⲁⲁⳡ,monkey,نسناس ، قرد
+ⲁⲃⲁⲗⲗ,accelerate,يسرع ، يعجِّل
+ⲁⲃⲁⲣⲉⲉ,frond - cane,جريد ، سعف ، عكاز
+ⲁⲃⲃ,fill,يملأ
+ⲁⲃⲃⲁⲁⲣ,measuring tool,أداة قياس
+ⲁⲃⲃⲁⲛⲇⲟⲅⲉⲉ,turtle dove,القمرى المهاجر ( طير)
+ⲁⲃⲃⲓⲣ,measure,يقيس
+ⲁⲃⲇⲓⲅⲉⲉⲣ,cobras,ثعبان الكوبرا
+ⲁⲃⲓⲛⲧ,thin,رقيق ( عكس سميك)
+ⲁⲃⲟⲟ,my father,أبى - والدى
+ⲁⲃⲟⲩϩⲁⲛⲇⲁⲗ,Abu Handal (a village in Nasr el Nuba),أبوحنضل ( قرية فى نصر النوبة)
+ⲁⲃⲟⲩϩⲟⲟⲣ,Abu Hor (a village in Nasr el Nuba),أبوهور ( قرية فى نصر النوبة)
+ⲁⲃⲟⲩⲣⲣⲉⲉ,Senna (plant),سَنَا ، نبات صحراوى
+ⲁⲃⲟⲩⲥⲁⲁⲣⲓⲓ,Abu Sari (a village in Mahas),أبوسارى ( قرية فى منطقة المحس)
+ⲁⲃⲟⲩⲥⲓⲙⲃⲓⲗ,Abu Simbel (a village in Nasr el Nuba),أبوسمبل ( قرية فى نصر النوبة)
+ⲁⲃⲟⲩⲥⲓⲙⲃⲓⲗ,Abu Simbel (name of the two temples of Ramsis II),أبوسمبل ( إسم معبدى رمسيس الثانى)
+ⲁⲃⲣⲁⲁⲅⲁ,Abraka (a village in Sekot),أبراقه ( قرية فى متطقة السكوت)
+ⲁⲃⲣⲉⲉ,thin layers of bread made of corn,خبز رقيق من الذرة  لمشروب الأبريه
+ⲁⲃⲣⲓ,Abri ( a town in Sekot),عبرى ( مدينة فى منطقة السكوت)
+ⲁⲃⲣⲓⲓⲙ,Abrim (a village in Nasr el Nuba),أبريم ( قرية فى نصر النوبة)
+ⲁⲃⲧⲁⲣⲃⲟⲩⲟⲩϣ,Abu Tarbush (a village in Mahas),أبوتربوش ( قرية فى منطقة المحس)
+ⲁⲅ,mouth,فم ، ثغر ، باب ، حد ، لغة
+ⲁⲅⲁⲅ,Stuttering,تمتام ، لا يفهم كلامه
+ⲁⲅⲁⲣ,place,محل ، مكان
+ⲁⲅⲉⲉ,reed,بوص ، عيدان الذرة
+ⲁⲅⲓⲣⲓ,Akiri (a village in Mahas),أقِرى ( قرية فى منطقة المحس)
+ⲁⲅⲗ,hinder,يعطل ، يعرقل
+ⲁⲅⲗⲁⳡ,Salema porgy,شِلبة ( سمك نيلى)
+ⲁⲅⲗⲟ,a wooden part of waterwheels,جِلّة ( خشبة توضع تحت القادوس)
+ⲁⲅⲙ,ruminate,يجتر
+ⲁⲅⲙⲁ,a row of sections in a cultivated basin,صف من الأحواض الزراعية
+ⲁⲅⲙⲁⳝ,lisping,ألثغ ( معوج اللسان)
+ⲁⲅⲟ,mother-in-law,حما ، حماة ، نسيب ، نسيبة
+ⲁⲅⲟⲟⲣ,forget,ينسى
+ⲁⲅⲟⲩⲛⲇⲉⲉ,lupine,تِرمِس ( من البقوليات)
+ⲁⲅⲟⲩⲛⲇⲉⲉⲛⲁ,gundaila - a Nubian date fruit,جنديلة ( بلح نوبى)
+ⲁⲅⲟⲩⲟⲩⲇ,alone,وحيد
+ⲁⲅⲟⲩⲟⲩⲗⲁ,Akola (a village in Mahas),أقولا ( قرية فى منطقة المحس)
+ⲁⲅⲣⲉⲉ,reputation,سٌمْعة ، صوت
+ⲁⲅⲣⲉⲥ ,bad luck,حظ عاثر
+ⲁⲅⲣⲉⲥⲅⲁⲧⲧⲓ,lucky,محظوظ ، بخيت ، ميمون الطالع
+ⲁⲅⳝ,breastfeed,يرضع
+ⲁⲇⲓ,there it is,ها هو
+ⲁⲇⲓⲙ,pollen of date-fruit tree,الطلع ، لقاح النخلة
+ⲁⲇⲓⲛⲇⲁⲁⲛ,Adindan (a village in Nasr el Nuba),أدندان ( قرية فى نصر النوبة)
+ⲁⲇⲱ,startle,يفزع ، يخاف ، يذعر
+ⲁⲓ̈,I,أنا
+ⲁⲓ̈ⲛⲓ - ⲁⲓ̈ⲛⲓⲗⲓⲛⲛⲁ,mine - possessive pronoun,لى ، ملكى ، ضمير المتكلم المفرد
+ⲁⲓ̈ⲃ,admire,يعجب ب  ، يروق له
+ⲁⲓ̈ⲉⲅ,chap,تشقق الجلد من قلة الرطوبة
+ⲁⲓ̈ⲓⲗ,heart,قلب ، مهجة ، نفس
+ⲁⲕⲁϣ,earring,قرط للأذن
+ⲁⲕⲕ,wean,يفطم ( الطفل)
+ⲁⲕⲕⲟⳡ,castor,الخروع
+ⲁⲗⲁⲅ,similar,شبه ، نظير ، مثال ، زهاء
+ⲁⲗⲁⲇ,small axe,قدوم
+ⲁⲗⲁⲇⲉⲉ,raceme,شمراخ ( فرع من العنقود)
+ⲁⲗⲁⲥ,a thick rope used in waterwheels,حبل غليظ يحمل قواديس الساقية
+ⲁⲗⲁⲱ - ⲁⲗⲁⲓ̈,retrieve from water, ينتشل الشىء من الماء ( يخرجه)
+ⲁⲗⲅ,resemble,يشابه ، يماثل
+ⲁⲗⲉⲉ,truth,صدق ، حق ، حقيقة
+ⲁⲗⲓⲅⲟⲩⳡⳡⲓⲓ,stars in the sky,نجوم فى السماء
+ⲁⲗⲓⲫⲉⲗⲉⲇ,lightning,برق
+ⲁⲗⲗⲁⲁⲅⲓⲓ,Allaqi (a village in Nasr el Nuba),علاقى ( قرية فى نصر النوبة)
+ⲁⲗⲗⲓ,rope,حبل
+ⲁⲗⲗⲓⲛⲅ,pair, يقترن
+ⲁⲗⲙ,wither,يذبل ،  يذوى ، ينكمش
+ⲁⲙⲁⲛ,water,ماء
+ⲁⲙⲁⲛⲅⲁⲁⲣ,shore,شاطئ
+ⲁⲙⲁⲛⲙⲓⲣ,hallucinate,يهذى
+ⲁⲙⲁⲛⲛⲟⲩⲣⲟⲩⲟⲩ,low salt food,طعام ماسخ (  قليل الملح)
+ⲁⲙⲁⲛⲧⲓⲣ,show - guide - revenge,يٌرِى ، يوجه ، ينتقم
+ⲁⲙⲃⲁⲣⲧⲓ,sweet rush plant,الحلفاء ( نبات صحراوى)
+ⲁⲙⲃⲓ,doum fruit,الدوم ( شجر وثمر)
+ⲁⲙⲃⲓⲕⲟⲟⲗ,Ambikol, أمبكول ( قرية فى منطقة السكوت)
+ⲁⲙⲃⲟⲣ,rain,المطر
+ⲁⲙⲇ,guide,يرشد
+ⲁⲙⲥⲓⲣ,claim,يدعى
+ⲁⲛ,thrive,يزدهر
+ⲁⲛ,prefix for possessive pronoun,بادئة صيغة الملكية لضمير المتكلم
+ⲁⲛⲅⲉⲗⲉⲥ,angels,ملائكة
+ⲁⲛⲅⲓ,barn,حظيرة
+ⲁⲛⲅⲓ,garden,حديقة ، بستان
+ⲁⲛⲓⲓ̈ⲁⲁⲛ,deliberately,متعمداً
+ⲁⲛⲓⲓⲃⲉ,Enaiba - a village in Nasr el Nuba,عنيبة ( قرية فى نصر النوبة)
+ⲁⲛⲧⲁⲣⲉⲉ,swelling in the thigh,الحيل ، ورم تحت الجلد فى الفخذ
+ⲁⲛⲧⲟⲟⲛ - ⲟⲓ̈ⲓ̈̈ⲉⲉ,algae,طحلب
+ⲁⲣⲁⲁⲣⲉⲉ,a creeping plant, نبات يفرش على الأرض
+ⲁⲣⲁϣⲉⲉ,mill,الطاحون ، الرحى
+ⲁⲣⲁⲁⲃ,Arab,عرب  ، أعرابى
+ⲁⲣⲁⲃ - ϩⲁⲁⳝ,Arab-haj (a village in Dungula),أراب حاج ( قرية فى دنقلة)
+ⲁⲣⲁⲅ,dance,يرقص
+ⲁⲣⲁⲅⲓⲇ,dancing,رقص
+ⲁⲣⲁⲓ̈,fertilize,يسمد النبات
+ⲁⲣⲁⲕⲟⲗⲗⲉⲉ,poisoning,تسمم
+ⲁⲣⲁⲙ - ϩⲁⲣⲁⲙ,sky,سماء
+ⲁⲣⲅⲁⲁⲛⲁ,loss - unknown,الضياع ( فى داهية) ، مجهول
+ⲁⲣⲅⲁⲇⲉⲉ,gear of water wheel,ترس الساقية
+ⲁⲣⲅⲓⲓⲛ,Argin (a village in Dungula),أرقين ( قرية فى منطقة حلفا)
+ⲁⲣⲅⲟ,Argo (a village in Dungula),أرقو ( قرية فى دنقلة)
+ⲁⲣⲓⲫⲫ,fold,يثنى ، يطوى
+ⲁⲣⲓⳝ,meat,لحم ، عضل
+ⲁⲣⲕ,throw,يرمى
+ⲁⲣⲕⲓ,mud,طين
+ⲁⲣⲕⲓϣ,desease of date palm,مرض يصيب النخلة
+ⲁⲣⲙⲁⲇⲉⲉ,bridle,كمامة للدواب ، لجام
+ⲁⲣⲟ,the number 20,عشرون  ( ٢٠ ) 
+ⲁⲣⲣ,get angry,يغضب ، يستاء
+ⲁⲣⲣ,bring,يحضر ، يجئ بالشئ
+ⲁⲣⲣⲉⲉ,large  wicker container,طبق كبير من الخوص
+ⲁⲣⲣⲓ,water current,تيار الماء
+ⲁⲣⲣⲓ,waterfall ,شلال ، جندل
+ⲁⲣⲣⲟⲩⲟⲩ,a branch of Date fruit bunch,عود سباطة للنخلة
+ⲁⲣⲣⲟⲩⲟⲩ'ⲛ ⲫⲉⲗⲉ,lightning,برق
+ⲁⲣⲱⲓⳝ,wail,يرثى ، ينوح
+ⲁⲣⳝ,boil,يسلق
+ⲁⲣⳝⲁⲣⲉⲉ,arrow,سهم ، نبل
+ⲁⲣⳝⲉⲉ,boiled grains,بليلة
+ⲁⲣⳡ,sneeze,يعطس
+ⲁⲣⳡⲁⲧⲧⲁ,a village in sekot,قرية فى منطقة السكوت
+ⲁⲣⳡⲟⲩⲟⲩⲇ,without a beard,أمرد
+ⲁⲥⲥ,daughter,ابنة
+ⲁⲥⲉⲇ,dry grain stalks,عيدان القمح الجافة
+ⲁⲥⲕⲁⲧⲧ,itchy,يشعر بحكة
+ⲁⲥⲕⲟⲩⲣ,wine strainer,مصفاة للخمر
+ⲁⲥⲕⲟⲩⲣⲉⲉ,vomitting,قيئ
+ⲁⲥⲗ,fry - grill,يحمص ، يحمر ، يشوى
+ⲁⲥⲗⲁⲁⲇ,fried - grilled,محمص ، محمر ، مشوى
+ⲁⲥⲥⲁⲣ,child,طفل ، صبى
+ⲁⲥⲥⲓ,grand son or daughter,حفيد ، نسل ، ذرية
+ⲁⲥⲥⲓⲃⲉⲉ,bowl made of dry pumpkin,وعاء من القرع للبن
+ⲁⲥⲱⲁⲁⲛ,Aswan - governorate in Egypt,أسوان (  محافظة مصرية)
+ⲁⲧⲧ,carve a tattoo,يدق الوشم
+ⲁⲧⲧ = ⲇⲟⲣⲕ = ⲕⲁⲁⲃ,knead,يعجن الدقيق
+ⲁⲧⲧⲁⲃ,Attab - village in Sekot,أتب ( قرية فى منطقة السكوت)
+ⲁⲧⲧⲁⲕⲕⲁ,here it is,ها هو
+ⲁⲧⲧⲓ,rope - part of waterwheel,حبل فى عجلة القواديس
+ⲁⲧⲧⲓⲓⲣⲓ,Atiri - village in Halfa,أتيرى ( قرية فى منطقة حلفا)
+ⲁⲫⲉϣ,Crawling insects,دواب الأرص ( حشرات الأرض) ، هوام
+ⲁⲫⲫ,grab - snatch,يلقف ( يتلقى شيئا من الهواء بيده)
+ⲁⲫⲫⲁⲇ,highland,مكان مرتفع بين الأحواض
+ⲁⲫⲫⲓⲥⲓⲣ,compel,يطغى ، يعتو ، يجاوز الحد
+ⲁⲫⲫⲟ,astonishment,عجباً
+ⲁⲱⲁⲣ,evening - night,مساء ، ليل
+ⲁⲱⲓⲣ,wing ,جناح طائر ، غصن ، فرع شجرة
+ⲁⲱⲱⲓ = ⲁⲙⲃⲟⲣ,rain,مطر ، غيث
+ⲁⲱⲱⲓ ,kinship,صلة الرحم
+ⲁⲱⲱⲓⲣ = ⲁⲓ̈ⲓ̈ⲓⲣ,lay,يفرش  ، يبسط الشئ
+ⲁⲱⲱⲟ,inside,فى الداخل ( عكس فى الخارج)
+ⲁϣϣ,heal,يلتئم الجرح ، يزول الورم ، يفش
+ⲁϣϣⲓ,placenta,المشيمة ، الخلاص
+ⲁϣⲁⲣ,Nile Monitor,ورل النيل ( حيوان مائى)
+ⲁϣⲃⲁⲣⲁⲁⲇ,harsh,خشن
+ⲁϣⲃⲁⲣⲟⲟ,palm stump,كرنف النخلة
+ⲁϣⲕⲁⲁⲛ,Ashkan (a village in Dungula),اشكان ( قرية فى دنقلة)
+ⲁϣⲕⲟⲛⲇⲓ,swelling in the thigh,الحيل ، ورم تحت الجلد فى الفخذ
+ⲁϣⲙⲁⲁⲛ,loofah from palm tree,لوف النخل
+ⲁϣⲣⲓⲓ,beautiful - good - nice,جميل ، طيب ، حسن
+ⲁⳝⲁⲁⳝ,noise,ضوضاء
+ⲁⳝⲁⲱ,sweet,حلو ، عذب
+ⲁⳝⲗⲟⲩⲟⲩⲇ,without a beard,أمرد
+ⲁⳝⲟⲗ,a wooden bowl for fragrance,وعاء من الخشب للعطور
+ⲁⳝⲱ,braid,يضفر ( الشعر)
+ⲁϭϭ,bite,يعض ، يلسع
+ⲁϭϭⲁ,brother in law,أخو الزوج
+ⲁⳝⳝⲓⲣ,get cold - freeze,يبرد ، يتجمد
+ⲁⳝⳝⲓⲣ,coldness - Winter season,برودة ، فصل الشتاء
+ⲁⳝⳝⲓⲥⲕ,get lazy,يكسل
+ⲁⳟⲓⲥⲥⲓ,fish,سمك
+ⲁⳟⲓⲥⲥⲓⲣ,sharpen,يشحذ ، يسن ( السكين)
+ⲁⳟⲓⲥⲥⲓⲣⲉⲉ,a Nubian drink made of germinated sorghum seeds,مشروب نوبى  يحضَّر من الذرة المنبتة
+ⲁⳟⳟⲁⲣⲉⲉ,bed made of palm leaves,سرير من جريد النخل
+ⲁⳟⳟⲓ,wish - anticipate,يأمل ، يتوقع
+ⲁⳡⲁⲱⲓⲓⲇ,a thin bread made of wheat,خبز رقيق يحضر من القمح
+ⲁⳡⲁⳡⲓⲓⲥ,algae,طحلب مائى ( نبات يعلو فوق الماء)
+ⲁⳡⳡ,aunt,عمة ( أخت الأب)
+ⲁⳡⳡⲁⲁⲕⲓⲛ,on purpose, عن قصد ، عن سابق نية
+ⲃⲁⲁⲇ,pick plant to lower its density,يقتلع بعضا من الزرع لتخفيفه
+ⲃⲁⲁⲇ,cut - tear,يقطع - يمزق
+ⲃⲁⲁⲓ̈,go away,يبتعد ، ينأى ، ينفر
+ⲃⲁⲁⲓ̈ⲣⲁ,large wooden hammar,مرزبة ، مطرقة كبيرة من الخشب
+ⲃⲁⲁⲓ̈ⲧⲁ,large clay pottery,معجنة كبيرة من الفخار
+ⲃⲁⲁⲛⲅⲓ = ⲃⲁⲁⳟⲓ,cracked ground,أرض مشققة
+ⲃⲁⲁⲣ,scratch - cut - wound,يخدش الجلد ، يجرح ، يقطع
+ⲃⲁⲁⲣ,cut apart,يقطع ، يستقطع
+ⲃⲁⲁⲣⲇ,private,خاص ، لا شريك فيه
+ⲃⲁⲁⲥ,emerge - appear -   start,يستجد ، يحدث ، يظهر لأول مرة
+ⲃⲁⲁⲥⲁⲁⲛ,colored mat,حصير بألوان طولية
+ⲃⲁⲁⲥⲕⲓⲣ,invent - discover,يبتكر ، يخترع
+ⲃⲁⲁⲥⲕⲓⲣⲓⲧⲧⲓ,news - information,خبر ، معلومة
+ⲃⲁⲁⲱ,walking stick - cane,جريد ، عكاز
+ⲃⲁⲁϣ,split,ينشق ، ينفلق ، يقطع ، يفصل
+ⲃⲁⲁϣⲕⲁ,strange,غريب ، مدهش
+ⲃⲁⲁⳟ,crack,يتشقق
+ⲃⲁⲇⲁⲣ,crushing,يسحق الشئ برجله ، يدوس
+ⲃⲁⲇⲃⲁⲇ,destroy,يفتت ، يحطم ، يكسر
+ⲃⲁϭϭ,Squash,يدوس ، يفلطح ، يحطم
+ⲃⲁⲅⲁⲁϣ,branch out - spread legs out,يتشعب ، يتفرع ، يفرشخ رجليه
+ⲃⲁⲅⲁⲗⲗ,sway walk,يتأرجح فى مشيه
+ⲃⲁⲅⲁⲛⲅⲓ,crack in the ground,شق فى الأرض
+ⲃⲁⲅⲓⲇ,some,بعض
+ⲃⲁⲅⲟⲩⲟⲩⲅ,type of grass,نوع من النجيل
+ⲃⲁⲇⲁⲣ,crush,يسحق
+ⲃⲁⲇⲓⲓⲛ,Badin ( a village in Dungula),بدين ( قرية فى دنقلة)
+ⲃⲁⲕⲕ,split - decompose,ينشق ، ينفلق ، يتحلل
+ⲃⲁⲗⲗⲁⲛⲉ,Ballaneh,بلانة ( قرية فى نصر النوبة)
+ⲃⲁⲗⲉⲉ,wedding,عرس ، فرح ، زواج
+ⲃⲁⲗⲃⲁⲗ,boil in oil,يغلى فى الزيت
+ⲃⲁⲙⲃⲁⲣ,wooden chair,كرسى خشبى
+ⲃⲁⲣⲁⲥ,Saddle leather,فرش جلدى لفوق سرج الدابة
+ⲃⲁⲣⲅ,mottle,يتبقع
+ⲃⲁⲣⲇⲁⲕⲕ,run wild,يعربد ، يجرى عشوائيا
+ⲃⲁⲣⲓⲅ ⲃⲁⲣⲅⲁ,speckled,مبقع ، كثير اليقع
+ⲃⲁⲣⲓⲥⲕ,vomit,يتقيأ
+ⲃⲁⲣⲥ,crush,يدوس بقدمه ، يسحق ، يدهس
+ⲃⲁⲣⲥⲁⲁⲇ,crushed,مسحوق
+ⲃⲁⲣⲥⲓ,twins,توأم
+ⲃⲁⲣⲧⲓϣ,wear out,يهترى ، يتمزق
+ⲃⲁⲣⲧⲟⲩⲟⲩϣ,old worn out shoe - worthless person,حذاء قديم ، شخص لا قيمة له
+ⲃⲁⲥ ,fruit pit,نواة البلح ، نواة الثمرة
+ⲃⲁⲥⲁⲗⲗⲁⲁⲇ,few - small,قليل ، زهيد
+ⲃⲁⲥⲓⲓⲣ,carpenter,نجار
+ⲃⲁⲥⲕⲁⲗ,tongs,ملقاط
+ⲃⲁⲥⲗⲁⲁⳝ,Baslaj (village in Dungula),بسلاج ( قرية فى دنقلة)
+ⲃⲁⲧⲁⲣ,play,يلعب ، يلهو ، يعبث ، يغازل
+ⲃⲁⲧⲓ̈,shoot and kill a bird,يقتل الطائر بقذيفة
+ⲃⲁⲧⲧ,dig - plow,يحفر ، يحرث ، يعزق
+ⲃⲁⲧⲧⲁⳝⲓ,chewable tobacco,تبغ للمضغ
+ⲃⲁⳝ,damp,يرشح ، ينز
+ⲃⲁⳟ,diverge,يبتعد ، ينفصل عن المجموعة
+ⲃⲁⳟⳟⲓ,marriajeable girl,فتاة شابة
+ⲃⲁⳡⳡ,talk - speak,يتحدث ، يتكلم ، يقول
+ⲃⲉⲉⲇ,stare,يبحلق ، يفتح عينيه
+ⲃⲉⲉⲗⲓⲕ,large ship,سفينة كبيرة
+ⲃⲉⲉⲣ = ⲃⲉⲉⲱ,harm,يضر ، يؤذى ، يهلك
+ⲃⲉⲉⲣⲁⲕⲕ,banner - flag,شعار ، علم
+ⲃⲉⲉⲥ,comb,يسرح ، يمشط الشعر
+ⲃⲉⲉⲱ = ⲫⲉⲉⲱ = ⲃⲉⲉⲓ̈,untie - release,يفك ، يحل
+ⲃⲉⲉⳟ,bleat (sheep),تثغو النعجة
+ⲃⲉⲉⳡ,small water container,دلو صغير
+ⲃⲉⲉⳡ,remove hair,ينتف ، يزيل الشعر من الجلد ، يحلق
+ⲃⲉⲓ̈ⲓ̈,bleat (goat),يثغو العنز
+ⲃⲉⲓ̈ⲓ̈ⲉⲉ,wearable from leather strips,ملبس من سيور الجلد ، سروال
+ⲃⲉⲓ̈ⲓ̈ⲉⲉ,neck ornament,حلية للعنق
+ⲃⲉⲕⲕ,open,يفتح
+ⲃⲉⲗⲕⲓⲛ,perhaps,ربما  ، يمكن
+ⲃⲉⲗⲗ,quarrel - curse,يتشاجر ، ينهر ، يشتم ، يلوم
+ⲃⲉⲗⲗⲁⲁⲗ,bridegroom,عريس ، سعيد
+ⲃⲉⲗⲗⲁⲁⳝ,naughty girl,فتاة دلوعة
+ⲃⲉⲗⲗⲓⳝ,act naughty,تتدلل ( الفتاة)
+ⲃⲉⲗⲧⲁⲁⲱ,earring,قرط للأذن
+ⲃⲉⲛⲁⲁⲧⲓ,veil,طرحة ، غطاء رأس
+ⲃⲉⲛⲇⲉⲉⲣⲁ,flag -banner,علم ، راية
+ⲃⲉⲛⲧ,colorizing of ripening date fruit,يتلون البلح فى مرحلة البسر
+ⲃⲉⲥ,sibling,أخت ، أخ
+ⲃⲉⲧⲓ̈ = ⲟⲩⲅⲣ,commance,يبدأ ، يؤسس
+ⲃⲉϣϣ,regret,يخجل ، يتراجع ، يندم
+ⲃⲓⲅⲇ,trap,يفخخ ، ينصب الشرك
+ⲃⲓⲅⲓⲇ,trap,فخ ، مصيدة
+ⲃⲓⲇⲉⲉ,spear - hook, رمح ، حربة ، خطاف
+ⲃⲓⲓⲣ,type of bracelet,نوع من الأسورة
+ⲃⲓⲛⲇⲓ,canine tooth,ناب ( من الأسنان)
+ⲃⲓⲛⲛⲁⲁ,Binna (village in Dungula),بنا ( قرية فى دنقلة)
+ⲃⲓⲣⲃⲉⲉ,antiquities site,موقع أثرى
+ⲃⲣⲓⲕⲕ,blink,يرمش بسرعة
+ⲃⲓⲣⲓⲛⲅ,peek from side to side,تلفت ، ينظر يمينا ويسارا بسرعة
+ⲃⲓⲣⲓⲥ,bad - evil,سييء ، شرير
+ⲃⲓⲣⲓϣ,wicker mat,حصيرة من الخوص
+ⲃⲓⲣⲧ,smash - break,يفتت ، يحطم ، يكسر ، يقطع
+ⲃⲓⲥⲗⲁⲛⲅⲓ,snake,أفعى ، ثعبان ، حية
+ⲃⲓⲧⲁⲁⲛ,boy,ولد ، صبى ، فتى
+ⲃⲓⲧⲧ,erect,يقوم ، يبرز ، ينتصب الشيء
+ⲃⲓⲧⲧ,pick up - collect,يلتقط من الأرض ، يجمع
+ⲃⲓϣⲕ,belittle,يستخف ، يقلل من شأن
+ⲃⲓϣϣ,extract,يقلع ، ينزع ، يستأصل ، ينتف
+ⲃⲓϣϣⲁⲕⲕ,feel shy,يخجل ، يستحى من
+ⲃⲓϭϭⲉⲉ,corn husk,قشر حب الذرة
+ⲃⲓⳝⳝⲁⳟ,shallow utensil,إناء سطحى غير عميق
+ⲃⲟⲃⲟⲗ,dangle,يتدلى
+ⲃⲟⲅⲟⲇ,treat,يسعف ، يعالج
+ⲃⲟⲅⲟⳝ,sway walk,يتأرجح فى مشيه
+ⲃⲟⲕⲟⲟⲕⲁ,backward,متخلف ، بليد ، متأخر
+ⲃⲟⲗⲟϣ,tramp,صعلوك
+ⲃⲟⲗⲟϣϣ,become flaccid,يرتخى
+ⲃⲟⲛⲇⲓ,side,جانب ، جنب
+ⲃⲟⲟⲃ,boy - youth,شاب ، فتى ، يافع ، مراهق
+ⲃⲟⲟⲇⲓⲣⲉⲉ,youth - teenager,شاب ، مراهق ، ناشئ
+ⲃⲟⲟⲕⲕⲓ,tobacco,تبغ
+ⲃⲟⲟⲛⲅ - ⲃⲟⲟⳟ,bellow (the bull),يخور الثور
+ⲃⲉⲣⲧⲟⲟⲇ,clove,قرنفل
+ⲃⲟⲣⳡ,reveal,يكشف عن الشئ ، يفتحه
+ⲃⲟⲫⲫⲁ,arrogant,متكبر ، متعجرف
+ⲃⲟⲱⲱ,hollow,أجوف ، فراغ البطن
+ⲃⲟⲱⲱⲓ,space,فراغ ، فضاء
+ⲃⲟϩⲗⲟⲅ,stupid,بليد ، عبيط
+ⲃⲟϩⲟⲅ,weevils incested date fruit,بلح مسوس على النخلة
+ⲃⲟⳝ ,bubble,يطرقع ، يضطرب من الغليان
+ⲃⲟⳝⲟⲟ,feast,مائدة ، وعاء كبير به طعام
+ⲃⲟϭϭⲓ,pumpkin porridge,عصيدة من قرع العسل
+ⲃⲟⲩϣϣⲓ,type of fish,نوع من السمك
+ⲃⲟⲩⲅⲇⲟ,pottery maker,صانع الفخار
+ⲃⲟⲩⲇⲃⲟⲩⲇ,dismantle,يفكك
+ⲃⲟⲩⲇⲇⲓ,refined - powder -  flour,ناعم  ، الدقيق
+ⲃⲟⲩⲇⲉⲉ,hot sand,الساخن من الرمل أو الرماد
+ⲃⲟⲩⲇⲟⲩⲣⲧⲓ,joint,مفصل
+ⲃⲟⲩⲕⲕⲁ,bread slice,قرص من الخبز
+ⲃⲟⲩⲕⲕⲟⲩⲗ,lamp -   lantern,مصباح
+ⲃⲟⲩⲗⲗⲓ,water sack from heavy cloth,دلو من القماش الثقيل يحمل فيه الماء
+ⲃⲟⲩⲗⲗⲟⲩⲟⲩ,lobby - corridor,بهو ، ردهة ، صالة ، ممر
+ⲃⲟⲩⲛⲛⲁⲁⲣⲧⲓ,Bunarty (village in Dungula),بن نارت ( قرية فى دنقلة)
+ⲃⲟⲩⲛⳝⲁ,hand grip,قبضة اليد
+ⲃⲟⲩⲟⲩⲇ,shallow,ضحل
+ⲃⲟⲩⲟⲩⲇ,vacant land - desert,أرض فضاء ، خلاء ، صحراء
+ⲃⲟⲩⲟⲩⲣ,type of insects,نوع من الحشرات
+ⲃⲟⲩⲣⲁⲁⲙ,yellow,أصفر ( لون)
+ⲃⲟⲩⲣⲃⲟⲩⲟⲩⲣ,hot sand,تراب أو رماد ساخن
+ⲃⲟⲩⲣⲇⲟⲩⲟⲩⲅ,pretends to be strong,يتظاهر بالقوة ، يدعى التفوق
+ⲃⲟⲩⲟⲩⲇ,flat plain - vacant place - shallow,مكان فارغ خالى ، سهل منبسط ، ضحل
+ⲃⲟⲩⲣⲟⲩⲕⲕⲓ,mouse - rat,فأر
+ⲃⲟⲩⲣⲟⲩⲟⲩ,girl,بنت ، فتاة
+ⲃⲟⲩⲣϣ,wicker mat,حصيرة من الخوص
+ⲃⲟⲩⲧⲧ,coeval,مماثل فى السن
+ⲃⲟⲩⲧⲧⲟⲩⲟⲩ,regrown leaf from plant stem,ما ينبت من بقايا سيقان الزرع
+ⲁⲃⲥⲁⲁⲗ,mediator,وسيط
+ⲁⲙⲣⲉⲉⲥ = ⲧⲓⲙⲁⲛⲉⲉ,satan,الشيطان
+ⲁⲣⲙⲟ̄ⲥ,rainbow,قوس قزح
+ⲁⲧⲣ,stumble,يتعثر  ، ينزلق 
+ⲁⲫⲟⲩⲧⲧⲁ,sorry,آسف
+ⲁⳝⲁ,problem - issue,مشكلة
+ⲅⲁ,son,ابن ، نجل
+ⲅⲁⲁϣ,be arrogant,يختال  ، يتبختر  ، يتكبر  ، يعجب بنفسه
+ⲅⲁⲁⲓ̈,mind stray,يذهل  ، يسرح أو يشرد بذهنه
+ⲅⲁⲁⲗⲟ = ⲅⲟⲩⲧⲧⲓ = ⲫⲟⲩⲕⲕⲉⲉ,pottery pot for water,زير مياه
+ⲅⲁⲁⲛⳝ,yawn,يتثاءب
+ⲅⲁⲁⲛⳝ = ⲅⲁⲕⲕ,crack,ينشق  ، يتصدع 
+ⲅⲁⲁⲣ,shore,شاطئ  ، جانب الشئ
+ⲅⲁⲁⲣ = ⲕⲁⲛⲇ,kuddle - encircle,يحتضن  ، يلف أو يحزم الشئ
+ⲅⲁⲁⲱⲟⲩⲟⲩⲛ,cantaloupe,شمام ( من الفواكه )
+ⲅⲁⲁⳝⲣⲁ,fine,بخير
+ⲅⲁⲃⲁⲇ,bark,لحاء الشجر
+ⲅⲁⲃⲃⲓ,neck open of t-shirt and alike,فتحة الجلباب أو القميص من أعلى
+ⲅⲁⲃⲣⲟⲩⲟⲩ,type of a Nile fish,نوع من السمك النيلى
+ⲅⲁⲇ = ⲅⲁⲇⲁⲃ,someghing - anything,شيئ ، أى شيئ ، حاجة
+ⲅⲁⲇⲁⲁⲣ,Kaddar - a village in Dungula,قدار ( قرية فى دنقلة )
+ⲅⲁⲕⲕ,crack,يتصدع - يتشقق
+ⲅⲁⲗⲁⲛ,roof of the mouth,سقف الحلق
+ⲅⲁⲗⲁⲛⳝ,get dizzy,يدوخ  ، يتعب
+ⲅⲁⲗⲗ,uncover - reveal - open,يظهر  ، ينكشف  ، ينفتح  ، يفتح
+ⲅⲁⲗⲗⲉⲉ,cane,عصا  ، عكاز
+ⲅⲁⲗⲗⲓ,branch,غصن  ، فرع 
+ⲅⲁⲗⲗⲟ,unripe dates,بلح أخضر
+ⲅⲁⲙⲁ,axe,فأس  ، بلطة
+ⲅⲁⲙⲣⲉⲉ,yellow,أصفر ( من الألوان )
+ⲅⲁⲛⲁⲧⲧⲓ,Kanatti - a village in Dungula,قنتى ( قرية فى دنقلة )
+ⲅⲁⲛⲅⲁⲣⲉⲉ,ear ( of corn etc. ),سنبلة 
+ⲅⲁⲛⲇ,sway,يتمايل  ، يتبختر
+ⲅⲁⲛⲧⲓ,Nubian dish made of leaves of black-eyed pea,طبيخ أخضر من ورق اللوبيا
+ⲅⲁⲣⲣ,bad,رديئ  ، سيئ  ، شرير
+ⲅⲁⲥⲉⲉ,someghing - anything,شئ  ، حاجة  ، أي شئ
+ⲅⲁⲥⲕⲟ,middle,الأوسط  ، متوسط  ، فى وسط
+ⲅⲁⲧⲧⲓ,scent,رائحة  ، عطر
+ⲅⲁⳝⲁⲣⲓⲓ = ⲅⲁⳝⲁⲗⲓⲓ,colored mat,حصير ملون
+ⲅⲁⳡⳡ,get hair cut,يحلق ، يقص ( الشعر)
+ⲅⲉⲅⲉⲣ = ⲅⲉⲣⲅⲉⲇ,spin - rotate,يتدحرج  ، يلف حول نفسه
+ⲅⲉⲇ,revolve,يدور  ، يلف
+ⲅⲉⲇ = ⲙⲓⲣ,run,يجرى  ، يعدو
+ⲅⲉⲇⲁⲧⲧⲓ,circle - ring,دائرة  ، حلقة
+ⲅⲉⲉⲕⲕ,belch,يتجشأ
+ⲅⲉⲉⲗ,red,أحمر ( من الألوان )
+ⲅⲉⲉⲱ,animal breast,ضرع  ، ثدى الحيوان
+ⲅⲉⲓ̈ⲓ̈,float,يطوف  ، يعوم فوق الماء  ، يبحر المركب
+ⲅⲉⲓ̈ⲓ̈,weave,ينسج
+ⲅⲉⲗⲉⲇⲟⲩⲟⲩⲛⲁ,wagtail, أبوفصادة
+ⲅⲉⲗⲉⲧⲧ,entice - brag,يغرى 
+ⲅⲉⲙ,year,عام  ، سنة 
+ⲅⲉⲛⲁ,better ,أفضل  ، أحسن
+ⲅⲉⲛⲅ,reconcile,يصالح  ، يسالم
+ⲅⲉⲛⲅⲓⲣ,mix,يخلط
+ⲅⲉⲛⲇ,farewell,يودع  ، يسلم
+ⲅⲉⲣⲅⲟⲩⲟⲩⲣ,type of a Nile fish,نوع من السمك النيلى
+ⲅⲉⲣⲓ̈,read,يقرأ  ، يدرس  ، يتلو
+ⲅⲉⲣⲣⲓⲧ,be imminent,يقترب  ، يأزف  ، يوشك
+ⲅⲉⲥⲙⲁ,ear ring,حلية للأذن
+ⲅⲉⲧⲧⲉ,Katta - a village in Nasr el Nuba,قتة ( قرية فى نصر النوبة )
+ⲅⲉⳝⲁⲁ,famine, مجاعة
+ⲅⲓⲇⲁⲙ,eyeliner,كحل
+ⲅⲓⲇⲁⲙⲟⲟⲥ,eyeliner tool,المكحلة
+ⲅⲓⲇⲇⲟ,copious,غزير
+ⲅⲓⲓ,uncle,خال ( أخ الأم )
+ⲅⲓⲓⲇ,green grass - green feed,حشيش أخضر  ، علف أخضر
+ⲅⲓⲓⲙ,host - honour,يستضيف  ، يكرم  ، يحترم
+ⲅⲓⲗⲅⲓⲗ,tubby, ضخم الجسم
+ⲅⲓⲛⲇⲁⲁⲣ,cilantro, الكزبرة
+ⲅⲓⲛⲇⲉⲉ,thorn,شوك
+ⲅⲓⲛⲇⲓⲣ,prick - penetrate - stab,يشك  ، يخترق  ، يطعن
+ⲅⲓⲣ,choke,يخنق
+ⲅⲓⲣⲅⲓⲓⲇ,misfortune,شؤم  ، سوء حظ -   دمار
+ⲅⲓⲣⲓⲓⲇ,roam around - wander,يتجول  ، يدور حول  ، يطوف
+ⲅⲓⲣⲅⲓⲣ,become tearful,يشرع فى البكاء
+ⲅⲓⲣⲣ,crack - split,يشق
+ⲅⲓⲣⲣ, confess,يعترف  ، يقر
+ⲅⲓⲣⲣⲉⲉ,frond,سعف النخيل
+ⲅⲓⲥ ,strangle,يخنق  ، يضغط 
+ⲅⲓⲥⲓⲣ, ⲃⲟⲛⲉ,عظام 
+ⲅⲓⲧⲧⲓ,heavy - ponderous,ثقيل الوزن  ، شديد 
+ⲅⲟϣⲕⲟ,one-eyed,أعور العين
+ⲅⲟⲅⲟⲗ,Adam's apple,تفاحة آدم
+ⲅⲟⲕⲕ,construct,يشيد  ، يقيم  ، ينصب ( خيمة )
+ⲅⲟⲗ,datepalm pollen,قلب  ، طلع ( النخلة )
+ⲅⲟⲗⲓⲥⲥⲉⲉ,glue,صمغ
+ⲅⲟⲗⲗ,swallow,يبلع
+ⲅⲟⲗⲟⲟⲃ,kneel,ينكفئ  ، يركع
+ⲅⲟⲟⲅⲁ,chicken house made of mud,بيت الدجاج من الطين
+ⲅⲟⲟⲇ,peel,يقشر
+ⲅⲟⲟⲗ,play - compete,يلعب  ، يتسابق
+ⲅⲟⲟⲣ,reap,يحصد  ، يحش ( النبات )  ، يستأصل
+ⲅⲟⲟⲥ,throat,حنجرة
+ⲅⲟⲣ,calf,عجل
+ⲅⲟⲣⲅⲟⲟⲇⲁ,type of date fruit,بلح القرقود
+ⲅⲟⲣⲟⲛⲇⲓ,bull,ثور
+ⲅⲟⲣⲧⲓ,clan head,كبير القوم  ، الشيخ
+ⲅⲟⲣⳝⲁ,temple,معبد  ، مكان مقدس
+ⲅⲟⲣⳝⲟ,six ( the number 6 ),ستة ( العدد ٦ )
+ⲅⲟⲧⲧ,close - cover - block,يقفل  ، يسد
+ⲅⲟⲩϣⲁⲁⲃⲓ,kushaby - a village in Dungula,قشابى ( قرية فى دنقلة )
+ⲅⲟⲩϣⲁⲙⲃⲉⲉ,kitchen,مطبخ
+ⲅⲟⲩⲃⲃ,raid - attack - kill,يدهم  ، يهجم  ، يقتل
+ⲅⲟⲩⲃⲃⲓⲣ,lean down on fhe ground,ينكفئ على الأرض
+ⲅⲟⲩⲅⲙⲉⲉ,owl,البومة ( من الطيور )
+ⲅⲟⲩⲇⲇ,grind - crush,يطحن  ، يسحق
+ⲅⲟⲩⲕⲕ,swell, ينتفخ  ، يتورم
+ⲅⲟⲩⲗⲗ,sprinkle - scatter,يرش  ، يبعثر  ، يشتت  ، يفرق
+ⲅⲟⲩⲙⲃ,fill mouth with water,يملأ الفم بسائل
+ⲅⲟⲩⲙⲙ,choke - kill,  يكتم  ، يقتل
+ⲅⲟⲩⲟⲩⲃ,deny,ينكر
+ⲅⲟⲩⲟⲩⲅ,coo,يغرد الطير ( الحمام او اليمامة )
+ⲅⲟⲩⲟⲩⳡ,look at,ينظر
+ⲅⲟⲩⲣ,ground,الأرض
+ⲅⲟⲩⲣⲃ,mix - gather,يختلط  ، يجتمع
+ⲅⲟⲩⲣⲅⲟⲩⲇ, curly,شعر مجعد  ، ملفوف
+ⲅⲟⲩⲣⲅⲟⲩⲟⲩⲇ,kurkoud - a village in Dungula,قورقود ( قرية فى دنقلة )
+ⲅⲟⲩⲣⲓⲛⳝⲁⲁⲛ,ginger,الزنجبيل
+ⲅⲟⲩⲣⲣ,rejoice,يفرح
+ⲅⲟⲩⲣⲣⲟⲩ,lathyrus,نبات الجلبان
+ⲅⲟⲩⲥⲥⲉⲉ,large cylindical container made of mud,حاوية من الطين
+ⲅⲟⲩⲥⲥⲓ,peduncle,بداية الغصن  ، قاعدة الثمرة
+ⲅⲟⲩⲧⲧⲓ,water jar made of clay,زير
+ⲅⲟⲩⲫⲫ,swell,ينتفخ
+ⲅⲟⲩⲱⲱ,suck blood,يمص  ، يسحب الدم من الجسم
+ⲅⲟⲩⲱⲱⲁ,ants,النملة
+ⲅⲟⲩⲱⲱⲓⲣ,cupping,الحجامة
+ⲅⲟⲱⲱⲁⲣ,space,فراغ  ، فضاء
+ⲅⲟⲱⲱⲓⲣ,cavitate - scoop out, يفرغ  ، يجوف
+ⲅⲟⳝ,slaughter,يذبح
+ⲅⲟⳡ,build,يبنى
+ⲇⲁϣⲕⲟ,bagrus bayad fish,بياض ( من الأسماك )
+ⲇⲓϩⲙⲓⲓⲧ,Dehmit - a village in Nasr el Nuba,دهميت ( قرية فى نصر النوبة )
+ⲇⲁϭϭⲓ,small cupping tool,محجم صغير
+ⲇⲁⲁⲃ,wall,حائط  ، جدار
+ⲇⲁⲁⲇⲇⲓ,utensil - dish,إناء  ، ماعون 
+ⲇⲁⲁⲇⲇⲓⲓⲛϭⲓ,dishes,مواعين
+ⲇⲁⲁⲗ,Dal - a village in Sekot,دال ( قرية فى سكوت )
+ⲇⲁⲁⲛⲁⲁⲇ,scoop made of pumpkin peel,مغرفة مصنوعة من قشر القرع العسلى
+ⲇⲁⲁⲣ,grain threshing floor,بيدر الغلال ( الحبوب )
+ⲇⲁⲁⲣ,available -  believed -  about to,موجود  ، واقع  ، معتقد  ، على وشك الحدوث
+ⲇⲁⲁⲥ,is hoarse,يبح الصوت
+ⲇⲁⲁⲥⲓⲗⲉⲉ = ⲇⲁⲁⲥⲓⲣⲉⲉ,water spring,ينبوع  ، عين ماء
+ⲇⲁⲁⲫⲫⲓ, exist inside,موجود بداخله
+ⲇⲁⲁⲱ = ⲇⲁⲁⲓ̈,kiss,يقبل 
+ⲇⲁⲁⳝ,lick,يلعق  ، يلحس
+ⲇⲁⲃⲁⲗ,rotate - revolve,يدحرج  ، يلف  ، يطوى
+ⲇⲁⲃⲃⲁ,Dabba - a village in Dungula,دبه ( قرية فى دنقلة )
+ⲇⲁⲃⲟⲟⲇ,Dabood - a village in Nasr el  Nuba,دابود ( قرية فى نصر النوبة )
+ⲇⲁⲅⲁⲗ,permanent disability,عاهة مستديمة
+ⲇⲁⲅⲁⲛⲁ - ⲇⲁⲕⲁⲛⲁ,nowhere - being lost,ضياع  ، داهية
+ⲇⲁⲅⲅⲓ,mascot,حجاب  ، تعويزة
+ⲇⲁⲕⲁⲣⲁ,drum,طبل  
+ⲇⲁⲕⲕ,jump,يقفز  ، ينط
+ⲇⲁⲕⲕ,to milk,يحلب
+ⲇⲁⲕⲕ = ⲇⲁⲕⲕⲟⲩⲟⲩⳝ,dwarf,قزم
+ⲇⲁⲕⲕⲁ,Dakka - a village in Nasr el Nuba,دكة ( قرية فى نصر النوبة )
+ⲇⲁⲕⲕⲁ = ⲧⲟⲅⲟ,outdoor wall-side built-in seating,مصطبة
+ⲇⲁⲕⲕⲁⲁⲓ̈,wine made of datefruit,خمر مصنوع من التمر
+ⲇⲁⲗⲁⲱ,bucket made of skin,دلو  ، وعاء من الجلد
+ⲇⲁⲙⲃⲟⲩⲟⲩ,Dambo - a village in Dungula,دمبو ( قرية فى دنقلة )
+ⲇⲁⲙⲕⲁⲣ,large pot made of wood,قصعة ( وعاء كبير من الخشب )
+ⲇⲁⲛ ,suffix meaning with, لاحقة بمعنى مع ( حرف جر )
+ⲇⲁⲛⲃⲓ,roof - seiling,سقف  ، سطح
+ⲇⲁⲛⲅⲟ,dingo fish,دنقو ( من الأسماك )
+ⲇⲁⲣⲇ,jump - squat,يقفز  ، يثب  ، يعرج
+ⲇⲁⲣⲣ,climb,يرتفع  ، يصعد  ، يرتقى  ، يتسلق
+ⲇⲁⲫⲫ,lose - disappear - escape,يضيع  ، يختفى  ، يهرب  ، ينضب  ، ينفد
+ⲇⲁⲱⲱⲓ,big - old age,كبير  ، مسن  ، عظيم  ، جليل
+ⲇⲁⲱⲱⲓ,road - street,طريق  ، درب  ، شارع
+ⲇⲁⳡⳡ = ⲕⲁⲗⲗ,push - poke,يدفع  ، يكز
+ⲇⲉϣϣ,despise,يستصغر  ، يحتقر
+ⲇⲉϣϣⲁ,bridegroom guard,حارس العريس
+ⲇⲉⲅ,leave - link,يرحل  ، يرتبط
+ⲇⲉⲅⲉⲣ,saddle,سرج
+ⲇⲉⲅⲓⲣ,tie,يربط
+ⲇⲉⲉϣ,funeral ,مأتم  ، دار البكاء أو العزاء
+ⲇⲉⲉⲅ,irrigate,يسقى الزرع   ، يروى
+ⲇⲉⲉⲙⲓⲣ,ladder - lever,سلم  ، رافعة لرفع الأثقال
+ⲇⲉⲉⲛ,to give me,يعطنى
+ⲇⲉⲉⲱ - ⲇⲉⲉⲓ̈,disc for baking bread made of clay or iron,قرص من الفخار أو الحديد لعمل الخبز
+ⲇⲉⲕⲕ,chatter - gossib,يثرثر
+ⲇⲉⲗⲗ,grow - increase,ينمو  ، يزيد
+ⲇⲉⲙⲓⲓⲣⲁ,flood season,وقت الفيضان
+ⲇⲉⲛⲅ,tighten,يتشدد ( الحبل )
+ⲇⲉⲣⲉϭϭ = ⲫⲓⲛⲇⲓⲕⲕ,limp,يعرج
+ⲇⲉⲣⲉⲉⳡ,lean - kneel,يميل  ، ينحنى  ، يركع
+ⲇⲉⲣⲓⲓⲣⲁ,fragrance mix for bridegroom,خلطة الصندل مع المحلب للعريس
+ⲇⲉⲥⲉⲛ = ⲟⲕⲕⲁⲅⲟⲟⲛ,very,جداً
+ⲇⲉⲥⲥ,green - blue - unripe,أخضر  ، أزرق - غير ناضج
+ⲇⲉⲧⲧ,pickup - collect from ground, يلتقط  ، يجمع شيئا من الأرض
+ⲇⲉⲱⲱ,crawl,يحبو  ، يزحف
+ⲇⲓⲃ,evening - night,مساء  ، ليلة
+ⲇⲓⲃⲁⲗⲉⲉ,Dibale - a village in Dungula,دبلى ( قرية فى دنقلة )
+ⲇⲓⲃⲃⲓ = ⲟⲩⲟⲩⲥ = ⲅⲁⲣⲣⲓ,bad - evil,سيء  ، رديء  ، فاسد  ، شرير
+ⲇⲓⲃⲉⲉ,liver,كبد
+ⲇⲓⲃⲉⲉⲣⲁ,Dibeera - a village in Halfa,دبيره ( قرية فى حلفا )
+ⲇⲓⲃⲟⲟⲣⲓⲓⲛ,cantalope,شمام ( فاكهة )
+ⲇⲓⲓ = ⲇⲓⲓ̈,die - extinguish,يموت  ، يفنى  ، يهلك  ، يطفئ
+ⲇⲓⲓⲇⲉⲉ,pot made of clay,قدر من الفخار
+ⲇⲓⲓ̈ⲓ̈ = ⲇⲓⲅⲓⲇ,many - a lot - plenty,كثير
+ⲇⲓⲓ̈ⲓ̈ⲁ,enough,كفى
+ⲇⲓⲓⲥ,blood, دم
+ⲇⲓⲓⲧⲁ,darling - lover - sweetheart,محبوب  ، حبيب  ، حبيبة
+ⲇⲓⲓⲱⲁⲁⲛ,Dewan - a village in Nasr el Nuba,الديوان ( قرية فى نصر النوبة )
+ⲇⲓⲕⲕ,pick - cut - tear up,يقطف  ، يقطع  ، يمزق
+ⲇⲓⲗⲓⲅ,copious,غزير  ، كثير
+ⲇⲓⲗⲓⲅ = ⲫⲁⲁⲣ,old,قديم  ، بال
+ⲇⲓⲙⲉ,ten ( 10 ),عشرة ( ١٠ ) ,
+ⲇⲓⲛⲅ = ⲇⲓⳟⳟ,fight - struggle,يعارك  ، يشاكل  ، يحارب  ، يقاتل,
+ⲇⲓⲣ,shoe,حذاء,
+ⲇⲓⲣⲃⲁⲇ,chicken,دجاجة ,
+ⲇⲓⲣⲣⲓ,Dirr - a village in Nasr el Nuba,الدر ( قرية فى نصر النوبة ),
+ⲇⲓⲣⲣⲓ,cockscomb,عرف الديك,
+ⲇⲓⲥⲧⲓ,pot,حلة ، مرجل ، قدرة,
+ⲇⲓⲫⲫⲁⲁⲓ̈,Diffay - a village in Mahas,دفاى ( قرية فى محس ),
+ⲇⲓⲫⲫⲉⲉ,unripe datefruit,بلح أخضر ,
+ⲇⲓⲫⲫⲓ,castle - palace - city,قلعة  ، قصر  ، مدينة  ، طلل,
+ⲇⲓⲱⲁⲁⲛⲓⲓ,a large room in a Nubian house,حجرة كبيرة فى البيت النوبى,
+ⲇⲓⳝ,five ( the number 5 ),خمسة ( العدد ٥ ),
+ⲇⲓⳟⳟⲓⲧⲧⲉⲉ = ⲇⲓⲅⲉⲛⲧⲉⲉ,type of beans,لوبياء ( نبات ),
+ⲇⲟⲃⲃⲓ,bundle,حزمة ، ربطة,
+ⲇⲟⲅⲉⲉ,dove,يمامة,
+ⲇⲟⲅⲟⲛⲁ,a type of Nubian datefruit,دقنه (  نوع من البلح النوبى ),
+ⲇⲟⲅⲟⲣ,bad,سيء ، رديء ، قبيح,
+ⲇⲟⲕⲕⲁ ⲅⲟⲩⲟⲩⳡ,stare,يحدق النظر إلى,
+ⲇⲟⲕⲕⲉⲛ,beware - don’t be dare,إياك ، حذار,
+ⲇⲟⲗⲅⲟⲟ,Dolgo - a village in Mahas,دولقو ( قرية فى محس ),
+ⲇⲟⲗⲗ,deep,عميق,
+ⲇⲟⲗⲗ,like - love - desire,يحب ، يعشق ، يهوى ، يرغب,
+ⲇⲟⲙⲟⲅ,ugly,قبيح الهيئة ، بليد,
+ⲇⲟⲟϣ,naïve - illitrate,غشيم ، قليل الفهم ، جاهل ، عبيط,
+ⲇⲟⲟϣ,wrap - cover,يغلف  ، يجلد  ، يغطى,
+ⲇⲟⲟϣⲕⲓⲣ,fool - deceive,يخادع  ، يغش,
+ⲇⲟⲟϩ,generous - intelligent,كريم  ، مجتهد  ، ناصح  ، نبيه  ، زكى,
+ⲇⲟⲟⲅ,ride - travel,يركب  ، يمتطى  ، يسافر,
+ⲇⲟⲟⲗ = ⲇⲉⲧⲧ,pick - gather,يلقط  ، يلتقط  ، يجمع,
+ⲇⲟⲟⲣⲟ,above ,فوق ( مضاد تحت )  ، أعلى,
+ⲇⲟⲟⲣⲟ,for the sake,من أجل  ، بسبب,
+ⲇⲟⲟⳡ,raise - grow,يربى  ، ينمى,
+ⲇⲟⲣⲓⳡ = ⲫⲟⲕⲕⲓ,thigh,فخذ,
+ⲇⲟⲣⲕ = ⲁⲧⲧ,knead ,يعجن,
+ⲇⲟⲩϣϣ,thrive - grow - flourish,يزدهر الزرع  ، ينمو  ، يكبر  ، يترعرع,
+ⲇⲟⲩϣϣ,mushy - soft,طرى  ، هش,
+ⲇⲟⲩⲃⲃ,curse - swear ,يلعن  ، يشتم,
+ⲇⲟⲩⲅⲥ,thatch,يسقف بالجريد,
+ⲇⲟⲩⲕⲕ,snatch - strip - extract - plunder,يخطف  ، ينزع  ، يقلع  ، يسلب,
+ⲇⲟⲩⲕⲕ,smell - blow - storm,يفوح  ، يهب  ، يعصف ,
+ⲇⲟⲩⲕⲕⲓ = ⲇⲟⲩⲅⲇ,hill - pile,تل  ، ربوة  ، كومة,
+ⲇⲟⲩⲕⲕⲓⲣ,abscess - pimple,خراج  ، دمل,
+ⲇⲟⲩⲗⲗ = ⲇⲉⲗⲗ,increase - grow,يزيد  ، ينمو ,
+ⲇⲟⲩⲙⲙ,hold - take - get,يمسك  ، يأخذ  ، يتسلم,
+ⲇⲟⲩⲙⲙ,understand - comprehend,يفهم  ، يعقل  ، يدرك,
+ⲇⲟⲩⲙⲙ,ignite,يشتعل,
+ⲇⲟⲩⲟⲩⲅ,pray,يصلى ,
+ⲇⲟⲩⲟⲩⲇⲟⲩⲟⲩ,baby - thunder,طفل رضيع - رعد,
+ⲇⲟⲩⲟⲩⲧ,suffix meaning whenever,لاحقة بمعنى كلما,
+ⲇⲟⲩⲟⲩⲧⲧ,swell,ينتفخ  ، يتورم ,
+ⲇⲟⲩⲟⲩⳡ,rabbit,أرنب,
+ⲇⲟⲩⲣⲉⲉ,one thousand ( 1000),ألف ( العدد ١٠٠٠ ),
+ⲇⲟⲩⲧⲧ,protrude - stick out,يبرز  ، ينتأ  ، يرتفع,
+ⲇⲟⲩⲱⲱ,catch - reach,يلحق  ، يوصل,
+ⲇⲟⲩⲱⲱⲓ,old person,عجوز  ، مسن  ، شيخ,
+ⲇⲟⲩⳟⲟⲩⲥ,intestine,أمعاء,
+ⲇⲟⲩⳟⲟⲩⲥⲥⲓ = ⳝⲟⲩⳟⲟⲩⲥⲥⲓ,breast - udder,ثدى  ، ضرع,
+ⲇⲟⲩⳟⳟ,blind,يعمى  ، يفقد بصره,
+ⲇⲟⲱⲱⲉⲉ,gland - pimple - swelling,غدة  ، ورم,
+ⲃⲁⲣⲁⲁⲙ,acacia flower,زهرة السنط,
+ⲉⲃⲉⲇⲇ,submerge,يغمس فى الماء,
+ⲉⲃⲉⲣⲧⲉⲉ = ⲉⲱⲉⲣⲧⲉⲉ,fruit cluster,عنقود  ، سباطة,
+ⲉⲃⲉⲧⲧⲉⲉ,type of Nubian datefruit,نوع من البلح النوبى,
+ⲉⲃⲣⲉⲉ = ⲉⲱⲣⲉⲉ,goat,معزة,
+ⲉⲅⲉⲇ,sheep,خروف  ، نعجة,
+ⲉⲇ,marry,يتزوج,
+ⲉⲇⲇⲓ,hand,يد,
+ⲉⲇⲉⲉⲃ,leg, ساق,
+ⲉⲇⲓⲣ,lentils,العدس ( نبات ),
+ⲉⲉϣ = ⳝⲉⲕⲕ,belch - burp,يتجشأ,
+ⲉⲉⲃⲓⲓⲥ,dung,روث,
+ⲉⲉⲃⲟⲟ = ⲕⲓⲣⲓⲅ,manure,روث  ، سماد من الروث,
+ⲉⲉⲅ,grow - increse,ينمو  ، يزيد,
+ⲉⲉⲗ,warming by exposing to fire,يسخن الشئ بتقريبه من النار,
+ⲉⲉⲗ,illuminate - radiate,ينير  ، يشع  ,
+ⲉⲉⲛ,mother,أم  ، والدة,
+ⲉⲉⲣ,loot,ينهب  ، يسلب,
+ⲉⲉⲣ,pollinate,يلقح  ، يأبر,
+ⲉⲉⲥ,noon time -     heated ground surface,الظهر  ، وقت الظهيرة  ، سخونة الأرض,
+ⲉⲗⲉⲉⲗⲁⲛ,only now,فقط الآن,
+ⲉⲗ,find,يجد,
+ⲉⲗⲅⲟⲟⲛ, not yet,ليس بعد,
+ⲉⲗⲓⲓ,today,هذا اليوم,
+ⲉⲙⲉⲛⳝⲁⲗ,wish, ليت,
+ⲉⲙⲉⲣⲓⳟⳟ,quarrel,يتشاجر  ، يتشاحن  ، يتجادل,
+ⲉⲙⲉⲣⳝ,curse,يشتم  ، يسب,
+ⲉⲛⲁⲱⲱⲟ,tonight,هذه الليلة,
+ⲉⲛⲅⲁⲣ,brother,أخ ,
+ⲉⲛⲛ,take - carry - pickup,يأخذ  ، يرفع  ، يتناول  ، يلقط  ، يحمل,
+ⲉⲛⲛ,accommodate,يسع  ، يتسع,
+ⲉⲛⲛⲓ,taste,مذاق  ، طعم,
+ⲉⲛⳝⲓⲓ,women,نساء,
+ⲉⲣⲃⲓⲣ = ⲉⲣⲃⲟⲩⲣ,a wooden tool for leveling ghe ground,أداة خشبية تسوى بها الأرض,
+ⲉⲣⲅ,follow - trace,يتابع  ، يسير وراء,
+ⲉⲣⲓⲇ,seahorse,فرس البحر,
+ⲉⲣⲓⲓ̈ⲓ̈ⲁ,backbiting,غيبة,
+ⲉⲣⲕⲁⲃⲓⲓ =ⲓⲣⲕⲁⲃⲓⲓ = ⲉⲓⲣⲕⲁⲃⲓⲓ ,ghoul - ogre,غول,
+ⲉⲣⲣⲉⲉ,urine,بول,
+ⲉⲣⲣⲉⲉ = ϩⲉⲉⲗⲟ,a place for tracking and chasing birds,مكان مرتفع فى الحقل لمراقبة وطرد الطيور,
+ⲉⲣⲣⲓ,address,عنوان ,
+ⲉⲣⲣⲓ = ⲧⲁⳟⲓⲥ,name,اسم ,
+ⲉⲥⲉⲉ,few - little,قليل  ، ضئيل,
+ⲉⲥⲕ,can, يستطيع  ، يقدر,
+ⲉⲥⲕⲁⲗⲉⲉ,waterwheel,ساقية  ، رافعة للماء,
+ⲉⲥⲕⲉⲛ,I dare you,كلمة للتعبير عن التحدى,
+ⲉⲥⲙⲁⲣ = ⲟⲥⲙⲁⲣ,shoulder,كتف,
+ⲉⲥⲥⲓ,soup,ماء  ، حساء  ، مرقة  ، شوربة,
+ⲉⲥⲥⲓ,sister,أخت,
+ⲉⲥⲥⲓ ⲕⲁⲁⲅ,wooden support for waterwheel gear,خشبة تحمل ترس قواديس الساقية,
+ⲉⲥⲥⲓⲣ,bottle,قارورة  ، زجاجة,
+ⲉⲧⲧⲓ,gallbladder,المرارة,
+ⲉⲫⲫ = ⲧⲟⲩⲛⲛ,groan,يتأوه  ، يتأفف  ، يتنهد,
+ⲉⲫⲫⲓⲥⲓⲣ,erupt, يثور  ، يهيج  ، ينتفض,
+ⲉⲱⲣ = ⲉⲱⲓⲣ,plant -   cultivate - spin - rotate,يزرع  ، يدور  ، يلف  ، يدير,
+ⲉⲱⲣⲉⲉⳝⲁ, squint,أحول,
+ⲍⲓⲛⲛⲓ,bee,نحلة,
+ⲓϭϭⲓ = ⲉⲓϭϭⲓ,other,آخر,
+ⲓⲃⲓⲓϭⲁ = ⲉⲓⲃⲓⲓϭⲁ,calmly,بهدوء,
+ⲓⲃⲓⲓ̈ⲓ̈ⲟⲩⲟⲩ = ⲉⲓⲃⲓⲓ̈ⲓ̈ⲟⲩⲟⲩ,scream or call for help,صراخ لحدث سيء  ، صرخة استنجاد,
+ⲓⲃⲓⲓⲣ = ⲉⲓⲃⲓⲓⲣ,rest, يرتاح ,
+ⲓⲃⲓⲣⲧⲓ = ⲉⲓⲃⲓⲣⲧⲓ,power - energy - force,جهد  ، طاقة  ، قوة,
+ⲓⲇ = ⲉⲓⲇ,man - husbend,رجل  ، زوج,
+ⲓⲇⲉⲉⲛ = ⲉⲓⲇⲉⲉⲛ,woman - wife,إمرأة  ، زوجة,
+ⲓⲇⲓⲣ = ⲉⲓⲇⲓⲣ = ⲟⲩⲇⲓⲣ,put in,يضع,
+ⲓⲇⲱⲟ = ⲉⲓⲇⲱⲟ ,eight,ثمانية ( العدد ٨ ),
+ⲓⲍⲃ = ⲉⲓⲍⲃ,twist,يلوى,
+ⲓⲓⲃⲓⲣⲧ = ⲉⲓⲓⲃⲓⲣⲧ,work hard,يبذل جهد,
+ⲓⲓⲅ = ⲉⲓⲓⲅ,fire - light, نار  ، نور  ، لهب - يقول,
+ⲓⲓⲇⲓⲣ = ⲉⲓⲓⲇⲓⲣ,send,يرسل  ، يبعث,
+ⲓⲓⲛ = ⲉⲓⲓⲛ,take,خذ,
+ⲓⲓⲣ = ⲉⲓⲓⲣ,mark - reference,أثر  ، مرجع,
+ⲓⲓⲣⲙⲉⲣ = ⲉⲓⲓⲣⲙⲉⲣ,unknown - with no mark,مجهول  ، بلا أثر,
+ⲓⲓⲱ = ⲉⲓⲓⲱ,herd,يرعى ( الغنم ),
+ⲓⲓⲱ = ⲉⲓⲓⲱ,grain - seeds,حبوب  ، غلال  ، بذور,
+ⲓⲓⳟ = ⲉⲓⲓⳟ,reply,يستجيب,
+ⲓⲙⲓⲓⲇ = ⲉⲓⲙⲓⲓⲇ,salt,ملح,
+ⲓⲙⲓⲗ = ⲉⲓⲙⲓⲗ,one hundred ,مائة ( العدد ١٠٠ ),
+ⲓⲙⲓⲣ = ⲉⲓⲙⲓⲣ,leak,يتسرب ( السائل)  ، ينز,
+ⲓⲙⲗⲓⲇ = ⲉⲓⲙⲗⲓⲇ,plant bundle,لفة من الحشائش,
+ⲓⲛ = ⲉⲓⲛ,this,هذا,
+ⲓⲛⲅⲓⲣⲁ = ⲉⲓⲛⲅⲓⲣⲁ,like this,هكذا,
+ⲓⲛⲇⲟ = ⲉⲓⲛⲇⲟ,here,هنا,
+ⲓⲛⲧⲁⲁⲫ = ⲉⲓⲛⲧⲁⲁⲫ,perhaps,لعل  ، ربما ,
+ⲓⲛⲧⲁⲗⲗⲉⲉ = ⲉⲓⲛⲧⲁⲗⲗⲉⲉ,sewing needle,إبرة خياطة,
+ⲓ̈ⲟⲟ = ⲓ̈ⲟⲟⲓ̈ⲟⲟ,call to mother,نداء للأم,
+ⲓⲣ = ⲉⲓⲣ,you - to a single person, أنت  ، أنتِ,
+ⲓⲣⲃⲓⲣ = ⲉⲓⲣⲃⲓⲣ,know,يعرف  ، يعلم,
+ⲓⲣⲅ = ⲉⲓⲣⲅ,dissolve,يذوب فى سائل,
+ⲓⲣⲕⲓ = ⲉⲓⲣⲕⲓ ,country - village,بلد  ، وطن  ، قرية,
+ⲓⲣⲙⲁⲇⲉⲉ = ⲉⲓⲣⲙⲁⲇⲉⲉ, accompanying the bride to new home,زفة العروس إلى البيت الجديد,
+ⲓⲣⳝⲓⲣ = ⲉⲓⲣⳝⲓⲣ,hydrate,يسقى  ، يروى,
+ⲓⲣⳡ = ⲉⲓⲣⳡ,wait - take care of,ينتظر  ، يرعى  ، يتغمد,
+ⲓⲥⲓⳟⳟⲓ = ⲉⲓⲥⲓⳟⳟⲓ = ⲛⲟⲟⲓ̈,ghee,سمن ,
+ⲓⲥⲕⲓⲓⲇ = ⲉⲓⲥⲕⲉⲉⲇ,soil,تراب ,
+ⲓⲥⲕⲓⲛⲧⲉⲉ = ⲉⲓⲥⲕⲓⲛⲧⲉⲉ,field mouse,فأر الحقول,
+ⲓⲥⲕⲓⲣ = ⲉⲓⲥⲕⲓⲣ = ⲟⲩⲥⲕⲓⲣ,put,يضع,
+ⲓⲥⲕⲓⲧⲧⲓ = ⲉⲓⲥⲕⲓⲧⲧⲓ,guest,ضيف,
+ⲓⲥⲗⲁⲛⳝ = ⲉⲓⲥⲗⲁⲛⳝ,Islang - an island north of Om Durman,إسلانج ( جزيرة شمال أم درمان ),
+ⲓⲥⲥⲁⲁⲛ = ⲉⲓⲥⲥⲁⲁⲛ,awl,مخراز,
+ⲓⲥⲥⲓ = ⲉⲓⲥⲥⲓ,lice,القمل ,
+ⲓⲥⲥⲓⲅ = ⲉⲓⲥⲥⲓⲅ,ask,يسأل,
+ⲓⲥⲥⲓⲇⲉⲉ = ⲉⲓⲥⲥⲓⲇⲉⲉ,headache,صداع,
+ⲓⲧⲧⲓⲣ = ⲉⲓⲧⲧⲓⲣ,Nubin green dish,  أكلة نوبية مصنوعة من الخضرة,
+ⲓⳝⲓ = ⲉⲓⳝⲓ,strange - contrarian,غريب  ، مخالف,
+ⲓⳟⲓϣϣⲓ = ⲉⲓⳟⲓϣϣⲓ,milk of animals that have just given birth,لبن الحيوانات الأليفة حديث الولادة,
+ⲕⲁϣϣⲉⲉ,vegetable fruits, ثمار نباتية,
+ⲕⲁϣϣⲓ,firewood,حطب,
+ⲕⲁϣⲁⲱⲱ,make a rattling sound,يصدر صوت خشخشة,
+ⲕⲁϣⲣⲁⳟⳟⲉⲉ,bkack-eyed pea,لوبيا ( نبات ),
+ⲕⲁⲁϣ,blend,يخلط,
+ⲕⲁⲁϣⲁⲁⲇ,fried meat,مخلوط  ، لحمة محمرة,
+ⲕⲁⲁϣⲓⲣⲉⲉ,hawk,صقر,
+ⲕⲁⲁⲃ,  paint,يطلى,
+ⲕⲁⲁⲃ,knead,يعجن  ، يفرش عجين الخبز,
+ⲕⲁⲁⲃϣ,catch,يخطف,
+ⲕⲁⲁⲃⲓⲇ,thick bread made of grains,خبز سميك من من دقيق الحبوب,
+ⲕⲁⲁⲅ,keep,يحتفظ,
+ⲕⲁⲁⲇⲇⲓ,wood - dead tree branch,حطب  ، فرع شحر جاف,
+ⲕⲁⲁⲇⲓⲓ,tailor - weaver,خياط  ، نساج ,
+ⲕⲁⲁⲓ̈,make - fabricate, يصنع,
+ⲕⲁⲁⲕⲕ,cluck,يصيح الدجاج,
+ⲕⲁⲁⲕⲕⲟⲟ,type of monkey,نسناس,
+ⲕⲁⲁⲣ,search -  inquire,يبحث  ، يستفسر,
+ⲕⲁⲁⲣⲓⲓ,searcher - prospector,باحث  ، منقب,
+ⲕⲁⲁⲣⲓⲓ,character - behavior,طبع  ، سلوك,
+ⲕⲁⲁⲥ,wind a turban,يلف العمامة على رأسه,
+ⲕⲁⲁⲥⲓⲣ,turban,عمامة ,
+ⲕⲁⲁⳡ,peel,يقشر,
+ⲕⲁⲃ,eat,يأكل,
+ⲕⲁⲃⲁⲁⳝⲁ,Kabaja - a village in Mahas,كباجة ( قرية فى محس ),
+ⲕⲁⲃⲁⲣ,food - bread,أكل  ، خبز,
+ⲕⲁⲃⲃ,fly, يطير  ، يحلق,
+ⲕⲁⲃⲃⲓ, quickly,بسرعة  ، باستعحال,
+ⲕⲁⲃⲕⲁⲁⲃ,shiver,رجفة  ، قشعريرة,
+ⲕⲁⲃⲕⲁⲃ,flicker,يضطرب  ، يتردد,
+ⲕⲁⲅ,first born - premier,المولود البكر  ، البادئ  ، الأول,
+ⲕⲁⲇⲁ,gravel,حصى,
+ⲕⲁⲇⲁ ,Kada - a village in Mahas,كدا ( قرية فى محس ),
+ⲕⲁⲇⲁⲕⲟⲟⲗ,Kadakol - a village in Dungula,كدكول ( قرية فى دنقلة ),
+ⲕⲁⲇⲇ,throw,يقذف  ، يرمى,
+ⲕⲁⲇⲇ ,bleedlet, يفصد ( للحجامة او الورتاب ),
+ⲕⲁⲇⲓⲓⲥ,cat,قطة ,
+ⲕⲁⲓ̈ⲓ̈,peel,يقشر,
+ⲕⲁⲓ̈ⲓ̈ⲟⲟ = ⲕⲁⲓ̈ⲓ̈ⲉⲉ,crusting of wound on healing,  تقشر الجرح الملتئم,
+ⲕⲁⲕⲁⲙ,get charred, يتفحم,
+ⲕⲁⲕⲁⲙⲁ,charred - burnt,متفحم  ، محروق,
+ⲕⲁⲕⲁⲣ,royal chair,كرسى ملكى ( فى ممكلة النوبة القديمة ),
+ⲕⲁⲕⲕ,keep warm by facing a fire,يحرق  ، يدفئ  ، يتدفأ بالنار,
+ⲕⲁⲕⲕ,hatch,يتكاثر  ، يفقس ( البيض ),
+ⲕⲁⲕⲕⲉⲉ,offspring, ذرية ,
+ⲕⲁⲕⲕⲓ,snake,ثعبان ,
+ⲕⲁⲗⲁⲁⳡ,purslane,الرجلة ( نبات ),
+ⲕⲁⲗⲕⲁⲗ,  break up - infilterate - collapse,يتفكك  ، يتخلخل  ، ينهار,
+ⲕⲁⲗⲗ,displace - push back,يزيح  ، يدفع للخلف,
+ⲕⲁⲗⲗⲉⲉ,dung,روث الحيوانات المجترة,
+ⲕⲁⲗⲙ,braid,يضفر ( الشعر ),
+ⲕⲁⲗⲟ,north,شمال,
+ⲕⲁⲙ ,camel ,جمل ( حيوان ),
+ⲕⲁⲙⲁⲣⲉⲉⲣⲁ,maid,خادمة ,
+ⲕⲁⲙⲓⲥ,the day before yesterday,أول أمس,
+ⲕⲁⲛⲇ,hug,يحضن  ، يعانق ,
+ⲕⲁⲛⲧ,sharpen,يسن ( السكين أو ما شابه ),
+ⲕⲁⲣⲁⲓ̈,rub clean or scratch a surface,ينظف  ، يبرى ( القلم أو ما شابه ),
+ⲕⲁⲣⲁⳝ, a plate made of palm fronds,طبق مصنوع من سعف النخيل,
+ⲕⲁⲣⲃ,search - dig up,يبحث  ، ينبش,
+ⲕⲁⲣⲕⲁⲃ,making an annoying sound,يصدر صوتا مزعجا,
+ⲕⲁⲣⲕⲁⲃ,wooden sabot,قبقاب,
+ⲕⲁⲣⲕⲁⲣ = ⲕⲉⲣⲕⲉⲣ,shiver,يرتعش  ، يرتجف,
+ⲕⲁⲣⲕⲁⲣⲉⲉ,network of chords,شبكة من الحبال,
+ⲕⲁⲣⲙⲁ,Karna - historic city in Sudan,كرمة ( مدينة تاريخية فى السودان ),
+ⲕⲁⲣⲟⲩⲙ = ⲕⲁⲣⲓⲙ,fenugreek,الحلبة ( نبات ),
+ⲕⲁⲣⲣⲁⲁⲃ,lace,رباط ,
+ⲕⲁⲣⲣⲉⲉ,female ( of animals ),أنثى الحيوان,
+ⲕⲁⲣⲣⲉⲉ,wedding gift, هدية تعطى للعروسين,
+ⲕⲁⲣⲱ,surround by a fence,يحيط بسياج حول الشئ,
+ⲕⲁⲣⳝ,ripen -    be done,ينضج  ، يكتمل,
+ⲕⲁⲥⲁⲛⲧⲁ,Kasanta - a village in Mahas,كسنتا ( قرية فى محس ),
+ⲕⲁⲥⲁⲣⲟⲟⳡⲁ,small pot, إناء صغير,
+ⲕⲁⲥⲥ,paint - wipe,يطلى  ، يمسح,
+ⲕⲁⲧⲁⲣⲉⲉ,wall,حائط,
+ⲕⲁⲧⲕⲁⲧ = ⲕⲉⲧⲕⲉⲧ,giggle,يقهقه,
+ⲕⲁⲧⲧⲓ,baby lamb,صغير الخروف,
+ⲕⲁⲱⲁⲣⲧⲓ,bird,طائر,
+ⲕⲁⲱⲱ,get open,ينفتح,
+ⲕⲁⲱⲱⲓⲣ,open,يفتح,
+ⲕⲁⳝ,donkey,حمار,
+ⲕⲁⳡⲙ = ⲕⲁⳡⲱ,blend,يخلط  ، يهرس,
+ⲕⲉϭϭ,cut - tear up,يقطع  ، يمزق,
+ⲕⲉⲃⲃ,trap - block,يحبس  ، يمنع,
+ⲕⲉⲃⲉⲉ,dry squash,القرع العسلى ( الثمرة الجافة ),
+ⲕⲉⲉⲅ,circle,يحيط  ، شكل دائرى,
+ⲕⲉⲉⲗ,end - limit - determine,نهاية  ، حد  ، يحدد,
+ⲕⲉⲉⲛⲧⲓ,bird's nest,عش الطائر,
+ⲕⲉⲉⲣ,rise,يصعد,
+ⲕⲉⲉⲣ,sing,يغنى,
+ⲕⲉⲓ̈ⲓ̈,grow,ينمو  ، يكبر ,
+ⲕⲉⲕⲕ,cut - swell,يقطع  ، ينتفخ,
+ⲕⲉⲗⲁⲁⲓ̈,goose,أوز ( من الطيور ),
+ⲕⲉⲗⲃⲉⲧⲓⲓⲛ = ⲕⲉⲣⲃⲉⲧⲓⲓⲛ,tooth extraction tool,آلة خلع الأسنان,
+ⲕⲉⲗⲗ,count - quantity - realize,عدد  ، قدر  ، يتسع  ، يستوعب,
+ⲕⲉⲙⲥⲟ,four ( the number 4),أربعة ( العدد ٤ ),
+ⲕⲉⲣⲛⲓⲓⲗ,spark,شرارة,
+ⲕⲉⲣⲣⲓ,shack - barn,كوخ  ، مأوى من الخوص  ، حظيرة,
+ⲕⲉⲥ,obstruct - trap,يحبس,
+ⲕⲉⲥⲁⲣ,obstruction,احتباس,
+ⲕⲓⲇⲉⲉ = ⲕⲉⲇⲉⲉ,little,قليل,
+ⲕⲟⲙⲕⲟⲙ,throat,الحنحرة,
+ⲕⲟⲩⲅ,join - stick,يلتحم  ، يلتصق,
+ⲕⲟⲩⲅⳝ,vole - field mouse,فأر الحقل,
+ⲕⲟⲩⲇ,squeeze,يحشر  ، يكبس,
+ⲕⲟⲩⲇⲇ,purify - filter - calm down,ينقى  ، يصفى  ، يروق  ، يهدأ,
+ⲕⲟⲩⲇⲇⲁⲁⲣ,pure - clear,نقى  ، صافى  ، رائق,
+ⲕⲟⲩⲇⲉⲉ,barn,حظيرة,
+ⲕⲟⲩⲇⲟⲩⲟⲩⲇ,small - young,صغير,
+ⲕⲟⲩⲇⲣⲟⲩⲕⲕⲓ,wild boar,خنزير برى,
+ⲕⲟⲩⲕⲕ,incubate the eggs to hatch,يحضن البيض ليفقس,
+ⲕⲟⲩⲗ,hole in the ground - pelvis - learn,حفرة  ، الحوض ( عضو جسم الانسان ) - يتعلم,
+ⲕⲟⲩⲙϣⲁ,scoop,مغرفة,
+ⲕⲟⲩⲙⲃⲟⲩⲟⲩ,egg,بيض,
+ⲕⲟⲩⲙⲕⲟⲩⲙ,get covered,يتغطى,
+ⲕⲟⲩⲙⲙ,tell - recommend, يحكى  ، يقص  ، يوصى,
+ⲕⲟⲩⲙⲙⲁ,story - commandment,حكاية  ، قصة  ، وصية,
+ⲕⲟⲩⲛ,own,يمتلك,
+ⲕⲟⲩⲟⲩⲇ,half-sibling,أخ أو أخت غير أشقاء  ، الضرة,
+ⲕⲟⲩⲱⲱ,pick - draw ( pull ),يقطف ( الثمرة )  ، يسل ( السيف ),
+ⲕⲁϭϭ,burn intensely in the fire,يحترق فى النار بشدة,
+ⲕⲁⲛⲇⲓ,knife,سكينة ,
+ⲕⲓϭϭⲁⲇ,deer ( gazelle),غزال,
+ⲕⲓϭϭⲓ,the period for preparing land for a new cultivation season,فترة تجهبز الأرض لموسم زراعى جدبد,
+ⲕⲓⲃⲓⲣⲣ,make noise - act naughty,يحدث أصوات مزعجة - تتغنج بخلاعة ( الفتاة ),
+ⲕⲓⲃⲓⲧⲧ,suddenly - very quickly,فجأة  ، بسرعة شديدة ,
+ⲕⲓⲃⲛⲉⲉ,a bag put on the back of animal,مخلى ( كيس يعلق على ظهر الدابة لحمل أشياء ),
+ⲕⲓⲇ,gravel - stone - rock - small mountain,حصى  ، حجر  ، صخرة   ، جبلاية,
+ⲕⲓⲓⲃ,hide - fold,يطوى  ، يخفى,
+ⲕⲓⲓⲇ,cover - remian - lice larvae,يغطى - يتبقى - يرقات القمل,
+ⲕⲓⲓ̈ⲓ̈,lead - accompany - scoop (the liquid),يقود  ، يصطحب -     يغرف ( السائل ),
+ⲕⲓⲓ̈ⲓ̈ⲉⲉ,shaduf,الشادوف,
+ⲕⲓⲓⲕ,make sound - crow ( the rooster ),يصوت  ، يصيح  ( صياح الديك ),
+ⲕⲓⲓⲙ,corner - angle,ركن  ، زاوية,
+ⲕⲓⲕⲕ,equal,يساوى  ، يماثل,
+ⲕⲓⲕⲕⲓⲕⲓⲣ,equalize ,يقسط  ، يعدل,
+ⲕⲓⲗⲕⲓⲗ,make zagharit - shout loudly,يزغرد  ، يصوت عاليا,
+ⲕⲓⲗⲗⲁⲁⲃ,snare - trap,شرك  ، فخ ,
+ⲕⲓⲛⲇ = ⲕⲓⲇⲇ,is drowning,يغرق,
+ⲕⲓⲛⲛ,get smaller - shrink,يصغر  ، يتضاءل,
+ⲕⲓⲛⲛⲉ,little,قليل ( من شئ او من الوقت ),
+ⲕⲓⲣ,come,يأتى,
+ⲕⲓⲣⲁⲅⲉⲉ,Sunday,الأحد ( من أيام الأسبوع ),
+ⲕⲓⲣⲓϭϭ,swallow with difficulty,يبلع بصعوبة,
+ⲕⲓⲣⲓⲛⲅ,finish,ينهى  ، يخلص,
+ⲕⲓⲣⲣⲓ,household stuff - dishes,مكونات البيت ( عفش )  ، المواعين,
+ⲕⲓⲣⲣⲓⲓⲧ,no fat milk,لبن خالى الدهون,
+ⲕⲓⲣⲧⲓ,big bite ,لقمة كبيرة,
+ⲕⲓⲣⳡⲁⲇ,air tornado,زوبعة هوائية,
+ⲕⲓⲥⲓⲣ,tanbour ( musical instrument),الطنبور ( آلة موسيقية وترية ),
+ⲕⲓⲧⲧⲓ,cloth,   ثياب  ، ملبس,
+ⲕⲓⲫⲫ,binge eat - fold the hem of cloth,يسف  ، يأكل بشراهة - يطوى طرف الثوب,
+ⲕⲓⳝⲓⲣ,vegetable crust,قشرة نباتية,
+ⲕⲓⳡⳡ,get tired,يتعب  ، ينهار,
+ⲕⲓⳡⳡⲓ,without,بدون  ، بلا ,
+ⲕⲟϣϣ,economize,يقتصد,
+ⲕⲟϣϣⲁⲧⲧⲓ,stingy - greedy,بخيل  ، طماع,
+ⲕⲟϣϣⲉ,stinginess,بخل,
+ⲕⲟϣⲉⲉ,wood mite,سوس الأخشاب,
+ⲕⲟϣⲕ,braid - sew,يضفر  ، يخيط,
+ⲕⲟϣⲕⲓⲣ,stitching needle,إبرة خياطة,
+ⲕⲟϣⲙⲁⲁⲅ,cotton,قطن,
+ⲕⲟϣⲟⲃ,break - shatter,يكسر  ، يحطم,
+ⲕⲟϣⲟⲃⲁⲣⲉⲉ,dry palm leaves,جريد النخل الجاف,
+ⲕⲟϣⲟⲕⲕⲓ,tangled palm forest,غابة النخيل المتشابكة,
+ⲕⲟϣⲟⲟϣ,rotten datefruit,بلح فاسد,
+ⲕⲟϭϭⲓ,edge - top,طرف - فوق  ، قمة,
+ⲕⲟⲃⲓⲇ,door,باب,
+ⲕⲟⲃⲟⲇⲇⲓ,darwish - insane,درويش  ، مجذوب,
+ⲕⲟⲃⲟⲟϣ,mystic,متصوف,
+ⲕⲟⲃⲟⲟⲃⲁ,stinginess - deprivation,بخل  ، حرمان,
+ⲕⲟⲅⲟϣ,sea shells,صدف البحر,
+ⲕⲟⲅⲟⲇ,deaf,أصم ,
+ⲕⲟⲅⲟⲣ,strong,قوى,
+ⲕⲟⲇⲇ,boil,يغلى  ، يفور,
+ⲕⲟⲇⲟⲙ,shrink,ينكمش,
+ⲕⲟⲓ̈,wood - tree stem, خشب  ، ساق الشجر,
+ⲕⲟⲕⲕ,plant - knock (the door),يغرس  ، يطرق (الباب),
+ⲕⲟⲕⲕⲓ,strong - brave,قوى  ، شجاع,
+ⲕⲟⲗⲉ,water wheel,رافعة  ، ساقية,
+ⲕⲟⲗⲓⲥⲥⲉⲉ =   ⲅⲟⲗⲓⲥⲥⲉⲉ,glue,صمغ,
+ⲕⲟⲗⲗ,stick - join,يلتصق  ، يلتحم,
+ⲕⲟⲗⲟⲇ,seven ( the number 7 ),سبعة ( الرقم ٧ ),
+ⲕⲟⲗⲟⳟ,beat (drum) - click, يطبل  ، ينقر,
+ⲕⲟⲙⲁⲁⲛ,gown,جلباب,
+ⲕⲟⲙⲃⲟⲟ,fat - thick,سمين,
+ⲕⲟⲙⲕⲟⲙ,Adam's apple,تفاحة آدم,
+ⲕⲟⲛⲇⲓⲣ,impede - obstruct,يعيق  ، يعرقل,
+ⲕⲟⲛⲇⲟ,I do not know,لا أدرى ,
+ⲕⲟⲛⲇⲟⲛ,left ( opposite of right),يسار,
+ⲕⲟⲛⲧⲉⲉ,bowl made of palm leaves,وعاء مصنوع من سعف النخيل,
+ⲕⲟⲟⲅ,crow,غراب,
+ⲕⲟⲟⲇ,scrape - sculpt - engrave,يكشط  ، ينحت  ، ينقش,
+ⲕⲟⲟⲇⲓⲓ,sculptor,نحات  ، مثال,
+ⲕⲟⲟⲓ̈,vein - artery - nerve,وريد  ، شريان  ، عصب,
+ⲕⲟⲟⲣⲕⲓ,frog,ضفدعة,
+ⲕⲟⲟⲥ,be full - be stisfied - swell,يشبع  ، يكتفى - ينتفخ,
+ⲕⲟⲟⲫⲓⲣ,get poisoned,يتسمم,
+ⲕⲟⲣ,injury,جرح,
+ⲕⲟⲣⲃ,block - prevent,يحجز  ، يمنع,
+ⲕⲟⲣⲅⲟⲟⲥ,yellow - saffron color,أصفر  ، زعفران ( لون ),
+ⲕⲟⲣⲕⲟⲧⲧⲓ,coarse soil,تربة خشنة,
+ⲕⲟⲣⲙ,crunch,يكسر الشئ بأسنانه فى فمه,
+ⲕⲟⲣⲟⲟⲣ,noise,صخب,
+ⲕⲟⲣⲣ,snore,يشخر- يربط,
+ⲕⲟⲣⲣⲓ,gecko,البرص المنزلى,
+ⲕⲟⲣⳝ,break - shatter,يكسر  ، يحطم,
+ⲕⲟⲥⲥ,remove - sweep,يزيل  ، يكنس  ، يكسح,
+ⲕⲟⲥⲥⲓ,palm leaves,جريد النخيل,
+ⲕⲟⲥⲥⲓⲣ,broom,مكنسة,
+ⲕⲟⲧⲕⲟⲟⲧ,bad cough,السعال الشديد ,
+ⲕⲟⲩϣϣ,rot,يتعفن,
+ⲕⲟⲩϭϭ,swim,يسبح  ، يعوم,
+ⲕⲟⲩⲟⲩϣ,name of Nubian Kingdoms,اسم ممالك نوبية,
+ⲕⲟⲩⲟⲩϣⲉⲉ,safflower,القرطم ( نبات ),
+ⲕⲟⲩⲟⲩⲣ,fire used by blacksmith - catfish,نار الحداد - سمك القرموط,
+ⲕⲟⲩⲣⲉⲉ,processed dates - ajwa,عجوة  ، الجزء الأمامى من التمر الناضج,
+ⲕⲟⲩⲣⲕⲉ,idea - creativity,فكر  ، ابداع,
+ⲕⲟⲩⲣⲕⲉⲇ,young adult,شاب بالغ,
+ⲕⲟⲩⲣⲕⲓⲣ,thinker - creator,مفكر  ، مبدع ,
+ⲕⲟⲩⲣⲙⲉⲉ,willow plant,نبات الصفصاف,
+ⲕⲟⲩⲣⲟⲩϣϣⲓ,type of Nubian date fruit,نوع من البلح النوبى,
+ⲕⲟⲩⲣⲣ,bend,يلوى  ، ينحنى,
+ⲕⲟⲩⲣⲣⲓⲧⲧⲓ,curvature - twist,انحناء  ، التواء ,
+ⲕⲟⲩⲣⲧⲓ,knee joint - angle - curvature,مفصل الركبة  ، زاوية  ، انحناءة,
+ⲕⲟⲩⲣⲱ,churn,يخض اللبن,
+ⲕⲟⲩⲥ,untie - free,يحل  ، يفك  ، يحرر,
+ⲕⲟⲩⲥⲙ,erase - remove,يمسح  ، يزيل,
+ⲕⲟⲩⲧⲧ,get up,يقوم ,
+ⲕⲟⲩⲧⲧⲓ,fly insect - flying insect,ذبابة  ، حشرة طائرة,
+ⲕⲟⲩⲫⲫ,cover,يغطى,
+ⲕⲟⲫⲁⲣⲉⲉ,henna,الحناء,
+ⲕⲟⲫⲫ,close - imprison - shut up - equal,يقفل  ، يغلق - يسجن - يصمت - يساوى  ، يكافئ,
+ⲕⲟⳝ,plant - cultivate,يغرس  ، يزرع,
+ⲕⲟⳝⲓⲣ,seeds - origin - descendant - wedge - obelisk,بذور - أصل  ، نسل - وتد  ، مسلة ,
+ⲕⲟⳡ,face,وجه,
+ⲕⲟⳡⲁⲗ,mirror,مرآة,
+ⲗⲁⲛⲇⲓ,boat - sail boat,لنش  ، مركب مائى بمحرك ,
+ⲗⲉⲫⲧⲁ,again - repeated,عودة  ، مرة أخرى ,
+ⲙⲁϣⲁⲣ,sun,الشمس,
+ⲙⲁϣⲕ,miss,يشتاق  ، يفتقد,
+ⲙⲁϩⲁⲥ,Mahas - a disrict in Sudan,محس - منطقة فى السودان,
+ⲙⲁⲁϣⲉⲉ,area of half a karet,وحدة مساحة تساوى نصف قيراط,
+ⲙⲁⲁⲅ,suffice - add,يكفى  ، يزيد  ، يضيف,
+ⲙⲁⲁⲇⲓⲗⲗⲉⲉ,I wonder,عجبا,
+ⲙⲁⲁⲙⲉⲉ,plant root,جذر النبات,
+ⲙⲁⲁⲛⲧⲓ, poverty - deprivation,فقر  ، حرمان,
+ⲙⲁⲁⲣ,residetial district,نجع  ، حى سكنى  ، منطقة عامرة,
+ⲙⲁⲁⲣ,does not find,يفتقد ( لم يجد الشيء),
+ⲙⲁⲁⲣⲟⲟ,animal manure,سماد عضوى من روث الحيوانات,
+ⲙⲁⲁⲥ,without,بدون  ، غير  ، ما عدا ,
+ⲙⲁⲁⳝ,tie waist (with a belt or alike),يتحزم  ، يربط وسطه,
+ⲙⲁⲁⳡ,eye,العين,
+ⲙⲁⲁⳡⲅⲁⲧⲧⲓ,envious,الحاسد,
+ⲙⲁⲁⳡⲉⲥⲥⲓ,tears,الدموع ,
+ⲙⲁⲅⲅⲁⲣ = ⲙⲓⲓⲣ,sterile,عاقر,
+ⲙⲁⲓ̈ⲅⲟⲟⲙⲁ,type of perfune,نوع من العطور,
+ⲙⲁⲕⲕⲁⲁⲇⲁ,levantine corn,ذرة شامية,
+ⲙⲁⲗⲗ,gather,يجمع,
+ⲙⲁⲗⲗⲉⲣ,all,الجميع  ، الكل,
+ⲙⲁⲛ,that,ذلك ( اسم إشارة ),
+ⲙⲁⲛⲇⲁⲕⲁ,anvil,السندان,
+ⲙⲁⲛⲇⲟ,over there,هناك ( اسم إشارة ),
+ⲙⲁⲣⲁⲱⲓ,Marawi - a Capital of Nubian Kingdom,مروى - عاصمة مملكة مروى النوبية,
+ⲙⲁⲣⲉⲉ,corn, ذرة ( نبات),
+ⲙⲁⲣⲕ,steal,يسرق ,
+ⲙⲁⲣⲙⲁⲕⲕ,roll over ground,يتقلب على سطح الأرض,
+ⲙⲁⲣⲣ,spray ( a liquid ),يرش (السوائل),
+ⲙⲁⲣⲧⲓ,water field channel,جدول مياه,
+ⲙⲁⲣⲱ,decrease - diminish,ينقص  ، يتضاءل,
+ⲙⲁⲣⳝⲁⲁⲣ,lie ( not a truth),كذبة  ,
+ⲙⲁⲥ, good,طيب,
+ⲙⲁⲥⲥ,whisper,يهمس ,
+ⲙⲁⲧⲧⲟ,east,الشرق ( جهة ),
+ⲙⲁⳟⲓⲥⲥⲉⲉ,grass,حشائش  تشبه النجيل,
+ⲙⲉϣϣ,loosen bowel,يسهل ( يحدث إسهال),
+ⲙⲉϣⲟⲩⲟⲩ,diarrhea,إسهال,
+ⲙⲉⲅⲉⲣ,feel pain - wirth,يتألم  ، يتلوى,
+ⲙⲉⲅⲓⲓⲗ,nap time,وقت القيلولة,
+ⲙⲉⲕⲕ,groan in pain,يئن  ، يتوجع,
+ⲙⲉⲛⳝ = ⲙⲉⳡⳝ,stand up - stop,يقف,
+ⲙⲉⲣ,cut - compose  invent,يقطع   ، يقتطع -     يؤلف  ، يبتكر,
+ⲙⲉⲣⲅ,tie waist with a belt,يربط وسطه بحزام ,
+ⲙⲉⲣⲓⲧⲧⲓ,will - commandment,وصية ,
+ⲙⲉⲥⲉⲗⲉⲉ,story,أسطورة,
+ⲙⲉⲥⲕ,be unable - be weak,يعجز  ، يضعف ,
+ⲙⲉⲥⲥⲟⲩⲟⲩⲃ,mad - crazy,مجنون,
+ⲙⲓⲇⲇ,fill - overflow,يمتلئ  ، يفيض,
+ⲙⲓⲇⲇⲁ,pus,صديد,
+ⲙⲓⲓϭⲓ,famine,مجاعة,
+ⲙⲓⲓⲣ,prevent - block - sterile,يمنع  ، يحجز - عقيم  ، عاقر,
+ⲙⲓⲓⲥ,protect,يحمى  ، يجير,
+ⲙⲓⲗⲗ,twist ( the robe),يفتل ( الحبل ),
+ⲙⲓⲛ,what,ماذا,
+ⲙⲓⲛⲛⲉⲉ,pigeon,الحمام ( من الطيور ),
+ⲙⲓⲣ,run,يجرى,
+ⲙⲓⲥⲗⲁⳟⳟⲓ,snake, ثعبان,
+ⲙⲓⲥⲥ,forgive - purify - spray ( a liquid),يسامح  ، يغفر  ،  يطهر -  يرش ( سائل )     ,
+ⲙⲓⲥⲥⲉⲉ,fasting,الصيام,
+ⲙⲓⲥⲥⲓⲣ,pure - sincere,طاهر  ، مخلص,
+ⲙⲓⳝⲓⲣ,harmful,مضر  ، ضار,
+ⲙⲓⳡⲙⲓⲓⳡ,measles,مرض الحصبة,
+ⲙⲟⲅⲟⲣ,male goat - buck,ذكر الماعز,
+ⲙⲟⲟⲅ,tame, يروض  ، يدرب ( الحيوان ),
+ⲙⲟⲟⲗ,near,قريب ( عكس بعيد ),
+ⲙⲟⲟⲛ,refuse,يرفض,
+ⲙⲟⲟⲣ,tie - pack - wrestling,يربط  ، يحزم  -  مصارعة,
+ⲙⲟⲣⲣ,get wild,يتوحش,
+ⲙⲟⲣⲣⲓⳝ,attack brutally,يهاجم بوحشية,
+ⲙⲟⲩⲅ,leave - give up,يترك  ، يتخلى عن,
+ⲙⲟⲩⲅ,dog,كلب,
+ⲙⲟⲩⲇⲇ,hurt - kill, يؤذى  ، يغتال,
+ⲙⲟⲩⲕⲕ,sail - harvest by cutting,يبحر - يحصد بقطع المحصول,
+ⲙⲟⲩⲕⲕⲉ,river ferry,معدية ( النهر ),
+ⲙⲟⲩⲙⲟⲩⲛⲇ,lose consciousness,يغيب عن الوعى,
+ⲙⲟⲩⲙⲟⲩⲣ,mute,أبكم,
+ⲙⲟⲩⲟⲩϣ,miss - desire - crave,يشتاق  ، يرغب  ، يشتهى,
+ⲙⲟⲩⲟⲩⲗⲉⲉ,big mountain,جبل ضخم,
+ⲙⲟⲩⲟⲩⲛⲉⲉ,flucca,فلوكة,
+ⲙⲟⲩⲟⲩⳝⲟⲩ,affiliation - roots - breadwinner,انتماء  ، جذور  ، عائل,
+ⲙⲟⲩⲟⲩⳝⲟⲩ ⲕⲓⳡⳡⲓ,homeless - without a family, مشرد  ، بلا عائل,
+ⲙⲟⲩⲣⲙⲟⲩⲣ,twitch,ينتفض,
+ⲙⲟⲩⲣⲧ,rule - possess - tame,يحكم  ، يمتلك  ، يروض,
+ⲙⲟⲩⲣⲧⲓ,horse,حصان,
+ⲙⲟⲩⲥⲗ,get angry,يغضب,
+ⲙⲟⲩⲥⲗⲁⲛⲇⲓ,misery,شقاء  ، تعاسة ,
+ⲙⲟⲩⲥⲟⲩⲅⳝ,smile,يبتسم,
+ⲙⲟⲩⲧⲧ,cut,يقطع,
+ⲙⲟⲩⲧⲧⲓ,only bread,خبز حاف,
+ⲙⲟⲩⲧⲧⲟⲩⲅ,tie - pair - make a knot,يربط  ، يقرن  ، يعقد ( عقدة ),
+ⲙⲟⲱⲱ,flirt - elude,يغازل  ، يراود ,
+ⲙⲟⳝ,tie, يقيد  ، يعقد,
+ⲃⲁⲁⲣⲓⲓ̈ⲁ,wide grass land - migrant away,بادية - مهاجر بعيدا,
+ⲛⲉⲓ̈ⲓ̈,swell,ينتفخ  ، يورم ,
+ⲛⲓⲓ̈ⲓ̈,curdle ( milk ),يتخمر  ، يتخثر ( اللبن ),
+ⲛⲁϭϭⲓ,desert,صحراء  ، خلاء,
+ⲛⲁⲁⲃ, not sharp,غير حاد ( السكين وما شابه ),
+ⲛⲁⲁⲃⲉⲉ,sin,ذنب,
+ⲛⲁⲁⲃⲓⲣ,commit a sin,يذنب,
+ⲛⲁⲁⲓ̈,who,من  ( استفهام ),
+ⲛⲁⲁⲣ,praise,يمدح  ، يثنى على - يتفاخر,
+ⲛⲁⲁⲣⲓⲓ,arrogant,متفاخر  ، متكبر,
+ⲛⲁⲁⲧⲧ,scream ( child ),يصرخ  ، يبكى بشدة ( للطفل ),
+ⲛⲁⲁⲫ,disappear,يختفى ,
+ⲛⲁⲁⲫⲓⲣ,hide,يخفى  ، يخبئ,
+ⲛⲁⲁⳟ,plant  seeds,يغرس البذور,
+ⲛⲁⲁⳟⲓⲣ,cultivation of cliff and riverside,زراعة الجروف والشواطئ,
+ⲛⲁⲁⳡ,weak - soft,ضعيف  ، لين,
+ⲛⲁⲃ,gold,الذهب,
+ⲛⲁⲃⲁ,locust,جراد,
+ⲛⲁⲃⲣⲁ,golden color,ذهبية اللون,
+ⲛⲁⲃⲣⲓ = ⲛⲟⲃⲣⲓⲓ,golden color,ذهبى اللون,
+ⲛⲁⲅⲣⲓϣ = ⲛⲉⲅⲣⲓϣ,play the tambourine,يعزف على الطار,
+ⲛⲁⲅⲣⲓϣⲁⲁⲇ,a play on the tambourine,عزف على الطار,
+ⲛⲁⲇⲇ,fall,يقع,
+ⲛⲁⲕⲕ,float,يطفو,
+ⲛⲁⲗ = ⲛⲉⲗ,see -  explore,يرى - يستكشف,
+ⲛⲁⲗⲗ,hit hard,يضرب بقوة,
+ⲛⲁⲗⲟⲩⲟⲩ,sleepness,نوم,
+ⲛⲁⲣ,tongue,لسان,
+ⲛⲁⲣⲓ̈,become sleepy,ينعس,
+ⲛⲁⲣⲕ,drip, ينقط ( للسوائل ) - يقطر,
+ⲛⲁⲣⲣ,sour,لاذع  ، مر  ، حامض,
+ⲛⲁⲥⲥⲓ,tall,طويل  ، عال,
+ⲛⲁⲱⲁ,animal skin,جلد كائنات,
+ⲛⲉⲃⲉⲇ,stare,يحملق,
+ⲛⲉⲉⲃⲁⲣ,big needle,إبرة كبيرة,
+ⲛⲉⲉⲣ,sleep,ينام,
+ⲛⲉⲉⲱⲅ = ⲥⲉⲉⲱⲅ,breathe,يتنفس,
+ⲛⲉⲉⳝ,deaf,ٱطرش,
+ⲛⲉⲓ̈ⲅⲓⲇ,swelling,ورم,
+ⲛⲉⲕⲕ,extend - hurry up - speed up,يمد - ىسرع  ، يستعجل,
+ⲛⲉⲗⲗⲓ = ⲕⲉⲣⳟⲓⲓⲇ,ember,جمرة نار ,
+ⲛⲉⲧⲧⲓ,sky - space,السماء  ، الفضاء,
+ⲛⲉⲫⲇ,escape,يفلت  ، ينقذ نفسه,
+ⲛⲓ,drink,يشرب  ، يرتوى ,
+ⲛⲓϭϭ,sew,يخيط,
+ⲛⲓⲃⲁⲣⲉ,needle,إبرة,
+ⲛⲓⲃⲃⲓⲣ,sew - weave, يخيط  ، ينسج,
+ⲛⲓⲃⲓⲇ,spread made of palm fronds,مفرش من سعف النخيل,
+ⲛⲓⲃⲓⲣ,wooden mixer,مفراك,
+ⲛⲓⲓϣ,saw,ينشر ( الخشب ),
+ⲛⲓⲓⲇ,tooth,سن  ، ضرس,
+ⲛⲓⲓ̈ⲓ̈ⲟ,curdled,متخثر ,
+ⲛⲓⲓⲥ,squweeze, يعصر ,
+ⲛⲓⲓⲥⲓ,past year,العام الماضى,
+ⲛⲓⲥⲁⲣ,dream,حلم,
+ⲛⲓⲧⲧ,weave,ينسج,
+ⲛⲓⲫⲫ,mix,يخلط,
+ⲛⲓⳝⲓ,palm fronds,سعف النخيل,
+ⲛⲟⲃ,Nubian,نوبى ( نوبيون ),
+ⲛⲟⲃⲓⲓⲛ,Nubian language -   fadiga mahasi,اللغة النوبية ( فاديجا - محسى ),
+ⲛⲟⲃⲟⳝ,crawl on the belly,يزحف على بطنه ,
+ⲛⲟⲅ,go,يذهب  ، يبتعد,
+ⲛⲟⲅⲟⲇⲟ,bride,عروس ,
+ⲛⲟⲇⲇ,cut - pick,يقطع  ، يقطف,
+ⲛⲟⲟϣ,scratch,يحك ,
+ⲛⲟⲟⲅ,house,بيت  ، منزل - غرفة,
+ⲛⲟⲟⲓ̈,ghee - fat - oil - to paint oil - to wipe,سمن  ، دهن  ، زيت - يدهن  ، يمسح,
+ⲛⲟⲟⲓ̈ⲓⲣ,sprinkle with ashes, يرش بالرماد,
+ⲛⲟⲟⲣ,God - owner,الرب - صاحب ( مالك ),
+ⲛⲟⲣⲟⲇ,feel by touch,يتحسس,
+ⲛⲟⲣⲟⲟⲇ,small granules - small,حبيبات صغيرة,
+ⲛⲟⲣⲣ,grind,يطحن  ، يسحق,
+ⲛⲟⲩⲅⲟⲩⲇ,follower,تابع,
+ⲛⲟⲩⲗⲟⲩ,white,أبيض ( لون ),
+ⲛⲟⲩⲟⲩⲃⲁ,Nubia,النوبة,
+ⲛⲟⲩⲟⲩⲇ,ear of plant,سنبلة,
+ⲛⲟⲩⲟⲩⲣ,grind,يطحن,
+ⲛⲟⲩⲟⲩⲣ,shadow,ظل,
+ⲛⲟⲩⲥⲛⲟⲩⲥ,whisper,يهمس,
+ⲛⲟⲩⲱⲱ,nap,يقيل ( يستريح وسط النهار),
+ⲛⲟⳡ = ⲛⲉⳡ,get wet,يبتل,
+ⲛⲟⳡⲓⲣ = ⲛⲉⳡⲓⲣ,wet,يبل  ، يغمر بالماء ، ينقع,
+ⲟⲃⲟⲗ,riverside - bench - stone base,ضفة النهر - مسطبة - قاعدة حجرية,
+ⲟⲃⲟⲅ,water entrance to agricultural basin - stubid,مدخل الماء إلى الحوض الزراعى - شخص أبله,
+ⲟⲟⲃⲉⲉ = ⲉⲉⲃⲟⲟ,animal manure - fertilizer, روث الحيوانات  ، سماد طبيعى,
+ⲟⲅ,chest - front,صدر  ، مقدمة,
+ⲟⲅⲟϭ = ⲟⲅⲓⳝ,man - husband,رجل  ، زوج,
+ⲟⲅⲟⲗ,the first,الأول,
+ⲟⲅⲅⲓⲗ,disable,يعطل,
+ⲟⲟⲅⲓⲣ,invite,يدعو  ، يستدعى  ، يستضيف,
+ⲟⲟⲅ,call upon God - seek refuge - say,يدعو الله  ، يستحير  ، ينطق,
+ⲟⲅⲟⲟⲇ,get up,يقوم من رقاد أو من جلوس,
+ⲟⲅⳝⲓⲣⲓⲓ,men - hasbands, رجال  ، أزواج,
+ⲟⲇⲇ,get sick,يمرض,
+ⲟⲇⲇⲓ,perfume paste,معجون عطور,
+ⲟⲇⲇⲟⲟⲣ = ⲉⲇⲇⲟⲣ,perhaps,ربما  ، لعل  ، يمكن,
+ⲟⲟⲓ̈,foot,رجل  ، قدم ,
+ⲟⲓ̈ⲓ̈ⲉⲉ = ⲱⲉⲓ̈ⲓ̈ⲉⲉ,okra,بامية  ، ويكة,
+ⲟⲕⲕ,ride - get above -- increase - add,يركب  ، يعتلى - يزيد  ، يضيف,
+ⲟⲕⲕⲁⲅⲟⲟⲛ,very,جداً  ، بشدة,
+ⲟⲕⲕⲟⲗ,fox,ثعلب,
+ⲟⲗⲗ,hang - suspend -- scoop water,يتدلى  ، يتعلق - يغرف أو يملأ الماء,
+ⲟⲗⲗⲓ,rhythmic clapping -- body,تصفيق ايقاعى باليد فى ساحة الرقص - جسم,
+ⲟⲗⲗⲓⲓⲇ,light weight  - fast mover,خفيف الوزن  ، سريع الحركة,
+ⲟⲗⲗⲓ'ⲛ ⲛⲟⲩⲟⲩⲣ,body shadow,ظل الجسم,
+ⲟⲗⲟⲱ,thin - weak,رفيع  ، رقيق  ، ضعيف,
+ⲟⲟⲙⲓⲣ,count,يعد  ، يحسب,
+ⲟⲛⲇⲓ,male,ذكر,
+ⲟⲣⲣ,suffer - hurt -- tear - slit,يتوجع  ، يتألم - يمزق  ، يشرط,
+ⲟⲣⲟⲙ,cold,برد,
+ⲟⲣⲕⲓⲣ,make it cold,يبرد,
+ⲟⲣⲅ,get hungry at night,يجوع ليلاً,
+ⲟⲣⲣⲉⲉ,peas,البازلاء,
+ⲟⲣ,river,نهر,
+ⲟⲣ'ⲛ ⲧⲓⲓ,seahorse,فرس البحر,
+ⲟⲣⲟ,south,جهة الجنوب,
+ⲟⲣⲟⲥ,thank,يشكر,
+ⲟⲣⲟⲥⲓⲣ,rhank - appreciate,يشكر  ، يمتن,
+ⲟⲣⲃⲟⲕⲕ,wallow - roll in the soil,يتمرغ  ، يتقلب فى التراب,
+ⲟⲟⲥ,take out - release,يخرج - يحرر ,
+ⲟⲥⲕⲟⲇ,nine (the number 9 ),تسعة ( الرقم ٩ ),
+ⲥⲟⲩⲙⲁⲣⲕ,be in a hurry,يستعجل,
+ⲟⲟⲥⲓⲣ,seedling or offshoot of datetree,فسيلة النخلة,
+ⲟⲟⲥⲥⲓ,animal manure,روث الحيوانات,
+ⲟⲧⲧⲓ,son-in-law -- daughter-in-law,نسيب  ، نسيبة,
+ⲟⲫⲁⲁ,revenge,ثأر,
+ⲟⲫⲗⲟⲅ,idiot,أبله,
+ⲟⲱⲱ,curse,يشتم,
+ⲟϣϣⲓ,worshiper - wise -- slave, عابد  ، حكيم - رقيق,
+ⲟϣⲕⲓⲣⲓⲓⲛ,Nubian language dialect ( Dungula and Kunuz ),لهجة نوبية ( دنقلا و الكنوز ),
+ⲟⳡ,cry -- regret - ask for forgiveness,يبكى - يندم  ، يستغفر,
+ⲕⲁⲣⲁⲁⲕ,take off - break free,ينطلق  ، يفلت من قيده,
+ⲉⲓⲥⲥⲉⲉ,dough,عجين الدقيق,
+ⲉⲉⲣⲉ,read,يقرأ,
+ⲉⲣⲓⲕⲕⲓⲣ,take someone with him,يصطحب معه,
+ⲕⲟⲥⲟⲣⲓⲓⲛ,scissors,مقص,
+ⲟⲩⲟⲩⲃ,lean - prostrate,يميل  ، يسجد  ، ينقلب  ، ينعكس  ، يدور  ، يعود  ،  يتوب  ، يستغفر,
+ⲟⲩⲃⲃ,scatter,يتناثر  ، يتطاير,
+ⲟⲩⲃⲃⲁ,light - weightless,خفيف  ، بلا وزن,
+ⲟⲩⲃⲟⲩⲣⲧⲓ,fire ashes,رماد الحريق,
+ⲟⲩⲗⲃⲓⲇ,Nubian bread made with onion or sugar,قرص مخبوز نوبى بالبصل أو بالسكر,
+ⲟⲩⲅⲓⲣ,age,عمر- مدة الحياة,
+ⲟⲩⲅⲓⲣⲉⲉⲥ,day time,نهار,
+ⲟⲩⲟⲩⲅⲓⲣ,begin - start,يبدأ  ، يستهل,
+ⲟⲩⲇⲟⲩⲗ,menstruation,العادة الشهرية  للأنثى  ، نزول الطمث,
+ⲟⲩⲇⲟⲩⲗⲙⲉⲣ,menopause,سن اليأس  ، انقطاع الطمث,
+ⲟⲩⲕⲕⲓⲣ,hear,يسمع,
+ⲟⲩⲕⲕⲓ,ear - plant leaf,أذن - ورقة نبات,
+ⲟⲩⲗⲟⲩⲙ,crocodile,تمساح,
+ⲟⲩⲙⲙⲓ ,all,كل  ، جميع,
+ ⲟⲩⲙⲙⲓⲅⲁ - ⲟⲩⲙⲙⲓⲗⲁ,never - generally,أبدا  ، عموما,
+ⲟⲩⲙⲙⲓⲣ,unite - belongs,يجمع  ، ينتمى,
+ⲟⲩⲛⲉⲉ,mind,العقل,
+ⲟⲩⲛⲛ,create -   give birth,يخلق  ، يوجد - تلد الأنثى,
+ⲟⲩⲛⲛⲁⲁⲇ,fetus -  new born,مولود  ، جنين,
+ⲟⲩⲛⲛⲓⲧⲧⲓ,birth,ميلاد,
+ⲟⲩⲛⲛⲁⲧⲧⲓ'ⲛ ⲕⲟⲣⲉⲉ,birthday,عيد ميلاد,
+ⲟⲩⲛⲁⲧⲧⲓ,moon,القمر,
+ⲟⲩⲛⲇⲉⲉ ,the past,زمن ماضى,
+ⲟⲩⲣ,head,رأس  ، مقدمة - زعيم  ، ملك,
+ⲟⲩⲣⲣⲁⲁⲅ,front,أمام,
+ⲟⲩⲣⲧⲓ,livestock specially sheep and goats,أغنام,
+ⲟⲩⲣⲣ,to light - cover - press,يضيء  ، يشعل  ، ينير -   يغطى  ، يردم - يضغط,
+ⲟⲩⲣⲣⲁⲣ,grey hair,شيب  ، شعر أبيض,
+ⲟⲩⲣⲣⲁⲛⲇⲓ,bonfire,موقد,
+ⲟⲩⲣⲟⲩⲇ,coal,فحم,
+ⲟⲩⲣⲟⲩⲙ,black,أسود ( لون ),
+ⲟⲩⲣⲟⲩⲟⲩⲙⲓ,squash,نبات وثمار القرع,
+ⲟⲩⲟⲩⲥ,bad,سيء  ، شرير,
+ⲟⲩⲥⲥⲓ =   ⲟⲩⲥⲗⲁⳟⳟⲓ,snake,ثعبان ,
+ⲟⲩⲥⲥⲟⲩⲟⲩ,column,عمود  ، قائم ,
+ⲟⲩⲥⲟⲩⲣ,anus,شرج,
+ⲟⲩⲧⲧⲓ,harbir,ميناء  ، مرسى,
+ⲟⲩⲧⲧⲟⲩⲟⲩ,people,ناس  ، أهل,
+ⲟⲩⲫⲫ,blow - pierce - make a hole,ينفخ - يخترق  ، يفتح فتحة,
+ⲟⲩⲫⲫⲁⲁⲣ,dust,غبار,
+ⲟⲩⲫⲫⲓ,hole - gap,فتحة  ، ثغرة,
+ⲟⲩⲫⲫⲁ,heat,حرارة  ، سخونة,
+ ⲟⲩⲱⲱⲓⲣ,strength - spirit,قوة  ، روح ,
+ⲟⲩⲱⲱⲟ,two,اثنان ( العدد ٢ ),
+ⲟⲩⲟⲩ,we,ضمير المتكلم نحن,
+ⲟⲩϣⲓⲣ,hit,يضرب,
+ⲟⲩⳟⳟⲓ,perfume - fragrant scent,عطر  ، رائحة زكية,
+ⲟⲩⲟⲩⳡ,Water rises from the bottom of the well - producing milk,يرتفع الماء من قاع البئر  ، يدر اللبن,
+ⲟⲩⲟⲩⳡⲓⲣ,water spring,ينبوع  ، عين ماء,
+ⲥⲁⲃⲥⲁⲃⲉⲉ,willow,صفصاف ( نبات ),
+ⲥⲁⲃⲁⲗⲉⲉ,clay pot for fermenting bread dough,وعاء من الفخار لتخمير عجينة الخبز,
+ⲥⲁⲁⲃ,trim - tip - northern part of an area,يشذب - طرف  ، شطفة - الجزء الشمالى من المنطقة,
+ⲥⲁⲅⲁⲣ,a hug,حضن,
+ⲉⲉⲛ'ⲛ ⲥⲁⲅⲁⲣ,mother's hug,حضن الأم,
+ⲥⲁⲁⲇⲉⲉ,water currents,تيارات مائية,
+ⲥⲁⲁⲓ̈,strut - a clay pot for storing grains and dates,يختال  ، يتبختر - وعاء فخارى لحفظ الحبوب والتمور,
+ⲥⲁⲁⲓ̈ⲓⲣ,miss - missing you,يفتقد  ، يشتاق - مشتاق,
+ⲥⲁⲕⲕⲓ,clay pot,وعاء فخارى,
+ⲥⲁⲕⲕ,break - smash,يكسر  ، يحطم ,
+ⲥⲁⲕⲁⲣⲁⲁⳡ,Nile plant,نبات نيلى,
+ⲥⲁⲗⲃⲟ,barrier fir water flow control,حاجز لضبط انسياب الماء,
+ⲥⲁⲗⲁⳝ,kicking,الضرب بالقدم ,
+ⲥⲁⲁⲗⲉ,talha tree,شجرة الطلح,
+ⲥⲁⲁⲙⲉⲉ,beard - mustache,لحية   ، شنب,
+ⲥⲁⲙⲙ,dry,يجف  ، يذبل - يخجل,
+ⲥⲁⲙⲙⲓⳝⲉⲉ,shyness - regret,خجل  ، ندم,
+ⲥⲁⲙⲁⲕⲕ,chatter,يثرثر,
+ⲥⲁⲙ,courtyard,حوش  ، باحة منزل,
+ⲥⲁⲛⲧⲉ,A bowl from dried pubkin,وعاء من القرع العسلى المجفف,
+ⲥⲁⲛⲧⲉⲉ,saturday,السبت ( من أيام الأسبوع),
+ⲥⲁⲁⲣ,clash - mess around,يشتبك  ، يعبث,
+ⲥⲁⲁⲣⲓⲓ,boat mast,سارية المراكب,
+ⲥⲁⲣⲣⲓ,row,صف  ، سطر  ، مدماك,
+ⲥⲁⲣⲙ,need - desire,يحتاج  ، يرغب,
+ⲥⲁⲣⲙⲁⲁⲛ,needy - poor,محتاج  ، فقير ,
+ⲥⲁⲣⲃ,cut superficially,يقطع قطعا سطحيا,
+ⲥⲁⲣⲃⲉⲉ,finger or toe,إصبع اليد أو القدم,
+ⲥⲁⲁⲣⲓⲧⲧⲓ,quarrelsome,مشاغب,
+ⲥⲁⲧⲧⲓ,pungent - sour - putrid - fermented,لاذع  ، حامض - فاسد  ، متخمر,
+ⲥⲁⲁⲫⲁ,gold and silver four-strand necklace,عقد ذهبى وفضى من أربعة حبال للزينة النسائية ,
+ⲥⲁⲁⲱⲟ,ugly face,قبيح الوجه,
+ⲥⲁⲁⲱⲅⲓⲇ,ugliness,قباحة,
+ⲥⲁⳝ = ⲧⲓⲓⲅ,sit,يجلس,
+ⲥⲉⲉⲃⲓⲣ,walks carefully,يمشى بحذر  ، ينساب فى مشيته ,
+ⲥⲉⲅⲉⲇ,scorpion,عقرب,
+ⲥⲉⲉⲅ,suffocating,يختنق,
+ⲥⲉⲓ̈ⲓ̈,raise - own,يربى  ، يمتلك,
+ⲥⲉⲓ̈ⲓ̈ⲁⲧⲧⲓ,properties,ممتلكات  ، مؤسسات,
+ⲥⲉⲕⲕ,crawl,يزحف,
+ⲥⲉⲕⲕ,sigh - sob - cry,يتنهد  ، ينشج  ، يبكى,
+ⲥⲉⲣ,surround - fence,يحيط  ، يسور,
+ⲥⲉⲣⲓⳟ,barley,نبات وثمار الشعير,
+ⲥⲉⲉⲣ,gravel - small stones - cut - saw,حصى  ، حجارة صغيرة - يقطع  ، ينشر,
+ⲥⲉⲥⲥⲟⲩⲟⲩⲣ,bird,عصفور,
+ⲥⲉⲉⲱ,breathe in and out, يتنفس شهيقا وزفيرا ,
+ⲥⲉⲉⲱ,inherit,يرث,
+ⲥⲉⲉⲱⲁⲧⲧⲓ,inheritance,ميراث,
+ⲥⲟⲩⲟⲩ,milk,لبن  ، حليب,
+ⲥⲟⲩⲅ,heel - base,كعب القدم  ، القاعدة,
+ⲥⲟⲩⲅⲟⲩⲛⲧ = ⲥⲟⲩⳟⲟⲩⲧⲧ,pinch,يقرص,
+ⲥⲟⲩⲟⲩⲇ,empty,فارغ  ، فاضى ,
+ⲥⲟⲩⲇ,slip away - speed up,يفلت  ، يسرع,
+ⲥⲟⲩⲧⲧⲓ,stale - dull - unseemly,بايخ  ، باهت  ، غير لائق,
+ⲥⲟⲩⲕⲕ,descend,ينزل  ، يهبط,
+ⲥⲟⲩⲗⲗ,scatter - spread - sew skins,يبعثر  ، ينشر - يخيط الجلود,
+ⲥⲟⲩⲗⲟⲩⲟⲩ,shoemaker,صانع أحذية  ، جزمجى,
+ⲥⲟⲩⲟⲩⲙ,get weaken - get dizzy,يضعف  ، يدوخ,
+ⲥⲟⲩⲛⲛ,sniff - smell,يشم,
+ⲥⲟⲩⲙⲃⲟⲩⲕ,sharp metal instrument - stake - prank - trick,آلة معدنية حادة  ، خازوق - مقلب  ، خدعة,
+ⲥⲓⲙⲁⲣⲕ = ⲥⲟⲩⲙⲁⲣⲕ,get angry - upset,يغضب  ، يزعل,
+ⲥⲟⲩⲛⲧⲓ,nail - claw,ظفر  ، مخلب,
+ⲥⲟⲩⲣⲣⲓ,staying up late - insomnia,سهر  ، أرق,
+ⲥⲟⲩⲣⲣ,pack, يحزم ,
+ⲥⲟⲩⲣⲅⲁⲇⲉⲉ,Shadoof weight,ثقل الشادوف,
+ⲥⲟⲩⲣⲥⲟⲩⲣ,staggering,يترنح,
+ⲥⲟⲩⲣⲫⲁ,rosary,مسبحة ( سبحة ),
+ⲥⲟⲩⲟⲩⲣ,spray the thing with the liquid until it is submerged,  يرش الشىء  بالسائل حتى الغمر,
+ⲥⲟⲩⲟⲩⲣⲓⲓⲇ,Nubian dish (bread sprinkled with sauce),أكلة نوبية  (خبز مرشوش بالإدام),
+ⲥⲟⲩⲱⲱ,make it hollow - empty,يجوف  ، يفرغ,
+ⲥⲟⲩⲱⲱⲓⲓ,jackal,ابن آوى,
+ⲥⲟⲩⲟⲩⳝ,shorten - decrease,يقصر  ، يقل,
+ⲥⲟⲩⳝⲓ,dwarf - small,قزم  ، صغير,
+ⲥⲟⲃⲉⲉ,hard soil,تربة صلبة,
+ⲥⲟⲟⲃⲁ,strong water current - whirlwind,تيار مائى قوى  ، زوبعة هوائية,
+ⲥⲟⲟⲇ,sharpen,يبرى  ، يشطف,
+ⲥⲟⲟⲧⲧⲓ,wood remains after carving,بقايا الخشب بعد نجره,
+ⲥⲟⲟⲓ̈,solid ground,أرض صلبة,
+ⲥⲟⲟⲙⲉⲉ,limestone,حجر جيرى,
+ⲥⲟⲕⲕ,raise - take,يرفع  ، يأخذ,
+ⲥⲟⲗⲟⲃⲁ,thick rope,حبل غليظ,
+ⲥⲟⲗⲟⲅ,steal - pickpocket,يسرق  ، ينشل,
+ⲥⲟⲟⲗ,field decoy - statue - deceive - cheat,خيال الحقول - تمثال - يخدع  ، يغش,
+ⲥⲟⲗⲗ,rocking - sitting on tiptoe,يتأرجح - يجلس على أطراف قدميه,
+ⲥⲟⲟⲙ ,Itching,يحك,
+ⲥⲟⲟⲛ,play - gamble,يلعب  ، يقامر,
+ⲥⲟⲣⲟⳟ = ⲥⲟⲣⲓⳟ,nose, أنف,
+ⲥⲟⲣⲧⲟⲟⳡⲁ,purslane,الرجلة ( نبات ),
+ⲥⲟⲱⲁⲣⲉⲉ,a nocturnal bird like a bat,طائر ليلى كالوطواط,
+ⲥⲟϩⲟⲣ,lung,رئة,
+ⲥⲟϩⲟⲅ,soft - tender,لين  ، طرى,
+ⲥⲟⳟⳟ,wash ( clothes ),يغسل الملابس,
+ⲥⲓⲃⲉⲉ,silt - wet clay,طمى  ، طين مبلول,
+ⲥⲓⲅⲓⲣ,boat  - ship - ferry,مركب  ، قارب  ، معدية,
+ⲥⲓⲅⲇ,to cut off - to cut off part by part - pain - wound,يقرض  ، يقطع جزءا جزءا - ألم  ، جرح,
+ⲥⲉⲅⲉⲇ,scorpion,عقرب,
+ⲥⲓⲇⲉⲉ,talha tree,شجرة الطلح,
+ⲥⲓⲣⲇⲟ,where,أين,
+ⲥⲓⲓⲕⲕ = ⲥⲉⲉⲅ,suffocating,يختنق,
+ⲥⲓⲓⲕⲕⲓ,chick,كتكوت,
+ⲥⲓⲗⲁⲙ,copper pot,إناء نحاسى,
+ⲥⲓⲙⲙ,choke - stifle - seal - shut up,يختنق  ، يكتم  ، يحكم الغلق - يصمت,
+ⲥⲓⲛⲧ,getting ready,يتأهب  ، يستعد,
+ⲥⲓⲛⲧⲓ,thorny tree branches,أغصان شجر شوكية,
+ⲥⲓⲣⲣ,make a sound - whistle,يصوت  ، يصفر ,
+ⲥⲓⲓⲣ,Hair - Placenta - Strangle - Pack,شعر - المشيمة - يخنق  ، يحزم,
+ⲥⲓⲣⳝ,skating,يتزحلق,
+ⲥⲓⲣⲣⲓⳟ,cumin,كمون ( من البهارات ),
+ⲥⲓⲣ,interrogative prefix,بادئة استفهامية,
+ⲥⲓⲣⲕⲓⲣ,how,كيف,
+ⲥⲓⲓⲧⲧⲓ,straw - hay,تبن ,
+ⲥⲓⲧⲧⲓⲓ,polite girl,فتاة مهذبة,
+ⲥⲓⲫⲫ,escort the groom,يزف,
+ⲥⲓⲫⲁⲁ,groom escorting,زفة,
+ⲥⲓⲓⲱ,sand - sandy ground,رمل  ، أرض رملية,
+ⲥⲓⲓϭ,have diarrhea,يسهل ( إسهال ),
+ⲥⲓⲓϭⲁⲁⲇ,diarrhea,إسهال,
+ⲥⲓⳝⲓⲕⲕ,spit,يبصق,
+ⲥⲓⳟⳟ,be silent - be calm,يصمت  ، يهدأ,
+ⲥⲓⳟⳟⲟ,bowl - plate,وعاء  ، صحن,
+ⲧⲁⲁ,confirmation tool - emphasis tool,أداة تحقيق,
+ⲧⲁⲃⲓⲇ,goldsmith - blacksmith,صائغ  ، حداد,
+ⲧⲁⲁⲃ,a Nubian game played using pieces of palm fronds,لعبة نوبية تلعب باستخدام قطع من جريد النخل,
+ⲧⲁⲃⲁⲣ,watercress,جرجير,
+ⲧⲁⲅⲁⳝ,nape,القفا,
+ⲧⲁⲕⲕ,to plant - to sow - to place seeds by hand in the soil,يحشر - يغرس  ، يضع البذور باليد فى التربة,
+ⲧⲁⲗⲗⲉⲉ,sewing needle,إبرة خياطة,
+ⲧⲁⲙⲁⲗ,support - help,يسند  ، يساعد,
+ⲧⲁⲙⲉⲉ,supporter - helper,سند  ، معين,
+ⲧⲁⲙⲁⲕⲕⲓ,watermelon,البطيخ,
+ⲧⲁⲙⲃⲓⳝ,fill the container with liquid until it overflows,يملأ السائل فى إناء حتى يفيض,
+ⲧⲁⲙⲧⲁⲁⲙ,stuttering,يتأتأ فى الكلام  ، غير مفهوم الكلام,
+ⲧⲁⲛⲅⲟⲩⲟⲩⲣ,western bank,ضفة غربية ,
+ⲧⲁⲛⳝ,taste,يتذوق,
+ⲧⲁⲛⳝⲓⲓⲗⲓ,connoisseur - cooking expert,متذوق  ، خبير الطبخ,
+ⲧⲁⲙⲃⲟⲩⲟⲩⲣ,tambur ( Nubian stringed music instrument) ,آلة الطمبور الوترية,
+ⲧⲁⲣ,he - she - it,هو( ضمير الغائب)  ، هى,
+ⲧⲁⲁⲣ,come - bring - tar ( tambourine ),يأتى  ، يحضر - آلة الطار أو الدف,
+ⲧⲁⲣⲱ,To be blessed - to visit a holy place  - to be blessed - to bless - to purify,يتبرك  ، يزور مكان مقدس للتبرك  ، يبارك  ، يطهر,
+ⲧⲁⲣⲕ,mourning for a deceased person - to lean against something,يقيم الحداد على متوفى - يستند على شىء,
+ⲧⲁⲣⲕⲁⲣ,backrest - support,مسند  ، ركيزة,
+ⲧⲁⲣⲕⲓⲓⳡ,a Nubian meal from of salted fish, ملوحة  ، وجبة نوبية من السمك المملح,
+ⲧⲁⲧⲧ,staggering - baby takes his first walk,يترنح  ، يمشى الطفل مشيته الأولى,
+ⲧⲁⲧⲧⲓ,colocynth,ثمرة ونبات الحنضل,
+ⲧⲁⲫⲫ,dip in liquid - touch - feel - console - share sorrows,يغمس فى سائل - يلمس  ، يتحسس - يعزى  ، يشاطر الأحزان,
+ⲧⲁⲫⲫⲁⲣ,condolences,تعزية لوفاة,
+ⲧⲁⲱⲱⲟ,down, أسفل (  جهة),
+ⲧⲁⲁϭ,call - summon,ينادى  ، يستدعى,
+ⲧⲁⳟⲓⲥ,name - surname - origin,اسم  ، لقب - منبت  ، أصل,
+ⲧⲁⳡⳡ,walk - go,يسير  ، يمشى  ، يمضى,
+ⲧⲉⲃⲉⲣ,stick in, يحشر,
+ⲧⲉⲃⲃⲁⲓ̈,search,يبحث  ، يفتش,
+ⲧⲉⲉⲃⲁⲣ,useful - favorite,مفيد  ، مفضل,
+ⲧⲉⲅⲉⲛⳝⲉ,dysentery,الدسنتاريا ( مرض),
+ⲧⲉⲇ,law,قانون,
+ⲧⲉⲓ̈ⲓ̈,contemplate - daydream,يتأمل   ، يسرح بخياله,
+ⲧⲉⲓ̈ⲓ̈ⲁⲣ,hope,الأمل,
+ⲧⲉⲕⲕⲓⲣ,cheat - deceive,يخدع  ، يغش,
+ⲧⲉⲉⲗ,get very hot,يسخن بشدة,
+ⲧⲉⲗⲉⲉⲱ,melt - liquefy - dissolve,يسيح  ، ينصهر  ، يذوب,
+ⲧⲉⲙⲉⲣ,neighbor,جار ,
+ⲧⲉⲙⲓⲗⲗⲓ,always,دائما  ، دوما,
+ⲧⲉⲣ,they,هم ( ضمير غائب)  ، هن,
+ⲧⲉⲣⲉⲉ,key,مفتاح,
+ⲧⲉⲉⲙ,break - chop - peel,يكسر  ، يقطم  ، يقشر,
+ⲧⲉⲉⲣⲁⲁⲃ,plant seeds,بذور نباتات,
+ⲧⲉⲉⲱ,get lost - daydream,يضل  ، يتوه - يسرح بخياله,
+ⲧⲟⲩⲟⲩ,belly - inside - conscience -  mind,بطن  ، داخل - الضمير  ، الخاطر,
+ⲧⲟⲩⲟⲩ'ⲛ ⲧⲟⲟⲇ,stomach,المعدة,
+ⲧⲟⲩⲟⲩⲃ,dive - walk in water,يغوص  ،  يمشى فى الماء,
+ⲧⲟⲩⲟⲩⲅ,wind - whirlwind,رياح  ، زوبعة,
+ⲧⲟⲩⲇⲇⲓ,pillar,دعامة,
+ⲧⲟⲩⲕⲕ,hit - mint a coin,يسك عملة - يضرب,
+ⲧⲟⲩⲕⲕⲓⲛⲇⲓ,bat - hammer,مضرب  ، مطرقة,
+ⲧⲟⲩⲕⲟⲩⲗ,kitchen,المطبخ,
+ⲧⲟⲩⲕⲟⲩⲙ = ⲧⲟⲩⲅⲟⲩⲙ,waterwheel driver's seat,مقعد سائق الساقية,
+ⲧⲟⲩⲗⲗ,spreads - exudes,ينتشر  ، يفوح ,
+ⲧⲟⲩⲗⲗⲓⲕⲓ,burning incense,يبخر بخور,
+ⲧⲟⲩⲗⲗⲓ,cigarettes - smoke - tobacco,سجاير  ، دخان  ، تبغ,
+ⲧⲟⲩⲙⲃⲟⲩⲥ,severe blow to the abdomen,ضربة شديدة فى البطن,
+ⲧⲟⲩⲛⲛ,expends energy - suffers,يبذل طاقة - يتوجع,
+ⲧⲟⲩⲛⲛⲁⲣ,labor,الطلق عند الولادة,
+ⲧⲟⲩⲟⲩⳡⲓⲓ,sons,أنجال  ، أبناء,
+ⲧⲟⲩⲣⲕ,light a fire,يشعل نار,
+ⲧⲟⲩⲣⲕⲁⲣ,fireplace,موقد نار ,
+ⲧⲟⲩⲣ,chase - speed up,يطرد ، يطارد - يسرع,
+ⲧⲟⲩⲣⲓⲧⲧⲓ,a pursuit - a chase,ملاحقة  ، مطاردة,
+ⲧⲟⲩⲣⲟⲩⳟⳟ,be in a hurry,يستعجل,
+ⲧⲟⲩⲣⲫⲁ,failing - disappointing,فاشل  ، خائب,
+ⲧⲟⲩⲥⲕⲟ,three,ثلاثة ( العدد ٣),
+ⲧⲟⲩⲥⲕⲟⲩⲧⲧⲓ,one third,ثلث,
+ⲧⲟⲩⲥⲕⲓⲧⲧⲓ,the fhird,الثالث,
+ⲧⲟⲩⲥⲕⲟⲛⲇⲓ,thirty,ثلاثون ( العدد ٣٠),
+ⲧⲟⲩⲟⲩⲥ,invoke evil - harbor evil,يدعو على  ، يضمر الشر,
+ⲧⲟⲩⲱⲱ,be stingy - envy - ostracize - expel,يبخل  ، يحسد   ، ينبذ  ، يطرد,
+ⲧⲟⲩϣϣ = ⲧⲓϣϣ,get lost,يتوه  ، يضل الطريق,
+ⲧⲟⲩⳟⳟ,,يصعق  ، يكهرب,
+ⲧⲟⲩⳟⳟⲉⲉ,,سمكة رعاشة النيل  ، رعادة النيل  ، سمكة برادة,
+ⲧⲟⲃ ,fill in - cover,يردم  ، يغطى,
+ⲧⲟⲅⲟ,terrace,مصطبة,
+ⲧⲟⲅⲙⲁⲇ,space between planting beds in the field,الفاصل بين أحواض الزرع فى الحقل,
+ⲧⲟⲅⲟⲣ,fix - maintain,يصلح  ، يصون,
+ⲧⲟⲅⲟⲣⲓⲓⲇ,maintenance - repair,صيانة  ، تصليح,
+ⲧⲟⲟⲅ,hit - punish,يضرب  ، يعاقب,
+ⲧⲟⲅⲟⳝ,slingshot to repel birds in the field,مقلاع لطرد الطيور فى الحقل ,
+ⲧⲟⲇⲇ,support,يدعم,
+ⲧⲟⲇⲇⲓⲣ,member - associate, عضو  ، مشارك,
+ⲧⲟⲩⲇⲇⲓ,wall supporting adjacent pillar,دعامة حائطية ,
+ⲧⲟⲇⲇⲉ,sharing - subscription,مشاركة  ، اشتراك,
+ⲧⲟⲟⲇ,son,ابن  ، ولد  ، مولود,
+ⲧⲟⲟⲇ'ⲛ ⲛⲟⲟⲅ,uterus, رحم ( مكان الجنين),
+ⲧⲟⲕⲕⲓⳝ,revolt,يثور  ، ينتفض,
+ⲧⲟⲟⲓ̈,sweep,يكنس  ، يكسح,
+ⲧⲟⲕⲕ,roast on fire - hesitate - retreat,يشوى على النار - يتردد  ، يتراجع,
+ⲧⲟⲕⲕⲁⲁⲇ,grilled - burnt - reed mat,مشوى  ، محروق - حصيرة من البوص,
+ⲧⲟⲗⲗ,pull - drag - borrow - prolong - slow down,يجر  ، يسحب - يستدين - يطيل  ، يتمهل,
+ⲧⲟⲙⲟⲥ,squeeze hard,يحشر بقوة,
+ⲧⲟⲛⲅⲟⲟⲣ,tear (muscle),يتمزق ( للعضل ),
+ⲧⲟⲛⲅⲟⲟⲣⲉⲉ,muscle tear,تمزق عضلى,
+ⲧⲟⲣⲃ,flatten the ground,يسوى الأرض,
+ⲧⲟⲣⲃⲁⲣ,farmer - peasant,مزارع  ، فلاح,
+ⲧⲟⲣ,increase,يكثر  ، يزيد ,
+ⲧⲟⲟⲣ,enter - participate,يدخل - يشارك,
+ⲧⲟⲥⲥⲓ,flood - deluge of water - high waves,فيضان  ، طوفان مياه - أمواج عالية,
+ⲧⲟⲫⲫ,wander - walk around,يطوف  ، يتجول,
+ⲧⲟⲫⲫⲉⲉ,a perfume mixture for the bride's hair - a small pillow placed on the head to carry heavy objects,خلطة عطور لشعر العروس - وسادة صغيرة  توضع على الرأس لحمل أشياء ثقيلة,
+ⲧⲓⲓ,cow,بقرة,
+ⲧⲓⲃⲃ,jump - rage -  wave,يقفز - يموج  ، يثور,
+ⲧⲓⲃⲓϣ,Agour plant,نبات وثمرة العجور,
+ⲧⲓⲃⲓⲣ,raw gold,خام الذهب,
+ⲧⲓⲃⲓⲓⲥ,swell - painfull,يورم  ، يؤلم التهاب الجرح,
+ⲧⲓⲃⲓⲥⲥⲓ,iron drill rod, قضيب حفر من الحديد,
+ⲧⲓⲃⲓⲗ,cheek,الخد,
+ⲧⲓⲓⲅ = ⲥⲁⳝ,sit,يجلس  ، يقعد,
+ⲧⲓⲅ,follow the trail - search - investigate,يتبع الأثر  ، يفتش  ، يبحث,
+ⲧⲓⲅⲓⲣ,cover,يغطى ,
+ⲧⲓⲓ̈ⲓ̈,imitate - mimic - act - impersonate,يقلد ، يحاكى  ، يمثل  ، يتقمص,
+ⲧⲓⲓ̈ⲓ̈ⲉⲉ,acting - simulation,تمثيل  ، محاكاة,
+ⲧⲓⲓ̈ⲓ̈ⲓⲓ,actor,ممثل,
+ⲧⲓⲓ̈ⲓ̈ⲁⲧⲧⲓ,a play,مسرحية,
+ⲧⲓⲗⲗⲓ,thread,خيط,
+ⲧⲓⲗⲗⲓⲓ,tailor,خياط,
+ⲧⲓⲗⲗⲓⲓⳝ,stupid,غبى,
+ⲧⲓⲙⲓⲛⳝ,shine - glow,يسطع  ، يتوهج,
+ⲧⲓⲛⲟ,west,غرب ( جهة ),
+ⲧⲓⲛⲅⲁⲁⲣ,western bank of the river,ضفة غربية للنهر,
+ⲧⲓⲛⲅⲓⲗ,hammer,مطرقة ,
+ⲧⲓⲣ,give,يعطى  ، يهب,
+ⲧⲓⲣⲓⲙ,fox,ثعلب,
+ⲧⲓⲓⲣ,confront -counter - meet -  reflect - resist,يواجه  ، يتصدى  ، يقابل  ، يعكس  ، يقاوم,
+ⲧⲓⲣⲓⲃ,sickle,منجل,
+ⲧⲓⲣⲓⲥⲥⲓ,iron - metal - stupid person,حديد  ، معدن - شخص غبى,
+ⲧⲓⲥⲥ,hate,يكره,
+ⲧⲓⲥⲥⲓ,thread,خيط ,
+ⲧⲓⲫⲫ,dust off - clean up - spy on - inform,ينفض  ، ينظف - يتجسس  ، يستخبر,
+ⲧⲓⲓⳝⲓⲣ,act fairly,يعدل  ، يقسط,
+ⲧⲓⲓⳝⲓⲧⲧⲓ,Judge - fair,قاضى  ، عادل,
+ⲧⲓⳝⲁⲁⲛ,logical - reasonable,المنطقى  ، المعقول,
+ⲧⲓϣⲙⲟ,darkness - blackness,ظلام  ، سواد,
+ⲁⲗⲓ ⲫⲓⲗⲉⲇ =  ⲁⲣⲣⲟⲩⲟⲩ'ⲛ ⲫⲉⲗⲉ,lightning,البرق,
+ⲟⲩⲣ ⲫⲟⲟⳡⲁ,bald head,رأس أصلع,
+ⲫⲁ,Prefix meaning will, بادئة بمعنى سوف,
+ⲫⲁϣϣ,stretch out - spread out,يتمدد   ، يفترش,
+ⲫⲁϣⲫⲁⲁϣ,lung, رئة,
+ⲫⲁⲁ,agricultural basin,حوض زراعى,
+ⲫⲁⲁⲃ,father,أب  ، والد,
+ⲫⲁⲁⲓ̈,write - document - record,يكتب ، يوثق  ، يسجل ,
+ⲫⲁⲁⲓ̈ⲓⲛⲇⲓⲓ,pen - writing instrument,قلم  ، أداة كتابة,
+ⲫⲁⲁⲗ,behavior - trait,سلوك  ، طبع  ، صفة,
+ⲫⲁⲁⲗⲁ,clay pot,وعاء فخارى يقدم فيه الطعام,
+ⲫⲁⲁⲗⲓⳝ,cripple,كسيح  ، مقعد,
+ⲫⲁⲁⲗⲟⲩⲟⲩⲅ,stupid - dull,غبى  ، بليد ,
+ⲫⲁⲁⲣ,old - worn,قديم  ، مهترئ,
+ⲫⲁⲁⲥ,to wound - to bleed - to cut open,يجرح  ، يفصد - يشق شلخ ,
+ⲫⲁⲁⲱⲓⲣ = ⲫⲁⲁⲓ̈ⲓⲣ,kill,يقتل  ، يميت,
+ⲫⲁⲁⳝⲓⲛ,however,رغم ذلك,
+ⲫⲁⲅ,divide - distribute - goat,يقسم  ، يوزع - معزة,
+ⲫⲁⲅⲁⲁⲇ,distribution - division,توزيع  ، تقسيم ,
+ⲫⲁⲅⲁⲧⲧⲓ,half,نصف,
+ⲫⲁⲅⲓⲧⲧⲓ,share - entitlement - some,نصيب  ، استحقاق  ، بعض,
+ⲫⲁⲅⲟⲟⲛ,summer,فصل الصيف,
+ⲫⲁⲕⲕ,burst - explode,ينفلق  ، ينفجر,
+ⲫⲁⲕⲕⲓ,separator,فاصل ,
+ⲫⲁⲗ,get out - get free - get rid of,يخرج - يتحرر  ، يتخلص,
+ⲫⲁⲛⲁⲅ,step,خطوة,
+ⲫⲁⲣ,choose - pick - purify,يختار  ، يفاضل  ، ينقى,
+ⲫⲁⲣⲁⲥⲥⲓ,grain measure,مكيال للحبوب,
+ⲫⲁⲣⲁⳡ,sword,سيف,
+ⲫⲁⲣⲉ,selecting - sorting,اختيار  ، فرز,
+ⲫⲁⲣⲓⲅ,well of the waterwheel,بئر الساقية,
+ⲫⲁⲣⲓⳝ,huge - fat,ضخم  ، سمين,
+ⲫⲁⲣⲕⲓ,creek - stream,خور  ، مجرى سيل,
+ⲫⲁⲣⲣ = ⲫⲁⲣⲫⲁⲣ,chatter,يثرثر,
+ⲫⲁⲣⳡ,jump - step over something,ينط  ، يقفز أو يخطو فوق شئ,
+ⲫⲁⲥⲓⲓⲇ,bleeding - bursting,نزيف  ، تفجر,
+ⲫⲁⲥⲓⲗ,traveler's provisions - share,زاد المسافر - رزق  ، نصيب,
+ⲫⲁⲥⲓⲣ,burst - bleed - crack - open a water channel for agriculture,ينفجر  ، ينزف - يشق  ، يفتح مجرى ماء للزراعة,
+ⲫⲁⲥⲥⲁ,female reproductive organ,عضو الأنثى التناسلى,
+ⲫⲁⲥⲥⲓⲣ,tasteless,ماسخ  ، بلا طعم,
+ⲫⲁⲧⲓⲓⲥ,decomposing body,جثة متحللة,
+ⲫⲁⲧⲧ,twitch - flutter,ينتفض  ، يفرفر,
+ⲫⲁⲧⲧⲓⲥ,assassinate - kill,يغتال  ، يقتل,
+ⲫⲁⲧⲫⲁⲁⲧ,Epilepsy,مرض الصرع,
+ⲫⲁⳡⳡ,get hungry,يجوع,
+ⲫⲉⲅⲓⲓⲣ,thinker - scholar,فقيه  ، مفكر  ، عالم,
+ⲫⲉⲇⲇ,ask - call - beg - implore,يسأل  ، يدعو  ، يستجدى  ، يتسول,
+ⲫⲉⲇⲉⲅ,get torn apart,يتمزق,
+ⲫⲉⲉϣⲉⲉ,small water jug - waterwheel hopper,زير صغير  ، قادوس الساقية,
+ⲫⲉⲉⲓ̈,reconcile,يصالح,
+ⲫⲉⲉⲕⲕ,tear the cloth,يمزق قماش,
+ⲫⲉⲉⲕⲕⲉⲉ,worn fabric,قماش مهترئ ,
+ⲫⲉⲉⲱ = ⲫⲉⲉⲓ̈,untie a knot - untangle,يحل عقدة حبل  ، يفك  ، يفرد,
+ⲫⲉⲓ̈ⲓ̈,grow,ينمو ,
+ⲫⲉⲗⲉ = ⲫⲓⲗⲉ,onion,بصل,
+ⲫⲉⲛⲧⲓ,palm tree - dates,شجرة نخلة  ، بلح  ، تمر,
+ⲫⲉⲣⲣ,tremble,يرتجف,
+ⲫⲉⲣⲣⲓ,tilapia fish,سمك البلطى ,
+ⲫⲉⳝⳝ,make a way through the crowd.,ينبرى  ، يفتح طريقه لكى يمر فى الزحام,
+ⲫⲓ,suffix indicating state,لاحقة تشير إلى الحال ,
+ⲫⲓϭϭⲁⲁⲣ,shallow,ضحل,
+ⲫⲓϭϭⲓ,wide - broad,واسع  ، عريض,
+ⲫⲓⲓ̈ⲓ̈,sleep - lie down,ينام  ، يرقد,
+ⲫⲓⲓⲗ,behavior - character - morals, سلوك  ، طبع  ، أخلاق,
+ⲫⲓⲓⲗ ⲕⲓⳡⳡⲁ,immoral,بلا أخلاق,
+ⲫⲓⲓⲧⲧ,revolt,يثور  ، ينتفض - يرفس ( الحيوان),
+ⲫⲓⲕⲕ,wakes up,يصحو,
+ⲫⲓⲗⲓⲧⲧ,flashing - glittering,يومض  ، يتلألأ,
+ⲫⲓⲛⲇ,dig,يحفر,
+ⲫⲓⲛⲇⲉⲉ,wedge,وتد,
+ⲫⲓⲣⲅ,want - desire - propose marriage,يريد  ، يرغب -  يخطب للزواج,
+ⲫⲓⲣⲅⲓⲓⲇ,goal - hope - desire,هدف  ، أمل  ، رغبة,
+ⲫⲓⲣⲕ,escape - survive,يفلت  ، ينجو,
+ⲫⲓⲣⲣ,surrender - recover - fly - soar,يسلم  ، يتعافى - يطير  ، يحلق,
+ⲫⲓⲣⲣⲁ,intact,سليم  ، سالم,
+ⲫⲓⲣⲣⲉ,Safety - security,سلامة  ، أمان,
+ⲫⲓⲧⲉⲉ,virgin,عذراء,
+ⲫⲓⲧⲧ,jump - revolt,يقفز  ، ينتفض,
+ⲫⲓⳡⳡ,ripens by heating,ينضج بالتسخين,
+ⲫⲟⲅⲟⲇ,peel,يقشر,
+ⲫⲟⲇⲇ,grow - prosper - increase,ينمو  يزدهر  ، يكبر  ، يزيد,
+ⲫⲟⲕⲕ,abort - pour - peel off the paint on the wall - set the groom ,يجهض  ، يسكب - يقشر طلاء الحائط - يعد العريس لمراسم ليلة الحنة,
+ⲫⲟⲕⲕⲓ,outlet,منفذ  ، مخرج,
+ⲫⲟⲟⲅ,collapse - tumble - pour out or spill (liquid), ينهار  ، يتهدم - يسكب أو يدلق (السائل),
+ⲫⲟⲟⳡ,shave,يحلق ويزيل شعره تماما,
+ⲫⲟⲣⲕ,collapse,يتهدم  ، ينهار,
+ⲫⲟⲣⲧⲟⲟⲅ,diaspora - loss,شتات  ، ضياع,
+ⲫⲟⲧⲧⲓⲣ = ⲫⲟⲧⲧ,skinned,يسلخ,
+ⲫⲟⲩⲕⲕⲉ =  ⲅⲟⲩⲧⲧⲓ,water jar,زير ,
+ⲫⲟⲩⲟⲩϣ,Monday, يوم الاثنين,
+ⲫⲟⲩⲟⲩϣ'ⲛ ⲟⲩⲅⲟⲩ,Tuesday,يوم الثلاثاء,
+ⲫⲟⲩⲟⲩⲇ,navel,السرة,
+ⲫⲟⲩⲟⲩⲇⲉⲉ,beetle,خنفساء,
+ⲫⲟⲩⲟⲩⲕⲕ,lose mind - go crazy,يفقد عقله  ، يجن,
+ⲫⲟⲩⲟⲩⲕⲕⲉ,madness - loss of consciousness,جنون  ، فقدان وعى,
+ⲫⲟⲩⲟⲩⲥ,crush - mash,يجرش  ، يهرس,
+ⲫⲟⲩⲟⲩⳝⲓ =    ⲫⲟⲟⳝⲁ,bat,وطواط,
+ⲫⲟⲩⲣⲅ,to give up - to dispense with - to strip - to remove,يتنازل  ، يستغنى عن - يشلع  ، ينزع,
+ⲫⲟⲩⲣⲟⲩⲟⲩ,butter,زبدة,
+ⲫⲟⲩⲣⲣ = ⲫⲓⲣⲣ,fly,يطير,
+ⲫⲟⲩⲧⲧⲟⲩⲟⲩ,millet plant and fruit,نبات وثمرة الدخن,
+ⲫⲟⲱⲱ,wither - to turn yellow,يذبل  ، يصفر (للاصفرار ),
+ⲫⲟⳟⲟⲥⲥⲓ,bud,برعم,
+ⲱⲁⲁϣ,open - appear,يفتح  ، يظهر ,
+ⲱⲁⲁⲅ,basin,حوض  ، حوض حول الشجرة,
+ⲱⲁⲁⲓ̈,fly,يطير,
+ⲱⲁⲁⲥ,rowing in the water - leveling the soil - waving - pointing with his hand,يجدف فى المياه - يسوى التربة - يلوح  ، يشير بيده,
+ⲱⲁⲁⲱ = ⲱⲁⲁⲓ̈,row in the water,يجدف فى الماء,
+ⲱⲁⲁⲱⲓⲛⲇⲓⲓ,paddle,مجداف,
+ⲱⲁⲁⳡ,reveal,يكشف,
+ⲱⲁⲇ = ⲕⲁⲇⲇ,bleed - cut with a razor,يفصد  ، يجرح بموسى,
+ⲱⲁⲇⲁⳡ,writhe - twist - turn,يتلوى  ، يتقلب,
+ⲱⲁⲓ̈ⲅ,have pain - cry for help,يتألم  ، يستنجد,
+ⲱⲁⲓ̈ⲓ̈,scream - cry for help, يصرخ  ، يستنجد,
+ⲱⲁⲕⲕ,exceed - overlook - neglect,يتجاوز  ، يتغاضى  ، يهمل,
+ⲱⲁⲕⲗⲟ-ⲧⲁⲁⲣⲁ,the coming days,الأيام القادمة,
+ⲱⲁⲕⲱⲁⲕ,laugh out loud,يقهقه ضحكا,
+ⲱⲁⲗⲗ,boil,يغلى  ، يفور,
+ⲱⲁⲗⲗⲟ,tomorrow,غدا,
+ⲱⲁⲗⲗⲟⲅⲁ-ⲁⲁⲅⲁ,the day after tomorrow,بعد غد,
+ⲱⲁⲛⲇ = ⲫⲓⲛⲇ,dig,يحفر,
+ⲱⲁⲣ,cross,يعبر,
+ⲱⲁⲣⲁⲱ,run,يجرى  ، يسرع,
+ⲱⲁⲥⲥⲓ,window,شباك  ، نافذة,
+ⲱⲁⳝⲱⲁⳝ,sing (the bird),يغرد ( الطير ),
+ⲱⲁⳟⳟ,shake vigorously,يهز بقوة,
+ⲱⲉϩⲉⲗ,setback - disability - disruption,إنتكاسة  ،  إعاقة  ، تعطيل,
+ⲱⲉⲇ ,leak - flow,يتسرب  ، ينساب,
+ⲱⲉⲉⲅ,drive,يسوق ( سيارة أو ساقية ),
+ⲱⲉⲉⲅⲓⲓ,driver,سائق ,
+ⲱⲉⲉⲇ,cradle - mother's embrace for baby,مهد  ، حضن الأم للطفل,
+ⲱⲉⲉⲇⲓⲓⲛ,do also,صيغة تحقيق بمعنى افعل أيضا ,
+ⲱⲉⲉⲣ,one,واحد ,
+ⲱⲉⲉⲣⲁ,the  number 1,واحد ( الرقم 1 ),
+ⲱⲉⲍⲅ,fill - charge,يملأ ، يشحن,
+ⲱⲉⲓ̈ⲓ̈,heal - recover,يشفى  ، يتعافى ,
+ⲱⲉⲗϩ,waving - pointing forcefully,يلوح  ، يشير بقوة,
+ⲱⲉⲗⲉⲉⲥ,cancel,يبطل,
+ⲱⲉⲗⲉⲉⲥⲁⲛⲓ,slowly,ببطء ,
+ⲱⲉⲗⲗ,speed up - put on a scarf,يسرع - تضع ( المرأة ) الطرحة أو الملاية,
+ⲱⲉⲗⲗⲁⲛ ,quickly - hard,بسرعة  ، بشدة,
+ⲱⲉⲗⲱⲉⲧⲧⲓ,breeze - fresh air,نسمة  ، هواء عليل,
+ⲱⲉⲛⲛⲓⲅ,cheat - deceive,يغش  ، يخدع,
+ⲱⲓⲇⲇ,host,يستضيف,
+ⲱⲓⲇⲇⲁ,visitors offerings,ما يقدم للضيف كالمشروب عند قدومه,
+ⲱⲓⲓⲅ,cry - scream - call for help,يبكى  ، يصرخ  ، يستغيث,
+ⲱⲓⲓⲇ,return,يعود,
+ⲱⲓⲓⲇⲓⲃ,last night,ليلة أمس,
+ⲱⲓⲓ̈ⲓ̈,keep quiet - accept - be satisfied,يسكت  ، يقبل  ، يرضى,
+ⲱⲓⲓ̈ⲓ̈ⲁⲛ,constantly - always,باستمرار  ،  دائما,
+ⲱⲓⲓⲗ,yesterday,أمس,
+ⲱⲓⲓⲣⲕ = ⲱⲓⲣⲕ,throw,يرمى  ، يبعد,
+ⲱⲓⲓⲣⲕⲓ = ⲱⲓⲣⲕⲓ,worm,دودة,
+ⲱⲓⲓⲣⲣⲓ,far,بعيد,
+ⲱⲓⲗⲗ,dismantle - demolish the roof,يفك  ، يهدم سقف,
+ⲱⲓⲛⲓⲓⲣ,whip,السوط,
+ⲱⲓⲛⲧⲓ,pus,صديد,
+ⲱⲓⲛⳝⲓ,star,نجمة,
+ⲱⲓⲣⳝ,be exposed,يتعرى  ، ينكشف,
+ⲱⲓⲥⲕⲓⲣ,replace - barter,يستبدل  ، يقايض,
+ⲱⲓⲥⲥⲓ,grandson - a small insect,ابن الحفيد - حشرة صغيرة,
+ⲱⲓⲥⲱⲓⲥ,whisper,يهمس,
+ⲱⲓⲧⲧⲓ,crazy,مجنون,
+ⲱⲓⲧⲧⲓⲕⲕⲓ,madness,جنون,
+ⲱⲓⳝ,extend - set a fish hook,يمد  ، ينصب سنارة سمك,
+ⲱⲟⲟ,interjection ( hey or O ),يا : صيغة نداء,
+ⲱⲟⲟⲛ = ⲟⲟⲛ,then,استدراك بمعنى : إذن  ، وبعد,
+ϣⲁⲁ,strange - unknown - space -  sky - out of home or out of area,غريب  ، مجهول - فضاء  ، سماء - خارج البيت أو خارج المنطقة,
+ϣⲁⲁⲃⲁⲁϩ,reputation, سمعة  ، صيت,
+ϣⲁⲁⲅ,stab - sting - Nie fish type,يطعن  ، يوخذ - سمك نيلى,
+ϣⲁⲁⲓ̈ⲉⲉⲅ,just before sunrise,قبيل شروق الشمس,
+ϣⲁⲁⲛ ⲧⲉⲉⲣ,expatriate - immigrant - stranger - passerby,مغترب  ، مهاجر  ، غريب  ، عابر سبيل,
+ϣⲁⲁⲛⲧⲉⲉⲣ,backside of village,ظهير القرية,
+ϣⲁⲁⲣⲟ,widespread,منتشر  ، واسع,
+ϣⲁⲁⲣⲧⲓ,spear - arrow - sunbeam,حربة  ، سهم  -  شعاع الشمس,
+ϣⲁⲁⲫⲁ,toddler,طفل صغير,
+ϣⲁⲁⲫⲁⲣⲓⲓ,toddlers,أطفال صغار ,
+ϣⲁⲃⲁⲅ,mix - wave,يخلط - يتماوج,
+ϣⲁⲃⲁⲅⲉⲉ,light beach waves,تموجات شاطئية خفيفة,
+ϣⲁⲃⲃ,hurry up,يسرع  ، يستعجل,
+ϣⲁⲅⲣⲁⲁ,procession,زفة  ، مسيرة,
+ϣⲁⲇⲇⲓ,Nubian leavened bread made from wheat,خبز مخمر نوبى من القمح ,
+ϣⲁⲓ̈ⲓ̈,live abroad - get lost - wander,يغترب  ، يتوه  ، يتجول,
+ϣⲁⲓ̈ⲓ̈ⲓⲣ,tourist,سائح,
+ϣⲁⲗⲁⲃⲁⲕⲕ,the sound of liquid movement in a container,صوت حركة السائل فى إناء,
+ϣⲁⲗⲁⲱ = ϣⲁⲱ,the sound of pouring water,صوت اندلاق الماء,
+ϣⲁⲙⲁⲛⲇⲟⲩⲟⲩⲣⲁ,lighthouse,فنارة ,
+ϣⲁⲙⲃⲁⲁⲗ,a Devil's name,اسم شيطان,
+ϣⲁⲛⲇⲓ,ostrich,نعامة,
+ϣⲁⲣ,arrange - organize,يرص  ، ينظم,
+ϣⲁⲫⲫ,cling to - stick to,يتعلق  ، يلتصق,
+ϣⲁⲫⲫⲁⲁⲇ,reckless work - unproductive work,عمل مستهتر  ، عمل غير مجود,
+ϣⲉⲅⲟⲩⲟⲩⲅⲁ,headache,صداع,
+ϣⲉⲉⲃ,fertilized - preparing for pollination - white hair,يتخصب  ، يستعد للتلقيح - شعر أبيض,
+ϣⲉⲉⲃⲉ,big stick,عصا غليظة,
+ϣⲉⲉⲗⲓⲇ,Nubian  sweet pie made from wheat dough,فطيرة نوبية محلاة من عجين القمح,
+ϣⲉⲉⲙⲁ,rotating water current,تيار مائى دوار ,
+ϣⲉⲓ̈ⲓ̈ⲟ,ripe but not dry fruit,ثمرة ناضجة غير جافة,
+ϣⲉⲕⲙ,put in mouth (powder like)  -  chew (tobacco),يسف  ، يمضغ ( تبغ ),
+ϣⲉⲗⲧⲓⲧ,tear - fray (the fabric),يمزق  ، يهترئ ( القماش ),
+ϣⲉⲗⲧⲟⲩⲟⲩⲧ,frayed fabric,قماش مهترئ,
+ϣⲉⲫⲫⲓ,Nubian gold jewelry,مصاغ دهبى نوبى,
+ϣⲓϣⲱ,crumble - flake grains by rubbing - coat - cover,يفتت  ، يقشر الحبوب بالفرك - يطلى  ، يغطى,
+ϣⲓⲃⲃ,jump high - hang on - cling,يقفز عاليا - يتعلق  ، يتشبث,
+ϣⲓⲃⲓⲣ,a basket  made of palm fronds,مقطف مصنوع من سعف النخيل,
+ϣⲓⲅⲅ,side - direction,جنب  ، ناحية  ، جهة,
+ϣⲓⲅⲓⲣⲧⲓ = ϣⲓⳟⲓⲣⲧⲓ,a swing, شعر ,
+ϣⲓⲓⲅ,pull - leak - steal - take aside,يسحب  ، يسرب  ، يسرق  ، يأخذ جانبا,
+ϣⲓⲓⲡⲡ,sip,يرتشف سائل,
+ϣⲓⲓⲣ,wither - dry up - fade away - braid - weave,يذبل  ، يجف  ،  يضمحل - يضفر  ، ينسج - يسحب ,
+ϣⲓⲓⲣⲓⲇ,braided hair,شعر مضفور,
+ϣⲓⲓⲣⲧ,squeeze - to tighten a knot in a rope,يعصر - يحكم عقدة حبل,
+ϣⲓⲓⲣⲧⲁⲁⲇ,juice,عصير,
+ϣⲓⲗⲗ = ⲛⲓϭϭ,sew - weave,يخيط  ، ينسج,
+ϣⲓⲗⲗ = ⲥⲟⲗⲗ,swing,يتأرجح,
+ϣⲓⲗⲗⲁⲁⲗⲉⲉ = ⲥⲟⲗⲗⲁⲁⲗⲉⲉ,swing,أرجوحة,
+ϣⲓⲣⲅ,spoil (eggs),يفسد ( البيض ),
+ϣⲓⲣⲕ,lock - close,يقفل  ، يغلق,
+ϣⲓⲣⲣ,strut - sway - fly,يختال  ، يتمايل-  يطير,
+ϣⲓⲧⲧ,jump - twitches, يقفز  ، ينتفض,
+ϣⲓⲫⲓⲧ,thief - thug,لص  ، بلطجى,
+ϣⲟⲕⲕ,mix - smash,يخلط - يحطم,
+ϣⲟⲕⲕⲁⲁⲇ,wreckage - rubble,حطام  ، أنقاض,
+ϣⲟⲗⲗ,be poured,يندلق ( السائل ),
+ϣⲟⲗⲗⲓⲓ,waterfall,شلال,
+ϣⲟⲛⲛ,disavow - dispense with - boycott,يتبرأ  ، يستغنى  ، يقاطع,
+ϣⲟⲟ,message -behest ,رسالة  ، وصية,
+ϣⲟⲟϣⲓⲣ,to stress,يوتر,
+ϣⲟⲟϣⲟⲣⲁⲁⲛ,stress,توتر,
+ϣⲟⲟⲃ,the past - ancient times - history - working hours,زمن ماضى  ، تاريخ - دوام عمل,
+ϣⲟⲟⲣⲧⲓ,spirit,الروح,
+ϣⲟⲩⲕϣⲟⲩⲕ,the hoopoe,الهدهد,
+ϣⲟⲩⲕⲙ,gargle,يمضمض,
+ϣⲟⲩⲛⲇⲓ,lip,شفة,
+ϣⲟⲩⲟⲩⲅ,escort the  groom ,يزف,
+ϣⲟⲩⲟⲩⲅⲁⲣ,groom escorting - carnival - procession for a joyful event,زفة  ، كرنفال  ، مسيرة لحدث سار,
+ϣⲟⲩⲟⲩⲕ,wash - immerse in water,يغسل  ، يغمر بالماء,
+ϣⲟⲩⲣⲟⲩ,latch handle,يد المزلاج,
+ϣⲟⲩⲱⲱ,speed up,يسرع,
+ϣⲟⲩⲱⲱⲁ,kite,الحدأة ,
+ϣⲟⲱⲱⲓⲣ = ϣⲟⲟⲓ̈ⲓⲣ,plate  made of palm fronds and inflorescences,طبق من سعف و سبائط النخيل ,
+ϣⲟⳟⳟ,shake vigorously, يهز بقوة,
+ϣⲟⳟⳟⲓⲣ,money - coin,نقود  ، عملة,
+ϩⲁ,prefix meaning will,بادئة بمعنى سوف,
+ϩⲁⲁⲗⲟⲩⲟⲩϣ,crazy - obsessed - possessed,مجنون  ، مهووس  ، ممسوس,
+ϩⲁⲁⲙ,eats voraciously,يأكل بشراهة,
+ϩⲁⲁⲙ,thin - worn out,هزيل  ، مهترئ,
+ϩⲁⲃⲁⲇ = ⲁⲃⲁⲇ,calotropis procera,نبات العشر,
+ϩⲁⲃⲁⲧⲣⲁϣ,wreckage,حطام ,
+ϩⲁⲃⲃⲓ,relapse - illness - onset of cancer,انتكاسة  ، مرض  ، بداية سرطان,
+ϩⲁⲃⲃⲟⲩⲟⲩⲧ,ash,رماد,
+ϩⲁⲃⲕ,gather - pack,يجمع  ، يحزم,
+ϩⲁⲃⲟⲩⲣⲣⲉⲉ,senna,السنمكى,
+ϩⲁⲅⲉⲉ,cane - corn stalk,قصب  ، ساق نبات الذرة,
+ϩⲁⲗⲟⲩⲱⲱⲁ,gluttonous eater,شره فى الأكل ,
+ϩⲁⲙⲁⳝ,an insect like a mosquito, حشرة كالناموس,
+ϩⲁⲙⲃⲟⲩⲟⲩⲗ,imagination - scarecrow,خيال  ، فزاعة لطرد الطيور,
+ϩⲁⲙⲗⲁ,strange - not belonging to anyone,غريب  ، غير تابع لأحد ,
+ϩⲁⲛⲇⲁⲕⲕⲉⲉ,Nubian game of hopping on one foot,لعبة نوبية بالقفز على قدم واحدة,
+ϩⲁⲣⲃ,quarrel - get angry,يخاصم  ، يغضب,
+ϩⲁⲥⲁⲅ,inhibitor,مانع  ، كابح,
+ϩⲁⲱⲱⲓ = ⲁⲱⲱⲓ ,rain - connection - belonging, مطر - صلة  ، إنتماء,
+ϩⲁⳟⳟ,pull - attract strongly, يشد  ، يجذب بقوة,
+ϩⲉⲇⲇ,threaten,يهدد  ، يتوعد,
+ϩⲉⲇⲉⲇ,threat,وعيد  ، تهديد,
+ϩⲉⲉⲗⲟⲟ,epidemic,وباء,
+ϩⲉⲗⲗ = ⲥⲉⲗⲗ,retreat,يتراجع  ، يرجع للوراء,
+ϩⲓϣϣⲓ,deserted - scary,مهجور  ، موحش,
+ϩⲓⲓⲕⲕ,make a sound from the throat,يصدر صوت من الحلق,
+ϩⲓⲓⲗ,decorative wooden container for storing dry perfumes,يعشق  ، يعجب,
+ϩⲓⲥⲟⲛⲓ,when,متى,
+ϩⲓⲥⲥⲓ,voice,صوت,
+ϩⲓⳝⲓⲗ,anklet,خلخال,
+ϩⲟⲗϩⲟⲗ,waterfall - flowing water,شلال  ، مياه متدفقة,
+ϩⲟⲟⲓ̈,call/and alert expression - yes,صيغة نداء وتنبيه - نعم ( صيغة رد ),
+ϩⲟⲟⲙⲓⲓⲇ,huge - gigantic,ضخم  ، عملاق,
+ϩⲟⲟⲣⲧ,scratch - rub,يخدش  ، يحك,
+ϩⲟⲟⳟ,bray(donkey),ينهق ( الحمار ),
+ϩⲟⲣⲣⳡ= ⲟⲣⲣ,write - engrave on the ground,يخط  ، ينقش على الارض,
+ϩⲟⲩϣϩⲟⲩϣ,forest,غابة,
+ϩⲟⲩⲅⲅ,, وعاء مزخرف من الخشب لحفظ العطور الجافة,
+ϩⲟⲩⲇⲇ,prick - stab,يوخز  ، يطعن,
+ϩⲟⲩⲛⲛⲓ,humiliation,ذل,
+ϩⲟⲩⲟⲩϣ,swell - become inflamed (wound),يورم  ، يلتهب (الجرح),
+ϩⲟⲩⲥⲥⲁⲛ =  ⲟⲩⲥⲥⲁⲛ,always - without reason/purpose,على الدوام - دون سبب/هدف,
+ϩⲟⲩⲧⲧⲁ,flood - confluence of rivers,فيضان - تلاقى أنهار,
+ϩⲟⲩⲱⲱⲓ,wind sound,صوت الرياح,
+ⲅⲉⲙ ⳝⲟⲟⲣⲟ,in previous years,فى أعوام سابقة,
+ⲧⲓⲥⲥⲓ ⳝⲟⲩⲟⲩⲇⲉⲉ,twisted thread,خيط مفتول,
+ⲧⲟⲩⲟⲩ'ⲛ ⳝⲟⲩⲣⲙⲉⲉ,abdominal cramps,تقلصات البطن,
+ⳝⲁϩⲁⲁⲇ ⲁⲣⲁϩⲁⲁⲇ,hustle - bustle - chaos,صخب  ، ضجيج  ، فوضى,
+ⳝⲁⲁⲃ,approach - cling - spy - caress - touch - massage,يقترب  ، يلتصق - يتجسس - يلاطف  ، يتمسح  ، يدلك,
+ⳝⲁⲁⲃⲁ ⲙⲉⳡⳝⲓ,Stand in disguise,يقف متخفيا,
+ⳝⲁⲁⲃⲓⲓ,spy - informant,جاسوس  ، مخبر,
+ⳝⲁⲁⲃⲓⲓⲇ = ⳝⲁⳟⳟⲁⲁⲇ,massage,مساج,
+ⳝⲁⲁⲃⲕⲓⲣ,care - sponsor - include,يرعى  ، يكفل  ، يضم,
+ⳝⲁⲁⲃⲕⲓⲣⲉ,sponsorship - care,كفالة  ، رعاية ,
+ⳝⲁⲁⲅ,be afraid,يخاف  ، يخشى,
+ⳝⲁⲁⲅⲓⲓⲥ,corn flour dough,عجينة دقيق الذرة,
+ⳝⲁⲁⲗ,swear - gossip,يشتم  ، يثرثر,
+ⳝⲁⲁⲗⲓⲇ,verbal fight,عراك كلامى,
+ⳝⲁⲁⲛ,sell - abandon a commitment - betray, يبيع - يتخلى عن التزام - يخون,
+ⳝⲁⲁⲱ = ⳝⲁⲁⲓ̈,mill - stone mill,طاحونة  ، مطحنة من الحجر,
+ⳝⲁⲃⲁⲇ,low soil,تربة منخفضة ,
+ⳝⲁⲅ,dive into the water,يغطس فى الماء,
+ⳝⲁⲅⲁⲁⲇ,weaken - soften,يضعف  ، يتميع,
+ⳝⲁⲅⲁⲁⲇⲁⲣ,weak - soft,ضعيف  ، لين,
+ⳝⲁⲅⲓⲣ,plant - stab,يغرس  ، يطعن,
+ⳝⲁⲅⲟⲩ,sandgrouse,طائر القطا,
+ⳝⲁⲇⲇ,Breastfeed,يرضع,
+ⳝⲁⲇⲇⲓ,natron,عطرون  ، نطرون,
+ⳝⲁⲕⲁⲁⲣ,gossip - useless controversy,ثرثرة - جدل غور مجدى,
+ⳝⲁⲕⲕ,trample - press - stomp - crush - force - hit - punish,يطأ  ، يضغط  ، يدوس - يصك - يجبر - يضرب  ، يعاقب,
+ⳝⲁⲕⲕⲁⲣ,fishing hook,سنارة صيد السمك,
+ⳝⲁⲕⲕⲓⲇ,Nubian gold jewelry,مصاغ دهب  نوبى للزينة,
+ⳝⲁⲕⲟⲩⲙ = ⳝⲁⲕⲓⲙ,cheek,الوجنة  ، الخد,
+ⳝⲁⲗⲫⲟⲩⲟⲩⲧ,flabby,مترهل,
+ⳝⲁⲙⲙ,come together -    heal,يجتمع  ، يلتئم ,
+ⳝⲁⲙⲙⲁⲛ,together,معا  ، جمعا ,
+ⳝⲁⲙⲙⲓⲧⲧⲓ,gathering,تجمع,
+ⳝⲁⲣⲃⲁⲁⲅ,lazy,كسلان ,
+ⳝⲁⲣⲃⲉⲉ,coast - beach,ساحل  ، شاطئ,
+ⳝⲁⲣⲉⲉ,vinegar,الخل,
+ⳝⲁⲣⲕ,defecate,يتبرز,
+ⳝⲁⲣⲕⲓⲇ,tamarind,العرديب,
+ⳝⲁⲣⳝⲁⲁⲣ = ⳝⲉⲣⳝⲁⲁⲣ,jarjar - Nubian women's clothing,الجرجار  ، زى نسائى نوبى,
+ⳝⲁⲱⲁ,wet,مبتل,
+ⳝⲁⲱⲣⲉⲉ,tin,قصدير ,
+ⳝⲁⲱⲱ,ululate happily - rejoice,يزغرد  ، يبتهج,
+ⳝⲁⲱⲱⲓⲇ,ululation,زغرودة  ، زغاريد,
+ⳝⲁⳟⳟ,fill - do massage,يملأ  ، يعبئ - يعمل مساج,
+ⳝⲁⳟⳟⲁ ⲫⲓⲓⲛⲁ,full,ممتلئ,
+ⳝⲉⲃⲁⲁ,gift - donation - grant,هدية  ، هبة  ، عطية,
+ⳝⲉⲉⲅ,increase - add,يزيد  ، يضيف,
+ⳝⲉⲉⲅⲓⲓⲇ,additiin - increase,  إضافة  ، زيادة,
+ⳝⲉⲉⲅⲓⲣ,plus,زائد (+),
+ⳝⲉⲓ̈ⲓ̈,respond - support,يستجيب - يدعم,
+ⳝⲉⲗⲉⲅ,wolf,ذئب,
+ⳝⲉⲗⲉⲱ,tail - rear - follow - wash,ذيل  ، مؤخرة  ، تابع - يغسل,
+ⳝⲉⲗⲗ ,work,يعمل  ، يمتهن,
+ⳝⲉⲗⲗⲓ,job - business - profession,وظيفة  ، عمل  ، مهنة,
+ⳝⲉⲗⲗⲓⲓ,employee - worker,موظف  ، عامل,
+ⳝⲉⲛⳝⲉⲗⲉⲥⲥⲓ,lizard,سحلية,
+ⳝⲉⲣ,behind - back,خلف  ، وراء  ، ظهر,
+ⳝⲉⲣⲣ = ⳝⲟⲣⲣ,urinate,يتبول,
+ⳝⲉⲣⲧⲓ,bridal  golden crown,تاج مذهب لزينة العروس,
+ⳝⲓⲅⲓⲗⲧⲓ,kidney,الكلية ( من أعضاء الجسم ),
+ⳝⲓⲅⲓⲣ,vole,فأر الحقل,
+ⳝⲓⲅⲥ,make it narrow,يضيق,
+ⳝⲓⲅⳝ,laugh - rejoice,يضحك  ، يبتهج,
+ⳝⲓⲓⲃ,stick, يلتصق,
+ⳝⲓⲓⲃⲓⲧⲧⲓ,welding - adhesive,لحام  ، لاصق,
+ⳝⲓⲓⲅ,lean on,يتوسد  ، يستند,
+ⳝⲓⲓⲅⲓⲣ,pillow,وسادة,
+ⳝⲓⲓⲣ,be ahead of - outperform ,يسبق  ، يتفوق,
+ⳝⲓⲗϩ,forget - erase,ينسى  ، يمسح,
+ⳝⲓⲗϩⲁⲁⲇ,forget - erase,نسيان  ، مسح,
+ⳝⲓⲗⲗ,remember - evoke,يتذكر  ، يستحضر,
+ⳝⲓⲛⲇⲓ,saliva - egg white,لعاب - بياض البيض,
+ⳝⲓⲣⲃ,paint,يطلى  ، يدهن,
+ⳝⲓⲣⲣ,approach,يقترب  ، يدنو,
+ⳝⲓⲥⲥⲓ,type,جنس  ، نوع,
+ⳝⲓⲧⲧⲓ,beads,خرز الزينة,
+ⳝⲓⳝⲓⲣⲓⲧⲧⲓ,cockroach,صرصار,
+ⳝⲟⲃⲃ,be patient, يصبر  ، يتأنى,
+ⳝⲟⲃⲉⲉ,a pergola - bench or straw bed for outdoor relaxation,عريشة  ، مقعد أو سرير من القش للاسترخاء خارجيا,
+ⳝⲟⲃⲟⲅ,knead - mix,يعجن  ، يخلط,
+ⳝⲟⲃⲟⲅⲉ,random kneading,عجن عشوائى,
+ⳝⲟⲅⲟⲇ,mix - massage,يخلط  ، يعمل مساج,
+ⳝⲟⲅⲟⲇⲁⲁⲇ,mixed,مخلوط,
+ⳝⲟⲅⲟⲇⲟⲟⲥ,disaster - mass death,كارثة  ، موت جماعى,
+ⳝⲟⲇⲇ,be organized - be in order,ينتظم,
+ⳝⲟⲇⲇⲁⲕⲓⲣ,organize - arrange,ينظم  ، يصفف  ، يرص,
+ⳝⲟⲇⲇⲓⲕⲓⲣⲉ,organizing - styling,تنظيم  ، تصفيف,
+ⳝⲟⲇⲇⲓⲧⲧⲓ,system,نظام,
+ⳝⲟⲕⲕ,thirst - chew - suck - quarrel,يعطش - يمضغ  ، يمتص - يخاصم ,
+ⳝⲟⲕⲕⲁ,adversary - enemy,خصيم  ، عدو,
+ⳝⲟⲟⲅ,grind - rotate in place,يطحن - يدور فى مكانه,
+ⳝⲟⲟⲅⲁϩ,spinster - spoiled - swaggering,إمرأة عانس - دلوعة  ، متبخترة,
+ⳝⲟⲟⲗ,melt - erode,يذوب  ، يتآكل بفعل التعرية,
+ⳝⲟⲟⲗⲉ,erosion,تآكل  ، تعرية,
+ⳝⲟⲟⲣ,pass,ينقضى  ، يمضى,
+ⳝⲟⲣ,swear,يحلف  ، يقسم,
+ⳝⲟⲣⲉⲉ,Women's hair,شعر المرأة,
+ⳝⲟⲣⲣ,urinate,يتبول,
+ⳝⲟⲩ,go,يذهب,
+ⳝⲟⲩϩⲟⲩⲟⲩⲙ,humiliation - disgrace - mockery,ذلة  ، هوان  ، سخرة,
+ⳝⲟⲩⲅ,be burning,يشتعل  ، يحترق,
+ⳝⲟⲩⲅⲓⲓⲇ,fire,حريق,
+ⳝⲟⲩⲅⲓⲣ,burn,يحرق,
+ⳝⲟⲩⲅⲣⲁ,hot,ساخن,
+ⳝⲟⲩⲗⲗⲉⲉ,acacia tree,شجرة السنط,
+ⳝⲟⲩⲙⲙ ,secrete,يستدر,
+ⳝⲟⲩⲙⲙⲟⲩⲟⲩⲇ,spit,بصاق,
+ⳝⲟⲩⲛⲧⲁ,pregnant,حامل,
+ⳝⲟⲩⲟⲩ,human belly - inside - plant root,بطن الإنسان  ، داخل - جذر النبات,
+ⳝⲟⲩⲟⲩⲇ,melt - twist - spin,يذوب - يبرم  ، يفتل الخيط,
+ⳝⲟⲩⲟⲩⲕ,suck - breastfeed,يمص  ، يرضع,
+ⳝⲟⲩⲟⲩⲙ,blame - reproach,يلوم  ، يعاتب,
+ⳝⲟⲩⲟⲩⲙⲓⲧⲧⲓ,blame - reproach,لوم  ، عتاب,
+ⳝⲟⲩⲟⲩⲣ,tyranny - gross injustice,استبداد  ، ظلم فادح ,
+ⳝⲟⲩⲟⲩⲣⲧⲓ,acacia fruit,قرض  ، ثمار شجرة السنط,
+ⳝⲟⲩⲣⲙ,shrink,يتقلص,
+ⳝⲟⲩⲣⲟⲩⲙ,pumpkin and watermelon seeds,حبوب القرع والبطيخ,
+ⳝⲟⲩⲣⲣ,milk - absorb - suck,يحلب  ، يمتص,
+ⳝⲟⲩⲣⲣⲓ,strong water current, تيار مائى شديد,
+ⳝⲟⲩⲧⲧⲓ,nephew,ابن الأخت,
+ⳝⲟⲩⲱⲱ,squeeze,يعصر,
+ⲇⲟⲗⲅⲓⲇ,love,حب ,
+ⲫⲓⲓⲣ,dig and excavate,يحفر ويزيل الحفر,
+ⲁⲙⲁⲛ ⲛⲓⲓ̈ⲓ̈ⲉⲉ,breaking Ramdan fasting by abree drink,فك الصيام بمشروب الأبريه,
+ⲕⲟⲩⳡⳡ,burry - dive,يدفن - يغطس,
+ⲁⲙⲃⲁⲣⲕⲁⲁⲃ,Ambarkab - a village in Nasr el Nuba,أمبركاب ( قرية فى نصر النوبة),
+ⲁⲣⲙⲓⲛⲛⲉ,Arminna - a village in Nasr el Nuba,أرمنا ( قرية فى نصر النوبة),
+ⲓ̈ⲓⲛⲧⲁⲁⲛ,suffix meaning although or despite,لاحقة بمعنى رغم أن أو مع أن,
+ⲇⲁⲫⲁⲣ,mild reproachful expression,تعبير تأنيبى أو توبيخى خفيف,
+ⲇⲟⲩⳟⳟⲁⲁⲣⲁ,drum,طبلة,
+ϩⲟⲩⲣⲁⲁⲙ,blanket,بطانية ,
+ⲥⲓⲅⲇⲁⲣ = ⲃⲉⲇⲇⲁⲣ,prayer,صلاة,
+ⲫⲉⲇⲇⲁⲁⲣ,a prayer,دعاء,
+ⲃⲁⲛⲇⲓ,riverside,شاطئ,
+ⲙⲉⲕⲉⲣ,joke,نكتة,
+ϩⲉⲗⲃⲉⲧ,perhaps,ربما,
+ⲁⲥⲗⲉⲉ,popcorn,فشار,
+ⲗⲓⲛ,be ( an auxiliary verb ),يكون ( فعل مساعد ),
+ⲓ̈ⲓⲛ ,be ( an auxiliary verb ),يكون ( فعل مساعد ),
+ⲕⲁⲣⲁⲅ,incense,يبخر ( بخور ),
+ⲟⲩⲣⲟⲩⲟⲩⲕ,partnershio,اشتراك ، مشاركة,
+ⲇⲁⲙⲁ,drought,قحط ، جفاف,
+ⲧⲟⲩⲅⲟⲩⲣ,grave clothes,كفن ,
+ⲥⲟⲩⲟⲩⳝⲁⲗⲉⲉ,bird trap trigger, زناد مصيدة الطيور,
+ⲗⲟⲩⲗ,angel,ملاك,
+ⲱⲁⲁⲓ̈ⲓⲛⲅ,maintain,يحافظ  على,
+ⲙⲓⲧⲧⲁⲣ,well,بئر,
+ⲙⲉⲉⲗ,fireplace - sand bath,مدفأة ، حمام رملى,
+ⲕⲁⲁϭⲓ,bark,لحاء,
+ⲁⳟⲣⲉⲉ,fame - reputation, صيت ، سمعة,
+ⳡⲁⲃⲃ,stick,يلتصق,
+ⳡⲁⲅⲁⲗ = ⲛⲁⲁⳡ,stupid -  idiot,غبى ، أبله,
+ⳡⲁⲗⲗ,naked,عريان,
+ⳡⲁⲗⲁⲫⲫ,soften - liquefy,يلين ، يتميع,
+ⳡⲁⲕⲕ,wrinkle - argue - chatter - be fanatical,يجعد ، يجادل ، يثرثر ، يتعصب,
+ⳡⲟⲩⲕⲕ,secrete - suckle,يستدر ، يرضع,
+ⳡⲓⲣⲓⲅ,liquid sediment - residue,رواسب سائل ، تفل,
+ⳡⲁⳟⳟ,stutter,يتلعثم,
+ⳡⲁⳟⳟⲁ,lisping,ألثغ,
+ⲁⲗⲁⳡ = ⲁⲗⲁⲱ ,extract,يستخلص,
+ⲕⲉⳡⲕⲉⲉⳡⲁ,very small,صغير جدا,
+ⲅⲟⲩⳡⳡ,shake - tremble,يهتز ، يتخلخل,
+ⲟⲩⳡⳡⲓ,poop,براز,
+ⲕⲉⲣⲣ,write,يخط,
+ⲕⲉⲣⲣⲓⲧⲧⲓ,calligraphy,خط,
+ⲥⲓⲣⳝⲓ,blue ( color ),أزرق,
+ⲅⲓⲛⲇⲁⲁⲣ,orange ( color ),برتقالى ، لون الكزبرة الجافة الناعمة ,
+ⲅⲁⲁⲙⲓ,yellow ( color ),أصفر,
+ⲅⲓⲙⲧⲁⲁⲣ,wheatish color,قمحى,
+ⲇⲓⲙⲉ ⲱⲉⲉⲣⲁ,11,احدى عشر ( ١١ ),
+ⲇⲓⲙⲉⲣ ⲟⲩⲱⲱⲟ,12,اثنى عشر ( ١٢ ),
+ⲇⲓⲙⲉ ⲧⲟⲩⲥⲕⲟ,13,ثلاثة عشر ( ١٣ ),
+ⲇⲓⲙⲉ ⲕⲉⲙⲥⲟ,14,أربعة عش ( ١٤ ),
+ⲇⲉⲙⲉ ⲇⲓⳝⲁ,15,خمسة عشر ( ١٥ ),
+ⲇⲓⲙⲉ ⲅⲟⲣⳝⲟ,16,ستة عشر ( ١٦ ),
+ⲇⲓⲙⲉ ⲕⲟⲗⲟⲇⲁ ,17,سبعة عشر (  ١٧ ) ,
+ⲇⲓⲙⲉⲣ ⲉⲓⲇⲱⲟ,18,ثمانية عشر ( ١٨ ),
+ⲇⲓⲙⲉ ⲟⲥⲕⲟⲇⲁ,19,تسعة عشر ( ١٩ ),
+ⲧⲟⲩⲥⲕⲟⲛⲇ ,30,ثلاثون ( ٣٠  ),
+ⲕⲉⲙⲥⲟⲛⲇ,40,أ ربعون ( ٤٠ ),
+ⲇⲓⳝⲟⲛⲇ,50,خمسون ( ٥٠ ),
+ⲅⲟⲣⳝⲟⲛⲇ,60,ستون ( ٦٠ ),
+ⲕⲟⲗⲟⲇⲟⲛⲇ,70,سبعون ( ٧٠ ),
+ⲉⲓⲇⲱⲟⲛⲇ,80,ثمانون ( ٨٠ ),
+ⲟⲥⲕⲟⲇⲟⲛⲇ,90,تسعون ( ٩٠ ),
+ⲉⲓⲙⲓⲗ ⲱⲉⲉⲣⲁ,100,مائة ( ١٠٠ ),
+ⲉⲓⲙⲓⲗ ⲟⲩⲱⲱⲟ,200,مائتان ( ٢٠٠ ),
+ ⲉⲓⲙⲓⲗ ⲧⲟⲩⲥⲕⲟ,300,ثلاثمائة ( ٣٠٠ ),
+ⲉⲓⲙⲓⲗ ⲕⲉⲙⲥⲟ,400,أ ربعمائة ( ٤٠٠ ),
+ⲉⲓⲙⲓⲗ ⲇⲓⳝⲁ,500,خمسمائة ( ٥٠٠ ),
+ⲉⲙⲕⲗ ⲅⲟⲣⳝⲟ,600,ستمائة ( ٦٠٠ ),
+ⲉⲙⲓⲗ ⲕⲟⲗⲟⲇⲁ,700,سبعمائة (٧٠٠  ),
+ⲉⲙⲓⲗ ⲉⲓⲇⲱⲟ,800,ثمانمائة ( ٨٠٠ ),
+ⲉⲙⲓⲗ ⲟⲥⲕⲟⲇⲁ,900,تسعمائة ( ٩٠٠ ),
+ⲇⲟⲩⲣⲉⲉ ⲱⲉⲉⲣⲁ,1000,ألف ( ١٠٠٠ ),
+ⲇⲟⲩⲣⲉⲉ ⲟⲩⲱⲱⲟ,2000,ألفان ( ٢٠٠٠ ),
+ ⲇⲟⲩⲣⲉⲉ ⲧⲟⲩⲥⲕⲟ,3000,ثلاثة آلاف ( ٣٠٠٠ ),
+ⲇⲟⲩⲣⲉⲉ ⲕⲉⲙⲥⲟ,4000,أربعة آلاف ( ٤٠٠٠ ),
+ⲇⲟⲩⲣⲉⲉ ⲇⲓⳝⲁ,5000,خمسة آلاف ( ٥٠٠٠ ),
+ⲇⲟⲩⲣⲉⲉ ⲅⲟⲣⳝⲟ,6000,ستة آلاف ( ٦٠٠٠ ),
+ⲇⲟⲩⲣⲉⲉ ⲕⲟⲗⲟⲇⲁ,7000,سبعة آلاف ( ٧٠٠٠ ),
+ⲇⲟⲩⲣⲉⲉ ⲉⲓⲇⲱⲟ,8000,ثمانية آلاف ( ٨٠٠٠  ),
+ⲇⲟⲩⲣⲉⲉ ⲟⲥⲕⲟⲇⲁ,9000,تسعة آلاف ( ٩٠٠٠ ),
+ⲇⲟⲩⲣⲉⲉ ⲇⲓⲙⲉ,10000,عشرة آلاف ( ١٠٠٠٠ ),
+ⲁⲃⲟⲩⲥⲓⲙⲃⲓⲗ,Abu Simbel (a tourist city in Aswan),أبوسمبل ( مدينة سياحية فى أقصى جنوب أسوان ),
+ⳝⲟⲛⲇⲟⲟ,smooth - soft,ناعم,
+ⲉⲓ̈ⲓ̈ⲓ,neck,رقبة,
+ⲥⲉⲛ,whereas,حيث أن - أداة تحقيق,
+ϩⲁⲣⲧⲟⲩⲙ = ⲱⲉⲗⲗ,wear or tie a skarf,تربط ( المرأة ) الطرحة,
+ⲕⲁⲁⲱⲉⲉ,clay pot,إناء فخارى,
+ⲧⲁⲁⲙ,talk in sleep,يتحدث أثناء النوم,
+ϩⲁⲁⲥⲓⲗ,private room in a Nubian house,حجرة داخلية فى البيت النوبى,
+ⲇⲓⲱⲁⲁⲛⲓⲓ,private wing in a Nubian house,جناح خاص فى البيت النوبى

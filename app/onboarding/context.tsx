@@ -23,7 +23,7 @@ export default function Context() {
         </Text>
       </ScrollView>
       <View style={{ padding: 24, paddingBottom: insets.bottom + 16 }}>
-        <EssiButton title="Let's begin →" arabicTitle="هنبدأ" variant="primary" onPress={() => r.push('/onboarding/auth' as any)} />
+        <EssiButton title="Let's begin →" arabicTitle="هنبدأ" variant="primary" onPress={() => r.push('/onboarding/motivation' as any)} />
       </View>
     </View>
   );

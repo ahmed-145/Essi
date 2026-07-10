@@ -3,6 +3,24 @@
 // by setting EXPO_PUBLIC_SUPABASE_URL + EXPO_PUBLIC_SUPABASE_ANON_KEY.
 
 import 'react-native-url-polyfill/auto';
+
+// Polyfill WebSocket in Node.js/SSR environments to prevent Supabase Realtime from crashing on import
+if (typeof globalThis.WebSocket === 'undefined') {
+  class MockWebSocket {
+    static CONNECTING = 0;
+    static OPEN = 1;
+    static CLOSING = 2;
+    static CLOSED = 3;
+    onopen = null;
+    onerror = null;
+    onclose = null;
+    onmessage = null;
+    close() {}
+    send() {}
+  }
+  (globalThis as any).WebSocket = MockWebSocket;
+}
+
 import { createClient, type SupabaseClient } from '@supabase/supabase-js';
 import type { Lesson, UserProfile, LexicalSrs, MorphologicalSrs } from '../types';
 import { lessons } from '../data/lessons';
@@ -87,7 +105,12 @@ export async function signOut() {
  * language_preference='ar'. (display_name/motivation/notification prefs are
  * Phase 5 concerns — tracked locally in userStore for now, not server-synced
  * until that phase.) */
-export async function ensureUserProfile(userId: string, authProvider: string) {
+export async function ensureUserProfile(
+  userId: string,
+  authProvider: string,
+  motivation: string = 'casual',
+  dailyGoal: number = 10
+) {
   if (!supabase) return;
   const { data: existing } = await supabase
     .from('user_profiles')
@@ -102,7 +125,8 @@ export async function ensureUserProfile(userId: string, authProvider: string) {
     xp: 0,
     script_preference: 'latin',
     language_preference: 'ar',
-    daily_goal: 10,
+    daily_goal: dailyGoal,
+    motivation: motivation,
   });
   if (error) throw error;
 }
@@ -121,3 +145,33 @@ export async function getSrs(): Promise<{
     rule: Object.fromEntries((rule ?? []).map((r: any) => [r.rule_id, r])),
   };
 }
+
+/** Get generated review session from server-side ML-SRS algorithm */
+export async function getReviewSession(sessionLength: number = 15): Promise<{
+  queue: any[];
+  session_focus: string[];
+} | null> {
+  if (!supabase) return null;
+  // p_session_length only — user identity is inferred from auth.uid() server-side
+  const { data, error } = await supabase.rpc('generate_review_session', { p_session_length: sessionLength });
+  if (error) throw error;
+  return data;
+}
+
+/** Get individual user morphology learning metrics profile (caller identity from auth session) */
+export async function getUserMetrics(): Promise<any | null> {
+  if (!supabase) return null;
+  // No p_user_id param — server reads auth.uid() via security definer
+  const { data, error } = await supabase.rpc('get_user_metrics');
+  if (error) throw error;
+  return data;
+}
+
+/** Get aggregate population-level grammar difficulty metrics */
+export async function getAggregateMetrics(): Promise<any | null> {
+  if (!supabase) return null;
+  const { data, error } = await supabase.rpc('get_aggregate_metrics');
+  if (error) throw error;
+  return data;
+}
+
