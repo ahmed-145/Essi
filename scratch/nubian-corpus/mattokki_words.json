@@ -1,0 +1,5154 @@
+[
+  {
+    "english": "aone",
+    "mattokki": "ai-wt"
+  },
+  {
+    "english": "aback",
+    "mattokki": "a"
+  },
+  {
+    "english": "abash",
+    "mattokki": "sow"
+  },
+  {
+    "english": "abashes",
+    "mattokki": "sawi"
+  },
+  {
+    "english": "abashed",
+    "mattokki": "sowsou"
+  },
+  {
+    "english": "able",
+    "mattokki": "eski"
+  },
+  {
+    "english": "aborts",
+    "mattokki": "bokki"
+  },
+  {
+    "english": "about",
+    "mattokki": "kiri"
+  },
+  {
+    "english": "above",
+    "mattokki": "dogoag"
+  },
+  {
+    "english": "abroad",
+    "mattokki": "boadir,botge"
+  },
+  {
+    "english": "absorb",
+    "mattokki": "ge'ook"
+  },
+  {
+    "english": "absorbs",
+    "mattokki": "ge'ooki"
+  },
+  {
+    "english": "abundant",
+    "mattokki": "digiry"
+  },
+  {
+    "english": "abuse",
+    "mattokki": "did"
+  },
+  {
+    "english": "abuses",
+    "mattokki": "didi"
+  },
+  {
+    "english": "abused",
+    "mattokki": "didsou"
+  },
+  {
+    "english": "acacia",
+    "mattokki": "shaba,ge'oulle"
+  },
+  {
+    "english": "accidentally",
+    "mattokki": "sou'da"
+  },
+  {
+    "english": "aceromated",
+    "mattokki": "fairsou,fottsou"
+  },
+  {
+    "english": "acromatic",
+    "mattokki": "fairur,fottos"
+  },
+  {
+    "english": "adjoin",
+    "mattokki": "kollgir"
+  },
+  {
+    "english": "adult",
+    "mattokki": "tonorti"
+  },
+  {
+    "english": "advance",
+    "mattokki": "agiddo"
+  },
+  {
+    "english": "advanced",
+    "mattokki": "agiddsou"
+  },
+  {
+    "english": "offiction",
+    "mattokki": "ousou"
+  },
+  {
+    "english": "afraid",
+    "mattokki": "surk-bou,sund-bou"
+  },
+  {
+    "english": "again",
+    "mattokki": "weede'"
+  },
+  {
+    "english": "age",
+    "mattokki": "ougour"
+  },
+  {
+    "english": "agony",
+    "mattokki": "addur"
+  },
+  {
+    "english": "alike",
+    "mattokki": "ulgi"
+  },
+  {
+    "english": "all",
+    "mattokki": "mulle'"
+  },
+  {
+    "english": "arrive",
+    "mattokki": "door"
+  },
+  {
+    "english": "allained",
+    "mattokki": "doorsou"
+  },
+  {
+    "english": "alone",
+    "mattokki": "agooda"
+  },
+  {
+    "english": "also",
+    "mattokki": "enkega,ikbou"
+  },
+  {
+    "english": "always",
+    "mattokki": "kitte"
+  },
+  {
+    "english": "amaze",
+    "mattokki": "udwi"
+  },
+  {
+    "english": "among",
+    "mattokki": "beri"
+  },
+  {
+    "english": "amputated",
+    "mattokki": "moutbou"
+  },
+  {
+    "english": "and",
+    "mattokki": "oan"
+  },
+  {
+    "english": "angry",
+    "mattokki": "arribou,surkbou"
+  },
+  {
+    "english": "ankle",
+    "mattokki": "ossi-bood"
+  },
+  {
+    "english": "another",
+    "mattokki": "itge'l"
+  },
+  {
+    "english": "ant",
+    "mattokki": "goar"
+  },
+  {
+    "english": "pot",
+    "mattokki": "dadi"
+  },
+  {
+    "english": "anus",
+    "mattokki": "sorod,osod"
+  },
+  {
+    "english": "any",
+    "mattokki": "say"
+  },
+  {
+    "english": "ape",
+    "mattokki": "abalay"
+  },
+  {
+    "english": "appear",
+    "mattokki": "wan"
+  },
+  {
+    "english": "appears",
+    "mattokki": "wani"
+  },
+  {
+    "english": "appeared",
+    "mattokki": "wansou"
+  },
+  {
+    "english": "appearence",
+    "mattokki": "wanur"
+  },
+  {
+    "english": "approach",
+    "mattokki": "agid,aw'wut"
+  },
+  {
+    "english": "arm",
+    "mattokki": "kew"
+  },
+  {
+    "english": "armpit",
+    "mattokki": "abirtgo"
+  },
+  {
+    "english": "army",
+    "mattokki": "kel"
+  },
+  {
+    "english": "around",
+    "mattokki": "lowaya"
+  },
+  {
+    "english": "arrange",
+    "mattokki": "ge'ob"
+  },
+  {
+    "english": "arrangement",
+    "mattokki": "ge'obur"
+  },
+  {
+    "english": "arrest",
+    "mattokki": "morrogir,kumituk"
+  },
+  {
+    "english": "arrogant",
+    "mattokki": "newerti-dool"
+  },
+  {
+    "english": "ascend",
+    "mattokki": "kooge"
+  },
+  {
+    "english": "ash",
+    "mattokki": "aborti"
+  },
+  {
+    "english": "ask",
+    "mattokki": "issig"
+  },
+  {
+    "english": "asthma",
+    "mattokki": "semma"
+  },
+  {
+    "english": "at",
+    "mattokki": "nay-nur"
+  },
+  {
+    "english": "aunt",
+    "mattokki": "ba-n-essi"
+  },
+  {
+    "english": "aunt",
+    "mattokki": "indi-kegid"
+  },
+  {
+    "english": "avert",
+    "mattokki": "wailais-gir"
+  },
+  {
+    "english": "awake",
+    "mattokki": "bitge"
+  },
+  {
+    "english": "away",
+    "mattokki": "wurri"
+  },
+  {
+    "english": "awe",
+    "mattokki": "surki,sundi"
+  },
+  {
+    "english": "axe",
+    "mattokki": "gumbo"
+  },
+  {
+    "english": "baby",
+    "mattokki": "uffi,bitan"
+  },
+  {
+    "english": "back",
+    "mattokki": "ger\""
+  },
+  {
+    "english": "bad",
+    "mattokki": "gurri"
+  },
+  {
+    "english": "bald",
+    "mattokki": "toage"
+  },
+  {
+    "english": "ban",
+    "mattokki": "doubba"
+  },
+  {
+    "english": "bans",
+    "mattokki": "doubbi"
+  },
+  {
+    "english": "banish",
+    "mattokki": "tou'rr"
+  },
+  {
+    "english": "banished",
+    "mattokki": "tou'rrsou"
+  },
+  {
+    "english": "bank",
+    "mattokki": "bas,aab"
+  },
+  {
+    "english": "bare",
+    "mattokki": "face"
+  },
+  {
+    "english": "bare",
+    "mattokki": "foot"
+  },
+  {
+    "english": "bark",
+    "mattokki": "wok,mok"
+  },
+  {
+    "english": "bark",
+    "mattokki": "attge'i"
+  },
+  {
+    "english": "barly",
+    "mattokki": "serin"
+  },
+  {
+    "english": "barren",
+    "mattokki": "meer"
+  },
+  {
+    "english": "bashful",
+    "mattokki": "sowur"
+  },
+  {
+    "english": "bathe",
+    "mattokki": "bow"
+  },
+  {
+    "english": "beach",
+    "mattokki": "aab-togoag"
+  },
+  {
+    "english": "bead",
+    "mattokki": "artge'i"
+  },
+  {
+    "english": "beard",
+    "mattokki": "sameh"
+  },
+  {
+    "english": "beat",
+    "mattokki": "ge'om"
+  },
+  {
+    "english": "beatle",
+    "mattokki": "kookinne"
+  },
+  {
+    "english": "beautiful",
+    "mattokki": "tonge'il"
+  },
+  {
+    "english": "beautify",
+    "mattokki": "tonge'ilgir"
+  },
+  {
+    "english": "beauty",
+    "mattokki": "tonge'ilged"
+  },
+  {
+    "english": "became",
+    "mattokki": "noasou"
+  },
+  {
+    "english": "become",
+    "mattokki": "un"
+  },
+  {
+    "english": "bed",
+    "mattokki": "ungre"
+  },
+  {
+    "english": "before",
+    "mattokki": "ogollo"
+  },
+  {
+    "english": "beg",
+    "mattokki": "bed,bend"
+  },
+  {
+    "english": "begin",
+    "mattokki": "ugur"
+  },
+  {
+    "english": "beguile",
+    "mattokki": "doashkir"
+  },
+  {
+    "english": "behind",
+    "mattokki": "ger-ni"
+  },
+  {
+    "english": "blech",
+    "mattokki": "aish"
+  },
+  {
+    "english": "belly",
+    "mattokki": "too"
+  },
+  {
+    "english": "belt",
+    "mattokki": "amage'ur"
+  },
+  {
+    "english": "bend",
+    "mattokki": "oub,sourogne"
+  },
+  {
+    "english": "bent",
+    "mattokki": "beri,arri"
+  },
+  {
+    "english": "berth",
+    "mattokki": "mishra"
+  },
+  {
+    "english": "better",
+    "mattokki": "g'en"
+  },
+  {
+    "english": "big",
+    "mattokki": "dool"
+  },
+  {
+    "english": "bird",
+    "mattokki": "kawirti"
+  },
+  {
+    "english": "birth",
+    "mattokki": "ouskur"
+  },
+  {
+    "english": "bite",
+    "mattokki": "utge"
+  },
+  {
+    "english": "bitter",
+    "mattokki": "nuddi"
+  },
+  {
+    "english": "black",
+    "mattokki": "ouroumme'"
+  },
+  {
+    "english": "blacksmith",
+    "mattokki": "tabid"
+  },
+  {
+    "english": "bladder",
+    "mattokki": "belti"
+  },
+  {
+    "english": "blame",
+    "mattokki": "goagne,gog"
+  },
+  {
+    "english": "blanket",
+    "mattokki": "migid"
+  },
+  {
+    "english": "blaze",
+    "mattokki": "tou'rk"
+  },
+  {
+    "english": "bleat",
+    "mattokki": "maing"
+  },
+  {
+    "english": "bleet",
+    "mattokki": "wud"
+  },
+  {
+    "english": "bless",
+    "mattokki": "digreekirre"
+  },
+  {
+    "english": "blessed",
+    "mattokki": "digreekirsou"
+  },
+  {
+    "english": "blind",
+    "mattokki": "dogor,dongor"
+  },
+  {
+    "english": "blink",
+    "mattokki": "nebed"
+  },
+  {
+    "english": "blinking",
+    "mattokki": "anebedi"
+  },
+  {
+    "english": "bloater",
+    "mattokki": "turkeen"
+  },
+  {
+    "english": "blood",
+    "mattokki": "gew"
+  },
+  {
+    "english": "bluff",
+    "mattokki": "tukker"
+  },
+  {
+    "english": "blunt",
+    "mattokki": "dibou"
+  },
+  {
+    "english": "boat",
+    "mattokki": "koub"
+  },
+  {
+    "english": "boil",
+    "mattokki": "wass"
+  },
+  {
+    "english": "boiling",
+    "mattokki": "a"
+  },
+  {
+    "english": "bone",
+    "mattokki": "keed"
+  },
+  {
+    "english": "book",
+    "mattokki": "show"
+  },
+  {
+    "english": "bore",
+    "mattokki": "orbir"
+  },
+  {
+    "english": "born",
+    "mattokki": "ounnur"
+  },
+  {
+    "english": "bought",
+    "mattokki": "ge'ansou"
+  },
+  {
+    "english": "bow",
+    "mattokki": "ungo,ongi"
+  },
+  {
+    "english": "bow",
+    "mattokki": "baw"
+  },
+  {
+    "english": "boy",
+    "mattokki": "toad"
+  },
+  {
+    "english": "braid",
+    "mattokki": "awitge"
+  },
+  {
+    "english": "brain",
+    "mattokki": "irig"
+  },
+  {
+    "english": "branch",
+    "mattokki": "gulli,awir"
+  },
+  {
+    "english": "brand",
+    "mattokki": "kineed"
+  },
+  {
+    "english": "brave",
+    "mattokki": "ogge'i"
+  },
+  {
+    "english": "bravery",
+    "mattokki": "ogge'iekki"
+  },
+  {
+    "english": "break",
+    "mattokki": "toag,toub"
+  },
+  {
+    "english": "breakfast",
+    "mattokki": "uginge'okked"
+  },
+  {
+    "english": "breast",
+    "mattokki": "erti"
+  },
+  {
+    "english": "breathes",
+    "mattokki": "toudoki"
+  },
+  {
+    "english": "bride",
+    "mattokki": "erkene-koal"
+  },
+  {
+    "english": "bring",
+    "mattokki": "utta"
+  },
+  {
+    "english": "brittle",
+    "mattokki": "norush"
+  },
+  {
+    "english": "brook",
+    "mattokki": "multi"
+  },
+  {
+    "english": "broom",
+    "mattokki": "kulledi"
+  },
+  {
+    "english": "brother",
+    "mattokki": "bess"
+  },
+  {
+    "english": "brought",
+    "mattokki": "utlasou"
+  },
+  {
+    "english": "bubble",
+    "mattokki": "goumbod"
+  },
+  {
+    "english": "bud",
+    "mattokki": "goussi"
+  },
+  {
+    "english": "build",
+    "mattokki": "gow,gonge"
+  },
+  {
+    "english": "building",
+    "mattokki": "gowir,gonge'ir"
+  },
+  {
+    "english": "bull",
+    "mattokki": "gor-ondi"
+  },
+  {
+    "english": "bundle",
+    "mattokki": "gutti,warti"
+  },
+  {
+    "english": "burial",
+    "mattokki": "kougne'ur"
+  },
+  {
+    "english": "burn",
+    "mattokki": "ge'ougir"
+  },
+  {
+    "english": "burns",
+    "mattokki": "ge'ougiri"
+  },
+  {
+    "english": "burned",
+    "mattokki": "ge'ougirsou"
+  },
+  {
+    "english": "burst",
+    "mattokki": "bukkoas"
+  },
+  {
+    "english": "bury",
+    "mattokki": "kougne'ir"
+  },
+  {
+    "english": "butcher",
+    "mattokki": "goge'i"
+  },
+  {
+    "english": "butter",
+    "mattokki": "deskur"
+  },
+  {
+    "english": "buy",
+    "mattokki": "ge'an"
+  },
+  {
+    "english": "calf",
+    "mattokki": "gor,"
+  },
+  {
+    "english": "call",
+    "mattokki": "ow"
+  },
+  {
+    "english": "came",
+    "mattokki": "tassou"
+  },
+  {
+    "english": "camel",
+    "mattokki": "come"
+  },
+  {
+    "english": "canisrcr",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "carry",
+    "mattokki": "inge-kaugeour"
+  },
+  {
+    "english": "cat",
+    "mattokki": "sab"
+  },
+  {
+    "english": "catch",
+    "mattokki": "doum"
+  },
+  {
+    "english": "cave",
+    "mattokki": "gaif"
+  },
+  {
+    "english": "ceiling",
+    "mattokki": "noki"
+  },
+  {
+    "english": "censer",
+    "mattokki": "kurweddi"
+  },
+  {
+    "english": "center",
+    "mattokki": "selle"
+  },
+  {
+    "english": "cereal",
+    "mattokki": "eew"
+  },
+  {
+    "english": "chamelion",
+    "mattokki": "noage,nogondesse"
+  },
+  {
+    "english": "chap",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "charge",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "chatter",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "check",
+    "mattokki": "hed"
+  },
+  {
+    "english": "cheek",
+    "mattokki": "gee'akom"
+  },
+  {
+    "english": "chest",
+    "mattokki": "og"
+  },
+  {
+    "english": "chew",
+    "mattokki": "ge'ok"
+  },
+  {
+    "english": "childhood",
+    "mattokki": "uffi-nere"
+  },
+  {
+    "english": "chill",
+    "mattokki": "kerkair"
+  },
+  {
+    "english": "cberp",
+    "mattokki": "shigshig"
+  },
+  {
+    "english": "choose",
+    "mattokki": "bur"
+  },
+  {
+    "english": "chose",
+    "mattokki": "bursou"
+  },
+  {
+    "english": "cheern",
+    "mattokki": "mokk,ge'ug"
+  },
+  {
+    "english": "churns",
+    "mattokki": "moki,ge'ugi"
+  },
+  {
+    "english": "churned",
+    "mattokki": "mokbou,ge'ug"
+  },
+  {
+    "english": "circle",
+    "mattokki": "awilli"
+  },
+  {
+    "english": "clang",
+    "mattokki": "cling"
+  },
+  {
+    "english": "clap",
+    "mattokki": "alli-gi-geom"
+  },
+  {
+    "english": "cleft",
+    "mattokki": "tour"
+  },
+  {
+    "english": "climb",
+    "mattokki": "durr"
+  },
+  {
+    "english": "clip",
+    "mattokki": "cosor"
+  },
+  {
+    "english": "clitoris",
+    "mattokki": "fasa"
+  },
+  {
+    "english": "close",
+    "mattokki": "kob"
+  },
+  {
+    "english": "closed",
+    "mattokki": "kob-bou"
+  },
+  {
+    "english": "clothes",
+    "mattokki": "kade"
+  },
+  {
+    "english": "clover",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "coal",
+    "mattokki": "ouloud"
+  },
+  {
+    "english": "coarse",
+    "mattokki": "burge"
+  },
+  {
+    "english": "cob",
+    "mattokki": "nood"
+  },
+  {
+    "english": "cock",
+    "mattokki": "durbudondi,koglool"
+  },
+  {
+    "english": "cold",
+    "mattokki": "od"
+  },
+  {
+    "english": "cold",
+    "mattokki": "orokel"
+  },
+  {
+    "english": "collect",
+    "mattokki": "dett"
+  },
+  {
+    "english": "collect",
+    "mattokki": "kaw"
+  },
+  {
+    "english": "comb",
+    "mattokki": "faisir"
+  },
+  {
+    "english": "come",
+    "mattokki": "ta"
+  },
+  {
+    "english": "coming",
+    "mattokki": "tul"
+  },
+  {
+    "english": "comon",
+    "mattokki": "koaldima"
+  },
+  {
+    "english": "condiment",
+    "mattokki": "ge'ukood"
+  },
+  {
+    "english": "confused",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "console",
+    "mattokki": "tubbur,beddur"
+  },
+  {
+    "english": "core",
+    "mattokki": "gol"
+  },
+  {
+    "english": "corner",
+    "mattokki": "keen"
+  },
+  {
+    "english": "costs",
+    "mattokki": "kotti,kobi"
+  },
+  {
+    "english": "cotton",
+    "mattokki": "bennawutti"
+  },
+  {
+    "english": "count",
+    "mattokki": "eer"
+  },
+  {
+    "english": "country",
+    "mattokki": "eshuy"
+  },
+  {
+    "english": "cover",
+    "mattokki": "tagir"
+  },
+  {
+    "english": "covers",
+    "mattokki": "tagri"
+  },
+  {
+    "english": "cow",
+    "mattokki": "tee"
+  },
+  {
+    "english": "coward",
+    "mattokki": "migil"
+  },
+  {
+    "english": "crack",
+    "mattokki": "guk"
+  },
+  {
+    "english": "cracked",
+    "mattokki": "guksou"
+  },
+  {
+    "english": "cradle",
+    "mattokki": "waid"
+  },
+  {
+    "english": "craw",
+    "mattokki": "goam"
+  },
+  {
+    "english": "cream",
+    "mattokki": "nebed"
+  },
+  {
+    "english": "cressent",
+    "mattokki": "oon"
+  },
+  {
+    "english": "crisp",
+    "mattokki": "dousha"
+  },
+  {
+    "english": "crocodile",
+    "mattokki": "elom"
+  },
+  {
+    "english": "crow",
+    "mattokki": "koag"
+  },
+  {
+    "english": "crush",
+    "mattokki": "boos,gar"
+  },
+  {
+    "english": "cry",
+    "mattokki": "weeg"
+  },
+  {
+    "english": "cud",
+    "mattokki": "armikud,emgikud"
+  },
+  {
+    "english": "cuddle",
+    "mattokki": "oggar"
+  },
+  {
+    "english": "cull",
+    "mattokki": "nod"
+  },
+  {
+    "english": "cultivate",
+    "mattokki": "ewir"
+  },
+  {
+    "english": "cultivation",
+    "mattokki": "ewirti"
+  },
+  {
+    "english": "curd",
+    "mattokki": "kreet,masad"
+  },
+  {
+    "english": "cure",
+    "mattokki": "g'engir"
+  },
+  {
+    "english": "cured",
+    "mattokki": "g'engirsou"
+  },
+  {
+    "english": "current",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "curse",
+    "mattokki": "toos"
+  },
+  {
+    "english": "curtain",
+    "mattokki": "koogera"
+  },
+  {
+    "english": "cushion",
+    "mattokki": "ge'gid"
+  },
+  {
+    "english": "cut",
+    "mattokki": "mer"
+  },
+  {
+    "english": "cut",
+    "mattokki": "seergi"
+  },
+  {
+    "english": "dale",
+    "mattokki": "ge'air"
+  },
+  {
+    "english": "damn",
+    "mattokki": "dib"
+  },
+  {
+    "english": "damp",
+    "mattokki": "ge'awir"
+  },
+  {
+    "english": "damsel",
+    "mattokki": "feta,beyye'-koal"
+  },
+  {
+    "english": "dance",
+    "mattokki": "ban-bat"
+  },
+  {
+    "english": "dance",
+    "mattokki": "banur,batur"
+  },
+  {
+    "english": "dark",
+    "mattokki": "girdoab,gougsh"
+  },
+  {
+    "english": "date",
+    "mattokki": "betti"
+  },
+  {
+    "english": "daughter",
+    "mattokki": "gullo,bourou"
+  },
+  {
+    "english": "dawn",
+    "mattokki": "masil,belti"
+  },
+  {
+    "english": "day",
+    "mattokki": "ougrais"
+  },
+  {
+    "english": "today",
+    "mattokki": "alongo,inowi"
+  },
+  {
+    "english": "yesterday",
+    "mattokki": "weel"
+  },
+  {
+    "english": "deaf",
+    "mattokki": "terig"
+  },
+  {
+    "english": "dead",
+    "mattokki": "dibou"
+  },
+  {
+    "english": "death",
+    "mattokki": "diyur"
+  },
+  {
+    "english": "dear",
+    "mattokki": "toad"
+  },
+  {
+    "english": "decorate",
+    "mattokki": "alle,say"
+  },
+  {
+    "english": "decrease",
+    "mattokki": "meer"
+  },
+  {
+    "english": "deep",
+    "mattokki": "dolli"
+  },
+  {
+    "english": "deer",
+    "mattokki": "gail"
+  },
+  {
+    "english": "deflower",
+    "mattokki": "aingir"
+  },
+  {
+    "english": "demolish",
+    "mattokki": "will"
+  },
+  {
+    "english": "den",
+    "mattokki": "orbor"
+  },
+  {
+    "english": "deny",
+    "mattokki": "goob"
+  },
+  {
+    "english": "denial",
+    "mattokki": "goobur"
+  },
+  {
+    "english": "depart",
+    "mattokki": "nog"
+  },
+  {
+    "english": "departed",
+    "mattokki": "nogsou"
+  },
+  {
+    "english": "departure",
+    "mattokki": "nogur"
+  },
+  {
+    "english": "descend",
+    "mattokki": "shougour"
+  },
+  {
+    "english": "desert",
+    "mattokki": "naye"
+  },
+  {
+    "english": "deserted",
+    "mattokki": "agoodbo"
+  },
+  {
+    "english": "destory",
+    "mattokki": "borkin"
+  },
+  {
+    "english": "deviate",
+    "mattokki": "shoat"
+  },
+  {
+    "english": "diarrhea",
+    "mattokki": "seege'ur"
+  },
+  {
+    "english": "did",
+    "mattokki": "awsou"
+  },
+  {
+    "english": "died",
+    "mattokki": "disou"
+  },
+  {
+    "english": "difficult",
+    "mattokki": "gasi"
+  },
+  {
+    "english": "dig",
+    "mattokki": "goal,but"
+  },
+  {
+    "english": "dirty",
+    "mattokki": "seek"
+  },
+  {
+    "english": "dissappear",
+    "mattokki": "bok"
+  },
+  {
+    "english": "disappearance",
+    "mattokki": "bokur"
+  },
+  {
+    "english": "disgust",
+    "mattokki": "seek"
+  },
+  {
+    "english": "dissolve",
+    "mattokki": "irg"
+  },
+  {
+    "english": "dispute",
+    "mattokki": "arro,hurb"
+  },
+  {
+    "english": "dive",
+    "mattokki": "ge'ag"
+  },
+  {
+    "english": "divide",
+    "mattokki": "bug"
+  },
+  {
+    "english": "division",
+    "mattokki": "bugur"
+  },
+  {
+    "english": "divorce",
+    "mattokki": "bage"
+  },
+  {
+    "english": "do",
+    "mattokki": "aw"
+  },
+  {
+    "english": "does",
+    "mattokki": "awi"
+  },
+  {
+    "english": "dog",
+    "mattokki": "well"
+  },
+  {
+    "english": "donkey",
+    "mattokki": "hanou"
+  },
+  {
+    "english": "doll",
+    "mattokki": "age-nbourou"
+  },
+  {
+    "english": "dough",
+    "mattokki": "kuliss',isse"
+  },
+  {
+    "english": "dove",
+    "mattokki": "kroo,doge"
+  },
+  {
+    "english": "down",
+    "mattokki": "togoag"
+  },
+  {
+    "english": "dowry",
+    "mattokki": "a'ba"
+  },
+  {
+    "english": "doze",
+    "mattokki": "nolge"
+  },
+  {
+    "english": "drowsy",
+    "mattokki": "nolge"
+  },
+  {
+    "english": "drag",
+    "mattokki": "toll"
+  },
+  {
+    "english": "drank",
+    "mattokki": "nisou"
+  },
+  {
+    "english": "dose",
+    "mattokki": "goumbe,goumme"
+  },
+  {
+    "english": "drawer",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "dream",
+    "mattokki": "ootti"
+  },
+  {
+    "english": "drink",
+    "mattokki": "ni"
+  },
+  {
+    "english": "drinking",
+    "mattokki": "niyur"
+  },
+  {
+    "english": "drive",
+    "mattokki": "hag"
+  },
+  {
+    "english": "driver",
+    "mattokki": "hagur"
+  },
+  {
+    "english": "drop",
+    "mattokki": "digir,diff"
+  },
+  {
+    "english": "drop",
+    "mattokki": "nuk"
+  },
+  {
+    "english": "drop",
+    "mattokki": "nuktoad"
+  },
+  {
+    "english": "drown",
+    "mattokki": "kidd"
+  },
+  {
+    "english": "drowned",
+    "mattokki": "kidsou"
+  },
+  {
+    "english": "drowning",
+    "mattokki": "kiddur"
+  },
+  {
+    "english": "drowns",
+    "mattokki": "kiddi"
+  },
+  {
+    "english": "dry",
+    "mattokki": "sow"
+  },
+  {
+    "english": "dry",
+    "mattokki": "souri"
+  },
+  {
+    "english": "duck",
+    "mattokki": "dalay"
+  },
+  {
+    "english": "dumb",
+    "mattokki": "momod"
+  },
+  {
+    "english": "dung",
+    "mattokki": "ossi"
+  },
+  {
+    "english": "dung",
+    "mattokki": "kurkmn"
+  },
+  {
+    "english": "dust",
+    "mattokki": "esked"
+  },
+  {
+    "english": "dwarf",
+    "mattokki": "ortona"
+  },
+  {
+    "english": "dying",
+    "mattokki": "a-di"
+  },
+  {
+    "english": "ear",
+    "mattokki": "ouloug"
+  },
+  {
+    "english": "early",
+    "mattokki": "warrur"
+  },
+  {
+    "english": "earth",
+    "mattokki": "gourr"
+  },
+  {
+    "english": "east",
+    "mattokki": "multi"
+  },
+  {
+    "english": "eastern",
+    "mattokki": "multoneri"
+  },
+  {
+    "english": "eat",
+    "mattokki": "kul"
+  },
+  {
+    "english": "eatable",
+    "mattokki": "kultuki"
+  },
+  {
+    "english": "edge",
+    "mattokki": "kotge'i"
+  },
+  {
+    "english": "educate",
+    "mattokki": "kourkir"
+  },
+  {
+    "english": "education",
+    "mattokki": "kourur"
+  },
+  {
+    "english": "egg",
+    "mattokki": "gusgutti"
+  },
+  {
+    "english": "eight",
+    "mattokki": "idwo"
+  },
+  {
+    "english": "eighteen",
+    "mattokki": "dimen-d-idwo"
+  },
+  {
+    "english": "eight",
+    "mattokki": "idwitti"
+  },
+  {
+    "english": "elevate",
+    "mattokki": "kougegir"
+  },
+  {
+    "english": "eleven",
+    "mattokki": "dimen-d-wair"
+  },
+  {
+    "english": "embrace",
+    "mattokki": "gar"
+  },
+  {
+    "english": "emerg",
+    "mattokki": "beloasou"
+  },
+  {
+    "english": "empty",
+    "mattokki": "sood"
+  },
+  {
+    "english": "enclosure",
+    "mattokki": "kar"
+  },
+  {
+    "english": "end",
+    "mattokki": "katge'ikail"
+  },
+  {
+    "english": "enigma",
+    "mattokki": "olti"
+  },
+  {
+    "english": "enlarge",
+    "mattokki": "doolkid"
+  },
+  {
+    "english": "enough",
+    "mattokki": "digri,meshshe'"
+  },
+  {
+    "english": "envious",
+    "mattokki": "messi-kutti"
+  },
+  {
+    "english": "equal",
+    "mattokki": "we'ter"
+  },
+  {
+    "english": "evening",
+    "mattokki": "ougou"
+  },
+  {
+    "english": "evil",
+    "mattokki": "oos"
+  },
+  {
+    "english": "except",
+    "mattokki": "maiki"
+  },
+  {
+    "english": "excess",
+    "mattokki": "mag"
+  },
+  {
+    "english": "excite",
+    "mattokki": "irrj,"
+  },
+  {
+    "english": "excuse",
+    "mattokki": "g'end"
+  },
+  {
+    "english": "exist",
+    "mattokki": "da"
+  },
+  {
+    "english": "existed",
+    "mattokki": "dasou"
+  },
+  {
+    "english": "extend",
+    "mattokki": "nosogir"
+  },
+  {
+    "english": "extract",
+    "mattokki": "sou'ow"
+  },
+  {
+    "english": "eye",
+    "mattokki": "missi"
+  },
+  {
+    "english": "fable",
+    "mattokki": "komma"
+  },
+  {
+    "english": "face",
+    "mattokki": "koi,kogne"
+  },
+  {
+    "english": "face",
+    "mattokki": "abidi"
+  },
+  {
+    "english": "faced",
+    "mattokki": "abidsou"
+  },
+  {
+    "english": "fade",
+    "mattokki": "olm"
+  },
+  {
+    "english": "faded",
+    "mattokki": "olm-bou"
+  },
+  {
+    "english": "fainting",
+    "mattokki": "gumre'bou"
+  },
+  {
+    "english": "fall",
+    "mattokki": "digi"
+  },
+  {
+    "english": "falter",
+    "mattokki": "agug"
+  },
+  {
+    "english": "far",
+    "mattokki": "wirri,gobri"
+  },
+  {
+    "english": "farewell",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "farm",
+    "mattokki": "be-n-gourr"
+  },
+  {
+    "english": "farmer",
+    "mattokki": "torbur"
+  },
+  {
+    "english": "fast",
+    "mattokki": "derti"
+  },
+  {
+    "english": "fat",
+    "mattokki": "kombo"
+  },
+  {
+    "english": "father",
+    "mattokki": "bab"
+  },
+  {
+    "english": "father",
+    "mattokki": "nou"
+  },
+  {
+    "english": "father",
+    "mattokki": "urrou"
+  },
+  {
+    "english": "fatigue",
+    "mattokki": "mariskidi"
+  },
+  {
+    "english": "fearing",
+    "mattokki": "surki,sundi"
+  },
+  {
+    "english": "feast",
+    "mattokki": "kore"
+  },
+  {
+    "english": "feather",
+    "mattokki": "dilti,shingirti"
+  },
+  {
+    "english": "feeble",
+    "mattokki": "ge'agud"
+  },
+  {
+    "english": "feed",
+    "mattokki": "kulkid"
+  },
+  {
+    "english": "feet",
+    "mattokki": "ossitge'i"
+  },
+  {
+    "english": "fell",
+    "mattokki": "digsou"
+  },
+  {
+    "english": "female",
+    "mattokki": "kurre"
+  },
+  {
+    "english": "few",
+    "mattokki": "kinne,maris"
+  },
+  {
+    "english": "fifteen",
+    "mattokki": "dimen-d-dige'o"
+  },
+  {
+    "english": "fifth",
+    "mattokki": "digeitti"
+  },
+  {
+    "english": "fifty",
+    "mattokki": "demin,nidige"
+  },
+  {
+    "english": "fill",
+    "mattokki": "ayegir,ugnegir"
+  },
+  {
+    "english": "find",
+    "mattokki": "el"
+  },
+  {
+    "english": "finds",
+    "mattokki": "eli"
+  },
+  {
+    "english": "fine",
+    "mattokki": "nere,moroad"
+  },
+  {
+    "english": "fire",
+    "mattokki": "eeg"
+  },
+  {
+    "english": "fish",
+    "mattokki": "kare"
+  },
+  {
+    "english": "five",
+    "mattokki": "dige'o"
+  },
+  {
+    "english": "flashing",
+    "mattokki": "afilitti"
+  },
+  {
+    "english": "flatten",
+    "mattokki": "futge-bou"
+  },
+  {
+    "english": "float",
+    "mattokki": "g'ey"
+  },
+  {
+    "english": "floated",
+    "mattokki": "g'egsou"
+  },
+  {
+    "english": "floater",
+    "mattokki": "g'eyya"
+  },
+  {
+    "english": "floating",
+    "mattokki": "g'ey-bou"
+  },
+  {
+    "english": "flock",
+    "mattokki": "redda"
+  },
+  {
+    "english": "flood",
+    "mattokki": "demeera,essidool"
+  },
+  {
+    "english": "floor",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "flour",
+    "mattokki": "noorti"
+  },
+  {
+    "english": "flow",
+    "mattokki": "wed"
+  },
+  {
+    "english": "flowing",
+    "mattokki": "wed-bou"
+  },
+  {
+    "english": "fly",
+    "mattokki": "sib,fir"
+  },
+  {
+    "english": "fold",
+    "mattokki": "kou'de"
+  },
+  {
+    "english": "follow",
+    "mattokki": "tebed,tey"
+  },
+  {
+    "english": "food",
+    "mattokki": "kul"
+  },
+  {
+    "english": "foot",
+    "mattokki": "ossi"
+  },
+  {
+    "english": "for",
+    "mattokki": "dig"
+  },
+  {
+    "english": "forget",
+    "mattokki": "eew"
+  },
+  {
+    "english": "forgetting",
+    "mattokki": "eewur"
+  },
+  {
+    "english": "forgotton",
+    "mattokki": "eew,tuk-sou"
+  },
+  {
+    "english": "forhead",
+    "mattokki": "goumour"
+  },
+  {
+    "english": "found",
+    "mattokki": "elsou"
+  },
+  {
+    "english": "four",
+    "mattokki": "kemiso"
+  },
+  {
+    "english": "fourteen",
+    "mattokki": "dimen-d-kemso"
+  },
+  {
+    "english": "fourth",
+    "mattokki": "kemsitti"
+  },
+  {
+    "english": "fox",
+    "mattokki": "toussaba,aiwkoal"
+  },
+  {
+    "english": "fracture",
+    "mattokki": "wuttigur,bukir"
+  },
+  {
+    "english": "friends",
+    "mattokki": "twirtge'i"
+  },
+  {
+    "english": "frog",
+    "mattokki": "golgeday"
+  },
+  {
+    "english": "from",
+    "mattokki": "toan"
+  },
+  {
+    "english": "fur",
+    "mattokki": "barris"
+  },
+  {
+    "english": "furniture",
+    "mattokki": "ourdi"
+  },
+  {
+    "english": "fuse",
+    "mattokki": "telaiwgir"
+  },
+  {
+    "english": "gather",
+    "mattokki": "doal"
+  },
+  {
+    "english": "gave",
+    "mattokki": "tersou,tussou"
+  },
+  {
+    "english": "gaze",
+    "mattokki": "kan"
+  },
+  {
+    "english": "gazelle",
+    "mattokki": "gail"
+  },
+  {
+    "english": "generous",
+    "mattokki": "doah"
+  },
+  {
+    "english": "germinate",
+    "mattokki": "gegoss,bayir"
+  },
+  {
+    "english": "ghost",
+    "mattokki": "soullou"
+  },
+  {
+    "english": "gift",
+    "mattokki": "kurre"
+  },
+  {
+    "english": "girding",
+    "mattokki": "amage-bou"
+  },
+  {
+    "english": "girl",
+    "mattokki": "bourou"
+  },
+  {
+    "english": "give",
+    "mattokki": "ter,tur"
+  },
+  {
+    "english": "give",
+    "mattokki": "dai"
+  },
+  {
+    "english": "give",
+    "mattokki": "daitge'ir"
+  },
+  {
+    "english": "give",
+    "mattokki": "weedgir"
+  },
+  {
+    "english": "glad",
+    "mattokki": "gourr-bou"
+  },
+  {
+    "english": "gladness",
+    "mattokki": "gourretti"
+  },
+  {
+    "english": "glaring",
+    "mattokki": "gailog"
+  },
+  {
+    "english": "glitter",
+    "mattokki": "tawuy,tawgne"
+  },
+  {
+    "english": "globe",
+    "mattokki": "girgge-bou"
+  },
+  {
+    "english": "gnaw",
+    "mattokki": "goad"
+  },
+  {
+    "english": "go",
+    "mattokki": "ge'ou"
+  },
+  {
+    "english": "go",
+    "mattokki": "bel"
+  },
+  {
+    "english": "go",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "go",
+    "mattokki": "weed"
+  },
+  {
+    "english": "goat",
+    "mattokki": "bcutul"
+  },
+  {
+    "english": "goblin",
+    "mattokki": "er-kuli"
+  },
+  {
+    "english": "god",
+    "mattokki": "Aarti"
+  },
+  {
+    "english": "gold",
+    "mattokki": "nob,nebro"
+  },
+  {
+    "english": "good",
+    "mattokki": "fala"
+  },
+  {
+    "english": "gorge",
+    "mattokki": "goas"
+  },
+  {
+    "english": "gourd",
+    "mattokki": "kebe"
+  },
+  {
+    "english": "govern",
+    "mattokki": "mou'rt"
+  },
+  {
+    "english": "governs",
+    "mattokki": "mou'rti"
+  },
+  {
+    "english": "grain",
+    "mattokki": "taire"
+  },
+  {
+    "english": "grass",
+    "mattokki": "g'eed,magissi"
+  },
+  {
+    "english": "graze",
+    "mattokki": "n/a"
+  },
+  {
+    "english": "grease",
+    "mattokki": "sile"
+  },
+  {
+    "english": "green",
+    "mattokki": "dessi"
+  },
+  {
+    "english": "griddle",
+    "mattokki": "dew"
+  },
+  {
+    "english": "grind",
+    "mattokki": "ge'oag"
+  },
+  {
+    "english": "grips",
+    "mattokki": "wurtab"
+  },
+  {
+    "english": "grit",
+    "mattokki": "korod"
+  },
+  {
+    "english": "grope",
+    "mattokki": "tubtub"
+  },
+  {
+    "english": "grows",
+    "mattokki": "keyi"
+  },
+  {
+    "english": "grows",
+    "mattokki": "bairi"
+  },
+  {
+    "english": "guess",
+    "mattokki": "da"
+  },
+  {
+    "english": "guessed",
+    "mattokki": "dasou"
+  },
+  {
+    "english": "guest",
+    "mattokki": "iskirtti"
+  },
+  {
+    "english": "guide",
+    "mattokki": "kiy"
+  },
+  {
+    "english": "guilt",
+    "mattokki": "abou"
+  },
+  {
+    "english": "gum",
+    "mattokki": "golissi"
+  },
+  {
+    "english": "gums",
+    "mattokki": "nelkid"
+  },
+  {
+    "english": "gush",
+    "mattokki": "borbor"
+  },
+  {
+    "english": "gushes",
+    "mattokki": "ougne'i"
+  },
+  {
+    "english": "habit",
+    "mattokki": "kourked"
+  },
+  {
+    "english": "hair",
+    "mattokki": "seer"
+  },
+  {
+    "english": "half",
+    "mattokki": "bugatti"
+  },
+  {
+    "english": "hammer",
+    "mattokki": "kok"
+  },
+  {
+    "english": "hamper",
+    "mattokki": "shibir"
+  },
+  {
+    "english": "hand",
+    "mattokki": "iy"
+  },
+  {
+    "english": "hang",
+    "mattokki": "solligir"
+  },
+  {
+    "english": "hanger",
+    "mattokki": "solleddi"
+  },
+  {
+    "english": "hanker",
+    "mattokki": "mushki"
+  },
+  {
+    "english": "hard",
+    "mattokki": "kogor"
+  },
+  {
+    "english": "harvest",
+    "mattokki": "ge'oarur"
+  },
+  {
+    "english": "haste",
+    "mattokki": "tuk,simurk"
+  },
+  {
+    "english": "hatch",
+    "mattokki": "kuk"
+  },
+  {
+    "english": "hate",
+    "mattokki": "tiss"
+  },
+  {
+    "english": "hatred",
+    "mattokki": "tissur"
+  },
+  {
+    "english": "haul",
+    "mattokki": "toll"
+  },
+  {
+    "english": "have",
+    "mattokki": "tennay"
+  },
+  {
+    "english": "he/she",
+    "mattokki": "ter"
+  },
+  {
+    "english": "head",
+    "mattokki": "our"
+  },
+  {
+    "english": "head",
+    "mattokki": "owrou"
+  },
+  {
+    "english": "heep",
+    "mattokki": "dar"
+  },
+  {
+    "english": "hear",
+    "mattokki": "gige'ir"
+  },
+  {
+    "english": "heart",
+    "mattokki": "aa"
+  },
+  {
+    "english": "hearth",
+    "mattokki": "doro"
+  },
+  {
+    "english": "heat",
+    "mattokki": "ge'ougi"
+  },
+  {
+    "english": "heat",
+    "mattokki": "hooge"
+  },
+  {
+    "english": "heavy",
+    "mattokki": "doullou"
+  },
+  {
+    "english": "heir",
+    "mattokki": "aiwur,naiwur"
+  },
+  {
+    "english": "hen",
+    "mattokki": "durbud,doummade"
+  },
+  {
+    "english": "hen-house",
+    "mattokki": "binne,kounounou"
+  },
+  {
+    "english": "here",
+    "mattokki": "indo"
+  },
+  {
+    "english": "hide",
+    "mattokki": "bokkir"
+  },
+  {
+    "english": "hill",
+    "mattokki": "gounna"
+  },
+  {
+    "english": "hip",
+    "mattokki": "ge'ogin,dogigne"
+  },
+  {
+    "english": "hoarse",
+    "mattokki": "dasad"
+  },
+  {
+    "english": "hoe",
+    "mattokki": "but"
+  },
+  {
+    "english": "hold",
+    "mattokki": "ub,hub"
+  },
+  {
+    "english": "hollow",
+    "mattokki": "goal"
+  },
+  {
+    "english": "hook",
+    "mattokki": "ge'ukkur"
+  },
+  {
+    "english": "hop",
+    "mattokki": "fogor,dik"
+  },
+  {
+    "english": "hopping",
+    "mattokki": "sundeddi,humbid"
+  },
+  {
+    "english": "horn",
+    "mattokki": "nishi"
+  },
+  {
+    "english": "horse",
+    "mattokki": "kuge"
+  },
+  {
+    "english": "hot",
+    "mattokki": "ge'oagri"
+  },
+  {
+    "english": "house",
+    "mattokki": "ka"
+  },
+  {
+    "english": "how",
+    "mattokki": "mine"
+  },
+  {
+    "english": "hump",
+    "mattokki": "koroge"
+  },
+  {
+    "english": "humpback",
+    "mattokki": "korai"
+  },
+  {
+    "english": "hundred",
+    "mattokki": "imil"
+  },
+  {
+    "english": "hunger",
+    "mattokki": "org'ed,mitgari"
+  },
+  {
+    "english": "hungry",
+    "mattokki": "orgbou,mitgar-bou"
+  },
+  {
+    "english": "hurry",
+    "mattokki": "touroung"
+  },
+  {
+    "english": "husband",
+    "mattokki": "id"
+  },
+  {
+    "english": "husk",
+    "mattokki": "nob"
+  },
+  {
+    "english": "husker",
+    "mattokki": "nobeddi"
+  },
+  {
+    "english": "hyena",
+    "mattokki": "eddi"
+  },
+  {
+    "english": "idiot",
+    "mattokki": "hullage"
+  },
+  {
+    "english": "if",
+    "mattokki": "on"
+  },
+  {
+    "english": "ignorant",
+    "mattokki": "irbirmonou"
+  },
+  {
+    "english": "ill",
+    "mattokki": "eddi"
+  },
+  {
+    "english": "imbue",
+    "mattokki": "igid"
+  },
+  {
+    "english": "imitate",
+    "mattokki": "tey"
+  },
+  {
+    "english": "immature",
+    "mattokki": "doash"
+  },
+  {
+    "english": "immediately",
+    "mattokki": "kabita"
+  },
+  {
+    "english": "immerse",
+    "mattokki": "tubir"
+  },
+  {
+    "english": "in",
+    "mattokki": "deg"
+  },
+  {
+    "english": "increase",
+    "mattokki": "digrigir"
+  },
+  {
+    "english": "incite",
+    "mattokki": "hurrish"
+  },
+  {
+    "english": "inflame",
+    "mattokki": "arribe-arrig,"
+  },
+  {
+    "english": "inflate",
+    "mattokki": "ouff"
+  },
+  {
+    "english": "inflated",
+    "mattokki": "ouff-bou"
+  },
+  {
+    "english": "inhert",
+    "mattokki": "naiw,aiw"
+  },
+  {
+    "english": "inquire",
+    "mattokki": "issigiri"
+  },
+  {
+    "english": "inquired",
+    "mattokki": "issigirsou"
+  },
+  {
+    "english": "insect",
+    "mattokki": "afesh"
+  },
+  {
+    "english": "insert",
+    "mattokki": "oundour"
+  },
+  {
+    "english": "instead",
+    "mattokki": "tennagur"
+  },
+  {
+    "english": "interfere",
+    "mattokki": "toa'i"
+  },
+  {
+    "english": "interment",
+    "mattokki": "sheya"
+  },
+  {
+    "english": "intestine",
+    "mattokki": "dougouss"
+  },
+  {
+    "english": "invite",
+    "mattokki": "oagge'ir"
+  },
+  {
+    "english": "invitation",
+    "mattokki": "oagge'ur"
+  },
+  {
+    "english": "iron",
+    "mattokki": "sha"
+  },
+  {
+    "english": "irrgate",
+    "mattokki": "daig"
+  },
+  {
+    "english": "irrgation",
+    "mattokki": "daigur"
+  },
+  {
+    "english": "island",
+    "mattokki": "arti"
+  },
+  {
+    "english": "jolt",
+    "mattokki": "shougm"
+  },
+  {
+    "english": "jujuble",
+    "mattokki": "kurkade"
+  },
+  {
+    "english": "jump",
+    "mattokki": "wur"
+  },
+  {
+    "english": "jungle",
+    "mattokki": "toushshi"
+  },
+  {
+    "english": "jut",
+    "mattokki": "gouff"
+  },
+  {
+    "english": "keep",
+    "mattokki": "kag"
+  },
+  {
+    "english": "key",
+    "mattokki": "koushur"
+  },
+  {
+    "english": "kid",
+    "mattokki": "ewre"
+  },
+  {
+    "english": "kidnap",
+    "mattokki": "kab,sub"
+  },
+  {
+    "english": "kill",
+    "mattokki": "bair,be"
+  },
+  {
+    "english": "kin",
+    "mattokki": "egitti"
+  },
+  {
+    "english": "kiss",
+    "mattokki": "doag"
+  },
+  {
+    "english": "kitchen",
+    "mattokki": "dewka,nar"
+  },
+  {
+    "english": "knead",
+    "mattokki": "dork"
+  },
+  {
+    "english": "knee",
+    "mattokki": "kourti"
+  },
+  {
+    "english": "knew",
+    "mattokki": "irbirsou"
+  },
+  {
+    "english": "knife",
+    "mattokki": "kundi"
+  },
+  {
+    "english": "knit",
+    "mattokki": "mettig"
+  },
+  {
+    "english": "knock",
+    "mattokki": "kok"
+  },
+  {
+    "english": "knoll",
+    "mattokki": "ab"
+  },
+  {
+    "english": "know",
+    "mattokki": "irbir,ear"
+  },
+  {
+    "english": "knowledge",
+    "mattokki": "irbirti,eerur"
+  },
+  {
+    "english": "lacrosse",
+    "mattokki": "kode"
+  },
+  {
+    "english": "lad",
+    "mattokki": "tonorti"
+  },
+  {
+    "english": "ladder",
+    "mattokki": "domirro"
+  },
+  {
+    "english": "laddle",
+    "mattokki": "kuss,soll"
+  },
+  {
+    "english": "lake",
+    "mattokki": "mere"
+  },
+  {
+    "english": "lamb",
+    "mattokki": "kutti"
+  },
+  {
+    "english": "lame",
+    "mattokki": "derraige,fogor"
+  },
+  {
+    "english": "land",
+    "mattokki": "tera"
+  },
+  {
+    "english": "lick",
+    "mattokki": "gay,gangne"
+  },
+  {
+    "english": "laugh",
+    "mattokki": "oas"
+  },
+  {
+    "english": "lausonia",
+    "mattokki": "kofre"
+  },
+  {
+    "english": "lay",
+    "mattokki": "egtge"
+  },
+  {
+    "english": "layang",
+    "mattokki": "egtge-bou"
+  },
+  {
+    "english": "lead",
+    "mattokki": "ekodo,areddo"
+  },
+  {
+    "english": "leaks",
+    "mattokki": "shusshuri,"
+  },
+  {
+    "english": "lean",
+    "mattokki": "mailumbo,mabo"
+  },
+  {
+    "english": "leap",
+    "mattokki": "talashe,talawgne"
+  },
+  {
+    "english": "learn",
+    "mattokki": "koor"
+  },
+  {
+    "english": "learned",
+    "mattokki": "koursou"
+  },
+  {
+    "english": "leave",
+    "mattokki": "moug"
+  },
+  {
+    "english": "left",
+    "mattokki": "mougsou"
+  },
+  {
+    "english": "left",
+    "mattokki": "mayen"
+  },
+  {
+    "english": "leg",
+    "mattokki": "ossi"
+  },
+  {
+    "english": "lentils",
+    "mattokki": "nair"
+  },
+  {
+    "english": "leprosy",
+    "mattokki": "kugras"
+  },
+  {
+    "english": "lessen",
+    "mattokki": "marid,murisk"
+  },
+  {
+    "english": "let",
+    "mattokki": "a"
+  },
+  {
+    "english": "liar",
+    "mattokki": "mersigutti"
+  },
+  {
+    "english": "lice",
+    "mattokki": "issi"
+  },
+  {
+    "english": "lid",
+    "mattokki": "tagir"
+  },
+  {
+    "english": "lie",
+    "mattokki": "marsi"
+  },
+  {
+    "english": "life",
+    "mattokki": "atgei,agnur"
+  },
+  {
+    "english": "light",
+    "mattokki": "shoro"
+  },
+  {
+    "english": "like",
+    "mattokki": "ulgi"
+  },
+  {
+    "english": "limit",
+    "mattokki": "mees,mokodo"
+  },
+  {
+    "english": "line",
+    "mattokki": "surre"
+  },
+  {
+    "english": "lion",
+    "mattokki": "errigeel"
+  },
+  {
+    "english": "lip",
+    "mattokki": "shoundi"
+  },
+  {
+    "english": "little",
+    "mattokki": "kinne'a"
+  },
+  {
+    "english": "lizard",
+    "mattokki": "gelgelissi"
+  },
+  {
+    "english": "loaf",
+    "mattokki": "tobe"
+  },
+  {
+    "english": "loan",
+    "mattokki": "ewwirti,osiki"
+  },
+  {
+    "english": "lock",
+    "mattokki": "shirk"
+  },
+  {
+    "english": "locust",
+    "mattokki": "maga"
+  },
+  {
+    "english": "long",
+    "mattokki": "noso"
+  },
+  {
+    "english": "longing",
+    "mattokki": "sowundi,mushkund"
+  },
+  {
+    "english": "look",
+    "mattokki": "ouroo"
+  },
+  {
+    "english": "loose",
+    "mattokki": "kouss,kou'ge"
+  },
+  {
+    "english": "lose",
+    "mattokki": "dubir"
+  },
+  {
+    "english": "lost",
+    "mattokki": "dubsoo"
+  },
+  {
+    "english": "love",
+    "mattokki": "dolti"
+  },
+  {
+    "english": "lover",
+    "mattokki": "dolli"
+  },
+  {
+    "english": "lung",
+    "mattokki": "gofgofe,bebe"
+  },
+  {
+    "english": "lupine",
+    "mattokki": "ungulle"
+  },
+  {
+    "english": "lute",
+    "mattokki": "kisir"
+  },
+  {
+    "english": "mad",
+    "mattokki": "witti"
+  },
+  {
+    "english": "made",
+    "mattokki": "kaysou"
+  },
+  {
+    "english": "maid",
+    "mattokki": "nogo"
+  },
+  {
+    "english": "make",
+    "mattokki": "kay"
+  },
+  {
+    "english": "male",
+    "mattokki": "ondi"
+  },
+  {
+    "english": "mallet",
+    "mattokki": "edir,tingle"
+  },
+  {
+    "english": "mallow",
+    "mattokki": "sortomogne'a"
+  },
+  {
+    "english": "man",
+    "mattokki": "id,ogige"
+  },
+  {
+    "english": "man",
+    "mattokki": "adem"
+  },
+  {
+    "english": "manhood",
+    "mattokki": "ogige-keni"
+  },
+  {
+    "english": "mantis",
+    "mattokki": "uskrin-goar"
+  },
+  {
+    "english": "manure",
+    "mattokki": "maroa"
+  },
+  {
+    "english": "marriage",
+    "mattokki": "edti"
+  },
+  {
+    "english": "married",
+    "mattokki": "edsou"
+  },
+  {
+    "english": "mary",
+    "mattokki": "ed"
+  },
+  {
+    "english": "marrow",
+    "mattokki": "gourrou"
+  },
+  {
+    "english": "massage",
+    "mattokki": "gebur"
+  },
+  {
+    "english": "master",
+    "mattokki": "tirti"
+  },
+  {
+    "english": "measure",
+    "mattokki": "ass"
+  },
+  {
+    "english": "measured",
+    "mattokki": "assou"
+  },
+  {
+    "english": "measures",
+    "mattokki": "assi"
+  },
+  {
+    "english": "meat",
+    "mattokki": "kousoo"
+  },
+  {
+    "english": "meet",
+    "mattokki": "abid"
+  },
+  {
+    "english": "melt",
+    "mattokki": "ge'ood"
+  },
+  {
+    "english": "mend",
+    "mattokki": "gok"
+  },
+  {
+    "english": "merchant",
+    "mattokki": "ge'ani"
+  },
+  {
+    "english": "midnight",
+    "mattokki": "dibno"
+  },
+  {
+    "english": "midwife",
+    "mattokki": "ounoskur"
+  },
+  {
+    "english": "milk",
+    "mattokki": "itge'i"
+  },
+  {
+    "english": "milked",
+    "mattokki": "duksou"
+  },
+  {
+    "english": "millet",
+    "mattokki": "erdi,bouttoo"
+  },
+  {
+    "english": "mince",
+    "mattokki": "suk"
+  },
+  {
+    "english": "mirage",
+    "mattokki": "nase,nutgei"
+  },
+  {
+    "english": "mire",
+    "mattokki": "sibe"
+  },
+  {
+    "english": "mirror",
+    "mattokki": "kogne-ulli"
+  },
+  {
+    "english": "mix",
+    "mattokki": "sawir"
+  },
+  {
+    "english": "mixture",
+    "mattokki": "sawur"
+  },
+  {
+    "english": "moan",
+    "mattokki": "eff"
+  },
+  {
+    "english": "moat",
+    "mattokki": "mittur"
+  },
+  {
+    "english": "moist",
+    "mattokki": "ge'awir"
+  },
+  {
+    "english": "molar",
+    "mattokki": "nel-in-ge'ou"
+  },
+  {
+    "english": "mole",
+    "mattokki": "mitti"
+  },
+  {
+    "english": "money",
+    "mattokki": "dougoo,doungoo"
+  },
+  {
+    "english": "moon",
+    "mattokki": "ounatti"
+  },
+  {
+    "english": "morsel",
+    "mattokki": "okkotoad"
+  },
+  {
+    "english": "mother",
+    "mattokki": "ain"
+  },
+  {
+    "english": "mother",
+    "mattokki": "ugo"
+  },
+  {
+    "english": "mountain",
+    "mattokki": "gounna"
+  },
+  {
+    "english": "mouring",
+    "mattokki": "turkur"
+  },
+  {
+    "english": "mouse",
+    "mattokki": "iskitte-koogoge"
+  },
+  {
+    "english": "mouth",
+    "mattokki": "ug"
+  },
+  {
+    "english": "much",
+    "mattokki": "digri"
+  },
+  {
+    "english": "mud",
+    "mattokki": "sibe"
+  },
+  {
+    "english": "muzzle",
+    "mattokki": "serimma"
+  },
+  {
+    "english": "nail",
+    "mattokki": "soutti,sounti"
+  },
+  {
+    "english": "naked",
+    "mattokki": "wirge-bou"
+  },
+  {
+    "english": "name",
+    "mattokki": "erri"
+  },
+  {
+    "english": "nation",
+    "mattokki": "iri.hoaba"
+  },
+  {
+    "english": "natron",
+    "mattokki": "ge'uddi"
+  },
+  {
+    "english": "naval",
+    "mattokki": "sain"
+  },
+  {
+    "english": "near",
+    "mattokki": "ufto,eg'etti"
+  },
+  {
+    "english": "neck",
+    "mattokki": "iye,iyi"
+  },
+  {
+    "english": "needle",
+    "mattokki": "itille,intille"
+  },
+  {
+    "english": "neighbor",
+    "mattokki": "urri,etti"
+  },
+  {
+    "english": "neighborhood",
+    "mattokki": "irri,ettiged"
+  },
+  {
+    "english": "nephew",
+    "mattokki": "ge'outti"
+  },
+  {
+    "english": "nest",
+    "mattokki": "konni,kaidc"
+  },
+  {
+    "english": "never",
+    "mattokki": "mouttur"
+  },
+  {
+    "english": "new",
+    "mattokki": "air"
+  },
+  {
+    "english": "next",
+    "mattokki": "agab"
+  },
+  {
+    "english": "night",
+    "mattokki": "ougou"
+  },
+  {
+    "english": "nine",
+    "mattokki": "iskodo"
+  },
+  {
+    "english": "nineteen",
+    "mattokki": "dimen-d-iskodo"
+  },
+  {
+    "english": "nineth",
+    "mattokki": "iskoditti"
+  },
+  {
+    "english": "noise",
+    "mattokki": "ge'had"
+  },
+  {
+    "english": "north",
+    "mattokki": "kalom,kulne"
+  },
+  {
+    "english": "nose",
+    "mattokki": "sorin,sorigne"
+  },
+  {
+    "english": "nurse",
+    "mattokki": "igid"
+  },
+  {
+    "english": "no",
+    "mattokki": "illa"
+  },
+  {
+    "english": "not",
+    "mattokki": "menou"
+  },
+  {
+    "english": "now",
+    "mattokki": "elekken"
+  },
+  {
+    "english": "oar",
+    "mattokki": "waweddi"
+  },
+  {
+    "english": "oath",
+    "mattokki": "ge'otti"
+  },
+  {
+    "english": "of",
+    "mattokki": "toan"
+  },
+  {
+    "english": "oil",
+    "mattokki": "noy,dessin"
+  },
+  {
+    "english": "okra",
+    "mattokki": "oa'ye"
+  },
+  {
+    "english": "old",
+    "mattokki": "kousel,kourous"
+  },
+  {
+    "english": "old",
+    "mattokki": "dourro"
+  },
+  {
+    "english": "on",
+    "mattokki": "dogoag"
+  },
+  {
+    "english": "one",
+    "mattokki": "we,wairi"
+  },
+  {
+    "english": "onion",
+    "mattokki": "bile"
+  },
+  {
+    "english": "ooze",
+    "mattokki": "buge'e"
+  },
+  {
+    "english": "open",
+    "mattokki": "kouss"
+  },
+  {
+    "english": "oppress",
+    "mattokki": "gasir"
+  },
+  {
+    "english": "oval",
+    "mattokki": "dawil"
+  },
+  {
+    "english": "overdone",
+    "mattokki": "irb-bou"
+  },
+  {
+    "english": "owl",
+    "mattokki": "ogme"
+  },
+  {
+    "english": "own",
+    "mattokki": "ni"
+  },
+  {
+    "english": "owner",
+    "mattokki": "koal"
+  },
+  {
+    "english": "ox",
+    "mattokki": "gorondi"
+  },
+  {
+    "english": "pack",
+    "mattokki": "korr"
+  },
+  {
+    "english": "package",
+    "mattokki": "korrid"
+  },
+  {
+    "english": "painful",
+    "mattokki": "oddigiri"
+  },
+  {
+    "english": "palace",
+    "mattokki": "ka-dool"
+  },
+  {
+    "english": "palmtree",
+    "mattokki": "betti"
+  },
+  {
+    "english": "panting",
+    "mattokki": "a-houddi,amohotti"
+  },
+  {
+    "english": "past",
+    "mattokki": "way"
+  },
+  {
+    "english": "paste",
+    "mattokki": "dorkid"
+  },
+  {
+    "english": "pastry",
+    "mattokki": "tobid"
+  },
+  {
+    "english": "pat",
+    "mattokki": "tubtir,tuftir"
+  },
+  {
+    "english": "pay",
+    "mattokki": "ouskour"
+  },
+  {
+    "english": "pea",
+    "mattokki": "orre"
+  },
+  {
+    "english": "pebble",
+    "mattokki": "ada"
+  },
+  {
+    "english": "peel",
+    "mattokki": "fungne,fungne"
+  },
+  {
+    "english": "peg",
+    "mattokki": "kog'ir"
+  },
+  {
+    "english": "penis",
+    "mattokki": "gleet,koffe"
+  },
+  {
+    "english": "perhaps",
+    "mattokki": "hebet"
+  },
+  {
+    "english": "perplex",
+    "mattokki": "koun-ou"
+  },
+  {
+    "english": "persistant",
+    "mattokki": "goll-bou"
+  },
+  {
+    "english": "pick",
+    "mattokki": "ub,hub"
+  },
+  {
+    "english": "pierce",
+    "mattokki": "ibir,shag"
+  },
+  {
+    "english": "pigeon",
+    "mattokki": "mine"
+  },
+  {
+    "english": "pillar",
+    "mattokki": "aile,erundi"
+  },
+  {
+    "english": "pimple",
+    "mattokki": "doush'shad-dorm"
+  },
+  {
+    "english": "pinch",
+    "mattokki": "soulouk"
+  },
+  {
+    "english": "pint",
+    "mattokki": "obar"
+  },
+  {
+    "english": "pipe",
+    "mattokki": "kodoash-dowwa"
+  },
+  {
+    "english": "piss",
+    "mattokki": "ekked"
+  },
+  {
+    "english": "pissed",
+    "mattokki": "ekkedsou"
+  },
+  {
+    "english": "pit",
+    "mattokki": "digur,buttur"
+  },
+  {
+    "english": "place",
+    "mattokki": "aagur"
+  },
+  {
+    "english": "planting",
+    "mattokki": "taire"
+  },
+  {
+    "english": "plait",
+    "mattokki": "nit"
+  },
+  {
+    "english": "play",
+    "mattokki": "kushk"
+  },
+  {
+    "english": "player",
+    "mattokki": "kushkur"
+  },
+  {
+    "english": "plea",
+    "mattokki": "arrid,erri"
+  },
+  {
+    "english": "pliable",
+    "mattokki": "shooroo"
+  },
+  {
+    "english": "plug",
+    "mattokki": "godd,gott"
+  },
+  {
+    "english": "plunge",
+    "mattokki": "tubir"
+  },
+  {
+    "english": "pod",
+    "mattokki": "kush-she"
+  },
+  {
+    "english": "pollen",
+    "mattokki": "air"
+  },
+  {
+    "english": "possess",
+    "mattokki": "kowi,koali"
+  },
+  {
+    "english": "pot",
+    "mattokki": "dadi"
+  },
+  {
+    "english": "pound",
+    "mattokki": "touk"
+  },
+  {
+    "english": "pour",
+    "mattokki": "boag"
+  },
+  {
+    "english": "pouring",
+    "mattokki": "boagur"
+  },
+  {
+    "english": "preced",
+    "mattokki": "nog"
+  },
+  {
+    "english": "pregnant",
+    "mattokki": "mew"
+  },
+  {
+    "english": "present",
+    "mattokki": "a'gi"
+  },
+  {
+    "english": "press",
+    "mattokki": "ou'rr"
+  },
+  {
+    "english": "pretty",
+    "mattokki": "singir-toad"
+  },
+  {
+    "english": "prevent",
+    "mattokki": "meer"
+  },
+  {
+    "english": "prevention",
+    "mattokki": "meerur"
+  },
+  {
+    "english": "pride",
+    "mattokki": "irrig'ed"
+  },
+  {
+    "english": "proud",
+    "mattokki": "newerti-dool"
+  },
+  {
+    "english": "provision",
+    "mattokki": "aween"
+  },
+  {
+    "english": "prune",
+    "mattokki": "sam"
+  },
+  {
+    "english": "puber",
+    "mattokki": "witriss"
+  },
+  {
+    "english": "puddle",
+    "mattokki": "obog"
+  },
+  {
+    "english": "pulsate",
+    "mattokki": "mou'kki"
+  },
+  {
+    "english": "pupil",
+    "mattokki": "heeran"
+  },
+  {
+    "english": "pure",
+    "mattokki": "sooda"
+  },
+  {
+    "english": "push",
+    "mattokki": "ge'ung,kul"
+  },
+  {
+    "english": "pus",
+    "mattokki": "witge'i"
+  },
+  {
+    "english": "put",
+    "mattokki": "ouskor"
+  },
+  {
+    "english": "put",
+    "mattokki": "oundour"
+  },
+  {
+    "english": "put",
+    "mattokki": "oas"
+  },
+  {
+    "english": "quad",
+    "mattokki": "kara"
+  },
+  {
+    "english": "quaf",
+    "mattokki": "goutge"
+  },
+  {
+    "english": "quail",
+    "mattokki": "tennana.furri"
+  },
+  {
+    "english": "quake",
+    "mattokki": "gogne'ur,goyur"
+  },
+  {
+    "english": "quakes",
+    "mattokki": "gogne'i-goy'i"
+  },
+  {
+    "english": "quarrel",
+    "mattokki": "kursig'e"
+  },
+  {
+    "english": "quarrels",
+    "mattokki": "a-kursigi"
+  },
+  {
+    "english": "quarter",
+    "mattokki": "kemisore"
+  },
+  {
+    "english": "quern",
+    "mattokki": "ge'ou"
+  },
+  {
+    "english": "quick",
+    "mattokki": "shoutta"
+  },
+  {
+    "english": "quid",
+    "mattokki": "shekm"
+  },
+  {
+    "english": "quiet",
+    "mattokki": "kood-bou"
+  },
+  {
+    "english": "quietly",
+    "mattokki": "kitta"
+  },
+  {
+    "english": "rabbit",
+    "mattokki": "widlug"
+  },
+  {
+    "english": "rag",
+    "mattokki": "blungne'i"
+  },
+  {
+    "english": "rain",
+    "mattokki": "han-essi-arroo"
+  },
+  {
+    "english": "raise",
+    "mattokki": "sok-kosgegir"
+  },
+  {
+    "english": "ram",
+    "mattokki": "eg'ed-n-ondi"
+  },
+  {
+    "english": "rather",
+    "mattokki": "mun-in-deg"
+  },
+  {
+    "english": "rattle",
+    "mattokki": "sholow"
+  },
+  {
+    "english": "raw",
+    "mattokki": "dessi"
+  },
+  {
+    "english": "razor",
+    "mattokki": "gugne'ir"
+  },
+  {
+    "english": "reach",
+    "mattokki": "door"
+  },
+  {
+    "english": "reached",
+    "mattokki": "doorsou"
+  },
+  {
+    "english": "real",
+    "mattokki": "ale"
+  },
+  {
+    "english": "reality",
+    "mattokki": "ale-toad"
+  },
+  {
+    "english": "reap",
+    "mattokki": "ge'oar"
+  },
+  {
+    "english": "reaps",
+    "mattokki": "ge'oari"
+  },
+  {
+    "english": "reconcile",
+    "mattokki": "gendgir"
+  },
+  {
+    "english": "recovered",
+    "mattokki": "way-yoasoo"
+  },
+  {
+    "english": "red",
+    "mattokki": "gaile"
+  },
+  {
+    "english": "redeem",
+    "mattokki": "osark,baiw"
+  },
+  {
+    "english": "reed",
+    "mattokki": "age"
+  },
+  {
+    "english": "refusal",
+    "mattokki": "moanur"
+  },
+  {
+    "english": "refused",
+    "mattokki": "moansou"
+  },
+  {
+    "english": "relative",
+    "mattokki": "egitti,titge"
+  },
+  {
+    "english": "release",
+    "mattokki": "karakel"
+  },
+  {
+    "english": "remember",
+    "mattokki": "ge'il"
+  },
+  {
+    "english": "remainrest",
+    "mattokki": "kewiddi"
+  },
+  {
+    "english": "reptile",
+    "mattokki": "nolli"
+  },
+  {
+    "english": "resist",
+    "mattokki": "gober"
+  },
+  {
+    "english": "riddle",
+    "mattokki": "orti,norti"
+  },
+  {
+    "english": "ride",
+    "mattokki": "egir"
+  },
+  {
+    "english": "riding",
+    "mattokki": "egirbou"
+  },
+  {
+    "english": "right",
+    "mattokki": "iyn"
+  },
+  {
+    "english": "ring",
+    "mattokki": "temeem"
+  },
+  {
+    "english": "rinse",
+    "mattokki": "elew"
+  },
+  {
+    "english": "riot",
+    "mattokki": "sar"
+  },
+  {
+    "english": "ripe",
+    "mattokki": "kurge-bou"
+  },
+  {
+    "english": "rippen",
+    "mattokki": "kurge'gir"
+  },
+  {
+    "english": "road",
+    "mattokki": "ge'ir"
+  },
+  {
+    "english": "roar",
+    "mattokki": "irri"
+  },
+  {
+    "english": "rob",
+    "mattokki": "mag"
+  },
+  {
+    "english": "robber",
+    "mattokki": "maguss"
+  },
+  {
+    "english": "rock",
+    "mattokki": "koulou"
+  },
+  {
+    "english": "roll",
+    "mattokki": "gergige"
+  },
+  {
+    "english": "roof",
+    "mattokki": "nooki"
+  },
+  {
+    "english": "root",
+    "mattokki": "oosi"
+  },
+  {
+    "english": "rope",
+    "mattokki": "iri"
+  },
+  {
+    "english": "rove",
+    "mattokki": "tisk"
+  },
+  {
+    "english": "rover",
+    "mattokki": "tish-bou"
+  },
+  {
+    "english": "row",
+    "mattokki": "waw"
+  },
+  {
+    "english": "rumour",
+    "mattokki": "basgir"
+  },
+  {
+    "english": "run",
+    "mattokki": "boad"
+  },
+  {
+    "english": "runaway",
+    "mattokki": "douss"
+  },
+  {
+    "english": "running",
+    "mattokki": "boad-bou"
+  },
+  {
+    "english": "saddle",
+    "mattokki": "degir"
+  },
+  {
+    "english": "sound",
+    "mattokki": "shurkel"
+  },
+  {
+    "english": "said",
+    "mattokki": "wesoo"
+  },
+  {
+    "english": "sake",
+    "mattokki": "ge'oro"
+  },
+  {
+    "english": "sale",
+    "mattokki": "geanter"
+  },
+  {
+    "english": "saliva",
+    "mattokki": "ge'ombod"
+  },
+  {
+    "english": "salt",
+    "mattokki": "oumboud"
+  },
+  {
+    "english": "same",
+    "mattokki": "ter-ter"
+  },
+  {
+    "english": "sand",
+    "mattokki": "seew"
+  },
+  {
+    "english": "saturday",
+    "mattokki": "sumte"
+  },
+  {
+    "english": "saw",
+    "mattokki": "nulsou"
+  },
+  {
+    "english": "saw",
+    "mattokki": "sa1r"
+  },
+  {
+    "english": "say",
+    "mattokki": "we"
+  },
+  {
+    "english": "says",
+    "mattokki": "we'i"
+  },
+  {
+    "english": "scab",
+    "mattokki": "kuy'yo"
+  },
+  {
+    "english": "scent",
+    "mattokki": "noummel"
+  },
+  {
+    "english": "scissor",
+    "mattokki": "kisoreen"
+  },
+  {
+    "english": "scorpion",
+    "mattokki": "etge'een"
+  },
+  {
+    "english": "scrape",
+    "mattokki": "soad"
+  },
+  {
+    "english": "scratch",
+    "mattokki": "koart"
+  },
+  {
+    "english": "scour",
+    "mattokki": "ge'egid"
+  },
+  {
+    "english": "scum",
+    "mattokki": "alogne-ney"
+  },
+  {
+    "english": "seashore",
+    "mattokki": "abtogoag"
+  },
+  {
+    "english": "second",
+    "mattokki": "owwetti"
+  },
+  {
+    "english": "seduce",
+    "mattokki": "el"
+  },
+  {
+    "english": "seducing",
+    "mattokki": "elur"
+  },
+  {
+    "english": "see",
+    "mattokki": "nul"
+  },
+  {
+    "english": "seed",
+    "mattokki": "taire"
+  },
+  {
+    "english": "seed",
+    "mattokki": "tairi"
+  },
+  {
+    "english": "seeing",
+    "mattokki": "nulti,nulur"
+  },
+  {
+    "english": "select",
+    "mattokki": "bur"
+  },
+  {
+    "english": "selection",
+    "mattokki": "buur"
+  },
+  {
+    "english": "self",
+    "mattokki": "kidir"
+  },
+  {
+    "english": "selflove",
+    "mattokki": "kidir-dolli"
+  },
+  {
+    "english": "sell",
+    "mattokki": "ge'anoas"
+  },
+  {
+    "english": "seller",
+    "mattokki": "geanoasil"
+  },
+  {
+    "english": "send",
+    "mattokki": "ishin,idir"
+  },
+  {
+    "english": "sender",
+    "mattokki": "ishlnil,gobir"
+  },
+  {
+    "english": "sending",
+    "mattokki": "ishinur"
+  },
+  {
+    "english": "seven",
+    "mattokki": "koled-ou"
+  },
+  {
+    "english": "seventeen",
+    "mattokki": "dimen-d-koledou"
+  },
+  {
+    "english": "seventeenth",
+    "mattokki": "demin-koleditti"
+  },
+  {
+    "english": "seventh",
+    "mattokki": "koleditti"
+  },
+  {
+    "english": "sew",
+    "mattokki": "nige"
+  },
+  {
+    "english": "sewing",
+    "mattokki": "nige'ur"
+  },
+  {
+    "english": "shade",
+    "mattokki": "nooni,urri"
+  },
+  {
+    "english": "shadow",
+    "mattokki": "odil"
+  },
+  {
+    "english": "shake",
+    "mattokki": "shond"
+  },
+  {
+    "english": "shallow",
+    "mattokki": "koutti,fettal"
+  },
+  {
+    "english": "sharp",
+    "mattokki": "nuddi"
+  },
+  {
+    "english": "sharpen",
+    "mattokki": "ungissi"
+  },
+  {
+    "english": "shave",
+    "mattokki": "gungne"
+  },
+  {
+    "english": "shear",
+    "mattokki": "kerb"
+  },
+  {
+    "english": "sheer",
+    "mattokki": "kerbi"
+  },
+  {
+    "english": "sheep",
+    "mattokki": "ourtitge'i"
+  },
+  {
+    "english": "sheild",
+    "mattokki": "karoo"
+  },
+  {
+    "english": "shoe",
+    "mattokki": "koriss,korsi"
+  },
+  {
+    "english": "short",
+    "mattokki": "ourtouna"
+  },
+  {
+    "english": "shoulder",
+    "mattokki": "oa,osmur"
+  },
+  {
+    "english": "show",
+    "mattokki": "amintir"
+  },
+  {
+    "english": "shrink",
+    "mattokki": "kodom"
+  },
+  {
+    "english": "shroud",
+    "mattokki": "tougou'r"
+  },
+  {
+    "english": "shut",
+    "mattokki": "kob"
+  },
+  {
+    "english": "shut-up",
+    "mattokki": "god"
+  },
+  {
+    "english": "sible",
+    "mattokki": "nerre-mougil"
+  },
+  {
+    "english": "silence",
+    "mattokki": "kit,kitto"
+  },
+  {
+    "english": "similar",
+    "mattokki": "kotti"
+  },
+  {
+    "english": "sing",
+    "mattokki": "aa,oa"
+  },
+  {
+    "english": "singer",
+    "mattokki": "aai,oai"
+  },
+  {
+    "english": "singing",
+    "mattokki": "oarur,oal"
+  },
+  {
+    "english": "single",
+    "mattokki": "koatoad"
+  },
+  {
+    "english": "sink",
+    "mattokki": "kidgir"
+  },
+  {
+    "english": "sip",
+    "mattokki": "shilib"
+  },
+  {
+    "english": "sister",
+    "mattokki": "essi"
+  },
+  {
+    "english": "sit",
+    "mattokki": "taig,agidd"
+  },
+  {
+    "english": "six",
+    "mattokki": "gorige'o"
+  },
+  {
+    "english": "sixteen",
+    "mattokki": "dimen-d-gorge'o"
+  },
+  {
+    "english": "sixth",
+    "mattokki": "gorge'itti"
+  },
+  {
+    "english": "skim",
+    "mattokki": "wullkir"
+  },
+  {
+    "english": "skin",
+    "mattokki": "age'in"
+  },
+  {
+    "english": "skull",
+    "mattokki": "goumour"
+  },
+  {
+    "english": "slaughter",
+    "mattokki": "geog'ur"
+  },
+  {
+    "english": "slave",
+    "mattokki": "nougoud"
+  },
+  {
+    "english": "slavary",
+    "mattokki": "nougoud-kid"
+  },
+  {
+    "english": "slay",
+    "mattokki": "goge"
+  },
+  {
+    "english": "sleep",
+    "mattokki": "nair"
+  },
+  {
+    "english": "sleeping",
+    "mattokki": "nairbou"
+  },
+  {
+    "english": "sleepy",
+    "mattokki": "nelige-bou"
+  },
+  {
+    "english": "sling",
+    "mattokki": "tolloulaya"
+  },
+  {
+    "english": "slip",
+    "mattokki": "sirge"
+  },
+  {
+    "english": "slippery",
+    "mattokki": "sirge'ur"
+  },
+  {
+    "english": "slowly",
+    "mattokki": "noare"
+  },
+  {
+    "english": "slut",
+    "mattokki": "tullad"
+  },
+  {
+    "english": "smash",
+    "mattokki": "toagige"
+  },
+  {
+    "english": "small",
+    "mattokki": "kinna"
+  },
+  {
+    "english": "smell",
+    "mattokki": "iris"
+  },
+  {
+    "english": "smell",
+    "mattokki": "sounn"
+  },
+  {
+    "english": "smelling",
+    "mattokki": "sounnur"
+  },
+  {
+    "english": "smoke",
+    "mattokki": "goussooti"
+  },
+  {
+    "english": "snake",
+    "mattokki": "a'ya"
+  },
+  {
+    "english": "snap",
+    "mattokki": "tomm"
+  },
+  {
+    "english": "sneeze",
+    "mattokki": "adiyi,arigne"
+  },
+  {
+    "english": "snore",
+    "mattokki": "atehtehe"
+  },
+  {
+    "english": "soak",
+    "mattokki": "nengne-ir"
+  },
+  {
+    "english": "solid",
+    "mattokki": "kogor"
+  },
+  {
+    "english": "some",
+    "mattokki": "bagid"
+  },
+  {
+    "english": "son",
+    "mattokki": "uffi,toad"
+  },
+  {
+    "english": "son",
+    "mattokki": "ussi"
+  },
+  {
+    "english": "son",
+    "mattokki": "otti"
+  },
+  {
+    "english": "song",
+    "mattokki": "oarur"
+  },
+  {
+    "english": "soul",
+    "mattokki": "newerti"
+  },
+  {
+    "english": "sour",
+    "mattokki": "ourour"
+  },
+  {
+    "english": "south",
+    "mattokki": "ongo"
+  },
+  {
+    "english": "speak",
+    "mattokki": "buy,bunge"
+  },
+  {
+    "english": "speaks",
+    "mattokki": "buyi,bungnei"
+  },
+  {
+    "english": "spear",
+    "mattokki": "sha"
+  },
+  {
+    "english": "special",
+    "mattokki": "korin"
+  },
+  {
+    "english": "speech",
+    "mattokki": "buyneed"
+  },
+  {
+    "english": "speed",
+    "mattokki": "boadir"
+  },
+  {
+    "english": "spider",
+    "mattokki": "korab"
+  },
+  {
+    "english": "spin",
+    "mattokki": "nod,wedd"
+  },
+  {
+    "english": "spindle",
+    "mattokki": "wede"
+  },
+  {
+    "english": "spinging",
+    "mattokki": "a-weddi-a-noddi"
+  },
+  {
+    "english": "spit",
+    "mattokki": "boge'ok"
+  },
+  {
+    "english": "spite",
+    "mattokki": "koutig"
+  },
+  {
+    "english": "spleen",
+    "mattokki": "nednudi"
+  },
+  {
+    "english": "split",
+    "mattokki": "wuitge-boo"
+  },
+  {
+    "english": "spoke",
+    "mattokki": "buysoo,bungne,sou"
+  },
+  {
+    "english": "spoon",
+    "mattokki": "kash-eddi"
+  },
+  {
+    "english": "sprain",
+    "mattokki": "bood-bou"
+  },
+  {
+    "english": "sprawl",
+    "mattokki": "obige,tourb"
+  },
+  {
+    "english": "spray",
+    "mattokki": "soor"
+  },
+  {
+    "english": "spread",
+    "mattokki": "uwid"
+  },
+  {
+    "english": "sprinkle",
+    "mattokki": "soull"
+  },
+  {
+    "english": "spy",
+    "mattokki": "ge;ab"
+  },
+  {
+    "english": "squat",
+    "mattokki": "den"
+  },
+  {
+    "english": "squatting",
+    "mattokki": "den-gi-ge'om"
+  },
+  {
+    "english": "stagnate",
+    "mattokki": "taibboo"
+  },
+  {
+    "english": "stand",
+    "mattokki": "kout"
+  },
+  {
+    "english": "stand",
+    "mattokki": "up"
+  },
+  {
+    "english": "stain",
+    "mattokki": "geirib"
+  },
+  {
+    "english": "star",
+    "mattokki": "wissi"
+  },
+  {
+    "english": "starvation",
+    "mattokki": "orgid"
+  },
+  {
+    "english": "stay",
+    "mattokki": "aag"
+  },
+  {
+    "english": "staying",
+    "mattokki": "aagi"
+  },
+  {
+    "english": "stench",
+    "mattokki": "siy'yel"
+  },
+  {
+    "english": "step",
+    "mattokki": "bat"
+  },
+  {
+    "english": "stick",
+    "mattokki": "witge'ir"
+  },
+  {
+    "english": "still",
+    "mattokki": "elekkon"
+  },
+  {
+    "english": "stir",
+    "mattokki": "kash"
+  },
+  {
+    "english": "stone",
+    "mattokki": "koulou"
+  },
+  {
+    "english": "stook",
+    "mattokki": "tortor"
+  },
+  {
+    "english": "stop",
+    "mattokki": "taib"
+  },
+  {
+    "english": "storm",
+    "mattokki": "kuge-wur"
+  },
+  {
+    "english": "story",
+    "mattokki": "koumma"
+  },
+  {
+    "english": "stradle",
+    "mattokki": "bagash"
+  },
+  {
+    "english": "straight",
+    "mattokki": "ogoad"
+  },
+  {
+    "english": "strangle",
+    "mattokki": "gid"
+  },
+  {
+    "english": "strength",
+    "mattokki": "ibirti"
+  },
+  {
+    "english": "strike",
+    "mattokki": "null"
+  },
+  {
+    "english": "strong",
+    "mattokki": "ibirti-koal"
+  },
+  {
+    "english": "submerge",
+    "mattokki": "walawgir"
+  },
+  {
+    "english": "succes",
+    "mattokki": "ogige'ked"
+  },
+  {
+    "english": "suffering",
+    "mattokki": "wittag'a"
+  },
+  {
+    "english": "suffocate",
+    "mattokki": "gomgomir"
+  },
+  {
+    "english": "summer",
+    "mattokki": "bogon-bagon"
+  },
+  {
+    "english": "sun",
+    "mattokki": "musil"
+  },
+  {
+    "english": "sunday",
+    "mattokki": "kirage'"
+  },
+  {
+    "english": "sunrise",
+    "mattokki": "musil-belti"
+  },
+  {
+    "english": "sunset",
+    "mattokki": "musil-toar"
+  },
+  {
+    "english": "swagger",
+    "mattokki": "bellige"
+  },
+  {
+    "english": "swallow",
+    "mattokki": "goll"
+  },
+  {
+    "english": "sway",
+    "mattokki": "terigne"
+  },
+  {
+    "english": "sweat",
+    "mattokki": "tullutti"
+  },
+  {
+    "english": "sweep",
+    "mattokki": "kull"
+  },
+  {
+    "english": "sweet",
+    "mattokki": "ingiri"
+  },
+  {
+    "english": "swell",
+    "mattokki": "ney-bou"
+  },
+  {
+    "english": "swim",
+    "mattokki": "bow"
+  },
+  {
+    "english": "swiming",
+    "mattokki": "bowur"
+  },
+  {
+    "english": "swing",
+    "mattokki": "sol"
+  },
+  {
+    "english": "sword",
+    "mattokki": "siwid"
+  },
+  {
+    "english": "tail",
+    "mattokki": "aiw"
+  },
+  {
+    "english": "tail-less",
+    "mattokki": "wagtail"
+  },
+  {
+    "english": "tailor",
+    "mattokki": "kade-nig'il"
+  },
+  {
+    "english": "take",
+    "mattokki": "inge"
+  },
+  {
+    "english": "talisman",
+    "mattokki": "soar"
+  },
+  {
+    "english": "talk",
+    "mattokki": "we'tir"
+  },
+  {
+    "english": "taste",
+    "mattokki": "enni,engetel"
+  },
+  {
+    "english": "tasteful",
+    "mattokki": "enni-koal"
+  },
+  {
+    "english": "tasteless",
+    "mattokki": "bussuri"
+  },
+  {
+    "english": "tattooing",
+    "mattokki": "touk,shok"
+  },
+  {
+    "english": "tattoo",
+    "mattokki": "toukur,shokur"
+  },
+  {
+    "english": "teach",
+    "mattokki": "kourkid"
+  },
+  {
+    "english": "teacher",
+    "mattokki": "fegeer"
+  },
+  {
+    "english": "tears",
+    "mattokki": "messi-nessi"
+  },
+  {
+    "english": "tear",
+    "mattokki": "orr"
+  },
+  {
+    "english": "tearing",
+    "mattokki": "orrur"
+  },
+  {
+    "english": "teeth",
+    "mattokki": "neletge'i"
+  },
+  {
+    "english": "temple",
+    "mattokki": "birbe"
+  },
+  {
+    "english": "ten",
+    "mattokki": "dimen"
+  },
+  {
+    "english": "tent",
+    "mattokki": "kerri"
+  },
+  {
+    "english": "tenth",
+    "mattokki": "demin-itti"
+  },
+  {
+    "english": "termite",
+    "mattokki": "nore"
+  },
+  {
+    "english": "test",
+    "mattokki": "gaw"
+  },
+  {
+    "english": "testicle",
+    "mattokki": "sord,gorbagne"
+  },
+  {
+    "english": "thanks",
+    "mattokki": "aturwi"
+  },
+  {
+    "english": "thankful",
+    "mattokki": "turwur"
+  },
+  {
+    "english": "that",
+    "mattokki": "mun"
+  },
+  {
+    "english": "their",
+    "mattokki": "tenna"
+  },
+  {
+    "english": "there",
+    "mattokki": "mundo"
+  },
+  {
+    "english": "therefore",
+    "mattokki": "waidir"
+  },
+  {
+    "english": "these",
+    "mattokki": "ingoo"
+  },
+  {
+    "english": "they",
+    "mattokki": "tir"
+  },
+  {
+    "english": "thick",
+    "mattokki": "do'ro"
+  },
+  {
+    "english": "thicken",
+    "mattokki": "nair"
+  },
+  {
+    "english": "thigh",
+    "mattokki": "doge'in-bok"
+  },
+  {
+    "english": "thin",
+    "mattokki": "ese"
+  },
+  {
+    "english": "thing",
+    "mattokki": "urti"
+  },
+  {
+    "english": "third",
+    "mattokki": "toskitti"
+  },
+  {
+    "english": "thirst",
+    "mattokki": "erid"
+  },
+  {
+    "english": "thirteen",
+    "mattokki": "dimen-d-tosko"
+  },
+  {
+    "english": "this",
+    "mattokki": "in"
+  },
+  {
+    "english": "thorn",
+    "mattokki": "kinissi"
+  },
+  {
+    "english": "those",
+    "mattokki": "mungoo"
+  },
+  {
+    "english": "thought",
+    "mattokki": "ge'illsou"
+  },
+  {
+    "english": "thousand",
+    "mattokki": "do're"
+  },
+  {
+    "english": "thrash",
+    "mattokki": "noarur"
+  },
+  {
+    "english": "thread",
+    "mattokki": "ool"
+  },
+  {
+    "english": "three",
+    "mattokki": "tosks,toski"
+  },
+  {
+    "english": "throat",
+    "mattokki": "goas"
+  },
+  {
+    "english": "throw",
+    "mattokki": "kud,louffe"
+  },
+  {
+    "english": "thunder",
+    "mattokki": "kuge-fogor"
+  },
+  {
+    "english": "thus",
+    "mattokki": "kewiddern"
+  },
+  {
+    "english": "tick",
+    "mattokki": "wissi"
+  },
+  {
+    "english": "tickle",
+    "mattokki": "kelkie"
+  },
+  {
+    "english": "tie",
+    "mattokki": "digir"
+  },
+  {
+    "english": "tied",
+    "mattokki": "digirsou"
+  },
+  {
+    "english": "tying",
+    "mattokki": "moar"
+  },
+  {
+    "english": "till",
+    "mattokki": "mokko"
+  },
+  {
+    "english": "tire",
+    "mattokki": "muris"
+  },
+  {
+    "english": "tired",
+    "mattokki": "muris-bou"
+  },
+  {
+    "english": "to",
+    "mattokki": "abid,ked"
+  },
+  {
+    "english": "toast",
+    "mattokki": "nib"
+  },
+  {
+    "english": "toddle",
+    "mattokki": "dori"
+  },
+  {
+    "english": "tomb",
+    "mattokki": "te"
+  },
+  {
+    "english": "tongue",
+    "mattokki": "ned"
+  },
+  {
+    "english": "tortoise",
+    "mattokki": "hofing-efna"
+  },
+  {
+    "english": "tour",
+    "mattokki": "dage"
+  },
+  {
+    "english": "touring",
+    "mattokki": "dagebou"
+  },
+  {
+    "english": "trace",
+    "mattokki": "tig"
+  },
+  {
+    "english": "trap",
+    "mattokki": "begid"
+  },
+  {
+    "english": "trash",
+    "mattokki": "dettid"
+  },
+  {
+    "english": "tread",
+    "mattokki": "futge"
+  },
+  {
+    "english": "tree",
+    "mattokki": "ge'ow'wi"
+  },
+  {
+    "english": "tremble",
+    "mattokki": "kerker"
+  },
+  {
+    "english": "tribe",
+    "mattokki": "aab"
+  },
+  {
+    "english": "trill",
+    "mattokki": "killil"
+  },
+  {
+    "english": "trite",
+    "mattokki": "balagne"
+  },
+  {
+    "english": "tritrate",
+    "mattokki": "ge'oag,futge"
+  },
+  {
+    "english": "true",
+    "mattokki": "aleter"
+  },
+  {
+    "english": "turban",
+    "mattokki": "kusir"
+  },
+  {
+    "english": "turtledove",
+    "mattokki": "kou'roo"
+  },
+  {
+    "english": "tweezers",
+    "mattokki": "buskull"
+  },
+  {
+    "english": "twelve",
+    "mattokki": "dimen-d-ow-ow"
+  },
+  {
+    "english": "twenty",
+    "mattokki": "are"
+  },
+  {
+    "english": "twig",
+    "mattokki": "utge-bou"
+  },
+  {
+    "english": "twin",
+    "mattokki": "bursi,baras"
+  },
+  {
+    "english": "twinkle",
+    "mattokki": "tawinge"
+  },
+  {
+    "english": "twist",
+    "mattokki": "iri,eer"
+  },
+  {
+    "english": "two",
+    "mattokki": "owwi"
+  },
+  {
+    "english": "udder",
+    "mattokki": "gaiw"
+  },
+  {
+    "english": "ugly",
+    "mattokki": "dogir"
+  },
+  {
+    "english": "unable",
+    "mattokki": "maros,maso"
+  },
+  {
+    "english": "uncle",
+    "mattokki": "un-bana"
+  },
+  {
+    "english": "uncle",
+    "mattokki": "ungy"
+  },
+  {
+    "english": "unique",
+    "mattokki": "toad"
+  },
+  {
+    "english": "unskillful",
+    "mattokki": "doash"
+  },
+  {
+    "english": "upland",
+    "mattokki": "ab"
+  },
+  {
+    "english": "uplift",
+    "mattokki": "kouge'gir"
+  },
+  {
+    "english": "urine",
+    "mattokki": "ekked"
+  },
+  {
+    "english": "vagabond",
+    "mattokki": "kittag-boo"
+  },
+  {
+    "english": "vain",
+    "mattokki": "wairkinni"
+  },
+  {
+    "english": "vegitable",
+    "mattokki": "ge'ukood"
+  },
+  {
+    "english": "vein",
+    "mattokki": "koy"
+  },
+  {
+    "english": "very",
+    "mattokki": "desen"
+  },
+  {
+    "english": "vessel",
+    "mattokki": "sukko"
+  },
+  {
+    "english": "vessel",
+    "mattokki": "gousse"
+  },
+  {
+    "english": "vessel",
+    "mattokki": "simug"
+  },
+  {
+    "english": "village",
+    "mattokki": "oshay"
+  },
+  {
+    "english": "vomit",
+    "mattokki": "barisk"
+  },
+  {
+    "english": "virgin",
+    "mattokki": "feta,beyye-koal"
+  },
+  {
+    "english": "wade",
+    "mattokki": "toob"
+  },
+  {
+    "english": "wail",
+    "mattokki": "uwige"
+  },
+  {
+    "english": "wailing",
+    "mattokki": "urwige'ur"
+  },
+  {
+    "english": "waist",
+    "mattokki": "koullol"
+  },
+  {
+    "english": "wait",
+    "mattokki": "erge,irngne"
+  },
+  {
+    "english": "waiting",
+    "mattokki": "erge'ur,irigne"
+  },
+  {
+    "english": "wake",
+    "mattokki": "bitge"
+  },
+  {
+    "english": "walk",
+    "mattokki": "tullur"
+  },
+  {
+    "english": "walks",
+    "mattokki": "tulli"
+  },
+  {
+    "english": "walking",
+    "mattokki": "tullbou"
+  },
+  {
+    "english": "walker",
+    "mattokki": "tullutti"
+  },
+  {
+    "english": "wall",
+    "mattokki": "kutre,dab"
+  },
+  {
+    "english": "wallet",
+    "mattokki": "ge'ilbaya"
+  },
+  {
+    "english": "wallow",
+    "mattokki": "kib,"
+  },
+  {
+    "english": "wanderer",
+    "mattokki": "tishbou"
+  },
+  {
+    "english": "want",
+    "mattokki": "birgur"
+  },
+  {
+    "english": "wants",
+    "mattokki": "birg"
+  },
+  {
+    "english": "wanted",
+    "mattokki": "birgoasou"
+  },
+  {
+    "english": "war",
+    "mattokki": "kursigi,tamougid"
+  },
+  {
+    "english": "warm",
+    "mattokki": "kukkbou"
+  },
+  {
+    "english": "warn",
+    "mattokki": "kogustbou"
+  },
+  {
+    "english": "wash",
+    "mattokki": "shook"
+  },
+  {
+    "english": "wash",
+    "mattokki": "aiw"
+  },
+  {
+    "english": "water",
+    "mattokki": "essi"
+  },
+  {
+    "english": "water-wheel",
+    "mattokki": "essikole"
+  },
+  {
+    "english": "wave",
+    "mattokki": "arre"
+  },
+  {
+    "english": "way",
+    "mattokki": "ge'ir"
+  },
+  {
+    "english": "we",
+    "mattokki": "ur"
+  },
+  {
+    "english": "weak",
+    "mattokki": "ge'agood"
+  },
+  {
+    "english": "wean",
+    "mattokki": "ukk"
+  },
+  {
+    "english": "weaned",
+    "mattokki": "ukksou"
+  },
+  {
+    "english": "weave",
+    "mattokki": "gogne,goy"
+  },
+  {
+    "english": "weaving",
+    "mattokki": "gogne'ur"
+  },
+  {
+    "english": "wedding",
+    "mattokki": "erkane,bale"
+  },
+  {
+    "english": "weep",
+    "mattokki": "oy,ogne"
+  },
+  {
+    "english": "weeping",
+    "mattokki": "oyur,ogne"
+  },
+  {
+    "english": "wept",
+    "mattokki": "oysou,"
+  },
+  {
+    "english": "wear",
+    "mattokki": "hade'gi-oundour"
+  },
+  {
+    "english": "west",
+    "mattokki": "tingar"
+  },
+  {
+    "english": "wet",
+    "mattokki": "negnegir"
+  },
+  {
+    "english": "what",
+    "mattokki": "mine,minur"
+  },
+  {
+    "english": "wheat",
+    "mattokki": "ille"
+  },
+  {
+    "english": "wheel",
+    "mattokki": "urgade"
+  },
+  {
+    "english": "when",
+    "mattokki": "sitta"
+  },
+  {
+    "english": "whistle",
+    "mattokki": "fook,week"
+  },
+  {
+    "english": "white",
+    "mattokki": "aroo"
+  },
+  {
+    "english": "while",
+    "mattokki": "shoab"
+  },
+  {
+    "english": "who",
+    "mattokki": "ni"
+  },
+  {
+    "english": "wicked",
+    "mattokki": "ooss"
+  },
+  {
+    "english": "wife",
+    "mattokki": "ain"
+  },
+  {
+    "english": "wild",
+    "mattokki": "morri"
+  },
+  {
+    "english": "will",
+    "mattokki": "metti"
+  },
+  {
+    "english": "wind",
+    "mattokki": "tooroug"
+  },
+  {
+    "english": "wine",
+    "mattokki": "bagonaina"
+  },
+  {
+    "english": "wing",
+    "mattokki": "awir"
+  },
+  {
+    "english": "wipe",
+    "mattokki": "komis"
+  },
+  {
+    "english": "wiped",
+    "mattokki": "komis-sou"
+  },
+  {
+    "english": "wise",
+    "mattokki": "errig-koal"
+  },
+  {
+    "english": "wisdom",
+    "mattokki": "errig"
+  },
+  {
+    "english": "with",
+    "mattokki": "kodon"
+  },
+  {
+    "english": "with-out",
+    "mattokki": "kinni"
+  },
+  {
+    "english": "wolf",
+    "mattokki": "geleg"
+  },
+  {
+    "english": "woman",
+    "mattokki": "ain"
+  },
+  {
+    "english": "women",
+    "mattokki": "aintge'i"
+  },
+  {
+    "english": "wood",
+    "mattokki": "ber"
+  },
+  {
+    "english": "wool",
+    "mattokki": "abog,bennage"
+  },
+  {
+    "english": "work",
+    "mattokki": "gelli"
+  },
+  {
+    "english": "worm",
+    "mattokki": "wegid"
+  },
+  {
+    "english": "worse",
+    "mattokki": "milli"
+  },
+  {
+    "english": "wound",
+    "mattokki": "kor"
+  },
+  {
+    "english": "wrap",
+    "mattokki": "gar,dawil"
+  },
+  {
+    "english": "wring",
+    "mattokki": "nees"
+  },
+  {
+    "english": "write",
+    "mattokki": "bage"
+  },
+  {
+    "english": "writing",
+    "mattokki": "a-bage'i"
+  },
+  {
+    "english": "wrote",
+    "mattokki": "bagesou"
+  },
+  {
+    "english": "yawn",
+    "mattokki": "gange"
+  },
+  {
+    "english": "year",
+    "mattokki": "g'en"
+  },
+  {
+    "english": "yellow",
+    "mattokki": "gunder"
+  },
+  {
+    "english": "yes",
+    "mattokki": "ay"
+  },
+  {
+    "english": "yes",
+    "mattokki": "hoy"
+  },
+  {
+    "english": "yolk",
+    "mattokki": "gunder"
+  },
+  {
+    "english": "you",
+    "mattokki": "er"
+  },
+  {
+    "english": "you",
+    "mattokki": "ir"
+  },
+  {
+    "english": "your",
+    "mattokki": "indi"
+  },
+  {
+    "english": "youth",
+    "mattokki": "ge'ahal"
+  }
+]

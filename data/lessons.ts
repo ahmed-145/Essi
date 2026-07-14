@@ -1631,6 +1631,753 @@ const rawLessons: Lesson[] = [
       },
     ],
   },
+
+  // ═══════════════════════════════════════════════════════════════════════════
+  // L13 — NUMBERS (Phase 2 · Lesson 13)
+  // The Mattokki numeral system, 1–10. we:r = 1, which doubles as the indefinite suffix.
+  // ═══════════════════════════════════════════════════════════════════════════
+  {
+    id: 'L13',
+    phase: 2,
+    index: 13,
+    title: 'Count Like a Nubian',
+    title_ar: 'عد بالنوبي',
+    objectives: [
+      'Learn numerals 1–10 in Mattokki',
+      'Recognise that we:r (one) is also the indefinite suffix — the same root!',
+      'Use owwi weerkeg aalo: "Two are better than one" (famous Nubian proverb)',
+    ],
+    cultural_note:
+      'The word for "one" in Mattokki is we:r — the exact same root used as the indefinite article -we:r. This is not coincidence: in ancient Nubian thought, saying "a chicken" was literally saying "one chicken". Language carries logic.',
+    cultural_note_ar:
+      'كلمة "واحد" في المطوكي هي we:r — نفس الجذر بالظبط اللي بنستخدمه كأداة نكرة -we:r. ده مش صدفة: في الفكر النوبي القديم، قولك "فرخة" معناه "فرخة واحدة". اللغة بتحمل منطق.',
+    exercises: [
+      {
+        id: 'L13_E1', lesson_id: 'L13', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0100'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0100',
+        options: [
+          { ar: 'واحد', en: 'one', correct: true },
+          { ar: 'اتنين', en: 'two', correct: false },
+          { ar: 'تلاتة', en: 'three', correct: false },
+          { ar: 'عشرة', en: 'ten', correct: false },
+        ],
+      },
+      {
+        id: 'L13_E2', lesson_id: 'L13', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0100', 'xnz_0042'], rule_ids: ['INDEF_SUFFIX_WER'], primary_layer: 'morphological' },
+        prompt_mattokki: 'essi-we:r', prompt_old_nubian: 'ⲉⲥⲥⲓ-ⲟⲩⲏⲣ',
+        prompt_arabic_transliteration: 'إيسي-ويير',
+        morpheme_highlights: [{ surface: '-we:r', rule_id: 'INDEF_SUFFIX_WER' }],
+        options: [
+          { ar: 'ماية واحدة / ماية (نكرة)', en: 'a water / one water', correct: true },
+          { ar: 'مياه كتير', en: 'many waters', correct: false },
+          { ar: 'الماية (معرفة)', en: 'the water (definite)', correct: false },
+          { ar: 'مياه اتنين', en: 'two waters', correct: false },
+        ],
+      },
+      {
+        id: 'L13_E3', lesson_id: 'L13', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0101'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0101',
+        options: [
+          { ar: 'اتنين', en: 'two', correct: true },
+          { ar: 'واحد', en: 'one', correct: false },
+          { ar: 'تلاتة', en: 'three', correct: false },
+          { ar: 'أربعة', en: 'four', correct: false },
+        ],
+      },
+      {
+        id: 'L13_E4', lesson_id: 'L13', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0102', 'xnz_0103', 'xnz_0104'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'kemiso', prompt_old_nubian: 'ⲕⲉⲙⲓⲥⲟ',
+        prompt_arabic_transliteration: 'كيميسو',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'أربعة', en: 'four', correct: true },
+          { ar: 'تلاتة', en: 'three', correct: false },
+          { ar: 'خمسة', en: 'five', correct: false },
+          { ar: 'ستة', en: 'six', correct: false },
+        ],
+      },
+      {
+        id: 'L13_E5', lesson_id: 'L13', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0104'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0104',
+        options: [
+          { ar: 'خمسة', en: 'five', correct: true },
+          { ar: 'ستة', en: 'six', correct: false },
+          { ar: 'أربعة', en: 'four', correct: false },
+          { ar: 'سبعة', en: 'seven', correct: false },
+        ],
+      },
+      {
+        id: 'L13_E6', lesson_id: 'L13', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0109'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'dimen', prompt_old_nubian: 'ⲇⲓⲙⲉⲛ',
+        prompt_arabic_transliteration: 'ديمين',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'عشرة', en: 'ten', correct: true },
+          { ar: 'تسعة', en: 'nine', correct: false },
+          { ar: 'تمانية', en: 'eight', correct: false },
+          { ar: 'سبعة', en: 'seven', correct: false },
+        ],
+      },
+    ],
+  },
+
+  // ═══════════════════════════════════════════════════════════════════════════
+  // L14 — COLORS & DESCRIPTIONS (Phase 2 · Lesson 14)
+  // ═══════════════════════════════════════════════════════════════════════════
+  {
+    id: 'L14',
+    phase: 2,
+    index: 14,
+    title: 'Colors of the Nile',
+    title_ar: 'ألوان النيل',
+    objectives: [
+      'Learn color adjectives in Mattokki',
+      'Apply adjectives after the noun (Mattokki: noun + adjective order)',
+      'Use fala (good) and gurri (bad) in simple descriptive sentences',
+    ],
+    cultural_note:
+      'Nubian villages along the Nile were famous for their brightly painted houses — white walls with blue doors, red borders, and green palm trees. Each color carried meaning. When the Aswan Dam submerged the villages in 1964, the colors of those walls were lost forever. Learning them is a small act of remembrance.',
+    cultural_note_ar:
+      'قرى النوبة على النيل كانت مشهورة ببيوتها الملونة — حيطان بيضا وأبواب زرقا وحدود حمرا وشجر نخيل أخضر. كل لون كان له معنى.',
+    exercises: [
+      {
+        id: 'L14_E1', lesson_id: 'L14', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0120'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0120',
+        options: [
+          { ar: 'أبيض', en: 'white', correct: true },
+          { ar: 'أسود', en: 'black', correct: false },
+          { ar: 'أحمر', en: 'red', correct: false },
+          { ar: 'أخضر', en: 'green', correct: false },
+        ],
+      },
+      {
+        id: 'L14_E2', lesson_id: 'L14', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0121'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0121',
+        options: [
+          { ar: 'أسود', en: 'black', correct: true },
+          { ar: 'أبيض', en: 'white', correct: false },
+          { ar: 'أحمر', en: 'red', correct: false },
+          { ar: 'أصفر', en: 'yellow', correct: false },
+        ],
+      },
+      {
+        id: 'L14_E3', lesson_id: 'L14', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0122'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'gaile', prompt_old_nubian: 'ⲅⲁⲓⲗⲉ',
+        prompt_arabic_transliteration: 'جيلي',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'أحمر', en: 'red', correct: true },
+          { ar: 'أخضر', en: 'green', correct: false },
+          { ar: 'أصفر', en: 'yellow', correct: false },
+          { ar: 'أبيض', en: 'white', correct: false },
+        ],
+      },
+      {
+        id: 'L14_E4', lesson_id: 'L14', kind: 'word_arrange',
+        morpheme_map: { lexeme_ids: ['xnz_0165', 'xnz_0120', 'xnz_0012'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_en: 'The house is white.',
+        prompt_ar: 'البيت أبيض.',
+        solution: [
+          { role: 'S', lexeme_id: 'xnz_0165', surface: 'ka' },
+          { role: 'O', lexeme_id: 'xnz_0120', surface: 'aroo' },
+          { role: 'V', lexeme_id: 'xnz_0012', surface: '-ma' },
+        ],
+      },
+      {
+        id: 'L14_E5', lesson_id: 'L14', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0127'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0127',
+        options: [
+          { ar: 'كويس / حلو', en: 'good / nice', correct: true },
+          { ar: 'وحش / بايظ', en: 'bad', correct: false },
+          { ar: 'جميل', en: 'beautiful', correct: false },
+          { ar: 'كبير', en: 'big', correct: false },
+        ],
+      },
+      {
+        id: 'L14_E6', lesson_id: 'L14', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0125', 'xnz_0126'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'dool / kinna', prompt_old_nubian: 'ⲇⲟⲟⲗ / ⲕⲓⲛⲛⲁ',
+        prompt_arabic_transliteration: 'دول / كينا',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'كبير / صغير', en: 'big / small', correct: true },
+          { ar: 'أحمر / أبيض', en: 'red / white', correct: false },
+          { ar: 'كويس / وحش', en: 'good / bad', correct: false },
+          { ar: 'سخن / بارد', en: 'hot / cold', correct: false },
+        ],
+      },
+    ],
+  },
+
+  // ═══════════════════════════════════════════════════════════════════════════
+  // L15 — BODY PARTS (Phase 2 · Lesson 15)
+  // ═══════════════════════════════════════════════════════════════════════════
+  {
+    id: 'L15',
+    phase: 2,
+    index: 15,
+    title: 'Your Body in Mattokki',
+    title_ar: 'جسمك بالنوبي',
+    objectives: [
+      'Name 10 body parts in Mattokki',
+      'Understand the genitive construction: ay missi = my eye',
+      'Recognise the proverb: "Korti tanna koroogi nalemen" — The camel doesn\'t see its own crooked neck',
+    ],
+    cultural_note:
+      'aa (heart) is one of the most culturally loaded words in Mattokki. In Nubian oral tradition, the heart is the seat of both emotion and wisdom — not the brain. The phrase "aa-ma" (it is heart) is used to describe someone with true courage and generosity.',
+    cultural_note_ar:
+      'كلمة aa (قلب) من أكثر الكلمات حمولة ثقافية في المطوكي. في التراث النوبي الشفهي، القلب هو مقر العاطفة والحكمة — مش الدماغ.',
+    exercises: [
+      {
+        id: 'L15_E1', lesson_id: 'L15', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0140'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0140',
+        options: [
+          { ar: 'راس', en: 'head', correct: true },
+          { ar: 'عين', en: 'eye', correct: false },
+          { ar: 'إيد', en: 'hand', correct: false },
+          { ar: 'رجل', en: 'foot', correct: false },
+        ],
+      },
+      {
+        id: 'L15_E2', lesson_id: 'L15', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0141'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0141',
+        options: [
+          { ar: 'عين', en: 'eye', correct: true },
+          { ar: 'ودن', en: 'ear', correct: false },
+          { ar: 'أنف', en: 'nose', correct: false },
+          { ar: 'بق', en: 'mouth', correct: false },
+        ],
+      },
+      {
+        id: 'L15_E3', lesson_id: 'L15', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0147'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'aa', prompt_old_nubian: 'ⲁⲁ',
+        prompt_arabic_transliteration: 'آ',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'قلب', en: 'heart', correct: true },
+          { ar: 'راس', en: 'head', correct: false },
+          { ar: 'عين', en: 'eye', correct: false },
+          { ar: 'إيد', en: 'hand', correct: false },
+        ],
+      },
+      {
+        id: 'L15_E4', lesson_id: 'L15', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0145'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0145',
+        options: [
+          { ar: 'إيد / يد', en: 'hand / arm', correct: true },
+          { ar: 'رجل', en: 'foot', correct: false },
+          { ar: 'ضهر', en: 'back', correct: false },
+          { ar: 'رقبة', en: 'neck', correct: false },
+        ],
+      },
+      {
+        id: 'L15_E5', lesson_id: 'L15', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0142', 'xnz_0143', 'xnz_0144'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'ouloug', prompt_old_nubian: 'ⲟⲩⲗⲟⲩⲅ',
+        prompt_arabic_transliteration: 'أولوج',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'ودن / أذن', en: 'ear', correct: true },
+          { ar: 'أنف', en: 'nose', correct: false },
+          { ar: 'بق', en: 'mouth', correct: false },
+          { ar: 'عين', en: 'eye', correct: false },
+        ],
+      },
+      {
+        id: 'L15_E6', lesson_id: 'L15', kind: 'word_arrange',
+        morpheme_map: { lexeme_ids: ['xnz_0001', 'xnz_0147', 'xnz_0050'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_en: 'I feel / I see (with my heart).',
+        prompt_ar: 'أنا بحس / بشوف بقلبي.',
+        solution: [
+          { role: 'S', lexeme_id: 'xnz_0001', surface: 'ay' },
+          { role: 'O', lexeme_id: 'xnz_0147', surface: 'aa' },
+          { role: 'V', lexeme_id: 'xnz_0050', surface: 'nal' },
+        ],
+      },
+    ],
+  },
+
+  // ═══════════════════════════════════════════════════════════════════════════
+  // L16 — DAILY ACTIONS & VERBS (Phase 2 · Lesson 16)
+  // ═══════════════════════════════════════════════════════════════════════════
+  {
+    id: 'L16',
+    phase: 2,
+    index: 16,
+    title: 'What Do You Do?',
+    title_ar: 'بتعمل إيه؟',
+    objectives: [
+      'Learn 8 core action verbs: go, come, eat, drink, sleep, give, take, walk',
+      'Build simple SOV sentences with these verbs',
+      'Understand the verb root (before tense suffixes are added)',
+    ],
+    cultural_note:
+      'In Mattokki oral tradition, many verbs have poetic alternative forms used in songs and proverbs. The verb ni (to drink) in the context of the Nile becomes symbolic — "drinking the Nile" meant belonging to the land. Displaced Nubians in Cairo say: "We drank the Nile\'s water — it runs in our blood."',
+    cultural_note_ar:
+      'في التراث الشفهي المطوكي، كلمة ni (يشرب) في سياق النيل بتبقى رمزية — "شرب مية النيل" معناه الانتماء للأرض.',
+    exercises: [
+      {
+        id: 'L16_E1', lesson_id: 'L16', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0054'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0054',
+        options: [
+          { ar: 'ياكل', en: 'to eat', correct: true },
+          { ar: 'يشرب', en: 'to drink', correct: false },
+          { ar: 'ينام', en: 'to sleep', correct: false },
+          { ar: 'يروح', en: 'to go', correct: false },
+        ],
+      },
+      {
+        id: 'L16_E2', lesson_id: 'L16', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0055'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0055',
+        options: [
+          { ar: 'يشرب', en: 'to drink', correct: true },
+          { ar: 'ياكل', en: 'to eat', correct: false },
+          { ar: 'يجي', en: 'to come', correct: false },
+          { ar: 'يحب', en: 'to love', correct: false },
+        ],
+      },
+      {
+        id: 'L16_E3', lesson_id: 'L16', kind: 'word_arrange',
+        morpheme_map: { lexeme_ids: ['xnz_0001', 'xnz_0042', 'xnz_0055'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_en: 'I drink water.',
+        prompt_ar: 'أنا باشرب مايه.',
+        solution: [
+          { role: 'S', lexeme_id: 'xnz_0001', surface: 'ay' },
+          { role: 'O', lexeme_id: 'xnz_0042', surface: 'essi' },
+          { role: 'V', lexeme_id: 'xnz_0055', surface: 'ni' },
+        ],
+      },
+      {
+        id: 'L16_E4', lesson_id: 'L16', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0052', 'xnz_0053'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'ge\'ou / ta', prompt_old_nubian: 'ⲅⲉⲟⲩ / ⲧⲁ',
+        prompt_arabic_transliteration: 'جيو / تا',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'يروح / يجي', en: 'go / come', correct: true },
+          { ar: 'ياكل / يشرب', en: 'eat / drink', correct: false },
+          { ar: 'ينام / يصحى', en: 'sleep / wake', correct: false },
+          { ar: 'يحب / يكره', en: 'love / hate', correct: false },
+        ],
+      },
+      {
+        id: 'L16_E5', lesson_id: 'L16', kind: 'word_arrange',
+        morpheme_map: { lexeme_ids: ['xnz_0011', 'xnz_0170', 'xnz_0054'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_en: 'The girl eats meat.',
+        prompt_ar: 'البنت باتاكل لحمة.',
+        solution: [
+          { role: 'S', lexeme_id: 'xnz_0011', surface: 'buru' },
+          { role: 'O', lexeme_id: 'xnz_0170', surface: 'kousoo' },
+          { role: 'V', lexeme_id: 'xnz_0054', surface: 'kul' },
+        ],
+      },
+      {
+        id: 'L16_E6', lesson_id: 'L16', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0061'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0061',
+        options: [
+          { ar: 'يحب', en: 'to love', correct: true },
+          { ar: 'ياخد', en: 'to take', correct: false },
+          { ar: 'يعرف', en: 'to know', correct: false },
+          { ar: 'يتكلم', en: 'to speak', correct: false },
+        ],
+      },
+    ],
+  },
+
+  // ═══════════════════════════════════════════════════════════════════════════
+  // L17 — NATURE & THE NILE (Phase 2 · Lesson 17)
+  // ═══════════════════════════════════════════════════════════════════════════
+  {
+    id: 'L17',
+    phase: 2,
+    index: 17,
+    title: 'The River & the Sky',
+    title_ar: 'النهر والسما',
+    objectives: [
+      'Learn vocabulary for nature: sun, moon, star, tree, earth, wind, rain',
+      'Understand han-essi (rain = sky-water) — a compound word showing Nubian logic',
+      'Practice descriptive sentences: ounatti fala-ma (the moon is beautiful)',
+    ],
+    cultural_note:
+      'han-essi literally translates to "sky water" — it is the Mattokki compound word for rain. This kind of transparent compound is a hallmark of the language: meaning is built from smaller meaningful pieces. When you learn "essi" (water) and "han" (sky), you already know "rain" for free.',
+    cultural_note_ar:
+      'han-essi بالحرف معناها "مية السما" — وهي الكلمة المركبة للمطر في المطوكي. ده نوع من الشفافية اللغوية اللي بتميز المطوكي: المعنى بيتبنى من قطع صغيرة معروفة.',
+    exercises: [
+      {
+        id: 'L17_E1', lesson_id: 'L17', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0045'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0045',
+        options: [
+          { ar: 'شمس', en: 'sun', correct: true },
+          { ar: 'قمر', en: 'moon', correct: false },
+          { ar: 'نجمة', en: 'star', correct: false },
+          { ar: 'مطر', en: 'rain', correct: false },
+        ],
+      },
+      {
+        id: 'L17_E2', lesson_id: 'L17', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0046'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0046',
+        options: [
+          { ar: 'قمر', en: 'moon', correct: true },
+          { ar: 'شمس', en: 'sun', correct: false },
+          { ar: 'نجمة', en: 'star', correct: false },
+          { ar: 'ريح', en: 'wind', correct: false },
+        ],
+      },
+      {
+        id: 'L17_E3', lesson_id: 'L17', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0049c'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'han-essi', prompt_old_nubian: 'ⲁⲛ-ⲉⲥⲥⲓ',
+        prompt_arabic_transliteration: 'هان-إيسي',
+        morpheme_highlights: [{ surface: 'essi', rule_id: 'INDEF_SUFFIX_WER' }],
+        options: [
+          { ar: 'مطر (ماية السما)', en: 'rain (sky-water)', correct: true },
+          { ar: 'نهر', en: 'river', correct: false },
+          { ar: 'بحر', en: 'sea', correct: false },
+          { ar: 'بئر', en: 'well', correct: false },
+        ],
+      },
+      {
+        id: 'L17_E4', lesson_id: 'L17', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0047'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0047',
+        options: [
+          { ar: 'نجمة', en: 'star', correct: true },
+          { ar: 'شمس', en: 'sun', correct: false },
+          { ar: 'قمر', en: 'moon', correct: false },
+          { ar: 'ريح', en: 'wind', correct: false },
+        ],
+      },
+      {
+        id: 'L17_E5', lesson_id: 'L17', kind: 'word_arrange',
+        morpheme_map: { lexeme_ids: ['xnz_0046', 'xnz_0129'], rule_ids: ['COPULA_MA'], primary_layer: 'lexical' },
+        prompt_en: 'The moon is beautiful.',
+        prompt_ar: 'القمر جميل.',
+        solution: [
+          { role: 'S', lexeme_id: 'xnz_0046', surface: 'ounatti' },
+          { role: 'O', lexeme_id: 'xnz_0129', surface: 'tonge\'il' },
+          { role: 'V', lexeme_id: 'xnz_0046', surface: '-ma' },
+        ],
+      },
+      {
+        id: 'L17_E6', lesson_id: 'L17', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0048', 'xnz_0049', 'xnz_0049b'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'tooroug', prompt_old_nubian: 'ⲧⲟⲟⲣⲟⲩⲅ',
+        prompt_arabic_transliteration: 'تورج',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'ريح / هوا', en: 'wind', correct: true },
+          { ar: 'تراب / أرض', en: 'earth / soil', correct: false },
+          { ar: 'شجرة', en: 'tree', correct: false },
+          { ar: 'حجر', en: 'stone', correct: false },
+        ],
+      },
+    ],
+  },
+
+  // ═══════════════════════════════════════════════════════════════════════════
+  // L18 — DOGO DAMO: Money, Market & Daily Life (Phase 2 · Lesson 18)
+  // THE CULTURAL HOOK LESSON — inspired by Black Theama's viral song
+  // ═══════════════════════════════════════════════════════════════════════════
+  {
+    id: 'L18',
+    phase: 2,
+    index: 18,
+    title: 'Dogo Damo — No Money!',
+    title_ar: 'دوجو دامو — مافيش فلوس!',
+    objectives: [
+      'Learn the viral phrase: dougoo damo (no money / مافيش فلوس)',
+      'Understand damo as a negation particle (no / not / none)',
+      'Learn to buy, sell, work in Mattokki',
+    ],
+    cultural_note:
+      '"Dogo Damo" was used in a 2025 hit song by Egyptian band Black Theama, bringing a real Nubian phrase to millions of listeners across Egypt. Many Egyptians heard Nubian for the first time through that song. Words like these — ones that cross into pop culture — are the bridge between an endangered language and the next generation.',
+    cultural_note_ar:
+      '"دوجو دامو" ظهرت في أغنية لفرقة بلاك ثيما عام 2025 وأسمعت ملايين المصريين النوبية لأول مرة. الكلمات اللي بتعدي لثقافة البوب — دي الجسر بين اللغة المهددة بالانقراض والجيل الجديد.',
+    exercises: [
+      {
+        id: 'L18_E1', lesson_id: 'L18', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0180', 'xnz_0183'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'dougoo damo', prompt_old_nubian: 'ⲇⲟⲩⲅⲟⲟ ⲇⲁⲙⲟ',
+        prompt_arabic_transliteration: 'دوجو دامو',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'مافيش فلوس / بلاش فلوس', en: 'no money / zero money', correct: true },
+          { ar: 'عندي فلوس', en: 'I have money', correct: false },
+          { ar: 'الفلوس كتير', en: 'lots of money', correct: false },
+          { ar: 'إيه الفلوس دي؟', en: 'what is this money?', correct: false },
+        ],
+      },
+      {
+        id: 'L18_E2', lesson_id: 'L18', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0180'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0180',
+        options: [
+          { ar: 'فلوس / مصاري', en: 'money', correct: true },
+          { ar: 'شغل', en: 'work', correct: false },
+          { ar: 'سوق', en: 'market', correct: false },
+          { ar: 'بيت', en: 'house', correct: false },
+        ],
+      },
+      {
+        id: 'L18_E3', lesson_id: 'L18', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0183'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0183',
+        options: [
+          { ar: 'لأ / مفيش', en: 'no / none / not', correct: true },
+          { ar: 'أيوه', en: 'yes', correct: false },
+          { ar: 'ربما', en: 'maybe', correct: false },
+          { ar: 'كتير', en: 'a lot', correct: false },
+        ],
+      },
+      {
+        id: 'L18_E4', lesson_id: 'L18', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0181'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'ge\'an', prompt_old_nubian: 'ⲅⲉⲁⲛ',
+        prompt_arabic_transliteration: 'جيان',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'يشتري', en: 'to buy', correct: true },
+          { ar: 'يبيع', en: 'to sell', correct: false },
+          { ar: 'يشتغل', en: 'to work', correct: false },
+          { ar: 'يدفع', en: 'to pay', correct: false },
+        ],
+      },
+      {
+        id: 'L18_E5', lesson_id: 'L18', kind: 'word_arrange',
+        morpheme_map: { lexeme_ids: ['xnz_0010', 'xnz_0174', 'xnz_0063'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_en: 'The man speaks about work.',
+        prompt_ar: 'الراجل بيتكلم عن الشغل.',
+        solution: [
+          { role: 'S', lexeme_id: 'xnz_0010', surface: 'id' },
+          { role: 'O', lexeme_id: 'xnz_0174', surface: 'gelli' },
+          { role: 'V', lexeme_id: 'xnz_0063', surface: 'buy' },
+        ],
+      },
+      {
+        id: 'L18_E6', lesson_id: 'L18', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0183', 'xnz_0180', 'xnz_0174'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'gelli damo', prompt_old_nubian: 'ⲅⲉⲗⲗⲓ ⲇⲁⲙⲟ',
+        prompt_arabic_transliteration: 'جيلي دامو',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'مافيش شغل', en: 'no work', correct: true },
+          { ar: 'الشغل كتير', en: 'lots of work', correct: false },
+          { ar: 'بحب شغلي', en: 'I love my work', correct: false },
+          { ar: 'الشغل كويس', en: 'work is good', correct: false },
+        ],
+      },
+    ],
+  },
+
+  // ═══════════════════════════════════════════════════════════════════════════
+  // L19 — FOOD & HOSPITALITY (Phase 2 · Lesson 19)
+  // ═══════════════════════════════════════════════════════════════════════════
+  {
+    id: 'L19',
+    phase: 2,
+    index: 19,
+    title: 'Nubian Hospitality',
+    title_ar: 'الكرم النوبي',
+    objectives: [
+      'Learn food vocabulary: meat, milk, egg, salt, fish',
+      'Use ter (give) in the context of Nubian hospitality culture',
+      'Learn: eski (can / to be able) — a key capability verb',
+    ],
+    cultural_note:
+      'Nubian hospitality is legendary. In the traditional Kenzi village, no guest ever left a house without being fed. The act of "giving" (ter) food was not generosity — it was obligation, culture, identity. The proverb "Owwi weerkeg aalo" (Two are better than one) reflects this: sharing is the default mode.',
+    cultural_note_ar:
+      'الكرم النوبي مشهور جداً. في القرية الكنزية التقليدية، ما كانش فيه ضيف بيخرج من بيت من غير ما يتغدى. فعل "الإعطاء" (ter) ما كانش كرم — كان واجب، ثقافة، هوية.',
+    exercises: [
+      {
+        id: 'L19_E1', lesson_id: 'L19', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0170'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0170',
+        options: [
+          { ar: 'لحمة', en: 'meat', correct: true },
+          { ar: 'سمك', en: 'fish', correct: false },
+          { ar: 'لبن', en: 'milk', correct: false },
+          { ar: 'بيض', en: 'egg', correct: false },
+        ],
+      },
+      {
+        id: 'L19_E2', lesson_id: 'L19', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0038'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0038',
+        options: [
+          { ar: 'سمكة', en: 'fish', correct: true },
+          { ar: 'لحمة', en: 'meat', correct: false },
+          { ar: 'بيضة', en: 'egg', correct: false },
+          { ar: 'ملح', en: 'salt', correct: false },
+        ],
+      },
+      {
+        id: 'L19_E3', lesson_id: 'L19', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0057'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'ter', prompt_old_nubian: 'ⲧⲉⲣ',
+        prompt_arabic_transliteration: 'تير',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'يدي / يعطي', en: 'to give', correct: true },
+          { ar: 'ياخد', en: 'to take', correct: false },
+          { ar: 'يبيع', en: 'to sell', correct: false },
+          { ar: 'يشتري', en: 'to buy', correct: false },
+        ],
+      },
+      {
+        id: 'L19_E4', lesson_id: 'L19', kind: 'word_arrange',
+        morpheme_map: { lexeme_ids: ['xnz_0013', 'xnz_0038', 'xnz_0057'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_en: 'Father gives fish.',
+        prompt_ar: 'أبويا بيدي سمك.',
+        solution: [
+          { role: 'S', lexeme_id: 'xnz_0013', surface: 'baab' },
+          { role: 'O', lexeme_id: 'xnz_0038', surface: 'kare' },
+          { role: 'V', lexeme_id: 'xnz_0057', surface: 'ter' },
+        ],
+      },
+      {
+        id: 'L19_E5', lesson_id: 'L19', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0172'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0172',
+        options: [
+          { ar: 'بيضة', en: 'egg', correct: true },
+          { ar: 'لبن', en: 'milk', correct: false },
+          { ar: 'لحمة', en: 'meat', correct: false },
+          { ar: 'ملح', en: 'salt', correct: false },
+        ],
+      },
+      {
+        id: 'L19_E6', lesson_id: 'L19', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0184'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'eski', prompt_old_nubian: 'ⲉⲥⲕⲓ',
+        prompt_arabic_transliteration: 'إيسكي',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'يقدر / يستطيع', en: 'can / to be able', correct: true },
+          { ar: 'يعرف', en: 'to know', correct: false },
+          { ar: 'يشوف', en: 'to see', correct: false },
+          { ar: 'يحاول', en: 'to try', correct: false },
+        ],
+      },
+    ],
+  },
+
+  // ═══════════════════════════════════════════════════════════════════════════
+  // L20 — PROVERBS: WISDOM IN MATTOKKI (Phase 2 · Lesson 20)
+  // The cultural capstone lesson — Mattokki wisdom tradition
+  // ═══════════════════════════════════════════════════════════════════════════
+  {
+    id: 'L20',
+    phase: 2,
+    index: 20,
+    title: 'Words of the Elders',
+    title_ar: 'كلام الأجداد',
+    objectives: [
+      'Read and understand 5 traditional Mattokki proverbs',
+      'Recognise vocabulary from all previous lessons in context',
+      'Understand how Mattokki SOV structure appears in real proverbs',
+    ],
+    cultural_note:
+      'Proverbs are the highest form of Nubian oral literature. In the Kenzi tradition, a person who cannot cite proverbs is considered uneducated regardless of formal schooling. The Nubian elder Said Sirr Elkhatem composed much of the 20th-century Nubian poetic canon, preserving hundreds of traditional wisdoms. His recordings are among the most important cultural artifacts in existence.',
+    cultural_note_ar:
+      'الأمثال هي أعلى أشكال الأدب الشفهي النوبي. في التراث الكنزي، اللي ما يعرفش يقول أمثال بيتعتبر قليل الثقافة. الشاعر النوبي سعيد سر الختم حافظ على مئات الحكم التقليدية في أشعاره.',
+    exercises: [
+      {
+        id: 'L20_E1', lesson_id: 'L20', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0101', 'xnz_0100'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'owwi weerkeg aalo', prompt_old_nubian: 'ⲟⲩⲟⲩⲓ ⲟⲩⲏⲣⲕⲉⲅ ⲁⲁⲗⲟ',
+        prompt_arabic_transliteration: 'أووي ويركيج آلو',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'الاتنين أحسن من الواحد', en: 'Two are better than one', correct: true },
+          { ar: 'واحد أحسن من اتنين', en: 'One is better than two', correct: false },
+          { ar: 'الاتنين متساويين', en: 'Two are equal', correct: false },
+          { ar: 'الثلاثة أحسن من الاتنين', en: 'Three are better than two', correct: false },
+        ],
+      },
+      {
+        id: 'L20_E2', lesson_id: 'L20', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0043', 'xnz_0042'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'eshki gaa iskingi', prompt_old_nubian: 'ⲉⲥⲕⲓ ⲅⲁⲁ ⲓⲥⲕⲓⲛⲅⲓ',
+        prompt_arabic_transliteration: 'إيشكي جا إسكينجي',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'الماية بتطفي النار (الهدوء بيحل الخناقة)', en: 'Water extinguishes fire (patience resolves conflict)', correct: true },
+          { ar: 'النار أقوى من الماية', en: 'Fire is stronger than water', correct: false },
+          { ar: 'الماية والنار متساويين', en: 'Water and fire are equal', correct: false },
+          { ar: 'الماية بتشعل النار', en: 'Water ignites fire', correct: false },
+        ],
+      },
+      {
+        id: 'L20_E3', lesson_id: 'L20', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0127'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'gindi jaagi fenti kammun', prompt_old_nubian: 'ⲅⲓⲛⲇⲓ ⲓⲁⲁⲅⲓ ⲫⲉⲛⲧⲓ ⲕⲁⲙⲙⲟⲩⲛ',
+        prompt_arabic_transliteration: 'جيندي جاجي فينتي كامون',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'اللي بيخاف من الشوك ما ياكلش تمر', en: 'He who fears thorns won\'t eat dates', correct: true },
+          { ar: 'التمر أحلى من الشوك', en: 'Dates are sweeter than thorns', correct: false },
+          { ar: 'الشوك في كل مكان', en: 'Thorns are everywhere', correct: false },
+          { ar: 'الخوف بيحمي من الشوك', en: 'Fear protects from thorns', correct: false },
+        ],
+      },
+      {
+        id: 'L20_E4', lesson_id: 'L20', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0050'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'gaa nalli, gaa kalli', prompt_old_nubian: 'ⲅⲁⲁ ⲛⲁⲗⲗⲓ, ⲅⲁⲁ ⲕⲁⲗⲗⲓ',
+        prompt_arabic_transliteration: 'جا نالي، جا كالي',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'اللي بيشوف بياكل (المتيقظ بيلاقي)', en: 'He who sees, eats (the vigilant seizes opportunity)', correct: true },
+          { ar: 'اللي بياكل بيشوف', en: 'He who eats, sees', correct: false },
+          { ar: 'الأكل للجميع', en: 'Food is for everyone', correct: false },
+          { ar: 'اللي بيشوف بيتعلم', en: 'He who sees, learns', correct: false },
+        ],
+      },
+      {
+        id: 'L20_E5', lesson_id: 'L20', kind: 'audio_match',
+        morpheme_map: { lexeme_ids: ['xnz_0101'], rule_ids: [], primary_layer: 'lexical' },
+        audio_url: PLACEHOLDER_AUDIO, prompt_lexeme_id: 'xnz_0101',
+        options: [
+          { ar: 'اتنين', en: 'two', correct: true },
+          { ar: 'واحد', en: 'one', correct: false },
+          { ar: 'تلاتة', en: 'three', correct: false },
+          { ar: 'عشرة', en: 'ten', correct: false },
+        ],
+      },
+      {
+        id: 'L20_E6', lesson_id: 'L20', kind: 'mcq',
+        morpheme_map: { lexeme_ids: ['xnz_0063', 'xnz_0062'], rule_ids: [], primary_layer: 'lexical' },
+        prompt_mattokki: 'tood inin baabkeg aawin', prompt_old_nubian: 'ⲧⲟⲟⲇ ⲓⲛⲓⲛ ⲃⲁⲁⲃⲕⲉⲅ ⲁⲁⲟⲩⲓⲛ',
+        prompt_arabic_transliteration: 'تود إنين بابكيج آوين',
+        morpheme_highlights: [],
+        options: [
+          { ar: 'الولد بيعمل زي أبوه (الشبه يجيب من الأجداد)', en: 'The boy does what his father does (like father, like son)', correct: true },
+          { ar: 'الأب أحسن من الولد', en: 'The father is better than the son', correct: false },
+          { ar: 'الولد بيعلم أبوه', en: 'The son teaches the father', correct: false },
+          { ar: 'الأب والولد متختلفوش', en: 'Father and son are different', correct: false },
+        ],
+      },
+    ],
+  },
 ];
 
 // Post-process to inject real audio URLs where available

@@ -1,0 +1,7856 @@
+[
+  {
+    "english": "aone",
+    "mattokki": "ai-wt",
+    "nobiin": "a-we'",
+    "raw": "a(one) ai-wt a-we'"
+  },
+  {
+    "english": "aback",
+    "mattokki": "a",
+    "nobiin": "gab abag",
+    "raw": "aback a gab abag"
+  },
+  {
+    "english": "abash",
+    "mattokki": "sow",
+    "nobiin": "sumige",
+    "raw": "abash sow sumige"
+  },
+  {
+    "english": "abashes",
+    "mattokki": "sawi",
+    "nobiin": "sumigeein",
+    "raw": "abashes sawi sumigeein"
+  },
+  {
+    "english": "abashed",
+    "mattokki": "sowsou",
+    "nobiin": "sumigeon",
+    "raw": "abashed sowsou sumigeon"
+  },
+  {
+    "english": "able",
+    "mattokki": "eski",
+    "nobiin": "eskin",
+    "raw": "able eski eskin"
+  },
+  {
+    "english": "aborts",
+    "mattokki": "bokki",
+    "nobiin": "fokkin",
+    "raw": "aborts bokki fokkin"
+  },
+  {
+    "english": "about",
+    "mattokki": "kiri",
+    "nobiin": "nana",
+    "raw": "about kiri nana"
+  },
+  {
+    "english": "above",
+    "mattokki": "dogoag",
+    "nobiin": "doro",
+    "raw": "above dogoag doro"
+  },
+  {
+    "english": "abroad",
+    "mattokki": "boadir,botge",
+    "nobiin": "shaddo",
+    "raw": "abroad boadir,botge shaddo"
+  },
+  {
+    "english": "absorb",
+    "mattokki": "ge'ook",
+    "nobiin": "ge'ook",
+    "raw": "absorb ge'ook ge'ook"
+  },
+  {
+    "english": "absorbs",
+    "mattokki": "ge'ooki",
+    "nobiin": "ge'ookin",
+    "raw": "absorbs ge'ooki ge'ookin"
+  },
+  {
+    "english": "abundant",
+    "mattokki": "digiry",
+    "nobiin": "dia",
+    "raw": "abundant digiry dia"
+  },
+  {
+    "english": "abuse",
+    "mattokki": "did",
+    "nobiin": "emerge",
+    "raw": "abuse did emerge"
+  },
+  {
+    "english": "abuses",
+    "mattokki": "didi",
+    "nobiin": "emerge'in",
+    "raw": "abuses didi emerge'in"
+  },
+  {
+    "english": "abused",
+    "mattokki": "didsou",
+    "nobiin": "emerge'on",
+    "raw": "abused didsou emerge'on"
+  },
+  {
+    "english": "acacia",
+    "mattokki": "shaba,ge'oulle",
+    "nobiin": "ge'oulle",
+    "raw": "acacia shaba,ge'oulle ge'oulle"
+  },
+  {
+    "english": "accidentally",
+    "mattokki": "sou'da",
+    "nobiin": "sou'da",
+    "raw": "accidentally sou'da sou'da"
+  },
+  {
+    "english": "aceromated",
+    "mattokki": "fairsou,fottsou",
+    "nobiin": "fotton",
+    "raw": "aceromated fairsou,fottsou fotton"
+  },
+  {
+    "english": "acromatic",
+    "mattokki": "fairur,fottos",
+    "nobiin": "fotton",
+    "raw": "acromatic fairur,fottos fotton"
+  },
+  {
+    "english": "adjoin",
+    "mattokki": "kollgir",
+    "nobiin": "kollikir",
+    "raw": "adjoin kollgir kollikir"
+  },
+  {
+    "english": "adult",
+    "mattokki": "tonorti",
+    "nobiin": "kourked",
+    "raw": "adult tonorti kourked"
+  },
+  {
+    "english": "advance",
+    "mattokki": "agiddo",
+    "nobiin": "o'rug ung",
+    "raw": "advance agiddo o'rug ung"
+  },
+  {
+    "english": "advanced",
+    "mattokki": "agiddsou",
+    "nobiin": "o'rug-ung on",
+    "raw": "advanced agiddsou o'rug-ung on"
+  },
+  {
+    "english": "offiction",
+    "mattokki": "ousou",
+    "nobiin": "ousou",
+    "raw": "offiction ousou ousou"
+  },
+  {
+    "english": "afraid",
+    "mattokki": "surk-bou,sund-bou",
+    "nobiin": "ge'aga feen",
+    "raw": "afraid surk-bou,sund-bou ge'aga feen"
+  },
+  {
+    "english": "again",
+    "mattokki": "weede'",
+    "nobiin": "weed a goan",
+    "raw": "again weede' weed a goan"
+  },
+  {
+    "english": "age",
+    "mattokki": "ougour",
+    "nobiin": "oug",
+    "raw": "age ougour oug"
+  },
+  {
+    "english": "agony",
+    "mattokki": "addur",
+    "nobiin": "addikreed",
+    "raw": "agony addur addikreed"
+  },
+  {
+    "english": "alike",
+    "mattokki": "ulgi",
+    "nobiin": "ulgin",
+    "raw": "alike ulgi ulgin"
+  },
+  {
+    "english": "all",
+    "mattokki": "mulle'",
+    "nobiin": "mulle'",
+    "raw": "all mulle' mulle'"
+  },
+  {
+    "english": "arrive",
+    "mattokki": "door",
+    "nobiin": "do'ow",
+    "raw": "arrive door do'ow"
+  },
+  {
+    "english": "allained",
+    "mattokki": "doorsou",
+    "nobiin": "do'ow on",
+    "raw": "allained doorsou do'ow on"
+  },
+  {
+    "english": "alone",
+    "mattokki": "agooda",
+    "nobiin": "agooda",
+    "raw": "alone agooda agooda"
+  },
+  {
+    "english": "also",
+    "mattokki": "enkega,ikbou",
+    "nobiin": "adingra",
+    "raw": "also enkega,ikbou adingra"
+  },
+  {
+    "english": "always",
+    "mattokki": "kitte",
+    "nobiin": "wiyun,seddin",
+    "raw": "always kitte wiyun,seddin"
+  },
+  {
+    "english": "amaze",
+    "mattokki": "udwi",
+    "nobiin": "undwin",
+    "raw": "amaze udwi undwin"
+  },
+  {
+    "english": "among",
+    "mattokki": "beri",
+    "nobiin": "fukki",
+    "raw": "among beri fukki"
+  },
+  {
+    "english": "amputated",
+    "mattokki": "moutbou",
+    "nobiin": "mouttool",
+    "raw": "amputated moutbou mouttool"
+  },
+  {
+    "english": "and",
+    "mattokki": "oan",
+    "nobiin": "oan",
+    "raw": "and oan oan"
+  },
+  {
+    "english": "angry",
+    "mattokki": "arribou,surkbou",
+    "nobiin": "simur kafeen",
+    "raw": "angry arribou,surkbou simur kafeen"
+  },
+  {
+    "english": "ankle",
+    "mattokki": "ossi-bood",
+    "nobiin": "oy-insoukki",
+    "raw": "ankle ossi-bood oy-insoukki"
+  },
+  {
+    "english": "another",
+    "mattokki": "itge'l",
+    "nobiin": "itge'i",
+    "raw": "another itge'l itge'i"
+  },
+  {
+    "english": "ant",
+    "mattokki": "goar",
+    "nobiin": "gou'wa",
+    "raw": "ant goar gou'wa"
+  },
+  {
+    "english": "pot",
+    "mattokki": "dadi",
+    "nobiin": "dadi",
+    "raw": "pot dadi dadi"
+  },
+  {
+    "english": "anus",
+    "mattokki": "sorod,osod",
+    "nobiin": "ou'sour",
+    "raw": "anus sorod,osod ou'sour"
+  },
+  {
+    "english": "any",
+    "mattokki": "say",
+    "nobiin": "sir,hir",
+    "raw": "any say sir,hir"
+  },
+  {
+    "english": "ape",
+    "mattokki": "abalay",
+    "nobiin": "abalgne",
+    "raw": "ape abalay abalgne"
+  },
+  {
+    "english": "appear",
+    "mattokki": "wan",
+    "nobiin": "wagne",
+    "raw": "appear wan wagne"
+  },
+  {
+    "english": "appears",
+    "mattokki": "wani",
+    "nobiin": "wegne'in",
+    "raw": "appears wani wegne'in"
+  },
+  {
+    "english": "appeared",
+    "mattokki": "wansou",
+    "nobiin": "wagne'on",
+    "raw": "appeared wansou wagne'on"
+  },
+  {
+    "english": "appearence",
+    "mattokki": "wanur",
+    "nobiin": "wagneed",
+    "raw": "appearence wanur wagneed"
+  },
+  {
+    "english": "approach",
+    "mattokki": "agid,aw'wut",
+    "nobiin": "moal-ung",
+    "raw": "approach agid,aw'wut moal-ung"
+  },
+  {
+    "english": "arm",
+    "mattokki": "kew",
+    "nobiin": "kew",
+    "raw": "arm kew kew"
+  },
+  {
+    "english": "armpit",
+    "mattokki": "abirtgo",
+    "nobiin": "awir in tuwa",
+    "raw": "armpit abirtgo awir in tuwa"
+  },
+  {
+    "english": "army",
+    "mattokki": "kel",
+    "nobiin": "kel",
+    "raw": "army kel kel"
+  },
+  {
+    "english": "around",
+    "mattokki": "lowaya",
+    "nobiin": "gritta",
+    "raw": "around lowaya gritta"
+  },
+  {
+    "english": "arrange",
+    "mattokki": "ge'ob",
+    "nobiin": "ge'ob",
+    "raw": "arrange ge'ob ge'ob"
+  },
+  {
+    "english": "arrangement",
+    "mattokki": "ge'obur",
+    "nobiin": "ge'obeed",
+    "raw": "arrangement ge'obur ge'obeed"
+  },
+  {
+    "english": "arrest",
+    "mattokki": "morrogir,kumituk",
+    "nobiin": "do'om",
+    "raw": "arrest morrogir,kumituk do'om"
+  },
+  {
+    "english": "arrogant",
+    "mattokki": "newerti-dool",
+    "nobiin": "kobe'",
+    "raw": "arrogant newerti-dool kobe'"
+  },
+  {
+    "english": "ascend",
+    "mattokki": "kooge",
+    "nobiin": "kair",
+    "raw": "ascend kooge kair"
+  },
+  {
+    "english": "ash",
+    "mattokki": "aborti",
+    "nobiin": "ou'bourti",
+    "raw": "ash aborti ou'bourti"
+  },
+  {
+    "english": "ask",
+    "mattokki": "issig",
+    "nobiin": "issig",
+    "raw": "ask issig issig"
+  },
+  {
+    "english": "asthma",
+    "mattokki": "semma",
+    "nobiin": "simma",
+    "raw": "asthma semma simma"
+  },
+  {
+    "english": "at",
+    "mattokki": "nay-nur",
+    "nobiin": "log-dog",
+    "raw": "at nay-nur log-dog"
+  },
+  {
+    "english": "attain",
+    "mattokki": "N/A",
+    "nobiin": "utta feen",
+    "raw": "attain N/A utta feen"
+  },
+  {
+    "english": "aunt",
+    "mattokki": "ba-n-essi",
+    "nobiin": "ungne (father's side)",
+    "raw": "aunt ba-n-essi ungne (father's side)"
+  },
+  {
+    "english": "aunt",
+    "mattokki": "indi-kegid",
+    "nobiin": "un ain bess (mother's side)",
+    "raw": "aunt indi-kegid un ain bess (mother's side)"
+  },
+  {
+    "english": "avert",
+    "mattokki": "wailais-gir",
+    "nobiin": "wailaiskir",
+    "raw": "avert wailais-gir wailaiskir"
+  },
+  {
+    "english": "awake",
+    "mattokki": "bitge",
+    "nobiin": "fik",
+    "raw": "awake bitge fik"
+  },
+  {
+    "english": "away",
+    "mattokki": "wurri",
+    "nobiin": "weeriddo",
+    "raw": "away wurri weeriddo"
+  },
+  {
+    "english": "awe",
+    "mattokki": "surki,sundi",
+    "nobiin": "ge'akki",
+    "raw": "awe surki,sundi ge'akki"
+  },
+  {
+    "english": "axe",
+    "mattokki": "gumbo",
+    "nobiin": "gama",
+    "raw": "axe gumbo gama"
+  },
+  {
+    "english": "baby",
+    "mattokki": "uffi,bitan",
+    "nobiin": "ussur,bitan (child)",
+    "raw": "baby uffi,bitan ussur,bitan (child)"
+  },
+  {
+    "english": "back",
+    "mattokki": "ger\"",
+    "nobiin": "ger",
+    "raw": "back ger\" ger"
+  },
+  {
+    "english": "bad",
+    "mattokki": "gurri",
+    "nobiin": "gurri",
+    "raw": "bad gurri gurri"
+  },
+  {
+    "english": "bald",
+    "mattokki": "toage",
+    "nobiin": "toagned'a",
+    "raw": "bald toage toagned'a"
+  },
+  {
+    "english": "ban",
+    "mattokki": "doubba",
+    "nobiin": "doubba",
+    "raw": "ban doubba doubba"
+  },
+  {
+    "english": "bans",
+    "mattokki": "doubbi",
+    "nobiin": "doubin",
+    "raw": "bans doubbi doubin"
+  },
+  {
+    "english": "banish",
+    "mattokki": "tou'rr",
+    "nobiin": "tou'rr",
+    "raw": "banish tou'rr tou'rr"
+  },
+  {
+    "english": "banished",
+    "mattokki": "tou'rrsou",
+    "nobiin": "tou'rron",
+    "raw": "banished tou'rrsou tou'rron"
+  },
+  {
+    "english": "bank",
+    "mattokki": "bas,aab",
+    "nobiin": "abol",
+    "raw": "bank bas,aab abol"
+  },
+  {
+    "english": "bare",
+    "mattokki": "face",
+    "nobiin": "kogne-sow,koisow koganesama",
+    "raw": "bare face kogne-sow,koisow koganesama"
+  },
+  {
+    "english": "bare",
+    "mattokki": "foot",
+    "nobiin": "ossi-sood oy sood",
+    "raw": "bare foot ossi-sood oy sood"
+  },
+  {
+    "english": "bark",
+    "mattokki": "wok,mok",
+    "nobiin": "wok (dog's bark)",
+    "raw": "bark wok,mok wok (dog's bark)"
+  },
+  {
+    "english": "bark",
+    "mattokki": "attge'i",
+    "nobiin": "attge'i (tree bark)",
+    "raw": "bark attge'i  attge'i (tree bark)"
+  },
+  {
+    "english": "barly",
+    "mattokki": "serin",
+    "nobiin": "sering",
+    "raw": "barly serin sering"
+  },
+  {
+    "english": "barren",
+    "mattokki": "meer",
+    "nobiin": "meer",
+    "raw": "barren meer meer"
+  },
+  {
+    "english": "bashful",
+    "mattokki": "sowur",
+    "nobiin": "sumige'ori",
+    "raw": "bashful sowur sumige'ori"
+  },
+  {
+    "english": "bathe",
+    "mattokki": "bow",
+    "nobiin": "fiss",
+    "raw": "bathe bow fiss"
+  },
+  {
+    "english": "beach",
+    "mattokki": "aab-togoag",
+    "nobiin": "abol in tuuwo",
+    "raw": "beach aab-togoag abol in tuuwo"
+  },
+  {
+    "english": "bead",
+    "mattokki": "artge'i",
+    "nobiin": "ge'itti",
+    "raw": "bead artge'i ge'itti"
+  },
+  {
+    "english": "beard",
+    "mattokki": "sameh",
+    "nobiin": "sameh",
+    "raw": "beard sameh sameh"
+  },
+  {
+    "english": "beat",
+    "mattokki": "ge'om",
+    "nobiin": "aushir (hit)",
+    "raw": "beat ge'om aushir (hit)"
+  },
+  {
+    "english": "beatle",
+    "mattokki": "kookinne",
+    "nobiin": "foode",
+    "raw": "beatle kookinne foode"
+  },
+  {
+    "english": "beautiful",
+    "mattokki": "tonge'il",
+    "nobiin": "ushri",
+    "raw": "beautiful tonge'il ushri"
+  },
+  {
+    "english": "beautify",
+    "mattokki": "tonge'ilgir",
+    "nobiin": "ushrikir",
+    "raw": "beautify tonge'ilgir ushrikir"
+  },
+  {
+    "english": "beauty",
+    "mattokki": "tonge'ilged",
+    "nobiin": "ushrikki",
+    "raw": "beauty tonge'ilged ushrikki"
+  },
+  {
+    "english": "became",
+    "mattokki": "noasou",
+    "nobiin": "ngoason",
+    "raw": "became noasou ngoason"
+  },
+  {
+    "english": "become",
+    "mattokki": "un",
+    "nobiin": "ung",
+    "raw": "become un ung"
+  },
+  {
+    "english": "bed",
+    "mattokki": "ungre",
+    "nobiin": "ungre",
+    "raw": "bed ungre ungre"
+  },
+  {
+    "english": "before",
+    "mattokki": "ogollo",
+    "nobiin": "orrugiddo",
+    "raw": "before ogollo orrugiddo"
+  },
+  {
+    "english": "beg",
+    "mattokki": "bed,bend",
+    "nobiin": "fed",
+    "raw": "beg bed,bend fed"
+  },
+  {
+    "english": "begin",
+    "mattokki": "ugur",
+    "nobiin": "ougir",
+    "raw": "begin ugur ougir"
+  },
+  {
+    "english": "beguile",
+    "mattokki": "doashkir",
+    "nobiin": "doashkir",
+    "raw": "beguile doashkir doashkir"
+  },
+  {
+    "english": "behind",
+    "mattokki": "ger-ni",
+    "nobiin": "ger rog-log",
+    "raw": "behind ger-ni ger rog-log"
+  },
+  {
+    "english": "blech",
+    "mattokki": "aish",
+    "nobiin": "aish, gaish (burp)",
+    "raw": "blech aish aish, gaish (burp)"
+  },
+  {
+    "english": "belly",
+    "mattokki": "too",
+    "nobiin": "too",
+    "raw": "belly too too"
+  },
+  {
+    "english": "belt",
+    "mattokki": "amage'ur",
+    "nobiin": "mergur",
+    "raw": "belt amage'ur mergur"
+  },
+  {
+    "english": "bend",
+    "mattokki": "oub,sourogne",
+    "nobiin": "golobe-oub",
+    "raw": "bend oub,sourogne golobe-oub"
+  },
+  {
+    "english": "bent",
+    "mattokki": "beri,arri",
+    "nobiin": "filli",
+    "raw": "bent beri,arri filli"
+  },
+  {
+    "english": "berth",
+    "mattokki": "mishra",
+    "nobiin": "mishra (water port)",
+    "raw": "berth mishra mishra (water port)"
+  },
+  {
+    "english": "better",
+    "mattokki": "g'en",
+    "nobiin": "g'en",
+    "raw": "better g'en g'en"
+  },
+  {
+    "english": "big",
+    "mattokki": "dool",
+    "nobiin": "duwwoo",
+    "raw": "big dool duwwoo"
+  },
+  {
+    "english": "bird",
+    "mattokki": "kawirti",
+    "nobiin": "kawurti",
+    "raw": "bird kawirti kawurti"
+  },
+  {
+    "english": "birth",
+    "mattokki": "ouskur",
+    "nobiin": "ounneed",
+    "raw": "birth ouskur ounneed"
+  },
+  {
+    "english": "bite",
+    "mattokki": "utge",
+    "nobiin": "utge",
+    "raw": "bite utge utge"
+  },
+  {
+    "english": "bitter",
+    "mattokki": "nuddi",
+    "nobiin": "nurri",
+    "raw": "bitter nuddi nurri"
+  },
+  {
+    "english": "black",
+    "mattokki": "ouroumme'",
+    "nobiin": "ouroum",
+    "raw": "black ouroumme' ouroum"
+  },
+  {
+    "english": "blacksmith",
+    "mattokki": "tabid",
+    "nobiin": "tabid",
+    "raw": "blacksmith tabid tabid"
+  },
+  {
+    "english": "bladder",
+    "mattokki": "belti",
+    "nobiin": "doukkir",
+    "raw": "bladder belti doukkir"
+  },
+  {
+    "english": "blame",
+    "mattokki": "goagne,gog",
+    "nobiin": "goagne",
+    "raw": "blame goagne,gog goagne"
+  },
+  {
+    "english": "blanket",
+    "mattokki": "migid",
+    "nobiin": "koubid",
+    "raw": "blanket migid koubid"
+  },
+  {
+    "english": "blaze",
+    "mattokki": "tou'rk",
+    "nobiin": "tou'rk",
+    "raw": "blaze tou'rk tou'rk"
+  },
+  {
+    "english": "bleat",
+    "mattokki": "maing",
+    "nobiin": "maing",
+    "raw": "bleat maing maing"
+  },
+  {
+    "english": "bleet",
+    "mattokki": "wud",
+    "nobiin": "kud",
+    "raw": "bleet wud kud"
+  },
+  {
+    "english": "bless",
+    "mattokki": "digreekirre",
+    "nobiin": "dell",
+    "raw": "bless digreekirre dell"
+  },
+  {
+    "english": "blessed",
+    "mattokki": "digreekirsou",
+    "nobiin": "dellon",
+    "raw": "blessed digreekirsou dellon"
+  },
+  {
+    "english": "blind",
+    "mattokki": "dogor,dongor",
+    "nobiin": "doungi",
+    "raw": "blind dogor,dongor doungi"
+  },
+  {
+    "english": "blink",
+    "mattokki": "nebed",
+    "nobiin": "nebed",
+    "raw": "blink nebed nebed"
+  },
+  {
+    "english": "blinking",
+    "mattokki": "anebedi",
+    "nobiin": "anebedin",
+    "raw": "blinking anebedi anebedin"
+  },
+  {
+    "english": "bloater",
+    "mattokki": "turkeen",
+    "nobiin": "turkeegne",
+    "raw": "bloater turkeen turkeegne"
+  },
+  {
+    "english": "blood",
+    "mattokki": "gew",
+    "nobiin": "dees",
+    "raw": "blood gew dees"
+  },
+  {
+    "english": "bluff",
+    "mattokki": "tukker",
+    "nobiin": "tukker",
+    "raw": "bluff tukker tukker"
+  },
+  {
+    "english": "blunt",
+    "mattokki": "dibou",
+    "nobiin": "nab,dia feen",
+    "raw": "blunt dibou nab,dia feen"
+  },
+  {
+    "english": "boat",
+    "mattokki": "koub",
+    "nobiin": "sigir",
+    "raw": "boat koub sigir"
+  },
+  {
+    "english": "boil",
+    "mattokki": "wass",
+    "nobiin": "wull",
+    "raw": "boil wass wull"
+  },
+  {
+    "english": "boiling",
+    "mattokki": "a",
+    "nobiin": "wassi a wullin",
+    "raw": "boiling a wassi a wullin"
+  },
+  {
+    "english": "bone",
+    "mattokki": "keed",
+    "nobiin": "gisir",
+    "raw": "bone keed gisir"
+  },
+  {
+    "english": "book",
+    "mattokki": "show",
+    "nobiin": "show",
+    "raw": "book show show"
+  },
+  {
+    "english": "bore",
+    "mattokki": "orbir",
+    "nobiin": "ouffir",
+    "raw": "bore orbir ouffir"
+  },
+  {
+    "english": "born",
+    "mattokki": "ounnur",
+    "nobiin": "ounnad",
+    "raw": "born ounnur ounnad"
+  },
+  {
+    "english": "bought",
+    "mattokki": "ge'ansou",
+    "nobiin": "ge'anon",
+    "raw": "bought ge'ansou ge'anon"
+  },
+  {
+    "english": "bow",
+    "mattokki": "ungo,ongi",
+    "nobiin": "oob (kneel)",
+    "raw": "bow ungo,ongi oob (kneel)"
+  },
+  {
+    "english": "bow",
+    "mattokki": "baw",
+    "nobiin": "baw (bow and arrow)",
+    "raw": "bow baw baw (bow and arrow)"
+  },
+  {
+    "english": "boy",
+    "mattokki": "toad",
+    "nobiin": "toad",
+    "raw": "boy toad toad"
+  },
+  {
+    "english": "braid",
+    "mattokki": "awitge",
+    "nobiin": "nit",
+    "raw": "braid awitge nit"
+  },
+  {
+    "english": "brain",
+    "mattokki": "irig",
+    "nobiin": "oune",
+    "raw": "brain irig oune"
+  },
+  {
+    "english": "branch",
+    "mattokki": "gulli,awir",
+    "nobiin": "gulli",
+    "raw": "branch gulli,awir gulli"
+  },
+  {
+    "english": "brand",
+    "mattokki": "kineed",
+    "nobiin": "kurgne'eed",
+    "raw": "brand kineed kurgne'eed"
+  },
+  {
+    "english": "brave",
+    "mattokki": "ogge'i",
+    "nobiin": "ogge'i",
+    "raw": "brave ogge'i ogge'i"
+  },
+  {
+    "english": "bravery",
+    "mattokki": "ogge'iekki",
+    "nobiin": "ogge'ikki",
+    "raw": "bravery ogge'iekki ogge'ikki"
+  },
+  {
+    "english": "break",
+    "mattokki": "toag,toub",
+    "nobiin": "korge'ir",
+    "raw": "break toag,toub korge'ir"
+  },
+  {
+    "english": "breakfast",
+    "mattokki": "uginge'okked",
+    "nobiin": "uginge'okke-ddi",
+    "raw": "breakfast uginge'okked uginge'okke-ddi"
+  },
+  {
+    "english": "breast",
+    "mattokki": "erti",
+    "nobiin": "dougoussi",
+    "raw": "breast erti dougoussi"
+  },
+  {
+    "english": "breathes",
+    "mattokki": "toudoki",
+    "nobiin": "saiwin",
+    "raw": "breathes toudoki saiwin"
+  },
+  {
+    "english": "bride",
+    "mattokki": "erkene-koal",
+    "nobiin": "nogodo (also bridegroom)",
+    "raw": "bride erkene-koal nogodo (also bridegroom)"
+  },
+  {
+    "english": "bring",
+    "mattokki": "utta",
+    "nobiin": "ettar,ekkir",
+    "raw": "bring utta ettar,ekkir"
+  },
+  {
+    "english": "brittle",
+    "mattokki": "norush",
+    "nobiin": "narush",
+    "raw": "brittle norush narush"
+  },
+  {
+    "english": "brook",
+    "mattokki": "multi",
+    "nobiin": "murti",
+    "raw": "brook multi murti"
+  },
+  {
+    "english": "broom",
+    "mattokki": "kulledi",
+    "nobiin": "kulledi,kossir",
+    "raw": "broom kulledi kulledi,kossir"
+  },
+  {
+    "english": "brother",
+    "mattokki": "bess",
+    "nobiin": "enga",
+    "raw": "brother bess enga"
+  },
+  {
+    "english": "brought",
+    "mattokki": "utlasou",
+    "nobiin": "ettaron,ekkiron",
+    "raw": "brought utlasou ettaron,ekkiron"
+  },
+  {
+    "english": "bubble",
+    "mattokki": "goumbod",
+    "nobiin": "goumbid",
+    "raw": "bubble goumbod goumbid"
+  },
+  {
+    "english": "bud",
+    "mattokki": "goussi",
+    "nobiin": "goussi",
+    "raw": "bud goussi goussi"
+  },
+  {
+    "english": "build",
+    "mattokki": "gow,gonge",
+    "nobiin": "gonge",
+    "raw": "build gow,gonge gonge"
+  },
+  {
+    "english": "building",
+    "mattokki": "gowir,gonge'ir",
+    "nobiin": "gonge'ur",
+    "raw": "building gowir,gonge'ir gonge'ur"
+  },
+  {
+    "english": "bull",
+    "mattokki": "gor-ondi",
+    "nobiin": "gor-ondi (ox)",
+    "raw": "bull gor-ondi gor-ondi (ox)"
+  },
+  {
+    "english": "bundle",
+    "mattokki": "gutti,warti",
+    "nobiin": "warti",
+    "raw": "bundle gutti,warti warti"
+  },
+  {
+    "english": "burial",
+    "mattokki": "kougne'ur",
+    "nobiin": "kougne'eed",
+    "raw": "burial kougne'ur kougne'eed"
+  },
+  {
+    "english": "burn",
+    "mattokki": "ge'ougir",
+    "nobiin": "ge'ougir",
+    "raw": "burn ge'ougir ge'ougir"
+  },
+  {
+    "english": "burns",
+    "mattokki": "ge'ougiri",
+    "nobiin": "ge'ougain",
+    "raw": "burns ge'ougiri ge'ougain"
+  },
+  {
+    "english": "burned",
+    "mattokki": "ge'ougirsou",
+    "nobiin": "ge'ougiron",
+    "raw": "burned ge'ougirsou ge'ougiron"
+  },
+  {
+    "english": "burst",
+    "mattokki": "bukkoas",
+    "nobiin": "fukkoas",
+    "raw": "burst bukkoas fukkoas"
+  },
+  {
+    "english": "bury",
+    "mattokki": "kougne'ir",
+    "nobiin": "kougne'ir",
+    "raw": "bury kougne'ir kougne'ir"
+  },
+  {
+    "english": "butcher",
+    "mattokki": "goge'i",
+    "nobiin": "goge'i",
+    "raw": "butcher goge'i goge'i"
+  },
+  {
+    "english": "butter",
+    "mattokki": "deskur",
+    "nobiin": "frou",
+    "raw": "butter deskur frou"
+  },
+  {
+    "english": "buy",
+    "mattokki": "ge'an",
+    "nobiin": "ge'an",
+    "raw": "buy ge'an ge'an"
+  },
+  {
+    "english": "calf",
+    "mattokki": "gor,",
+    "nobiin": "wal gor",
+    "raw": "calf gor, wal gor"
+  },
+  {
+    "english": "call",
+    "mattokki": "ow",
+    "nobiin": "tatge",
+    "raw": "call ow tatge"
+  },
+  {
+    "english": "came",
+    "mattokki": "tassou",
+    "nobiin": "taron",
+    "raw": "came tassou taron"
+  },
+  {
+    "english": "camel",
+    "mattokki": "come",
+    "nobiin": "come",
+    "raw": "camel come come"
+  },
+  {
+    "english": "canisrcr",
+    "mattokki": "n/a",
+    "nobiin": "age'ol",
+    "raw": "canisrcr n/a age'ol"
+  },
+  {
+    "english": "carry",
+    "mattokki": "inge-kaugeour",
+    "nobiin": "enn-okir",
+    "raw": "carry inge-kaugeour enn-okir"
+  },
+  {
+    "english": "cat",
+    "mattokki": "sab",
+    "nobiin": "kadees",
+    "raw": "cat sab kadees"
+  },
+  {
+    "english": "catch",
+    "mattokki": "doum",
+    "nobiin": "dou'm",
+    "raw": "catch doum dou'm"
+  },
+  {
+    "english": "cave",
+    "mattokki": "gaif",
+    "nobiin": "gaif",
+    "raw": "cave gaif gaif"
+  },
+  {
+    "english": "ceiling",
+    "mattokki": "noki",
+    "nobiin": "dumbi",
+    "raw": "ceiling noki dumbi"
+  },
+  {
+    "english": "censer",
+    "mattokki": "kurweddi",
+    "nobiin": "gou'fad",
+    "raw": "censer kurweddi gou'fad"
+  },
+  {
+    "english": "center",
+    "mattokki": "selle",
+    "nobiin": "gusko",
+    "raw": "center selle gusko"
+  },
+  {
+    "english": "cereal",
+    "mattokki": "eew",
+    "nobiin": "eew",
+    "raw": "cereal eew eew"
+  },
+  {
+    "english": "chamelion",
+    "mattokki": "noage,nogondesse",
+    "nobiin": "dome",
+    "raw": "chamelion noage,nogondesse dome"
+  },
+  {
+    "english": "chap",
+    "mattokki": "n/a",
+    "nobiin": "uyeg",
+    "raw": "chap  n/a uyeg"
+  },
+  {
+    "english": "charge",
+    "mattokki": "n/a",
+    "nobiin": "umd",
+    "raw": "charge n/a umd"
+  },
+  {
+    "english": "chatter",
+    "mattokki": "n/a",
+    "nobiin": "forri",
+    "raw": "chatter n/a forri"
+  },
+  {
+    "english": "check",
+    "mattokki": "hed",
+    "nobiin": "hed,geel",
+    "raw": "check hed  hed,geel"
+  },
+  {
+    "english": "cheek",
+    "mattokki": "gee'akom",
+    "nobiin": "gecakom",
+    "raw": "cheek gee'akom gecakom"
+  },
+  {
+    "english": "chest",
+    "mattokki": "og",
+    "nobiin": "og",
+    "raw": "chest og og"
+  },
+  {
+    "english": "chew",
+    "mattokki": "ge'ok",
+    "nobiin": "gee'ok",
+    "raw": "chew ge'ok gee'ok"
+  },
+  {
+    "english": "childhood",
+    "mattokki": "uffi-nere",
+    "nobiin": "usurki",
+    "raw": "childhood uffi-nere usurki"
+  },
+  {
+    "english": "chill",
+    "mattokki": "kerkair",
+    "nobiin": "kerkair",
+    "raw": "chill kerkair kerkair"
+  },
+  {
+    "english": "cberp",
+    "mattokki": "shigshig",
+    "nobiin": "ge'igge'i",
+    "raw": "cberp shigshig ge'igge'i"
+  },
+  {
+    "english": "choose",
+    "mattokki": "bur",
+    "nobiin": "fur",
+    "raw": "choose bur fur"
+  },
+  {
+    "english": "chose",
+    "mattokki": "bursou",
+    "nobiin": "furon",
+    "raw": "chose bursou furon"
+  },
+  {
+    "english": "cheern",
+    "mattokki": "mokk,ge'ug",
+    "nobiin": "kourwie",
+    "raw": "cheern mokk,ge'ug kourwie"
+  },
+  {
+    "english": "churns",
+    "mattokki": "moki,ge'ugi",
+    "nobiin": "kourwin",
+    "raw": "churns moki,ge'ugi kourwin"
+  },
+  {
+    "english": "churned",
+    "mattokki": "mokbou,ge'ug",
+    "nobiin": "kourwa feen",
+    "raw": "churned mokbou,ge'ug kourwa feen"
+  },
+  {
+    "english": "circle",
+    "mattokki": "awilli",
+    "nobiin": "gritti",
+    "raw": "circle awilli gritti"
+  },
+  {
+    "english": "clang",
+    "mattokki": "cling",
+    "nobiin": "cling",
+    "raw": "clang cling cling"
+  },
+  {
+    "english": "clap",
+    "mattokki": "alli-gi-geom",
+    "nobiin": "alli-gi-aushir",
+    "raw": "clap alli-gi-geom  alli-gi-aushir"
+  },
+  {
+    "english": "cleft",
+    "mattokki": "tour",
+    "nobiin": "wagne",
+    "raw": "cleft tour wagne"
+  },
+  {
+    "english": "climb",
+    "mattokki": "durr",
+    "nobiin": "kurtugne,dur",
+    "raw": "climb durr  kurtugne,dur"
+  },
+  {
+    "english": "clip",
+    "mattokki": "cosor",
+    "nobiin": "kek",
+    "raw": "clip cosor kek"
+  },
+  {
+    "english": "clitoris",
+    "mattokki": "fasa",
+    "nobiin": "koumeette",
+    "raw": "clitoris fasa koumeette"
+  },
+  {
+    "english": "close",
+    "mattokki": "kob",
+    "nobiin": "kof",
+    "raw": "close kob kof"
+  },
+  {
+    "english": "closed",
+    "mattokki": "kob-bou",
+    "nobiin": "kof-a-feen",
+    "raw": "closed kob-bou kof-a-feen"
+  },
+  {
+    "english": "clothes",
+    "mattokki": "kade",
+    "nobiin": "kitti",
+    "raw": "clothes kade kitti"
+  },
+  {
+    "english": "clover",
+    "mattokki": "n/a",
+    "nobiin": "kittch",
+    "raw": "clover n/a kittch"
+  },
+  {
+    "english": "coal",
+    "mattokki": "ouloud",
+    "nobiin": "girgeed",
+    "raw": "coal ouloud girgeed"
+  },
+  {
+    "english": "coarse",
+    "mattokki": "burge",
+    "nobiin": "furge",
+    "raw": "coarse burge furge"
+  },
+  {
+    "english": "cob",
+    "mattokki": "nood",
+    "nobiin": "nood",
+    "raw": "cob nood nood"
+  },
+  {
+    "english": "cock",
+    "mattokki": "durbudondi,koglool",
+    "nobiin": "dirbudondi (rooster)",
+    "raw": "cock durbudondi,koglool dirbudondi (rooster)"
+  },
+  {
+    "english": "cold",
+    "mattokki": "od",
+    "nobiin": "orom (weather is cold)",
+    "raw": "cold od orom (weather is cold)"
+  },
+  {
+    "english": "cold",
+    "mattokki": "orokel",
+    "nobiin": "orki (object is cold)",
+    "raw": "cold orokel orki (object is cold)"
+  },
+  {
+    "english": "collect",
+    "mattokki": "dett",
+    "nobiin": "dett (one by one)",
+    "raw": "collect dett dett (one by one)"
+  },
+  {
+    "english": "collect",
+    "mattokki": "kaw",
+    "nobiin": "kaw (with both hands)",
+    "raw": "collect kaw kaw (with both hands)"
+  },
+  {
+    "english": "comb",
+    "mattokki": "faisir",
+    "nobiin": "baisir",
+    "raw": "comb faisir baisir"
+  },
+  {
+    "english": "come",
+    "mattokki": "ta",
+    "nobiin": "kir,ta (come here)",
+    "raw": "come ta kir,ta (come here)"
+  },
+  {
+    "english": "coming",
+    "mattokki": "tul",
+    "nobiin": "bou fala feen",
+    "raw": "coming tul bou fala feen"
+  },
+  {
+    "english": "comon",
+    "mattokki": "koaldima",
+    "nobiin": "koama",
+    "raw": "comon koaldima koama"
+  },
+  {
+    "english": "condiment",
+    "mattokki": "ge'ukood",
+    "nobiin": "ittir",
+    "raw": "condiment ge'ukood ittir"
+  },
+  {
+    "english": "confused",
+    "mattokki": "n/a",
+    "nobiin": "casha-feen",
+    "raw": "confused n/a casha-feen"
+  },
+  {
+    "english": "console",
+    "mattokki": "tubbur,beddur",
+    "nobiin": "tuffur.feddur",
+    "raw": "console tubbur,beddur tuffur.feddur"
+  },
+  {
+    "english": "core",
+    "mattokki": "gol",
+    "nobiin": "gol",
+    "raw": "core gol gol"
+  },
+  {
+    "english": "corner",
+    "mattokki": "keen",
+    "nobiin": "horongi",
+    "raw": "corner keen horongi"
+  },
+  {
+    "english": "costs",
+    "mattokki": "kotti,kobi",
+    "nobiin": "koffin,kella",
+    "raw": "costs kotti,kobi koffin,kella"
+  },
+  {
+    "english": "cotton",
+    "mattokki": "bennawutti",
+    "nobiin": "koshma,g",
+    "raw": "cotton bennawutti koshma,g"
+  },
+  {
+    "english": "count",
+    "mattokki": "eer",
+    "nobiin": "oamir",
+    "raw": "count eer oamir"
+  },
+  {
+    "english": "country",
+    "mattokki": "eshuy",
+    "nobiin": "irki",
+    "raw": "country eshuy irki"
+  },
+  {
+    "english": "cover",
+    "mattokki": "tagir",
+    "nobiin": "tigir",
+    "raw": "cover tagir tigir"
+  },
+  {
+    "english": "covers",
+    "mattokki": "tagri",
+    "nobiin": "tigain",
+    "raw": "covers tagri tigain"
+  },
+  {
+    "english": "cow",
+    "mattokki": "tee",
+    "nobiin": "tee",
+    "raw": "cow tee tee"
+  },
+  {
+    "english": "coward",
+    "mattokki": "migil",
+    "nobiin": "ge'agur",
+    "raw": "coward migil ge'agur"
+  },
+  {
+    "english": "crack",
+    "mattokki": "guk",
+    "nobiin": "guk",
+    "raw": "crack guk guk"
+  },
+  {
+    "english": "cracked",
+    "mattokki": "guksou",
+    "nobiin": "gukon",
+    "raw": "cracked guksou gukon"
+  },
+  {
+    "english": "cradle",
+    "mattokki": "waid",
+    "nobiin": "waid",
+    "raw": "cradle waid waid"
+  },
+  {
+    "english": "craw",
+    "mattokki": "goam",
+    "nobiin": "goam",
+    "raw": "craw goam goam"
+  },
+  {
+    "english": "cream",
+    "mattokki": "nebed",
+    "nobiin": "ishingi",
+    "raw": "cream nebed ishingi"
+  },
+  {
+    "english": "cressent",
+    "mattokki": "oon",
+    "nobiin": "oon",
+    "raw": "cressent oon oon"
+  },
+  {
+    "english": "crisp",
+    "mattokki": "dousha",
+    "nobiin": "dousha",
+    "raw": "crisp dousha dousha"
+  },
+  {
+    "english": "crocodile",
+    "mattokki": "elom",
+    "nobiin": "ouloum",
+    "raw": "crocodile elom ouloum"
+  },
+  {
+    "english": "crow",
+    "mattokki": "koag",
+    "nobiin": "koag",
+    "raw": "crow koag koag"
+  },
+  {
+    "english": "crush",
+    "mattokki": "boos,gar",
+    "nobiin": "foos",
+    "raw": "crush boos,gar foos"
+  },
+  {
+    "english": "cry",
+    "mattokki": "weeg",
+    "nobiin": "weeg",
+    "raw": "cry weeg weeg"
+  },
+  {
+    "english": "cud",
+    "mattokki": "armikud,emgikud",
+    "nobiin": "ugmidta,kud",
+    "raw": "cud armikud,emgikud ugmidta,kud"
+  },
+  {
+    "english": "cuddle",
+    "mattokki": "oggar",
+    "nobiin": "kundagar",
+    "raw": "cuddle oggar kundagar"
+  },
+  {
+    "english": "cull",
+    "mattokki": "nod",
+    "nobiin": "dik",
+    "raw": "cull nod dik"
+  },
+  {
+    "english": "cultivate",
+    "mattokki": "ewir",
+    "nobiin": "ewir",
+    "raw": "cultivate ewir ewir"
+  },
+  {
+    "english": "cultivation",
+    "mattokki": "ewirti",
+    "nobiin": "ewirti",
+    "raw": "cultivation ewirti ewirti"
+  },
+  {
+    "english": "curd",
+    "mattokki": "kreet,masad",
+    "nobiin": "kreet",
+    "raw": "curd kreet,masad kreet"
+  },
+  {
+    "english": "cure",
+    "mattokki": "g'engir",
+    "nobiin": "wey'yikir",
+    "raw": "cure g'engir wey'yikir"
+  },
+  {
+    "english": "cured",
+    "mattokki": "g'engirsou",
+    "nobiin": "wey'yikiron",
+    "raw": "cured g'engirsou wey'yikiron"
+  },
+  {
+    "english": "current",
+    "mattokki": "n/a",
+    "nobiin": "terewe",
+    "raw": "current n/a terewe"
+  },
+  {
+    "english": "curse",
+    "mattokki": "toos",
+    "nobiin": "toos",
+    "raw": "curse toos toos"
+  },
+  {
+    "english": "curtain",
+    "mattokki": "koogera",
+    "nobiin": "kalid",
+    "raw": "curtain koogera kalid"
+  },
+  {
+    "english": "cushion",
+    "mattokki": "ge'gid",
+    "nobiin": "geegir",
+    "raw": "cushion ge'gid geegir"
+  },
+  {
+    "english": "cut",
+    "mattokki": "mer",
+    "nobiin": "mer",
+    "raw": "cut mer mer"
+  },
+  {
+    "english": "cut",
+    "mattokki": "seergi",
+    "nobiin": "cosor seerka kerb (cut hair)",
+    "raw": "cut seergi cosor seerka kerb (cut hair)"
+  },
+  {
+    "english": "dale",
+    "mattokki": "ge'air",
+    "nobiin": "furkin",
+    "raw": "dale ge'air furkin"
+  },
+  {
+    "english": "damn",
+    "mattokki": "dib",
+    "nobiin": "doubb",
+    "raw": "damn dib doubb"
+  },
+  {
+    "english": "damp",
+    "mattokki": "ge'awir",
+    "nobiin": "ge'awa",
+    "raw": "damp ge'awir ge'awa"
+  },
+  {
+    "english": "damsel",
+    "mattokki": "feta,beyye'-koal",
+    "nobiin": "fite",
+    "raw": "damsel feta,beyye'-koal fite"
+  },
+  {
+    "english": "dance",
+    "mattokki": "ban-bat",
+    "nobiin": "arug",
+    "raw": "dance ban-bat arug"
+  },
+  {
+    "english": "dance",
+    "mattokki": "banur,batur",
+    "nobiin": "arugeed",
+    "raw": "dance banur,batur arugeed"
+  },
+  {
+    "english": "dark",
+    "mattokki": "girdoab,gougsh",
+    "nobiin": "dagash",
+    "raw": "dark girdoab,gougsh dagash"
+  },
+  {
+    "english": "date",
+    "mattokki": "betti",
+    "nobiin": "fenti",
+    "raw": "date betti fenti"
+  },
+  {
+    "english": "daughter",
+    "mattokki": "gullo,bourou",
+    "nobiin": "uss",
+    "raw": "daughter gullo,bourou uss"
+  },
+  {
+    "english": "dawn",
+    "mattokki": "masil,belti",
+    "nobiin": "mashun,fulti",
+    "raw": "dawn masil,belti mashun,fulti"
+  },
+  {
+    "english": "day",
+    "mattokki": "ougrais",
+    "nobiin": "ougrais",
+    "raw": "day ougrais ougrais"
+  },
+  {
+    "english": "today",
+    "mattokki": "alongo,inowi",
+    "nobiin": "eli",
+    "raw": "today alongo,inowi eli"
+  },
+  {
+    "english": "yesterday",
+    "mattokki": "weel",
+    "nobiin": "weel",
+    "raw": "yesterday weel weel"
+  },
+  {
+    "english": "deaf",
+    "mattokki": "terig",
+    "nobiin": "naig",
+    "raw": "deaf terig naig"
+  },
+  {
+    "english": "dead",
+    "mattokki": "dibou",
+    "nobiin": "dia-feen",
+    "raw": "dead dibou dia-feen"
+  },
+  {
+    "english": "death",
+    "mattokki": "diyur",
+    "nobiin": "diya,diyur",
+    "raw": "death diyur diya,diyur"
+  },
+  {
+    "english": "dear",
+    "mattokki": "toad",
+    "nobiin": "toad",
+    "raw": "dear toad toad"
+  },
+  {
+    "english": "decorate",
+    "mattokki": "alle,say",
+    "nobiin": "say,shee",
+    "raw": "decorate alle,say say,shee"
+  },
+  {
+    "english": "decrease",
+    "mattokki": "meer",
+    "nobiin": "mur'o",
+    "raw": "decrease meer mur'o"
+  },
+  {
+    "english": "deep",
+    "mattokki": "dolli",
+    "nobiin": "dolla",
+    "raw": "deep dolli dolla"
+  },
+  {
+    "english": "deer",
+    "mattokki": "gail",
+    "nobiin": "kitge'ud",
+    "raw": "deer gail kitge'ud"
+  },
+  {
+    "english": "deflower",
+    "mattokki": "aingir",
+    "nobiin": "idain-a-kir",
+    "raw": "deflower aingir idain-a-kir"
+  },
+  {
+    "english": "demolish",
+    "mattokki": "will",
+    "nobiin": "will",
+    "raw": "demolish will will"
+  },
+  {
+    "english": "den",
+    "mattokki": "orbor",
+    "nobiin": "ouffi",
+    "raw": "den orbor ouffi"
+  },
+  {
+    "english": "deny",
+    "mattokki": "goob",
+    "nobiin": "goob",
+    "raw": "deny goob goob"
+  },
+  {
+    "english": "denial",
+    "mattokki": "goobur",
+    "nobiin": "goobeed",
+    "raw": "denial goobur goobeed"
+  },
+  {
+    "english": "depart",
+    "mattokki": "nog",
+    "nobiin": "nog",
+    "raw": "depart nog nog"
+  },
+  {
+    "english": "departed",
+    "mattokki": "nogsou",
+    "nobiin": "nogon",
+    "raw": "departed nogsou nogon"
+  },
+  {
+    "english": "departure",
+    "mattokki": "nogur",
+    "nobiin": "nogeed",
+    "raw": "departure nogur nogeed"
+  },
+  {
+    "english": "descend",
+    "mattokki": "shougour",
+    "nobiin": "souk",
+    "raw": "descend  shougour souk"
+  },
+  {
+    "english": "desert",
+    "mattokki": "naye",
+    "nobiin": "nutge'i",
+    "raw": "desert naye nutge'i"
+  },
+  {
+    "english": "deserted",
+    "mattokki": "agoodbo",
+    "nobiin": "adooda-feen",
+    "raw": "deserted agoodbo adooda-feen"
+  },
+  {
+    "english": "destory",
+    "mattokki": "borkin",
+    "nobiin": "troabkir",
+    "raw": "destory borkin troabkir"
+  },
+  {
+    "english": "deviate",
+    "mattokki": "shoat",
+    "nobiin": "shoort",
+    "raw": "deviate shoat shoort"
+  },
+  {
+    "english": "diarrhea",
+    "mattokki": "seege'ur",
+    "nobiin": "seetgead",
+    "raw": "diarrhea seege'ur seetgead"
+  },
+  {
+    "english": "did",
+    "mattokki": "awsou",
+    "nobiin": "awon",
+    "raw": "did awsou awon"
+  },
+  {
+    "english": "died",
+    "mattokki": "disou",
+    "nobiin": "diyon",
+    "raw": "died disou diyon"
+  },
+  {
+    "english": "difficult",
+    "mattokki": "gasi",
+    "nobiin": "gasi",
+    "raw": "difficult gasi gasi"
+  },
+  {
+    "english": "dig",
+    "mattokki": "goal,but",
+    "nobiin": "find,but,wund",
+    "raw": "dig goal,but find,but,wund"
+  },
+  {
+    "english": "dirty",
+    "mattokki": "seek",
+    "nobiin": "ireed",
+    "raw": "dirty seek ireed"
+  },
+  {
+    "english": "dissappear",
+    "mattokki": "bok",
+    "nobiin": "naf",
+    "raw": "dissappear bok naf"
+  },
+  {
+    "english": "disappearance",
+    "mattokki": "bokur",
+    "nobiin": "nafeed",
+    "raw": "disappearance bokur nafeed"
+  },
+  {
+    "english": "disgust",
+    "mattokki": "seek",
+    "nobiin": "seed",
+    "raw": "disgust seek seed"
+  },
+  {
+    "english": "dissolve",
+    "mattokki": "irg",
+    "nobiin": "irg",
+    "raw": "dissolve irg irg"
+  },
+  {
+    "english": "dispute",
+    "mattokki": "arro,hurb",
+    "nobiin": "hurb",
+    "raw": "dispute arro,hurb hurb"
+  },
+  {
+    "english": "dive",
+    "mattokki": "ge'ag",
+    "nobiin": "ge'ug",
+    "raw": "dive ge'ag ge'ug"
+  },
+  {
+    "english": "divide",
+    "mattokki": "bug",
+    "nobiin": "fug",
+    "raw": "divide bug fug"
+  },
+  {
+    "english": "division",
+    "mattokki": "bugur",
+    "nobiin": "fugeed",
+    "raw": "division bugur fugeed"
+  },
+  {
+    "english": "divorce",
+    "mattokki": "bage",
+    "nobiin": "fage,bay",
+    "raw": "divorce bage fage,bay"
+  },
+  {
+    "english": "do",
+    "mattokki": "aw",
+    "nobiin": "aw",
+    "raw": "do aw aw"
+  },
+  {
+    "english": "does",
+    "mattokki": "awi",
+    "nobiin": "awin",
+    "raw": "does awi awin"
+  },
+  {
+    "english": "dog",
+    "mattokki": "well",
+    "nobiin": "mou'g",
+    "raw": "dog well mou'g"
+  },
+  {
+    "english": "donkey",
+    "mattokki": "hanou",
+    "nobiin": "kuge \\",
+    "raw": "donkey hanou kuge \\"
+  },
+  {
+    "english": "doll",
+    "mattokki": "age-nbourou",
+    "nobiin": "kuge",
+    "raw": "doll age-nbourou kuge"
+  },
+  {
+    "english": "dough",
+    "mattokki": "kuliss',isse",
+    "nobiin": "isse",
+    "raw": "dough kuliss',isse isse"
+  },
+  {
+    "english": "dove",
+    "mattokki": "kroo,doge",
+    "nobiin": "doge",
+    "raw": "dove kroo,doge doge"
+  },
+  {
+    "english": "down",
+    "mattokki": "togoag",
+    "nobiin": "tuwwo",
+    "raw": "down togoag tuwwo"
+  },
+  {
+    "english": "dowry",
+    "mattokki": "a'ba",
+    "nobiin": "a'ba",
+    "raw": "dowry a'ba a'ba"
+  },
+  {
+    "english": "doze",
+    "mattokki": "nolge",
+    "nobiin": "noll",
+    "raw": "doze nolge noll"
+  },
+  {
+    "english": "drowsy",
+    "mattokki": "nolge",
+    "nobiin": "noll",
+    "raw": "drowsy nolge noll"
+  },
+  {
+    "english": "drag",
+    "mattokki": "toll",
+    "nobiin": "toll",
+    "raw": "drag toll toll"
+  },
+  {
+    "english": "drank",
+    "mattokki": "nisou",
+    "nobiin": "niyon",
+    "raw": "drank nisou niyon"
+  },
+  {
+    "english": "dose",
+    "mattokki": "goumbe,goumme",
+    "nobiin": "goumbe",
+    "raw": "dose goumbe,goumme goumbe"
+  },
+  {
+    "english": "drawer",
+    "mattokki": "n/a",
+    "nobiin": "sak-eddi",
+    "raw": "drawer n/a sak-eddi"
+  },
+  {
+    "english": "dream",
+    "mattokki": "ootti",
+    "nobiin": "nisur",
+    "raw": "dream ootti nisur"
+  },
+  {
+    "english": "drink",
+    "mattokki": "ni",
+    "nobiin": "ni",
+    "raw": "drink ni ni"
+  },
+  {
+    "english": "drinking",
+    "mattokki": "niyur",
+    "nobiin": "niyur",
+    "raw": "drinking niyur niyur"
+  },
+  {
+    "english": "drive",
+    "mattokki": "hag",
+    "nobiin": "waig",
+    "raw": "drive hag waig"
+  },
+  {
+    "english": "driver",
+    "mattokki": "hagur",
+    "nobiin": "waigi",
+    "raw": "driver hagur waigi"
+  },
+  {
+    "english": "drop",
+    "mattokki": "digir,diff",
+    "nobiin": "nuddikir,tif (drop on the floor)",
+    "raw": "drop digir,diff nuddikir,tif (drop on the floor)"
+  },
+  {
+    "english": "drop",
+    "mattokki": "nuk",
+    "nobiin": "nurk (droplets)",
+    "raw": "drop nuk nurk (droplets)"
+  },
+  {
+    "english": "drop",
+    "mattokki": "nuktoad",
+    "nobiin": "nurke (a single drop)",
+    "raw": "drop nuktoad nurke (a single drop)"
+  },
+  {
+    "english": "drown",
+    "mattokki": "kidd",
+    "nobiin": "kidd",
+    "raw": "drown kidd kidd"
+  },
+  {
+    "english": "drowned",
+    "mattokki": "kidsou",
+    "nobiin": "kiddon",
+    "raw": "drowned kidsou kiddon"
+  },
+  {
+    "english": "drowning",
+    "mattokki": "kiddur",
+    "nobiin": "kiddin",
+    "raw": "drowning kiddur kiddin"
+  },
+  {
+    "english": "drowns",
+    "mattokki": "kiddi",
+    "nobiin": "kiddin",
+    "raw": "drowns kiddi kiddin"
+  },
+  {
+    "english": "dry",
+    "mattokki": "sow",
+    "nobiin": "sama",
+    "raw": "dry sow sama"
+  },
+  {
+    "english": "dry",
+    "mattokki": "souri",
+    "nobiin": "summir (to dry)",
+    "raw": "dry souri summir (to dry)"
+  },
+  {
+    "english": "duck",
+    "mattokki": "dalay",
+    "nobiin": "kalay",
+    "raw": "duck dalay kalay"
+  },
+  {
+    "english": "dumb",
+    "mattokki": "momod",
+    "nobiin": "mou'mour",
+    "raw": "dumb momod mou'mour"
+  },
+  {
+    "english": "dung",
+    "mattokki": "ossi",
+    "nobiin": "ossi (dung of cattle)",
+    "raw": "dung ossi ossi (dung of cattle)"
+  },
+  {
+    "english": "dung",
+    "mattokki": "kurkmn",
+    "nobiin": "kulle (dung of sheep)",
+    "raw": "dung kurkmn kulle (dung of sheep)"
+  },
+  {
+    "english": "dust",
+    "mattokki": "esked",
+    "nobiin": "iskeed",
+    "raw": "dust esked iskeed"
+  },
+  {
+    "english": "dwarf",
+    "mattokki": "ortona",
+    "nobiin": "koodoss",
+    "raw": "dwarf ortona koodoss"
+  },
+  {
+    "english": "dying",
+    "mattokki": "a-di",
+    "nobiin": "a-deen",
+    "raw": "dying a-di a-deen"
+  },
+  {
+    "english": "ear",
+    "mattokki": "ouloug",
+    "nobiin": "oukki",
+    "raw": "ear ouloug oukki"
+  },
+  {
+    "english": "early",
+    "mattokki": "warrur",
+    "nobiin": "warri",
+    "raw": "early warrur warri"
+  },
+  {
+    "english": "earth",
+    "mattokki": "gourr",
+    "nobiin": "gourr",
+    "raw": "earth gourr gourr"
+  },
+  {
+    "english": "east",
+    "mattokki": "multi",
+    "nobiin": "mutto",
+    "raw": "east multi mutto"
+  },
+  {
+    "english": "eastern",
+    "mattokki": "multoneri",
+    "nobiin": "mutto-oki",
+    "raw": "eastern multoneri mutto-oki"
+  },
+  {
+    "english": "eat",
+    "mattokki": "kul",
+    "nobiin": "kub",
+    "raw": "eat kul kub"
+  },
+  {
+    "english": "eatable",
+    "mattokki": "kultuki",
+    "nobiin": "kubtukin",
+    "raw": "eatable kultuki kubtukin"
+  },
+  {
+    "english": "edge",
+    "mattokki": "kotge'i",
+    "nobiin": "meriti,koge'i",
+    "raw": "edge kotge'i meriti,koge'i"
+  },
+  {
+    "english": "educate",
+    "mattokki": "kourkir",
+    "nobiin": "koullikir",
+    "raw": "educate kourkir koullikir"
+  },
+  {
+    "english": "education",
+    "mattokki": "kourur",
+    "nobiin": "koulead",
+    "raw": "education kourur koulead"
+  },
+  {
+    "english": "egg",
+    "mattokki": "gusgutti",
+    "nobiin": "koumbou",
+    "raw": "egg gusgutti koumbou"
+  },
+  {
+    "english": "eight",
+    "mattokki": "idwo",
+    "nobiin": "idwo",
+    "raw": "eight idwo idwo"
+  },
+  {
+    "english": "eighteen",
+    "mattokki": "dimen-d-idwo",
+    "nobiin": "dime-r-oskoda",
+    "raw": "eighteen dimen-d-idwo dime-r-oskoda"
+  },
+  {
+    "english": "eight",
+    "mattokki": "idwitti",
+    "nobiin": "idwitti",
+    "raw": "eight idwitti idwitti"
+  },
+  {
+    "english": "elevate",
+    "mattokki": "kougegir",
+    "nobiin": "kairkir",
+    "raw": "elevate kougegir kairkir"
+  },
+  {
+    "english": "eleven",
+    "mattokki": "dimen-d-wair",
+    "nobiin": "dimewaira",
+    "raw": "eleven dimen-d-wair dimewaira"
+  },
+  {
+    "english": "embrace",
+    "mattokki": "gar",
+    "nobiin": "gar",
+    "raw": "embrace gar gar"
+  },
+  {
+    "english": "emerg",
+    "mattokki": "beloasou",
+    "nobiin": "fuloason",
+    "raw": "emerg beloasou fuloason"
+  },
+  {
+    "english": "empty",
+    "mattokki": "sood",
+    "nobiin": "sood",
+    "raw": "empty sood sood"
+  },
+  {
+    "english": "enclosure",
+    "mattokki": "kar",
+    "nobiin": "kad",
+    "raw": "enclosure kar kad"
+  },
+  {
+    "english": "end",
+    "mattokki": "katge'ikail",
+    "nobiin": "kotge'in-kail",
+    "raw": "end katge'ikail kotge'in-kail"
+  },
+  {
+    "english": "enigma",
+    "mattokki": "olti",
+    "nobiin": "ourtinan",
+    "raw": "enigma olti ourtinan"
+  },
+  {
+    "english": "enlarge",
+    "mattokki": "doolkid",
+    "nobiin": "duwwikir",
+    "raw": "enlarge doolkid duwwikir"
+  },
+  {
+    "english": "enough",
+    "mattokki": "digri,meshshe'",
+    "nobiin": "diy'ya",
+    "raw": "enough digri,meshshe' diy'ya"
+  },
+  {
+    "english": "envious",
+    "mattokki": "messi-kutti",
+    "nobiin": "magne-gutti",
+    "raw": "envious messi-kutti magne-gutti"
+  },
+  {
+    "english": "equal",
+    "mattokki": "we'ter",
+    "nobiin": "kikageen",
+    "raw": "equal we'ter kikageen"
+  },
+  {
+    "english": "evening",
+    "mattokki": "ougou",
+    "nobiin": "awa",
+    "raw": "evening ougou awa"
+  },
+  {
+    "english": "evil",
+    "mattokki": "oos",
+    "nobiin": "oos",
+    "raw": "evil oos oos"
+  },
+  {
+    "english": "except",
+    "mattokki": "maiki",
+    "nobiin": "mainken",
+    "raw": "except maiki mainken"
+  },
+  {
+    "english": "excess",
+    "mattokki": "mag",
+    "nobiin": "mag",
+    "raw": "excess mag mag"
+  },
+  {
+    "english": "excite",
+    "mattokki": "irrj,",
+    "nobiin": "geel feet",
+    "raw": "excite irrj, geel feet"
+  },
+  {
+    "english": "excuse",
+    "mattokki": "g'end",
+    "nobiin": "miss",
+    "raw": "excuse g'end miss"
+  },
+  {
+    "english": "exist",
+    "mattokki": "da",
+    "nobiin": "darin",
+    "raw": "exist da darin"
+  },
+  {
+    "english": "existed",
+    "mattokki": "dasou",
+    "nobiin": "daron",
+    "raw": "existed dasou daron"
+  },
+  {
+    "english": "extend",
+    "mattokki": "nosogir",
+    "nobiin": "nusikir",
+    "raw": "extend nosogir nusikir"
+  },
+  {
+    "english": "extract",
+    "mattokki": "sou'ow",
+    "nobiin": "sou'ow",
+    "raw": "extract sou'ow sou'ow"
+  },
+  {
+    "english": "eye",
+    "mattokki": "missi",
+    "nobiin": "magne",
+    "raw": "eye missi magne"
+  },
+  {
+    "english": "fable",
+    "mattokki": "komma",
+    "nobiin": "koumma",
+    "raw": "fable komma koumma"
+  },
+  {
+    "english": "face",
+    "mattokki": "koi,kogne",
+    "nobiin": "kogne",
+    "raw": "face koi,kogne kogne"
+  },
+  {
+    "english": "face",
+    "mattokki": "abidi",
+    "nobiin": "teerin ( to face, to meet)",
+    "raw": "face abidi teerin ( to face, to meet)"
+  },
+  {
+    "english": "faced",
+    "mattokki": "abidsou",
+    "nobiin": "teeron",
+    "raw": "faced abidsou teeron"
+  },
+  {
+    "english": "fade",
+    "mattokki": "olm",
+    "nobiin": "ulma",
+    "raw": "fade olm ulma"
+  },
+  {
+    "english": "faded",
+    "mattokki": "olm-bou",
+    "nobiin": "ulma-feen",
+    "raw": "faded olm-bou ulma-feen"
+  },
+  {
+    "english": "fainting",
+    "mattokki": "gumre'bou",
+    "nobiin": "gumra-feen",
+    "raw": "fainting gumre'bou gumra-feen"
+  },
+  {
+    "english": "fall",
+    "mattokki": "digi",
+    "nobiin": "nudin",
+    "raw": "fall digi nudin"
+  },
+  {
+    "english": "falter",
+    "mattokki": "agug",
+    "nobiin": "tumtam",
+    "raw": "falter agug tumtam"
+  },
+  {
+    "english": "far",
+    "mattokki": "wirri,gobri",
+    "nobiin": "werri",
+    "raw": "far wirri,gobri werri"
+  },
+  {
+    "english": "farewell",
+    "mattokki": "n/a",
+    "nobiin": "g'end",
+    "raw": "farewell  n/a g'end"
+  },
+  {
+    "english": "farm",
+    "mattokki": "be-n-gourr",
+    "nobiin": "fa-n-gourr",
+    "raw": "farm be-n-gourr fa-n-gourr"
+  },
+  {
+    "english": "farmer",
+    "mattokki": "torbur",
+    "nobiin": "torbur",
+    "raw": "farmer torbur torbur"
+  },
+  {
+    "english": "fast",
+    "mattokki": "derti",
+    "nobiin": "misse (to not eat)",
+    "raw": "fast derti misse (to not eat)"
+  },
+  {
+    "english": "fat",
+    "mattokki": "kombo",
+    "nobiin": "kombo",
+    "raw": "fat kombo kombo"
+  },
+  {
+    "english": "father",
+    "mattokki": "bab",
+    "nobiin": "fab",
+    "raw": "father bab fab"
+  },
+  {
+    "english": "father",
+    "mattokki": "nou",
+    "nobiin": "nou (grand father)",
+    "raw": "father nou nou (grand father)"
+  },
+  {
+    "english": "father",
+    "mattokki": "urrou",
+    "nobiin": "fabir (father in law)",
+    "raw": "father urrou fabir (father in law)"
+  },
+  {
+    "english": "fatigue",
+    "mattokki": "mariskidi",
+    "nobiin": "kignerki",
+    "raw": "fatigue mariskidi kignerki"
+  },
+  {
+    "english": "fearing",
+    "mattokki": "surki,sundi",
+    "nobiin": "ge'agin",
+    "raw": "fearing surki,sundi ge'agin"
+  },
+  {
+    "english": "feast",
+    "mattokki": "kore",
+    "nobiin": "kore",
+    "raw": "feast kore kore"
+  },
+  {
+    "english": "feather",
+    "mattokki": "dilti,shingirti",
+    "nobiin": "shingirti",
+    "raw": "feather dilti,shingirti shingirti"
+  },
+  {
+    "english": "feeble",
+    "mattokki": "ge'agud",
+    "nobiin": "ge'gud,messkan",
+    "raw": "feeble ge'agud ge'gud,messkan"
+  },
+  {
+    "english": "feed",
+    "mattokki": "kulkid",
+    "nobiin": "kubkir",
+    "raw": "feed kulkid kubkir"
+  },
+  {
+    "english": "feet",
+    "mattokki": "ossitge'i",
+    "nobiin": "oyi,oyri",
+    "raw": "feet ossitge'i oyi,oyri"
+  },
+  {
+    "english": "fell",
+    "mattokki": "digsou",
+    "nobiin": "nudon",
+    "raw": "fell digsou nudon"
+  },
+  {
+    "english": "female",
+    "mattokki": "kurre",
+    "nobiin": "furre",
+    "raw": "female kurre furre"
+  },
+  {
+    "english": "few",
+    "mattokki": "kinne,maris",
+    "nobiin": "kedi,muris",
+    "raw": "few kinne,maris kedi,muris"
+  },
+  {
+    "english": "fifteen",
+    "mattokki": "dimen-d-dige'o",
+    "nobiin": "dime-dige'a",
+    "raw": "fifteen dimen-d-dige'o dime-dige'a"
+  },
+  {
+    "english": "fifth",
+    "mattokki": "digeitti",
+    "nobiin": "digeitti",
+    "raw": "fifth digeitti digeitti"
+  },
+  {
+    "english": "fifty",
+    "mattokki": "demin,nidige",
+    "nobiin": "dime'ni-dige",
+    "raw": "fifty demin,nidige dime'ni-dige"
+  },
+  {
+    "english": "fill",
+    "mattokki": "ayegir,ugnegir",
+    "nobiin": "middikir",
+    "raw": "fill ayegir,ugnegir middikir"
+  },
+  {
+    "english": "find",
+    "mattokki": "el",
+    "nobiin": "el",
+    "raw": "find el el"
+  },
+  {
+    "english": "finds",
+    "mattokki": "eli",
+    "nobiin": "elin",
+    "raw": "finds eli elin"
+  },
+  {
+    "english": "fine",
+    "mattokki": "nere,moroad",
+    "nobiin": "noroad (soft to the touch)",
+    "raw": "fine nere,moroad noroad (soft to the touch)"
+  },
+  {
+    "english": "fire",
+    "mattokki": "eeg",
+    "nobiin": "eeg",
+    "raw": "fire eeg eeg"
+  },
+  {
+    "english": "fish",
+    "mattokki": "kare",
+    "nobiin": "ungissi",
+    "raw": "fish kare ungissi"
+  },
+  {
+    "english": "five",
+    "mattokki": "dige'o",
+    "nobiin": "dige'a",
+    "raw": "five dige'o dige'a"
+  },
+  {
+    "english": "flashing",
+    "mattokki": "afilitti",
+    "nobiin": "afulattin",
+    "raw": "flashing afilitti afulattin"
+  },
+  {
+    "english": "flatten",
+    "mattokki": "futge-bou",
+    "nobiin": "futogo'a-feen",
+    "raw": "flatten futge-bou futogo'a-feen"
+  },
+  {
+    "english": "float",
+    "mattokki": "g'ey",
+    "nobiin": "g'ey",
+    "raw": "float g'ey g'ey"
+  },
+  {
+    "english": "floated",
+    "mattokki": "g'egsou",
+    "nobiin": "g'eyon",
+    "raw": "floated g'egsou g'eyon"
+  },
+  {
+    "english": "floater",
+    "mattokki": "g'eyya",
+    "nobiin": "g'eyya",
+    "raw": "floater g'eyya g'eyya"
+  },
+  {
+    "english": "floating",
+    "mattokki": "g'ey-bou",
+    "nobiin": "g'eya-feen",
+    "raw": "floating g'ey-bou g'eya-feen"
+  },
+  {
+    "english": "flock",
+    "mattokki": "redda",
+    "nobiin": "tow'wi",
+    "raw": "flock redda tow'wi"
+  },
+  {
+    "english": "flood",
+    "mattokki": "demeera,essidool",
+    "nobiin": "tossi,demeera",
+    "raw": "flood demeera,essidool tossi,demeera"
+  },
+  {
+    "english": "floor",
+    "mattokki": "n/a",
+    "nobiin": "gouddo",
+    "raw": "floor n/a gouddo"
+  },
+  {
+    "english": "flour",
+    "mattokki": "noorti",
+    "nobiin": "noorti",
+    "raw": "flour noorti noorti"
+  },
+  {
+    "english": "flow",
+    "mattokki": "wed",
+    "nobiin": "terew",
+    "raw": "flow wed terew"
+  },
+  {
+    "english": "flowing",
+    "mattokki": "wed-bou",
+    "nobiin": "tere-w-afeen",
+    "raw": "flowing wed-bou tere-w-afeen"
+  },
+  {
+    "english": "fly",
+    "mattokki": "sib,fir",
+    "nobiin": "way,fir",
+    "raw": "fly sib,fir way,fir"
+  },
+  {
+    "english": "fold",
+    "mattokki": "kou'de",
+    "nobiin": "koude",
+    "raw": "fold kou'de koude"
+  },
+  {
+    "english": "follow",
+    "mattokki": "tebed,tey",
+    "nobiin": "irg",
+    "raw": "follow tebed,tey irg"
+  },
+  {
+    "english": "food",
+    "mattokki": "kul",
+    "nobiin": "kuba",
+    "raw": "food kul kuba"
+  },
+  {
+    "english": "foot",
+    "mattokki": "ossi",
+    "nobiin": "oy",
+    "raw": "foot ossi oy"
+  },
+  {
+    "english": "for",
+    "mattokki": "dig",
+    "nobiin": "nilin",
+    "raw": "for dig nilin"
+  },
+  {
+    "english": "forget",
+    "mattokki": "eew",
+    "nobiin": "ogoar",
+    "raw": "forget eew ogoar"
+  },
+  {
+    "english": "forgetting",
+    "mattokki": "eewur",
+    "nobiin": "ogoarundi",
+    "raw": "forgetting eewur ogoarundi"
+  },
+  {
+    "english": "forgotton",
+    "mattokki": "eew,tuk-sou",
+    "nobiin": "ogaoar,tuk-on",
+    "raw": "forgotton eew,tuk-sou ogaoar,tuk-on"
+  },
+  {
+    "english": "forhead",
+    "mattokki": "goumour",
+    "nobiin": "goumour",
+    "raw": "forhead goumour goumour"
+  },
+  {
+    "english": "found",
+    "mattokki": "elsou",
+    "nobiin": "elon",
+    "raw": "found elsou elon"
+  },
+  {
+    "english": "four",
+    "mattokki": "kemiso",
+    "nobiin": "kemso",
+    "raw": "four kemiso kemso"
+  },
+  {
+    "english": "fourteen",
+    "mattokki": "dimen-d-kemso",
+    "nobiin": "dime-kemso",
+    "raw": "fourteen dimen-d-kemso dime-kemso"
+  },
+  {
+    "english": "fourth",
+    "mattokki": "kemsitti",
+    "nobiin": "kemsitti",
+    "raw": "fourth kemsitti kemsitti"
+  },
+  {
+    "english": "fox",
+    "mattokki": "toussaba,aiwkoal",
+    "nobiin": "tirm",
+    "raw": "fox toussaba,aiwkoal tirm"
+  },
+  {
+    "english": "fracture",
+    "mattokki": "wuttigur,bukir",
+    "nobiin": "fukir",
+    "raw": "fracture wuttigur,bukir fukir"
+  },
+  {
+    "english": "friends",
+    "mattokki": "twirtge'i",
+    "nobiin": "engari",
+    "raw": "friends twirtge'i engari"
+  },
+  {
+    "english": "frog",
+    "mattokki": "golgeday",
+    "nobiin": "amunkorki",
+    "raw": "frog golgeday amunkorki"
+  },
+  {
+    "english": "from",
+    "mattokki": "toan",
+    "nobiin": "toan",
+    "raw": "from toan toan"
+  },
+  {
+    "english": "fur",
+    "mattokki": "barris",
+    "nobiin": "barris",
+    "raw": "fur barris barris"
+  },
+  {
+    "english": "furniture",
+    "mattokki": "ourdi",
+    "nobiin": "kirri",
+    "raw": "furniture ourdi kirri"
+  },
+  {
+    "english": "fuse",
+    "mattokki": "telaiwgir",
+    "nobiin": "telaiwkir",
+    "raw": "fuse telaiwgir telaiwkir"
+  },
+  {
+    "english": "gather",
+    "mattokki": "doal",
+    "nobiin": "doal",
+    "raw": "gather doal doal"
+  },
+  {
+    "english": "gave",
+    "mattokki": "tersou,tussou",
+    "nobiin": "tiron",
+    "raw": "gave tersou,tussou tiron"
+  },
+  {
+    "english": "gaze",
+    "mattokki": "kan",
+    "nobiin": "baid",
+    "raw": "gaze kan baid"
+  },
+  {
+    "english": "gazelle",
+    "mattokki": "gail",
+    "nobiin": "kitge'ud",
+    "raw": "gazelle gail kitge'ud"
+  },
+  {
+    "english": "generous",
+    "mattokki": "doah",
+    "nobiin": "doah",
+    "raw": "generous doah doah"
+  },
+  {
+    "english": "germinate",
+    "mattokki": "gegoss,bayir",
+    "nobiin": "feyyir",
+    "raw": "germinate gegoss,bayir feyyir"
+  },
+  {
+    "english": "ghost",
+    "mattokki": "soullou",
+    "nobiin": "soulli",
+    "raw": "ghost soullou soulli"
+  },
+  {
+    "english": "gift",
+    "mattokki": "kurre",
+    "nobiin": "kurre",
+    "raw": "gift kurre kurre"
+  },
+  {
+    "english": "girding",
+    "mattokki": "amage-bou",
+    "nobiin": "merg-a-feen",
+    "raw": "girding amage-bou merg-a-feen"
+  },
+  {
+    "english": "girl",
+    "mattokki": "bourou",
+    "nobiin": "bourou",
+    "raw": "girl bourou bourou"
+  },
+  {
+    "english": "give",
+    "mattokki": "ter,tur",
+    "nobiin": "tir",
+    "raw": "give ter,tur tir"
+  },
+  {
+    "english": "give",
+    "mattokki": "dai",
+    "nobiin": "dain (give me)",
+    "raw": "give dai dain (give me)"
+  },
+  {
+    "english": "give",
+    "mattokki": "daitge'ir",
+    "nobiin": "dantge'i (give us)",
+    "raw": "give daitge'ir dantge'i (give us)"
+  },
+  {
+    "english": "give",
+    "mattokki": "weedgir",
+    "nobiin": "weedkir (give back)",
+    "raw": "give weedgir weedkir (give back)"
+  },
+  {
+    "english": "glad",
+    "mattokki": "gourr-bou",
+    "nobiin": "gourr-feen",
+    "raw": "glad gourr-bou gourr-feen"
+  },
+  {
+    "english": "gladness",
+    "mattokki": "gourretti",
+    "nobiin": "gourundi",
+    "raw": "gladness gourretti gourundi"
+  },
+  {
+    "english": "glaring",
+    "mattokki": "gailog",
+    "nobiin": "bailig",
+    "raw": "glaring gailog bailig"
+  },
+  {
+    "english": "glitter",
+    "mattokki": "tawuy,tawgne",
+    "nobiin": "timinge",
+    "raw": "glitter tawuy,tawgne timinge"
+  },
+  {
+    "english": "globe",
+    "mattokki": "girgge-bou",
+    "nobiin": "gergeda-feen",
+    "raw": "globe girgge-bou gergeda-feen"
+  },
+  {
+    "english": "gnaw",
+    "mattokki": "goad",
+    "nobiin": "goad",
+    "raw": "gnaw goad goad"
+  },
+  {
+    "english": "go",
+    "mattokki": "ge'ou",
+    "nobiin": "ge'ou",
+    "raw": "go ge'ou ge'ou"
+  },
+  {
+    "english": "go",
+    "mattokki": "bel",
+    "nobiin": "ful (go out)",
+    "raw": "go bel ful (go out)"
+  },
+  {
+    "english": "go",
+    "mattokki": "n/a",
+    "nobiin": "greed (go round)",
+    "raw": "go n/a greed (go round)"
+  },
+  {
+    "english": "go",
+    "mattokki": "weed",
+    "nobiin": "weed (go back)",
+    "raw": "go weed weed (go back)"
+  },
+  {
+    "english": "goat",
+    "mattokki": "bcutul",
+    "nobiin": "mogor",
+    "raw": "goat bcutul mogor"
+  },
+  {
+    "english": "goblin",
+    "mattokki": "er-kuli",
+    "nobiin": "er-kuli",
+    "raw": "goblin er-kuli er-kuli"
+  },
+  {
+    "english": "god",
+    "mattokki": "Aarti",
+    "nobiin": "noar",
+    "raw": "god Aarti noar"
+  },
+  {
+    "english": "gold",
+    "mattokki": "nob,nebro",
+    "nobiin": "nub",
+    "raw": "gold nob,nebro nub"
+  },
+  {
+    "english": "good",
+    "mattokki": "fala",
+    "nobiin": "muss",
+    "raw": "good fala muss"
+  },
+  {
+    "english": "gorge",
+    "mattokki": "goas",
+    "nobiin": "goas",
+    "raw": "gorge goas goas"
+  },
+  {
+    "english": "gourd",
+    "mattokki": "kebe",
+    "nobiin": "kebe",
+    "raw": "gourd kebe kebe"
+  },
+  {
+    "english": "govern",
+    "mattokki": "mou'rt",
+    "nobiin": "mou'rt",
+    "raw": "govern mou'rt mou'rt"
+  },
+  {
+    "english": "governs",
+    "mattokki": "mou'rti",
+    "nobiin": "mour'rti",
+    "raw": "governs mou'rti mour'rti"
+  },
+  {
+    "english": "grain",
+    "mattokki": "taire",
+    "nobiin": "koge'ir",
+    "raw": "grain taire koge'ir"
+  },
+  {
+    "english": "grass",
+    "mattokki": "g'eed,magissi",
+    "nobiin": "g'eed,magissare",
+    "raw": "grass g'eed,magissi g'eed,magissare"
+  },
+  {
+    "english": "graze",
+    "mattokki": "n/a",
+    "nobiin": "ge'ubd",
+    "raw": "graze n/a ge'ubd"
+  },
+  {
+    "english": "grease",
+    "mattokki": "sile",
+    "nobiin": "sile",
+    "raw": "grease sile sile"
+  },
+  {
+    "english": "green",
+    "mattokki": "dessi",
+    "nobiin": "dessi",
+    "raw": "green dessi dessi"
+  },
+  {
+    "english": "griddle",
+    "mattokki": "dew",
+    "nobiin": "dew",
+    "raw": "griddle dew dew"
+  },
+  {
+    "english": "grind",
+    "mattokki": "ge'oag",
+    "nobiin": "ge'oag",
+    "raw": "grind ge'oag ge'oag"
+  },
+  {
+    "english": "grips",
+    "mattokki": "wurtab",
+    "nobiin": "wurtab",
+    "raw": "grips wurtab wurtab"
+  },
+  {
+    "english": "grit",
+    "mattokki": "korod",
+    "nobiin": "kor'ti",
+    "raw": "grit korod kor'ti"
+  },
+  {
+    "english": "grope",
+    "mattokki": "tubtub",
+    "nobiin": "tubtub",
+    "raw": "grope tubtub tubtub"
+  },
+  {
+    "english": "grows",
+    "mattokki": "keyi",
+    "nobiin": "keyin",
+    "raw": "grows keyi keyin"
+  },
+  {
+    "english": "grows",
+    "mattokki": "bairi",
+    "nobiin": "feeyin (plants)",
+    "raw": "grows bairi feeyin (plants)"
+  },
+  {
+    "english": "guess",
+    "mattokki": "da",
+    "nobiin": "darin",
+    "raw": "guess da darin"
+  },
+  {
+    "english": "guessed",
+    "mattokki": "dasou",
+    "nobiin": "daron",
+    "raw": "guessed dasou daron"
+  },
+  {
+    "english": "guest",
+    "mattokki": "iskirtti",
+    "nobiin": "iskitti",
+    "raw": "guest iskirtti iskitti"
+  },
+  {
+    "english": "guide",
+    "mattokki": "kiy",
+    "nobiin": "kiy",
+    "raw": "guide kiy kiy"
+  },
+  {
+    "english": "guilt",
+    "mattokki": "abou",
+    "nobiin": "nabe",
+    "raw": "guilt abou nabe"
+  },
+  {
+    "english": "gum",
+    "mattokki": "golissi",
+    "nobiin": "golisse",
+    "raw": "gum golissi golisse"
+  },
+  {
+    "english": "gums",
+    "mattokki": "nelkid",
+    "nobiin": "nirkid",
+    "raw": "gums nelkid nirkid"
+  },
+  {
+    "english": "gush",
+    "mattokki": "borbor",
+    "nobiin": "bourbour",
+    "raw": "gush borbor bourbour"
+  },
+  {
+    "english": "gushes",
+    "mattokki": "ougne'i",
+    "nobiin": "ougne'in",
+    "raw": "gushes ougne'i ougne'in"
+  },
+  {
+    "english": "habit",
+    "mattokki": "kourked",
+    "nobiin": "kouller-ki",
+    "raw": "habit kourked kouller-ki"
+  },
+  {
+    "english": "hair",
+    "mattokki": "seer",
+    "nobiin": "seer",
+    "raw": "hair seer seer"
+  },
+  {
+    "english": "half",
+    "mattokki": "bugatti",
+    "nobiin": "fugatti",
+    "raw": "half bugatti fugatti"
+  },
+  {
+    "english": "hammer",
+    "mattokki": "kok",
+    "nobiin": "kok",
+    "raw": "hammer kok kok"
+  },
+  {
+    "english": "hamper",
+    "mattokki": "shibir",
+    "nobiin": "shibir",
+    "raw": "hamper shibir shibir"
+  },
+  {
+    "english": "hand",
+    "mattokki": "iy",
+    "nobiin": "eddi",
+    "raw": "hand iy eddi"
+  },
+  {
+    "english": "hang",
+    "mattokki": "solligir",
+    "nobiin": "ollir,sollkir",
+    "raw": "hang solligir ollir,sollkir"
+  },
+  {
+    "english": "hanger",
+    "mattokki": "solleddi",
+    "nobiin": "oll-ulle",
+    "raw": "hanger solleddi oll-ulle"
+  },
+  {
+    "english": "hanker",
+    "mattokki": "mushki",
+    "nobiin": "mushkin",
+    "raw": "hanker mushki mushkin"
+  },
+  {
+    "english": "hard",
+    "mattokki": "kogor",
+    "nobiin": "kogor",
+    "raw": "hard kogor kogor"
+  },
+  {
+    "english": "harvest",
+    "mattokki": "ge'oarur",
+    "nobiin": "goarur",
+    "raw": "harvest ge'oarur goarur"
+  },
+  {
+    "english": "haste",
+    "mattokki": "tuk,simurk",
+    "nobiin": "waruw",
+    "raw": "haste tuk,simurk waruw"
+  },
+  {
+    "english": "hatch",
+    "mattokki": "kuk",
+    "nobiin": "kuk",
+    "raw": "hatch kuk kuk"
+  },
+  {
+    "english": "hate",
+    "mattokki": "tiss",
+    "nobiin": "tiss",
+    "raw": "hate tiss tiss"
+  },
+  {
+    "english": "hatred",
+    "mattokki": "tissur",
+    "nobiin": "tissur",
+    "raw": "hatred tissur tissur"
+  },
+  {
+    "english": "haul",
+    "mattokki": "toll",
+    "nobiin": "tok,toll",
+    "raw": "haul toll tok,toll"
+  },
+  {
+    "english": "have",
+    "mattokki": "tennay",
+    "nobiin": "kounin",
+    "raw": "have tennay kounin"
+  },
+  {
+    "english": "he/she",
+    "mattokki": "ter",
+    "nobiin": "ter",
+    "raw": "he/she ter ter"
+  },
+  {
+    "english": "head",
+    "mattokki": "our",
+    "nobiin": "our",
+    "raw": "head our our"
+  },
+  {
+    "english": "head",
+    "mattokki": "owrou",
+    "nobiin": "owrou (head of the tribe)",
+    "raw": "head owrou owrou (head of the tribe)"
+  },
+  {
+    "english": "heep",
+    "mattokki": "dar",
+    "nobiin": "dar",
+    "raw": "heep dar dar"
+  },
+  {
+    "english": "hear",
+    "mattokki": "gige'ir",
+    "nobiin": "aukkir",
+    "raw": "hear gige'ir aukkir"
+  },
+  {
+    "english": "heart",
+    "mattokki": "aa",
+    "nobiin": "ay",
+    "raw": "heart aa ay"
+  },
+  {
+    "english": "hearth",
+    "mattokki": "doro",
+    "nobiin": "dora",
+    "raw": "hearth doro dora"
+  },
+  {
+    "english": "heat",
+    "mattokki": "ge'ougi",
+    "nobiin": "ge'oug",
+    "raw": "heat ge'ougi ge'oug"
+  },
+  {
+    "english": "heat",
+    "mattokki": "hooge",
+    "nobiin": "oume (heat of fire)",
+    "raw": "heat hooge oume (heat of fire)"
+  },
+  {
+    "english": "heavy",
+    "mattokki": "doullou",
+    "nobiin": "gitti",
+    "raw": "heavy doullou gitti"
+  },
+  {
+    "english": "heir",
+    "mattokki": "aiwur,naiwur",
+    "nobiin": "saiwur",
+    "raw": "heir aiwur,naiwur saiwur"
+  },
+  {
+    "english": "hen",
+    "mattokki": "durbud,doummade",
+    "nobiin": "dirbud",
+    "raw": "hen durbud,doummade dirbud"
+  },
+  {
+    "english": "hen-house",
+    "mattokki": "binne,kounounou",
+    "nobiin": "benya",
+    "raw": "hen-house binne,kounounou benya"
+  },
+  {
+    "english": "here",
+    "mattokki": "indo",
+    "nobiin": "indo",
+    "raw": "here indo indo"
+  },
+  {
+    "english": "hide",
+    "mattokki": "bokkir",
+    "nobiin": "nafir",
+    "raw": "hide bokkir nafir"
+  },
+  {
+    "english": "hill",
+    "mattokki": "gounna",
+    "nobiin": "dokki",
+    "raw": "hill gounna dokki"
+  },
+  {
+    "english": "hip",
+    "mattokki": "ge'ogin,dogigne",
+    "nobiin": "dogogne",
+    "raw": "hip ge'ogin,dogigne dogogne"
+  },
+  {
+    "english": "hoarse",
+    "mattokki": "dasad",
+    "nobiin": "dasad",
+    "raw": "hoarse dasad dasad"
+  },
+  {
+    "english": "hoe",
+    "mattokki": "but",
+    "nobiin": "but",
+    "raw": "hoe but but"
+  },
+  {
+    "english": "hold",
+    "mattokki": "ub,hub",
+    "nobiin": "uf",
+    "raw": "hold ub,hub uf"
+  },
+  {
+    "english": "hollow",
+    "mattokki": "goal",
+    "nobiin": "goal",
+    "raw": "hollow goal goal"
+  },
+  {
+    "english": "hook",
+    "mattokki": "ge'ukkur",
+    "nobiin": "ge'ukkur",
+    "raw": "hook ge'ukkur ge'ukkur"
+  },
+  {
+    "english": "hop",
+    "mattokki": "fogor,dik",
+    "nobiin": "hunduk",
+    "raw": "hop fogor,dik hunduk"
+  },
+  {
+    "english": "hopping",
+    "mattokki": "sundeddi,humbid",
+    "nobiin": "hunduke",
+    "raw": "hopping sundeddi,humbid hunduke"
+  },
+  {
+    "english": "horn",
+    "mattokki": "nishi",
+    "nobiin": "nishi",
+    "raw": "horn nishi nishi"
+  },
+  {
+    "english": "horse",
+    "mattokki": "kuge",
+    "nobiin": "mourti",
+    "raw": "horse kuge mourti"
+  },
+  {
+    "english": "hot",
+    "mattokki": "ge'oagri",
+    "nobiin": "ge'ougra",
+    "raw": "hot ge'oagri ge'ougra"
+  },
+  {
+    "english": "house",
+    "mattokki": "ka",
+    "nobiin": "noag",
+    "raw": "house ka noag"
+  },
+  {
+    "english": "how",
+    "mattokki": "mine",
+    "nobiin": "sikra,hikra",
+    "raw": "how mine sikra,hikra"
+  },
+  {
+    "english": "hump",
+    "mattokki": "koroge",
+    "nobiin": "korogne",
+    "raw": "hump koroge korogne"
+  },
+  {
+    "english": "humpback",
+    "mattokki": "korai",
+    "nobiin": "korognea",
+    "raw": "humpback korai korognea"
+  },
+  {
+    "english": "hundred",
+    "mattokki": "imil",
+    "nobiin": "imil",
+    "raw": "hundred imil imil"
+  },
+  {
+    "english": "hunger",
+    "mattokki": "org'ed,mitgari",
+    "nobiin": "fugne'id",
+    "raw": "hunger org'ed,mitgari fugne'id"
+  },
+  {
+    "english": "hungry",
+    "mattokki": "orgbou,mitgar-bou",
+    "nobiin": "fugne'in,orgafeen",
+    "raw": "hungry orgbou,mitgar-bou fugne'in,orgafeen"
+  },
+  {
+    "english": "hurry",
+    "mattokki": "touroung",
+    "nobiin": "touroung",
+    "raw": "hurry touroung touroung"
+  },
+  {
+    "english": "husband",
+    "mattokki": "id",
+    "nobiin": "id",
+    "raw": "husband id id"
+  },
+  {
+    "english": "husk",
+    "mattokki": "nob",
+    "nobiin": "niff",
+    "raw": "husk nob niff"
+  },
+  {
+    "english": "husker",
+    "mattokki": "nobeddi",
+    "nobiin": "nibir",
+    "raw": "husker nobeddi nibir"
+  },
+  {
+    "english": "hyena",
+    "mattokki": "eddi",
+    "nobiin": "aaddi",
+    "raw": "hyena eddi aaddi"
+  },
+  {
+    "english": "idiot",
+    "mattokki": "hullage",
+    "nobiin": "urwush",
+    "raw": "idiot hullage urwush"
+  },
+  {
+    "english": "if",
+    "mattokki": "on",
+    "nobiin": "on",
+    "raw": "if on on"
+  },
+  {
+    "english": "ignorant",
+    "mattokki": "irbirmonou",
+    "nobiin": "irbermaine",
+    "raw": "ignorant irbirmonou irbermaine"
+  },
+  {
+    "english": "ill",
+    "mattokki": "eddi",
+    "nobiin": "oddin",
+    "raw": "ill eddi oddin"
+  },
+  {
+    "english": "imbue",
+    "mattokki": "igid",
+    "nobiin": "irge'ir",
+    "raw": "imbue igid irge'ir"
+  },
+  {
+    "english": "imitate",
+    "mattokki": "tey",
+    "nobiin": "tiy",
+    "raw": "imitate tey tiy"
+  },
+  {
+    "english": "immature",
+    "mattokki": "doash",
+    "nobiin": "doash",
+    "raw": "immature doash doash"
+  },
+  {
+    "english": "immediately",
+    "mattokki": "kabita",
+    "nobiin": "kibittia",
+    "raw": "immediately kabita kibittia"
+  },
+  {
+    "english": "immerse",
+    "mattokki": "tubir",
+    "nobiin": "tuffir",
+    "raw": "immerse tubir tuffir"
+  },
+  {
+    "english": "in",
+    "mattokki": "deg",
+    "nobiin": "iddo",
+    "raw": "in deg iddo"
+  },
+  {
+    "english": "increase",
+    "mattokki": "digrigir",
+    "nobiin": "diyyakir",
+    "raw": "increase digrigir diyyakir"
+  },
+  {
+    "english": "incite",
+    "mattokki": "hurrish",
+    "nobiin": "hurrish",
+    "raw": "incite hurrish hurrish"
+  },
+  {
+    "english": "inflame",
+    "mattokki": "arribe-arrig,",
+    "nobiin": "doummir",
+    "raw": "inflame arribe-arrig, doummir"
+  },
+  {
+    "english": "inflate",
+    "mattokki": "ouff",
+    "nobiin": "ouff",
+    "raw": "inflate ouff ouff"
+  },
+  {
+    "english": "inflated",
+    "mattokki": "ouff-bou",
+    "nobiin": "ouffa feen gouff afeen",
+    "raw": "inflated ouff-bou ouffa feen gouff afeen"
+  },
+  {
+    "english": "inhert",
+    "mattokki": "naiw,aiw",
+    "nobiin": "saiw,siy",
+    "raw": "inhert naiw,aiw saiw,siy"
+  },
+  {
+    "english": "inquire",
+    "mattokki": "issigiri",
+    "nobiin": "issigir",
+    "raw": "inquire issigiri issigir"
+  },
+  {
+    "english": "inquired",
+    "mattokki": "issigirsou",
+    "nobiin": "issigiron",
+    "raw": "inquired issigirsou issigiron"
+  },
+  {
+    "english": "insect",
+    "mattokki": "afesh",
+    "nobiin": "afesh",
+    "raw": "insect afesh afesh"
+  },
+  {
+    "english": "insert",
+    "mattokki": "oundour",
+    "nobiin": "oudir",
+    "raw": "insert oundour oudir"
+  },
+  {
+    "english": "instead",
+    "mattokki": "tennagur",
+    "nobiin": "agurtunna",
+    "raw": "instead tennagur agurtunna"
+  },
+  {
+    "english": "interfere",
+    "mattokki": "toa'i",
+    "nobiin": "toarin",
+    "raw": "interfere toa'i toarin"
+  },
+  {
+    "english": "interment",
+    "mattokki": "sheya",
+    "nobiin": "sheyala",
+    "raw": "interment sheya sheyala"
+  },
+  {
+    "english": "intestine",
+    "mattokki": "dougouss",
+    "nobiin": "dougouss",
+    "raw": "intestine dougouss dougouss"
+  },
+  {
+    "english": "intruder",
+    "mattokki": "N/A",
+    "nobiin": "soullouti",
+    "raw": "intruder N/A soullouti"
+  },
+  {
+    "english": "invite",
+    "mattokki": "oagge'ir",
+    "nobiin": "oagir",
+    "raw": "invite oagge'ir oagir"
+  },
+  {
+    "english": "invitation",
+    "mattokki": "oagge'ur",
+    "nobiin": "oagur",
+    "raw": "invitation oagge'ur oagur"
+  },
+  {
+    "english": "iron",
+    "mattokki": "sha",
+    "nobiin": "tirssi",
+    "raw": "iron sha tirssi"
+  },
+  {
+    "english": "irrgate",
+    "mattokki": "daig",
+    "nobiin": "daig",
+    "raw": "irrgate daig daig"
+  },
+  {
+    "english": "irrgation",
+    "mattokki": "daigur",
+    "nobiin": "daigur",
+    "raw": "irrgation daigur daigur"
+  },
+  {
+    "english": "island",
+    "mattokki": "arti",
+    "nobiin": "arti",
+    "raw": "island arti arti"
+  },
+  {
+    "english": "join",
+    "mattokki": "N/A",
+    "nobiin": "ge'um",
+    "raw": "join N/A ge'um"
+  },
+  {
+    "english": "jolt",
+    "mattokki": "shougm",
+    "nobiin": "shougm",
+    "raw": "jolt shougm shougm"
+  },
+  {
+    "english": "jujuble",
+    "mattokki": "kurkade",
+    "nobiin": "kurkade",
+    "raw": "jujuble kurkade kurkade"
+  },
+  {
+    "english": "jump",
+    "mattokki": "wur",
+    "nobiin": "wur",
+    "raw": "jump wur wur"
+  },
+  {
+    "english": "jungle",
+    "mattokki": "toushshi",
+    "nobiin": "toushshi",
+    "raw": "jungle toushshi toushshi"
+  },
+  {
+    "english": "jut",
+    "mattokki": "gouff",
+    "nobiin": "gouff",
+    "raw": "jut gouff gouff"
+  },
+  {
+    "english": "keep",
+    "mattokki": "kag",
+    "nobiin": "kag",
+    "raw": "keep kag kag"
+  },
+  {
+    "english": "key",
+    "mattokki": "koushur",
+    "nobiin": "koushur",
+    "raw": "key koushur koushur"
+  },
+  {
+    "english": "kid",
+    "mattokki": "ewre",
+    "nobiin": "misur",
+    "raw": "kid ewre misur"
+  },
+  {
+    "english": "kidnap",
+    "mattokki": "kab,sub",
+    "nobiin": "douk,kouge",
+    "raw": "kidnap kab,sub douk,kouge"
+  },
+  {
+    "english": "kill",
+    "mattokki": "bair,be",
+    "nobiin": "fawir",
+    "raw": "kill bair,be fawir"
+  },
+  {
+    "english": "kin",
+    "mattokki": "egitti",
+    "nobiin": "tair",
+    "raw": "kin egitti tair"
+  },
+  {
+    "english": "kiss",
+    "mattokki": "doag",
+    "nobiin": "daw,da'y",
+    "raw": "kiss doag daw,da'y"
+  },
+  {
+    "english": "kitchen",
+    "mattokki": "dewka,nar",
+    "nobiin": "kenoun,gaushumbi",
+    "raw": "kitchen dewka,nar kenoun,gaushumbi"
+  },
+  {
+    "english": "knead",
+    "mattokki": "dork",
+    "nobiin": "dork",
+    "raw": "knead dork dork"
+  },
+  {
+    "english": "knee",
+    "mattokki": "kourti",
+    "nobiin": "kourti",
+    "raw": "knee kourti kourti"
+  },
+  {
+    "english": "knew",
+    "mattokki": "irbirsou",
+    "nobiin": "irbiron",
+    "raw": "knew irbirsou irbiron"
+  },
+  {
+    "english": "knife",
+    "mattokki": "kundi",
+    "nobiin": "kundi",
+    "raw": "knife kundi kundi"
+  },
+  {
+    "english": "knit",
+    "mattokki": "mettig",
+    "nobiin": "mouttoug",
+    "raw": "knit mettig mouttoug"
+  },
+  {
+    "english": "knock",
+    "mattokki": "kok",
+    "nobiin": "kok",
+    "raw": "knock kok kok"
+  },
+  {
+    "english": "knoll",
+    "mattokki": "ab",
+    "nobiin": "toddi",
+    "raw": "knoll ab toddi"
+  },
+  {
+    "english": "know",
+    "mattokki": "irbir,ear",
+    "nobiin": "irbir",
+    "raw": "know irbir,ear irbir"
+  },
+  {
+    "english": "knowledge",
+    "mattokki": "irbirti,eerur",
+    "nobiin": "irbirti",
+    "raw": "knowledge irbirti,eerur irbirti"
+  },
+  {
+    "english": "lacrosse",
+    "mattokki": "kode",
+    "nobiin": "kode",
+    "raw": "lacrosse kode kode"
+  },
+  {
+    "english": "lad",
+    "mattokki": "tonorti",
+    "nobiin": "kourked",
+    "raw": "lad tonorti kourked"
+  },
+  {
+    "english": "ladder",
+    "mattokki": "domirro",
+    "nobiin": "daimir",
+    "raw": "ladder domirro daimir"
+  },
+  {
+    "english": "laddle",
+    "mattokki": "kuss,soll",
+    "nobiin": "kussur.oll",
+    "raw": "laddle kuss,soll kussur.oll"
+  },
+  {
+    "english": "lake",
+    "mattokki": "mere",
+    "nobiin": "mere",
+    "raw": "lake mere mere"
+  },
+  {
+    "english": "lamb",
+    "mattokki": "kutti",
+    "nobiin": "kutti",
+    "raw": "lamb kutti kutti"
+  },
+  {
+    "english": "lame",
+    "mattokki": "derraige,fogor",
+    "nobiin": "derraige,findikka",
+    "raw": "lame derraige,fogor derraige,findikka"
+  },
+  {
+    "english": "land",
+    "mattokki": "tera",
+    "nobiin": "gouddo",
+    "raw": "land tera gouddo"
+  },
+  {
+    "english": "lick",
+    "mattokki": "gay,gangne",
+    "nobiin": "dage",
+    "raw": "lick gay,gangne dage"
+  },
+  {
+    "english": "laugh",
+    "mattokki": "oas",
+    "nobiin": "ge'igge",
+    "raw": "laugh oas ge'igge"
+  },
+  {
+    "english": "lausonia",
+    "mattokki": "kofre",
+    "nobiin": "kofare",
+    "raw": "lausonia kofre kofare"
+  },
+  {
+    "english": "lay",
+    "mattokki": "egtge",
+    "nobiin": "fush",
+    "raw": "lay egtge fush"
+  },
+  {
+    "english": "layang",
+    "mattokki": "egtge-bou",
+    "nobiin": "fusha-feen",
+    "raw": "layang egtge-bou fusha-feen"
+  },
+  {
+    "english": "lead",
+    "mattokki": "ekodo,areddo",
+    "nobiin": "erikkir",
+    "raw": "lead ekodo,areddo erikkir"
+  },
+  {
+    "english": "leaks",
+    "mattokki": "shusshuri,",
+    "nobiin": "ge'irge'ir",
+    "raw": "leaks shusshuri, ge'irge'ir"
+  },
+  {
+    "english": "lean",
+    "mattokki": "mailumbo,mabo",
+    "nobiin": "tutge'ad",
+    "raw": "lean mailumbo,mabo tutge'ad"
+  },
+  {
+    "english": "leap",
+    "mattokki": "talashe,talawgne",
+    "nobiin": "furgne",
+    "raw": "leap talashe,talawgne furgne"
+  },
+  {
+    "english": "learn",
+    "mattokki": "koor",
+    "nobiin": "koull",
+    "raw": "learn koor koull"
+  },
+  {
+    "english": "learned",
+    "mattokki": "koursou",
+    "nobiin": "koullon",
+    "raw": "learned koursou koullon"
+  },
+  {
+    "english": "leave",
+    "mattokki": "moug",
+    "nobiin": "moug",
+    "raw": "leave moug moug"
+  },
+  {
+    "english": "left",
+    "mattokki": "mougsou",
+    "nobiin": "mougon (went away)",
+    "raw": "left mougsou mougon (went away)"
+  },
+  {
+    "english": "left",
+    "mattokki": "mayen",
+    "nobiin": "kondon (opposite of right)",
+    "raw": "left mayen kondon (opposite of right)"
+  },
+  {
+    "english": "leg",
+    "mattokki": "ossi",
+    "nobiin": "oy",
+    "raw": "leg ossi oy"
+  },
+  {
+    "english": "lentils",
+    "mattokki": "nair",
+    "nobiin": "kugross",
+    "raw": "lentils nair kugross"
+  },
+  {
+    "english": "leprosy",
+    "mattokki": "kugras",
+    "nobiin": "kugrasi",
+    "raw": "leprosy kugras kugrasi"
+  },
+  {
+    "english": "lessen",
+    "mattokki": "marid,murisk",
+    "nobiin": "murwir",
+    "raw": "lessen marid,murisk murwir"
+  },
+  {
+    "english": "let",
+    "mattokki": "a",
+    "nobiin": "magir",
+    "raw": "let a magir"
+  },
+  {
+    "english": "liar",
+    "mattokki": "mersigutti",
+    "nobiin": "murge'a-gutti",
+    "raw": "liar mersigutti murge'a-gutti"
+  },
+  {
+    "english": "lice",
+    "mattokki": "issi",
+    "nobiin": "issi",
+    "raw": "lice issi issi"
+  },
+  {
+    "english": "lid",
+    "mattokki": "tagir",
+    "nobiin": "tigir",
+    "raw": "lid tagir tigir"
+  },
+  {
+    "english": "lie",
+    "mattokki": "marsi",
+    "nobiin": "murge'a",
+    "raw": "lie marsi murge'a"
+  },
+  {
+    "english": "life",
+    "mattokki": "atgei,agnur",
+    "nobiin": "agni",
+    "raw": "life atgei,agnur agni"
+  },
+  {
+    "english": "light",
+    "mattokki": "shoro",
+    "nobiin": "alleed",
+    "raw": "light shoro alleed"
+  },
+  {
+    "english": "like",
+    "mattokki": "ulgi",
+    "nobiin": "ulgin",
+    "raw": "like ulgi ulgin"
+  },
+  {
+    "english": "limit",
+    "mattokki": "mees,mokodo",
+    "nobiin": "mees",
+    "raw": "limit mees,mokodo mees"
+  },
+  {
+    "english": "line",
+    "mattokki": "surre",
+    "nobiin": "surri",
+    "raw": "line surre surri"
+  },
+  {
+    "english": "lion",
+    "mattokki": "errigeel",
+    "nobiin": "ko",
+    "raw": "lion errigeel ko"
+  },
+  {
+    "english": "lip",
+    "mattokki": "shoundi",
+    "nobiin": "shundi",
+    "raw": "lip shoundi shundi"
+  },
+  {
+    "english": "little",
+    "mattokki": "kinne'a",
+    "nobiin": "ke'de",
+    "raw": "little kinne'a ke'de"
+  },
+  {
+    "english": "lizard",
+    "mattokki": "gelgelissi",
+    "nobiin": "gengelissi",
+    "raw": "lizard gelgelissi gengelissi"
+  },
+  {
+    "english": "loaf",
+    "mattokki": "tobe",
+    "nobiin": "toffe",
+    "raw": "loaf tobe toffe"
+  },
+  {
+    "english": "loan",
+    "mattokki": "ewwirti,osiki",
+    "nobiin": "moroo",
+    "raw": "loan ewwirti,osiki moroo"
+  },
+  {
+    "english": "lock",
+    "mattokki": "shirk",
+    "nobiin": "shirk",
+    "raw": "lock shirk shirk"
+  },
+  {
+    "english": "locust",
+    "mattokki": "maga",
+    "nobiin": "naba",
+    "raw": "locust maga naba"
+  },
+  {
+    "english": "long",
+    "mattokki": "noso",
+    "nobiin": "nussi",
+    "raw": "long noso nussi"
+  },
+  {
+    "english": "longing",
+    "mattokki": "sowundi,mushkund",
+    "nobiin": "mushkundi",
+    "raw": "longing sowundi,mushkund mushkundi"
+  },
+  {
+    "english": "look",
+    "mattokki": "ouroo",
+    "nobiin": "gou'ngne",
+    "raw": "look ouroo gou'ngne"
+  },
+  {
+    "english": "loose",
+    "mattokki": "kouss,kou'ge",
+    "nobiin": "kouss",
+    "raw": "loose kouss,kou'ge kouss"
+  },
+  {
+    "english": "lose",
+    "mattokki": "dubir",
+    "nobiin": "duffir",
+    "raw": "lose dubir duffir"
+  },
+  {
+    "english": "lost",
+    "mattokki": "dubsoo",
+    "nobiin": "duffiron",
+    "raw": "lost dubsoo duffiron"
+  },
+  {
+    "english": "love",
+    "mattokki": "dolti",
+    "nobiin": "dolgid",
+    "raw": "love dolti dolgid"
+  },
+  {
+    "english": "lover",
+    "mattokki": "dolli",
+    "nobiin": "doloal",
+    "raw": "lover dolli doloal"
+  },
+  {
+    "english": "lung",
+    "mattokki": "gofgofe,bebe",
+    "nobiin": "goufe",
+    "raw": "lung gofgofe,bebe goufe"
+  },
+  {
+    "english": "lupine",
+    "mattokki": "ungulle",
+    "nobiin": "ugoode",
+    "raw": "lupine ungulle ugoode"
+  },
+  {
+    "english": "lute",
+    "mattokki": "kisir",
+    "nobiin": "kisir",
+    "raw": "lute kisir kisir"
+  },
+  {
+    "english": "mad",
+    "mattokki": "witti",
+    "nobiin": "witti",
+    "raw": "mad witti witti"
+  },
+  {
+    "english": "made",
+    "mattokki": "kaysou",
+    "nobiin": "koyon",
+    "raw": "made kaysou koyon"
+  },
+  {
+    "english": "maid",
+    "mattokki": "nogo",
+    "nobiin": "oshsha",
+    "raw": "maid nogo oshsha"
+  },
+  {
+    "english": "make",
+    "mattokki": "kay",
+    "nobiin": "kay",
+    "raw": "make kay kay"
+  },
+  {
+    "english": "male",
+    "mattokki": "ondi",
+    "nobiin": "ondi",
+    "raw": "male  ondi ondi"
+  },
+  {
+    "english": "mallet",
+    "mattokki": "edir,tingle",
+    "nobiin": "tingle",
+    "raw": "mallet edir,tingle tingle"
+  },
+  {
+    "english": "mallow",
+    "mattokki": "sortomogne'a",
+    "nobiin": "sortogne'a",
+    "raw": "mallow sortomogne'a sortogne'a"
+  },
+  {
+    "english": "man",
+    "mattokki": "id,ogige",
+    "nobiin": "id,ogoge (male)",
+    "raw": "man id,ogige id,ogoge (male)"
+  },
+  {
+    "english": "man",
+    "mattokki": "adem",
+    "nobiin": "adem (person)",
+    "raw": "man adem adem (person)"
+  },
+  {
+    "english": "manhood",
+    "mattokki": "ogige-keni",
+    "nobiin": "ogogekene",
+    "raw": "manhood ogige-keni ogogekene"
+  },
+  {
+    "english": "mantis",
+    "mattokki": "uskrin-goar",
+    "nobiin": "mashun",
+    "raw": "mantis uskrin-goar mashun"
+  },
+  {
+    "english": "manure",
+    "mattokki": "maroa",
+    "nobiin": "maroa",
+    "raw": "manure maroa maroa"
+  },
+  {
+    "english": "marriage",
+    "mattokki": "edti",
+    "nobiin": "edti",
+    "raw": "marriage edti edti"
+  },
+  {
+    "english": "married",
+    "mattokki": "edsou",
+    "nobiin": "edon",
+    "raw": "married edsou edon"
+  },
+  {
+    "english": "mary",
+    "mattokki": "ed",
+    "nobiin": "ed",
+    "raw": "mary ed ed"
+  },
+  {
+    "english": "marrow",
+    "mattokki": "gourrou",
+    "nobiin": "gou'rrou",
+    "raw": "marrow gourrou gou'rrou"
+  },
+  {
+    "english": "massage",
+    "mattokki": "gebur",
+    "nobiin": "ge'abeed",
+    "raw": "massage gebur ge'abeed"
+  },
+  {
+    "english": "master",
+    "mattokki": "tirti",
+    "nobiin": "nor",
+    "raw": "master tirti nor"
+  },
+  {
+    "english": "measure",
+    "mattokki": "ass",
+    "nobiin": "ass",
+    "raw": "measure ass ass"
+  },
+  {
+    "english": "measured",
+    "mattokki": "assou",
+    "nobiin": "asson",
+    "raw": "measured assou asson"
+  },
+  {
+    "english": "measures",
+    "mattokki": "assi",
+    "nobiin": "asssi",
+    "raw": "measures assi asssi"
+  },
+  {
+    "english": "meat",
+    "mattokki": "kousoo",
+    "nobiin": "arige",
+    "raw": "meat kousoo arige"
+  },
+  {
+    "english": "meet",
+    "mattokki": "abid",
+    "nobiin": "teer",
+    "raw": "meet abid teer"
+  },
+  {
+    "english": "melt",
+    "mattokki": "ge'ood",
+    "nobiin": "ge'ood",
+    "raw": "melt ge'ood ge'ood"
+  },
+  {
+    "english": "mend",
+    "mattokki": "gok",
+    "nobiin": "gok,tomor",
+    "raw": "mend gok gok,tomor"
+  },
+  {
+    "english": "merchant",
+    "mattokki": "ge'ani",
+    "nobiin": "ge'ani",
+    "raw": "merchant ge'ani ge'ani"
+  },
+  {
+    "english": "midnight",
+    "mattokki": "dibno",
+    "nobiin": "shayig",
+    "raw": "midnight dibno shayig"
+  },
+  {
+    "english": "midwife",
+    "mattokki": "ounoskur",
+    "nobiin": "oungossur",
+    "raw": "midwife ounoskur oungossur"
+  },
+  {
+    "english": "milk",
+    "mattokki": "itge'i",
+    "nobiin": "soo",
+    "raw": "milk itge'i soo"
+  },
+  {
+    "english": "milked",
+    "mattokki": "duksou",
+    "nobiin": "dukon",
+    "raw": "milked duksou dukon"
+  },
+  {
+    "english": "millet",
+    "mattokki": "erdi,bouttoo",
+    "nobiin": "fouttoo",
+    "raw": "millet erdi,bouttoo fouttoo"
+  },
+  {
+    "english": "mince",
+    "mattokki": "suk",
+    "nobiin": "suk",
+    "raw": "mince suk suk"
+  },
+  {
+    "english": "mirage",
+    "mattokki": "nase,nutgei",
+    "nobiin": "nutge'in,amun",
+    "raw": "mirage nase,nutgei nutge'in,amun"
+  },
+  {
+    "english": "mire",
+    "mattokki": "sibe",
+    "nobiin": "sibe",
+    "raw": "mire sibe sibe"
+  },
+  {
+    "english": "mirror",
+    "mattokki": "kogne-ulli",
+    "nobiin": "kogne-ulli",
+    "raw": "mirror kogne-ulli kogne-ulli"
+  },
+  {
+    "english": "mix",
+    "mattokki": "sawir",
+    "nobiin": "gourbir",
+    "raw": "mix sawir gourbir"
+  },
+  {
+    "english": "mixture",
+    "mattokki": "sawur",
+    "nobiin": "gourbad",
+    "raw": "mixture sawur gourbad"
+  },
+  {
+    "english": "moan",
+    "mattokki": "eff",
+    "nobiin": "eff",
+    "raw": "moan eff eff"
+  },
+  {
+    "english": "moat",
+    "mattokki": "mittur",
+    "nobiin": "mittur",
+    "raw": "moat mittur mittur"
+  },
+  {
+    "english": "moist",
+    "mattokki": "ge'awir",
+    "nobiin": "ge'uwwir",
+    "raw": "moist ge'awir ge'uwwir"
+  },
+  {
+    "english": "molar",
+    "mattokki": "nel-in-ge'ou",
+    "nobiin": "need-in-ge'aw",
+    "raw": "molar nel-in-ge'ou need-in-ge'aw"
+  },
+  {
+    "english": "mole",
+    "mattokki": "mitti",
+    "nobiin": "id",
+    "raw": "mole mitti id"
+  },
+  {
+    "english": "money",
+    "mattokki": "dougoo,doungoo",
+    "nobiin": "shongir",
+    "raw": "money dougoo,doungoo shongir"
+  },
+  {
+    "english": "moon",
+    "mattokki": "ounatti",
+    "nobiin": "ounatti",
+    "raw": "moon ounatti ounatti"
+  },
+  {
+    "english": "morsel",
+    "mattokki": "okkotoad",
+    "nobiin": "ketge'ad",
+    "raw": "morsel okkotoad ketge'ad"
+  },
+  {
+    "english": "mother",
+    "mattokki": "ain",
+    "nobiin": "ain",
+    "raw": "mother ain ain"
+  },
+  {
+    "english": "mother",
+    "mattokki": "ugo",
+    "nobiin": "ugo (in-law)",
+    "raw": "mother ugo ugo (in-law)"
+  },
+  {
+    "english": "mountain",
+    "mattokki": "gounna",
+    "nobiin": "moole",
+    "raw": "mountain gounna moole"
+  },
+  {
+    "english": "mouring",
+    "mattokki": "turkur",
+    "nobiin": "turker",
+    "raw": "mouring turkur turker"
+  },
+  {
+    "english": "mouse",
+    "mattokki": "iskitte-koogoge",
+    "nobiin": "ge'igir,bourkouki",
+    "raw": "mouse iskitte-koogoge ge'igir,bourkouki"
+  },
+  {
+    "english": "mouth",
+    "mattokki": "ug",
+    "nobiin": "ug",
+    "raw": "mouth ug ug"
+  },
+  {
+    "english": "much",
+    "mattokki": "digri",
+    "nobiin": "diy'ya",
+    "raw": "much digri diy'ya"
+  },
+  {
+    "english": "mud",
+    "mattokki": "sibe",
+    "nobiin": "urki",
+    "raw": "mud sibe urki"
+  },
+  {
+    "english": "murmur",
+    "mattokki": "N/A",
+    "nobiin": "ge'orge'or",
+    "raw": "murmur N/A ge'orge'or"
+  },
+  {
+    "english": "muzzle",
+    "mattokki": "serimma",
+    "nobiin": "urmade",
+    "raw": "muzzle serimma urmade"
+  },
+  {
+    "english": "nail",
+    "mattokki": "soutti,sounti",
+    "nobiin": "sounti",
+    "raw": "nail soutti,sounti sounti"
+  },
+  {
+    "english": "naked",
+    "mattokki": "wirge-bou",
+    "nobiin": "wirge-a-feen",
+    "raw": "naked wirge-bou wirge-a-feen"
+  },
+  {
+    "english": "name",
+    "mattokki": "erri",
+    "nobiin": "tungiss",
+    "raw": "name erri tungiss"
+  },
+  {
+    "english": "nation",
+    "mattokki": "iri.hoaba",
+    "nobiin": "outtou",
+    "raw": "nation iri.hoaba outtou"
+  },
+  {
+    "english": "natron",
+    "mattokki": "ge'uddi",
+    "nobiin": "ge'uddi",
+    "raw": "natron ge'uddi ge'uddi"
+  },
+  {
+    "english": "naval",
+    "mattokki": "sain",
+    "nobiin": "food",
+    "raw": "naval sain food"
+  },
+  {
+    "english": "near",
+    "mattokki": "ufto,eg'etti",
+    "nobiin": "moal,ge'ir",
+    "raw": "near ufto,eg'etti moal,ge'ir"
+  },
+  {
+    "english": "neck",
+    "mattokki": "iye,iyi",
+    "nobiin": "iyi",
+    "raw": "neck iye,iyi iyi"
+  },
+  {
+    "english": "needle",
+    "mattokki": "itille,intille",
+    "nobiin": "tulle",
+    "raw": "needle  itille,intille tulle"
+  },
+  {
+    "english": "neighbor",
+    "mattokki": "urri,etti",
+    "nobiin": "teme",
+    "raw": "neighbor urri,etti teme"
+  },
+  {
+    "english": "neighborhood",
+    "mattokki": "irri,ettiged",
+    "nobiin": "temekki",
+    "raw": "neighborhood irri,ettiged temekki"
+  },
+  {
+    "english": "nephew",
+    "mattokki": "ge'outti",
+    "nobiin": "ge'outti",
+    "raw": "nephew ge'outti ge'outti"
+  },
+  {
+    "english": "nest",
+    "mattokki": "konni,kaidc",
+    "nobiin": "kenti",
+    "raw": "nest konni,kaidc kenti"
+  },
+  {
+    "english": "never",
+    "mattokki": "mouttur",
+    "nobiin": "oummil,oummig",
+    "raw": "never mouttur oummil,oummig"
+  },
+  {
+    "english": "new",
+    "mattokki": "air",
+    "nobiin": "miri",
+    "raw": "new air miri"
+  },
+  {
+    "english": "next",
+    "mattokki": "agab",
+    "nobiin": "abag",
+    "raw": "next agab abag"
+  },
+  {
+    "english": "night",
+    "mattokki": "ougou",
+    "nobiin": "awa",
+    "raw": "night ougou awa"
+  },
+  {
+    "english": "nine",
+    "mattokki": "iskodo",
+    "nobiin": "oskoda",
+    "raw": "nine iskodo oskoda"
+  },
+  {
+    "english": "nineteen",
+    "mattokki": "dimen-d-iskodo",
+    "nobiin": "dime-r-oskoda",
+    "raw": "nineteen dimen-d-iskodo dime-r-oskoda"
+  },
+  {
+    "english": "nineth",
+    "mattokki": "iskoditti",
+    "nobiin": "oskoditti",
+    "raw": "nineth iskoditti oskoditti"
+  },
+  {
+    "english": "noise",
+    "mattokki": "ge'had",
+    "nobiin": "ge'had",
+    "raw": "noise ge'had ge'had"
+  },
+  {
+    "english": "north",
+    "mattokki": "kalom,kulne",
+    "nobiin": "kulo",
+    "raw": "north kalom,kulne kulo"
+  },
+  {
+    "english": "nose",
+    "mattokki": "sorin,sorigne",
+    "nobiin": "sorong",
+    "raw": "nose sorin,sorigne sorong"
+  },
+  {
+    "english": "nurse",
+    "mattokki": "igid",
+    "nobiin": "geud",
+    "raw": "nurse igid geud"
+  },
+  {
+    "english": "no",
+    "mattokki": "illa",
+    "nobiin": "lala",
+    "raw": "no illa lala"
+  },
+  {
+    "english": "not",
+    "mattokki": "menou",
+    "nobiin": "mou'n",
+    "raw": "not menou mou'n"
+  },
+  {
+    "english": "now",
+    "mattokki": "elekken",
+    "nobiin": "elailun",
+    "raw": "now elekken elailun"
+  },
+  {
+    "english": "oar",
+    "mattokki": "waweddi",
+    "nobiin": "waweddi",
+    "raw": "oar waweddi waweddi"
+  },
+  {
+    "english": "oath",
+    "mattokki": "ge'otti",
+    "nobiin": "geortti",
+    "raw": "oath ge'otti geortti"
+  },
+  {
+    "english": "of",
+    "mattokki": "toan",
+    "nobiin": "toan",
+    "raw": "of toan toan"
+  },
+  {
+    "english": "oil",
+    "mattokki": "noy,dessin",
+    "nobiin": "noy",
+    "raw": "oil noy,dessin noy"
+  },
+  {
+    "english": "okra",
+    "mattokki": "oa'ye",
+    "nobiin": "weyye,oyy",
+    "raw": "okra oa'ye weyye,oyy"
+  },
+  {
+    "english": "old",
+    "mattokki": "kousel,kourous",
+    "nobiin": "far",
+    "raw": "old kousel,kourous far"
+  },
+  {
+    "english": "old",
+    "mattokki": "dourro",
+    "nobiin": "dow'wi (old man)",
+    "raw": "old dourro dow'wi (old man)"
+  },
+  {
+    "english": "on",
+    "mattokki": "dogoag",
+    "nobiin": "doaro",
+    "raw": "on dogoag doaro"
+  },
+  {
+    "english": "one",
+    "mattokki": "we,wairi",
+    "nobiin": "we,waira",
+    "raw": "one we,wairi we,waira"
+  },
+  {
+    "english": "onion",
+    "mattokki": "bile",
+    "nobiin": "file,fele",
+    "raw": "onion bile file,fele"
+  },
+  {
+    "english": "ooze",
+    "mattokki": "buge'e",
+    "nobiin": "buge",
+    "raw": "ooze buge'e buge"
+  },
+  {
+    "english": "open",
+    "mattokki": "kouss",
+    "nobiin": "kuwwir",
+    "raw": "open kouss kuwwir"
+  },
+  {
+    "english": "oppose",
+    "mattokki": "N/A",
+    "nobiin": "filli",
+    "raw": "oppose N/A filli"
+  },
+  {
+    "english": "oppress",
+    "mattokki": "gasir",
+    "nobiin": "gasir",
+    "raw": "oppress gasir gasir"
+  },
+  {
+    "english": "oval",
+    "mattokki": "dawil",
+    "nobiin": "dahalad",
+    "raw": "oval dawil dahalad"
+  },
+  {
+    "english": "overdone",
+    "mattokki": "irb-bou",
+    "nobiin": "irba-feen",
+    "raw": "overdone irb-bou irba-feen"
+  },
+  {
+    "english": "owl",
+    "mattokki": "ogme",
+    "nobiin": "ogme,gougme",
+    "raw": "owl ogme ogme,gougme"
+  },
+  {
+    "english": "own",
+    "mattokki": "ni",
+    "nobiin": "ni",
+    "raw": "own ni ni"
+  },
+  {
+    "english": "owner",
+    "mattokki": "koal",
+    "nobiin": "ko,noar",
+    "raw": "owner koal ko,noar"
+  },
+  {
+    "english": "ox",
+    "mattokki": "gorondi",
+    "nobiin": "gorondi",
+    "raw": "ox gorondi gorondi"
+  },
+  {
+    "english": "pack",
+    "mattokki": "korr",
+    "nobiin": "korr",
+    "raw": "pack korr korr"
+  },
+  {
+    "english": "package",
+    "mattokki": "korrid",
+    "nobiin": "korrid",
+    "raw": "package korrid korrid"
+  },
+  {
+    "english": "painful",
+    "mattokki": "oddigiri",
+    "nobiin": "iddikain",
+    "raw": "painful oddigiri iddikain"
+  },
+  {
+    "english": "palace",
+    "mattokki": "ka-dool",
+    "nobiin": "diffi",
+    "raw": "palace ka-dool diffi"
+  },
+  {
+    "english": "palmtree",
+    "mattokki": "betti",
+    "nobiin": "fenti",
+    "raw": "palmtree betti fenti"
+  },
+  {
+    "english": "panting",
+    "mattokki": "a-houddi,amohotti",
+    "nobiin": "a-houddin",
+    "raw": "panting a-houddi,amohotti a-houddin"
+  },
+  {
+    "english": "past",
+    "mattokki": "way",
+    "nobiin": "shoab",
+    "raw": "past way shoab"
+  },
+  {
+    "english": "pasture",
+    "mattokki": "N/A",
+    "nobiin": "eew",
+    "raw": "pasture N/A eew"
+  },
+  {
+    "english": "paste",
+    "mattokki": "dorkid",
+    "nobiin": "dorkid",
+    "raw": "paste dorkid dorkid"
+  },
+  {
+    "english": "pastry",
+    "mattokki": "tobid",
+    "nobiin": "toffid,orbid",
+    "raw": "pastry tobid toffid,orbid"
+  },
+  {
+    "english": "pat",
+    "mattokki": "tubtir,tuftir",
+    "nobiin": "taffa,tir",
+    "raw": "pat tubtir,tuftir taffa,tir"
+  },
+  {
+    "english": "pay",
+    "mattokki": "ouskour",
+    "nobiin": "ouskir",
+    "raw": "pay ouskour ouskir"
+  },
+  {
+    "english": "pea",
+    "mattokki": "orre",
+    "nobiin": "orre",
+    "raw": "pea orre orre"
+  },
+  {
+    "english": "pebble",
+    "mattokki": "ada",
+    "nobiin": "ada",
+    "raw": "pebble ada ada"
+  },
+  {
+    "english": "peel",
+    "mattokki": "fungne,fungne",
+    "nobiin": "fogod",
+    "raw": "peel fungne,fungne fogod"
+  },
+  {
+    "english": "peg",
+    "mattokki": "kog'ir",
+    "nobiin": "koge'ir finde",
+    "raw": "peg kog'ir koge'ir finde"
+  },
+  {
+    "english": "penis",
+    "mattokki": "gleet,koffe",
+    "nobiin": "kou'ffi",
+    "raw": "penis gleet,koffe kou'ffi"
+  },
+  {
+    "english": "perhaps",
+    "mattokki": "hebet",
+    "nobiin": "hebet",
+    "raw": "perhaps hebet hebet"
+  },
+  {
+    "english": "perplex",
+    "mattokki": "koun-ou",
+    "nobiin": "sokkaolla-feen",
+    "raw": "perplex koun-ou sokkaolla-feen"
+  },
+  {
+    "english": "persistant",
+    "mattokki": "goll-bou",
+    "nobiin": "utta-menge'in",
+    "raw": "persistant goll-bou utta-menge'in"
+  },
+  {
+    "english": "pick",
+    "mattokki": "ub,hub",
+    "nobiin": "uff",
+    "raw": "pick ub,hub uff"
+  },
+  {
+    "english": "pierce",
+    "mattokki": "ibir,shag",
+    "nobiin": "shag",
+    "raw": "pierce ibir,shag shag"
+  },
+  {
+    "english": "pigeon",
+    "mattokki": "mine",
+    "nobiin": "N/A",
+    "raw": "pigeon mine  N/A"
+  },
+  {
+    "english": "pillar",
+    "mattokki": "aile,erundi",
+    "nobiin": "ou'ssou",
+    "raw": "pillar aile,erundi ou'ssou"
+  },
+  {
+    "english": "pimple",
+    "mattokki": "doush'shad-dorm",
+    "nobiin": "doush'shad",
+    "raw": "pimple doush'shad-dorm doush'shad"
+  },
+  {
+    "english": "pinch",
+    "mattokki": "soulouk",
+    "nobiin": "sounggout",
+    "raw": "pinch soulouk sounggout"
+  },
+  {
+    "english": "pint",
+    "mattokki": "obar",
+    "nobiin": "obar",
+    "raw": "pint obar obar"
+  },
+  {
+    "english": "pipe",
+    "mattokki": "kodoash-dowwa",
+    "nobiin": "kodoash,dowwa",
+    "raw": "pipe kodoash-dowwa kodoash,dowwa"
+  },
+  {
+    "english": "piss",
+    "mattokki": "ekked",
+    "nobiin": "ge'orr",
+    "raw": "piss ekked ge'orr"
+  },
+  {
+    "english": "pissed",
+    "mattokki": "ekkedsou",
+    "nobiin": "ge'orron",
+    "raw": "pissed ekkedsou ge'orron"
+  },
+  {
+    "english": "pit",
+    "mattokki": "digur,buttur",
+    "nobiin": "koull-buttur",
+    "raw": "pit digur,buttur koull-buttur"
+  },
+  {
+    "english": "place",
+    "mattokki": "aagur",
+    "nobiin": "aagur",
+    "raw": "place aagur aagur"
+  },
+  {
+    "english": "planting",
+    "mattokki": "taire",
+    "nobiin": "nangir",
+    "raw": "planting taire nangir"
+  },
+  {
+    "english": "plait",
+    "mattokki": "nit",
+    "nobiin": "nit",
+    "raw": "plait nit nit"
+  },
+  {
+    "english": "play",
+    "mattokki": "kushk",
+    "nobiin": "batur",
+    "raw": "play kushk batur"
+  },
+  {
+    "english": "player",
+    "mattokki": "kushkur",
+    "nobiin": "soanutti",
+    "raw": "player kushkur soanutti"
+  },
+  {
+    "english": "plea",
+    "mattokki": "arrid,erri",
+    "nobiin": "irrid",
+    "raw": "plea arrid,erri  irrid"
+  },
+  {
+    "english": "pliable",
+    "mattokki": "shooroo",
+    "nobiin": "ngne'aruw",
+    "raw": "pliable shooroo  ngne'aruw"
+  },
+  {
+    "english": "plug",
+    "mattokki": "godd,gott",
+    "nobiin": "goot",
+    "raw": "plug godd,gott goot"
+  },
+  {
+    "english": "plunder",
+    "mattokki": "N/A",
+    "nobiin": "kosor",
+    "raw": "plunder N/A kosor"
+  },
+  {
+    "english": "plunge",
+    "mattokki": "tubir",
+    "nobiin": "tuffir",
+    "raw": "plunge tubir tuffir"
+  },
+  {
+    "english": "pod",
+    "mattokki": "kush-she",
+    "nobiin": "kush-she",
+    "raw": "pod kush-she kush-she"
+  },
+  {
+    "english": "pollen",
+    "mattokki": "air",
+    "nobiin": "air",
+    "raw": "pollen air air"
+  },
+  {
+    "english": "poverty",
+    "mattokki": "N/A",
+    "nobiin": "galaba",
+    "raw": "poverty N/A galaba"
+  },
+  {
+    "english": "possess",
+    "mattokki": "kowi,koali",
+    "nobiin": "kounin",
+    "raw": "possess kowi,koali kounin"
+  },
+  {
+    "english": "pot",
+    "mattokki": "dadi",
+    "nobiin": "dadi",
+    "raw": "pot dadi dadi"
+  },
+  {
+    "english": "pound",
+    "mattokki": "touk",
+    "nobiin": "touk",
+    "raw": "pound touk touk"
+  },
+  {
+    "english": "pour",
+    "mattokki": "boag",
+    "nobiin": "foag",
+    "raw": "pour boag foag"
+  },
+  {
+    "english": "pouring",
+    "mattokki": "boagur",
+    "nobiin": "foageed",
+    "raw": "pouring boagur foageed"
+  },
+  {
+    "english": "preced",
+    "mattokki": "nog",
+    "nobiin": "geer",
+    "raw": "preced nog geer"
+  },
+  {
+    "english": "pregnant",
+    "mattokki": "mew",
+    "nobiin": "ge'ouoti",
+    "raw": "pregnant mew ge'ouoti"
+  },
+  {
+    "english": "present",
+    "mattokki": "a'gi",
+    "nobiin": "a'gin",
+    "raw": "present a'gi a'gin"
+  },
+  {
+    "english": "press",
+    "mattokki": "ou'rr",
+    "nobiin": "ou'rr",
+    "raw": "press ou'rr ou'rr"
+  },
+  {
+    "english": "pretty",
+    "mattokki": "singir-toad",
+    "nobiin": "mustoad",
+    "raw": "pretty singir-toad mustoad"
+  },
+  {
+    "english": "prevent",
+    "mattokki": "meer",
+    "nobiin": "meer",
+    "raw": "prevent meer meer"
+  },
+  {
+    "english": "prevention",
+    "mattokki": "meerur",
+    "nobiin": "meereed",
+    "raw": "prevention meerur meereed"
+  },
+  {
+    "english": "pride",
+    "mattokki": "irrig'ed",
+    "nobiin": "ko'bekki",
+    "raw": "pride irrig'ed ko'bekki"
+  },
+  {
+    "english": "proud",
+    "mattokki": "newerti-dool",
+    "nobiin": "kobe",
+    "raw": "proud newerti-dool kobe"
+  },
+  {
+    "english": "provision",
+    "mattokki": "aween",
+    "nobiin": "fasil",
+    "raw": "provision aween fasil"
+  },
+  {
+    "english": "prune",
+    "mattokki": "sam",
+    "nobiin": "sab",
+    "raw": "prune sam sab"
+  },
+  {
+    "english": "puber",
+    "mattokki": "witriss",
+    "nobiin": "nisurk",
+    "raw": "puber witriss nisurk"
+  },
+  {
+    "english": "puddle",
+    "mattokki": "obog",
+    "nobiin": "obog",
+    "raw": "puddle obog obog"
+  },
+  {
+    "english": "pull",
+    "mattokki": "N/A",
+    "nobiin": "hurrib",
+    "raw": "pull N/A hurrib"
+  },
+  {
+    "english": "pulsate",
+    "mattokki": "mou'kki",
+    "nobiin": "mou'kkin,wokkin",
+    "raw": "pulsate mou'kki mou'kkin,wokkin"
+  },
+  {
+    "english": "pupil",
+    "mattokki": "heeran",
+    "nobiin": "heeran",
+    "raw": "pupil heeran heeran"
+  },
+  {
+    "english": "pure",
+    "mattokki": "sooda",
+    "nobiin": "sooda",
+    "raw": "pure sooda sooda"
+  },
+  {
+    "english": "push",
+    "mattokki": "ge'ung,kul",
+    "nobiin": "dugne-ge'nng",
+    "raw": "push ge'ung,kul dugne-ge'nng"
+  },
+  {
+    "english": "pus",
+    "mattokki": "witge'i",
+    "nobiin": "winti",
+    "raw": "pus witge'i winti"
+  },
+  {
+    "english": "put",
+    "mattokki": "ouskor",
+    "nobiin": "ouskir",
+    "raw": "put ouskor ouskir"
+  },
+  {
+    "english": "put",
+    "mattokki": "oundour",
+    "nobiin": "oodir (put in)",
+    "raw": "put oundour oodir (put in)"
+  },
+  {
+    "english": "put",
+    "mattokki": "N/A",
+    "nobiin": "okkir (put on)",
+    "raw": "put N/A okkir (put on)"
+  },
+  {
+    "english": "put",
+    "mattokki": "oas",
+    "nobiin": "oas (put out)",
+    "raw": "put oas oas (put out)"
+  },
+  {
+    "english": "quad",
+    "mattokki": "kara",
+    "nobiin": "kara",
+    "raw": "quad kara kara"
+  },
+  {
+    "english": "quaf",
+    "mattokki": "goutge",
+    "nobiin": "koatge",
+    "raw": "quaf goutge koatge"
+  },
+  {
+    "english": "quail",
+    "mattokki": "tennana.furri",
+    "nobiin": "four-fou'rtgei",
+    "raw": "quail tennana.furri four-fou'rtgei"
+  },
+  {
+    "english": "quake",
+    "mattokki": "gogne'ur,goyur",
+    "nobiin": "gougneed",
+    "raw": "quake gogne'ur,goyur gougneed"
+  },
+  {
+    "english": "quakes",
+    "mattokki": "gogne'i-goy'i",
+    "nobiin": "gougne'in",
+    "raw": "quakes gogne'i-goy'i gougne'in"
+  },
+  {
+    "english": "quarrel",
+    "mattokki": "kursig'e",
+    "nobiin": "dingi,gelid",
+    "raw": "quarrel kursig'e dingi,gelid"
+  },
+  {
+    "english": "quarrels",
+    "mattokki": "a-kursigi",
+    "nobiin": "a-dingin",
+    "raw": "quarrels a-kursigi a-dingin"
+  },
+  {
+    "english": "quarter",
+    "mattokki": "kemisore",
+    "nobiin": "kemissi",
+    "raw": "quarter kemisore kemissi"
+  },
+  {
+    "english": "quern",
+    "mattokki": "ge'ou",
+    "nobiin": "ge'aw",
+    "raw": "quern ge'ou ge'aw"
+  },
+  {
+    "english": "quick",
+    "mattokki": "shoutta",
+    "nobiin": "shouttia",
+    "raw": "quick shoutta shouttia"
+  },
+  {
+    "english": "quid",
+    "mattokki": "shekm",
+    "nobiin": "shekm",
+    "raw": "quid shekm shekm"
+  },
+  {
+    "english": "quiet",
+    "mattokki": "kood-bou",
+    "nobiin": "kood-a-feen",
+    "raw": "quiet kood-bou kood-a-feen"
+  },
+  {
+    "english": "quietly",
+    "mattokki": "kitta",
+    "nobiin": "welaisin",
+    "raw": "quietly kitta welaisin"
+  },
+  {
+    "english": "rabbit",
+    "mattokki": "widlug",
+    "nobiin": "dou'ngne",
+    "raw": "rabbit widlug dou'ngne"
+  },
+  {
+    "english": "rag",
+    "mattokki": "blungne'i",
+    "nobiin": "fekke'",
+    "raw": "rag blungne'i fekke'"
+  },
+  {
+    "english": "rain",
+    "mattokki": "han-essi-arroo",
+    "nobiin": "umbor.unborom",
+    "raw": "rain han-essi-arroo umbor.unborom"
+  },
+  {
+    "english": "raise",
+    "mattokki": "sok-kosgegir",
+    "nobiin": "sok-ka-kairkir",
+    "raw": "raise sok-kosgegir sok-ka-kairkir"
+  },
+  {
+    "english": "ram",
+    "mattokki": "eg'ed-n-ondi",
+    "nobiin": "eg'ed-n-ondi",
+    "raw": "ram eg'ed-n-ondi eg'ed-n-ondi"
+  },
+  {
+    "english": "rather",
+    "mattokki": "mun-in-deg",
+    "nobiin": "mun-ne-kin",
+    "raw": "rather mun-in-deg mun-ne-kin"
+  },
+  {
+    "english": "rattle",
+    "mattokki": "sholow",
+    "nobiin": "shalow",
+    "raw": "rattle sholow shalow"
+  },
+  {
+    "english": "raw",
+    "mattokki": "dessi",
+    "nobiin": "dessi",
+    "raw": "raw dessi dessi"
+  },
+  {
+    "english": "razor",
+    "mattokki": "gugne'ir",
+    "nobiin": "gugne'ir",
+    "raw": "razor gugne'ir gugne'ir"
+  },
+  {
+    "english": "reach",
+    "mattokki": "door",
+    "nobiin": "do'ow",
+    "raw": "reach door do'ow"
+  },
+  {
+    "english": "reached",
+    "mattokki": "doorsou",
+    "nobiin": "do'owon",
+    "raw": "reached doorsou do'owon"
+  },
+  {
+    "english": "real",
+    "mattokki": "ale",
+    "nobiin": "ale",
+    "raw": "real ale ale"
+  },
+  {
+    "english": "reality",
+    "mattokki": "ale-toad",
+    "nobiin": "ale-toad",
+    "raw": "reality ale-toad ale-toad"
+  },
+  {
+    "english": "reap",
+    "mattokki": "ge'oar",
+    "nobiin": "goar",
+    "raw": "reap ge'oar goar"
+  },
+  {
+    "english": "reaps",
+    "mattokki": "ge'oari",
+    "nobiin": "goarin",
+    "raw": "reaps ge'oari goarin"
+  },
+  {
+    "english": "reconcile",
+    "mattokki": "gendgir",
+    "nobiin": "g'engkir",
+    "raw": "reconcile gendgir g'engkir"
+  },
+  {
+    "english": "recovered",
+    "mattokki": "way-yoasoo",
+    "nobiin": "wey'yoason",
+    "raw": "recovered way-yoasoo wey'yoason"
+  },
+  {
+    "english": "red",
+    "mattokki": "gaile",
+    "nobiin": "gail",
+    "raw": "red gaile gail"
+  },
+  {
+    "english": "redeem",
+    "mattokki": "osark,baiw",
+    "nobiin": "baiw",
+    "raw": "redeem osark,baiw baiw"
+  },
+  {
+    "english": "reed",
+    "mattokki": "age",
+    "nobiin": "age",
+    "raw": "reed age age"
+  },
+  {
+    "english": "refusal",
+    "mattokki": "moanur",
+    "nobiin": "moanti",
+    "raw": "refusal moanur moanti"
+  },
+  {
+    "english": "refused",
+    "mattokki": "moansou",
+    "nobiin": "moanon",
+    "raw": "refused moansou moanon"
+  },
+  {
+    "english": "relative",
+    "mattokki": "egitti,titge",
+    "nobiin": "tair",
+    "raw": "relative egitti,titge tair"
+  },
+  {
+    "english": "release",
+    "mattokki": "karakel",
+    "nobiin": "karakir",
+    "raw": "release karakel karakir"
+  },
+  {
+    "english": "remember",
+    "mattokki": "ge'il",
+    "nobiin": "ge'il",
+    "raw": "remember ge'il ge'il"
+  },
+  {
+    "english": "remainrest",
+    "mattokki": "kewiddi",
+    "nobiin": "keedo",
+    "raw": "remainrest kewiddi keedo"
+  },
+  {
+    "english": "repair",
+    "mattokki": "N/A",
+    "nobiin": "tomor",
+    "raw": "repair N/A tomor"
+  },
+  {
+    "english": "reptile",
+    "mattokki": "nolli",
+    "nobiin": "nolli",
+    "raw": "reptile nolli nolli"
+  },
+  {
+    "english": "resist",
+    "mattokki": "gober",
+    "nobiin": "tour-gne-turbuk",
+    "raw": "resist gober tour-gne-turbuk"
+  },
+  {
+    "english": "riddle",
+    "mattokki": "orti,norti",
+    "nobiin": "orti-n-nortinan",
+    "raw": "riddle orti,norti orti-n-nortinan"
+  },
+  {
+    "english": "ride",
+    "mattokki": "egir",
+    "nobiin": "doag",
+    "raw": "ride egir doag"
+  },
+  {
+    "english": "riding",
+    "mattokki": "egirbou",
+    "nobiin": "doag-a-feen",
+    "raw": "riding egirbou doag-a-feen"
+  },
+  {
+    "english": "right",
+    "mattokki": "iyn",
+    "nobiin": "iyon",
+    "raw": "right iyn iyon"
+  },
+  {
+    "english": "ring",
+    "mattokki": "temeem",
+    "nobiin": "temeem",
+    "raw": "ring temeem temeem"
+  },
+  {
+    "english": "rinse",
+    "mattokki": "elew",
+    "nobiin": "elew",
+    "raw": "rinse elew elew"
+  },
+  {
+    "english": "riot",
+    "mattokki": "sar",
+    "nobiin": "sar",
+    "raw": "riot sar sar"
+  },
+  {
+    "english": "ripe",
+    "mattokki": "kurge-bou",
+    "nobiin": "kurge-a-feen",
+    "raw": "ripe kurge-bou kurge-a-feen"
+  },
+  {
+    "english": "rippen",
+    "mattokki": "kurge'gir",
+    "nobiin": "kurge'ir",
+    "raw": "rippen kurge'gir kurge'ir"
+  },
+  {
+    "english": "road",
+    "mattokki": "ge'ir",
+    "nobiin": "duwi,ge'ourra",
+    "raw": "road ge'ir duwi,ge'ourra"
+  },
+  {
+    "english": "roar",
+    "mattokki": "irri",
+    "nobiin": "boang",
+    "raw": "roar irri boang"
+  },
+  {
+    "english": "rob",
+    "mattokki": "mag",
+    "nobiin": "murk",
+    "raw": "rob mag murk"
+  },
+  {
+    "english": "robber",
+    "mattokki": "maguss",
+    "nobiin": "murkutti",
+    "raw": "robber maguss murkutti"
+  },
+  {
+    "english": "rock",
+    "mattokki": "koulou",
+    "nobiin": "kid",
+    "raw": "rock koulou kid"
+  },
+  {
+    "english": "roll",
+    "mattokki": "gergige",
+    "nobiin": "g'erg'ed",
+    "raw": "roll gergige g'erg'ed"
+  },
+  {
+    "english": "roof",
+    "mattokki": "nooki",
+    "nobiin": "dumbi",
+    "raw": "roof nooki dumbi"
+  },
+  {
+    "english": "root",
+    "mattokki": "oosi",
+    "nobiin": "mame",
+    "raw": "root oosi mame"
+  },
+  {
+    "english": "rope",
+    "mattokki": "iri",
+    "nobiin": "ulli",
+    "raw": "rope iri ulli"
+  },
+  {
+    "english": "rove",
+    "mattokki": "tisk",
+    "nobiin": "tish",
+    "raw": "rove tisk tish"
+  },
+  {
+    "english": "rover",
+    "mattokki": "tish-bou",
+    "nobiin": "tish-a-feen",
+    "raw": "rover tish-bou tish-a-feen"
+  },
+  {
+    "english": "row",
+    "mattokki": "waw",
+    "nobiin": "waw",
+    "raw": "row waw waw"
+  },
+  {
+    "english": "rumour",
+    "mattokki": "basgir",
+    "nobiin": "baskir",
+    "raw": "rumour basgir baskir"
+  },
+  {
+    "english": "run",
+    "mattokki": "boad",
+    "nobiin": "boad",
+    "raw": "run boad boad"
+  },
+  {
+    "english": "runaway",
+    "mattokki": "douss",
+    "nobiin": "douss",
+    "raw": "runaway douss douss"
+  },
+  {
+    "english": "running",
+    "mattokki": "boad-bou",
+    "nobiin": "mira-feen",
+    "raw": "running boad-bou mira-feen"
+  },
+  {
+    "english": "saddle",
+    "mattokki": "degir",
+    "nobiin": "deg'er",
+    "raw": "saddle degir deg'er"
+  },
+  {
+    "english": "sound",
+    "mattokki": "shurkel",
+    "nobiin": "firr-a-feen (not broken)",
+    "raw": "sound shurkel firr-a-feen (not broken)"
+  },
+  {
+    "english": "said",
+    "mattokki": "wesoo",
+    "nobiin": "eegon",
+    "raw": "said wesoo eegon"
+  },
+  {
+    "english": "sake",
+    "mattokki": "ge'oro",
+    "nobiin": "sibahir",
+    "raw": "sake ge'oro sibahir"
+  },
+  {
+    "english": "sale",
+    "mattokki": "geanter",
+    "nobiin": "ge'anti",
+    "raw": "sale geanter ge'anti"
+  },
+  {
+    "english": "saliva",
+    "mattokki": "ge'ombod",
+    "nobiin": "g'oumoud",
+    "raw": "saliva ge'ombod g'oumoud"
+  },
+  {
+    "english": "salt",
+    "mattokki": "oumboud",
+    "nobiin": "imeed",
+    "raw": "salt oumboud imeed"
+  },
+  {
+    "english": "same",
+    "mattokki": "ter-ter",
+    "nobiin": "tullin",
+    "raw": "same ter-ter tullin"
+  },
+  {
+    "english": "sand",
+    "mattokki": "seew",
+    "nobiin": "seew",
+    "raw": "sand seew seew"
+  },
+  {
+    "english": "saturday",
+    "mattokki": "sumte",
+    "nobiin": "sumte",
+    "raw": "saturday sumte sumte"
+  },
+  {
+    "english": "saw",
+    "mattokki": "nulsou",
+    "nobiin": "nulon (past of see)",
+    "raw": "saw nulsou nulon (past of see)"
+  },
+  {
+    "english": "saw",
+    "mattokki": "sa1r",
+    "nobiin": "sair (cutting wood)",
+    "raw": "saw sa1r sair (cutting wood)"
+  },
+  {
+    "english": "say",
+    "mattokki": "we",
+    "nobiin": "eeg",
+    "raw": "say we eeg"
+  },
+  {
+    "english": "says",
+    "mattokki": "we'i",
+    "nobiin": "eegin",
+    "raw": "says we'i eegin"
+  },
+  {
+    "english": "scab",
+    "mattokki": "kuy'yo",
+    "nobiin": "kuy'yo",
+    "raw": "scab kuy'yo kuy'yo"
+  },
+  {
+    "english": "scat1er",
+    "mattokki": "N/A",
+    "nobiin": "meheg",
+    "raw": "scat1er N/A meheg"
+  },
+  {
+    "english": "scent",
+    "mattokki": "noummel",
+    "nobiin": "oungi",
+    "raw": "scent noummel oungi"
+  },
+  {
+    "english": "scissor",
+    "mattokki": "kisoreen",
+    "nobiin": "kisoreen",
+    "raw": "scissor kisoreen kisoreen"
+  },
+  {
+    "english": "scorpion",
+    "mattokki": "etge'een",
+    "nobiin": "saged",
+    "raw": "scorpion etge'een saged"
+  },
+  {
+    "english": "scrape",
+    "mattokki": "soad",
+    "nobiin": "soad",
+    "raw": "scrape soad soad"
+  },
+  {
+    "english": "scratch",
+    "mattokki": "koart",
+    "nobiin": "koart",
+    "raw": "scratch koart koart"
+  },
+  {
+    "english": "scour",
+    "mattokki": "ge'egid",
+    "nobiin": "ge'ogod",
+    "raw": "scour ge'egid ge'ogod"
+  },
+  {
+    "english": "scum",
+    "mattokki": "alogne-ney",
+    "nobiin": "ushush1",
+    "raw": "scum alogne-ney ushush1"
+  },
+  {
+    "english": "seashore",
+    "mattokki": "abtogoag",
+    "nobiin": "abol-in",
+    "raw": "seashore abtogoag abol-in"
+  },
+  {
+    "english": "second",
+    "mattokki": "owwetti",
+    "nobiin": "ewwotti",
+    "raw": "second owwetti ewwotti"
+  },
+  {
+    "english": "seduce",
+    "mattokki": "el",
+    "nobiin": "elt",
+    "raw": "seduce el elt"
+  },
+  {
+    "english": "seducing",
+    "mattokki": "elur",
+    "nobiin": "elti",
+    "raw": "seducing elur elti"
+  },
+  {
+    "english": "see",
+    "mattokki": "nul",
+    "nobiin": "nul",
+    "raw": "see nul nul"
+  },
+  {
+    "english": "seed",
+    "mattokki": "taire",
+    "nobiin": "koge,ir",
+    "raw": "seed taire koge,ir"
+  },
+  {
+    "english": "seed",
+    "mattokki": "tairi",
+    "nobiin": "wair (to seed)",
+    "raw": "seed tairi wair (to seed)"
+  },
+  {
+    "english": "seeing",
+    "mattokki": "nulti,nulur",
+    "nobiin": "nulti",
+    "raw": "seeing nulti,nulur nulti"
+  },
+  {
+    "english": "select",
+    "mattokki": "bur",
+    "nobiin": "fur",
+    "raw": "select bur fur"
+  },
+  {
+    "english": "selection",
+    "mattokki": "buur",
+    "nobiin": "fureed",
+    "raw": "selection buur fureed"
+  },
+  {
+    "english": "self",
+    "mattokki": "kidir",
+    "nobiin": "uy",
+    "raw": "self kidir uy"
+  },
+  {
+    "english": "selflove",
+    "mattokki": "kidir-dolli",
+    "nobiin": "ay-dolli",
+    "raw": "selflove kidir-dolli ay-dolli"
+  },
+  {
+    "english": "sell",
+    "mattokki": "ge'anoas",
+    "nobiin": "ge'anoas",
+    "raw": "sell ge'anoas ge'anoas"
+  },
+  {
+    "english": "seller",
+    "mattokki": "geanoasil",
+    "nobiin": "ge'anoasi",
+    "raw": "seller geanoasil ge'anoasi"
+  },
+  {
+    "english": "send",
+    "mattokki": "ishin,idir",
+    "nobiin": "eedir",
+    "raw": "send ishin,idir eedir"
+  },
+  {
+    "english": "sender",
+    "mattokki": "ishlnil,gobir",
+    "nobiin": "eediro",
+    "raw": "sender ishlnil,gobir eediro"
+  },
+  {
+    "english": "sending",
+    "mattokki": "ishinur",
+    "nobiin": "eedirti",
+    "raw": "sending ishinur eedirti"
+  },
+  {
+    "english": "seven",
+    "mattokki": "koled-ou",
+    "nobiin": "koloda",
+    "raw": "seven koled-ou koloda"
+  },
+  {
+    "english": "seventeen",
+    "mattokki": "dimen-d-koledou",
+    "nobiin": "dime-koloda",
+    "raw": "seventeen dimen-d-koledou dime-koloda"
+  },
+  {
+    "english": "seventeenth",
+    "mattokki": "demin-koleditti",
+    "nobiin": "dime-koloditti",
+    "raw": "seventeenth demin-koleditti dime-koloditti"
+  },
+  {
+    "english": "seventh",
+    "mattokki": "koleditti",
+    "nobiin": "koloditti",
+    "raw": "seventh koleditti koloditti"
+  },
+  {
+    "english": "sew",
+    "mattokki": "nige",
+    "nobiin": "nitge",
+    "raw": "sew nige nitge"
+  },
+  {
+    "english": "sewing",
+    "mattokki": "nige'ur",
+    "nobiin": "nigte'eed",
+    "raw": "sewing nige'ur nigte'eed"
+  },
+  {
+    "english": "shade",
+    "mattokki": "nooni,urri",
+    "nobiin": "noor",
+    "raw": "shade nooni,urri noor"
+  },
+  {
+    "english": "shadow",
+    "mattokki": "odil",
+    "nobiin": "ollin-noor",
+    "raw": "shadow odil ollin-noor"
+  },
+  {
+    "english": "shake",
+    "mattokki": "shond",
+    "nobiin": "shong,shon",
+    "raw": "shake shond shong,shon"
+  },
+  {
+    "english": "shallow",
+    "mattokki": "koutti,fettal",
+    "nobiin": "fitge'i",
+    "raw": "shallow koutti,fettal fitge'i"
+  },
+  {
+    "english": "sharp",
+    "mattokki": "nuddi",
+    "nobiin": "nurri",
+    "raw": "sharp nuddi nurri"
+  },
+  {
+    "english": "sharpen",
+    "mattokki": "ungissi",
+    "nobiin": "angissir",
+    "raw": "sharpen ungissi angissir"
+  },
+  {
+    "english": "shave",
+    "mattokki": "gungne",
+    "nobiin": "gungne",
+    "raw": "shave gungne gungne"
+  },
+  {
+    "english": "shear",
+    "mattokki": "kerb",
+    "nobiin": "kerb",
+    "raw": "shear kerb kerb"
+  },
+  {
+    "english": "sheer",
+    "mattokki": "kerbi",
+    "nobiin": "kerbi",
+    "raw": "sheer kerbi kerbi"
+  },
+  {
+    "english": "sheep",
+    "mattokki": "ourtitge'i",
+    "nobiin": "ourtigiri",
+    "raw": "sheep ourtitge'i ourtigiri"
+  },
+  {
+    "english": "sheild",
+    "mattokki": "karoo",
+    "nobiin": "goungnea",
+    "raw": "sheild karoo goungnea"
+  },
+  {
+    "english": "shoe",
+    "mattokki": "koriss,korsi",
+    "nobiin": "dir",
+    "raw": "shoe koriss,korsi  dir"
+  },
+  {
+    "english": "short",
+    "mattokki": "ourtouna",
+    "nobiin": "ourad",
+    "raw": "short ourtouna ourad"
+  },
+  {
+    "english": "shoulder",
+    "mattokki": "oa,osmur",
+    "nobiin": "osmur",
+    "raw": "shoulder oa,osmur osmur"
+  },
+  {
+    "english": "show",
+    "mattokki": "amintir",
+    "nobiin": "amuntikir",
+    "raw": "show amintir amuntikir"
+  },
+  {
+    "english": "shrink",
+    "mattokki": "kodom",
+    "nobiin": "kodom",
+    "raw": "shrink kodom kodom"
+  },
+  {
+    "english": "shroud",
+    "mattokki": "tougou'r",
+    "nobiin": "tougou'r",
+    "raw": "shroud tougou'r tougou'r"
+  },
+  {
+    "english": "shut",
+    "mattokki": "kob",
+    "nobiin": "koff",
+    "raw": "shut kob koff"
+  },
+  {
+    "english": "shut-up",
+    "mattokki": "god",
+    "nobiin": "got",
+    "raw": "shut-up god got"
+  },
+  {
+    "english": "sible",
+    "mattokki": "nerre-mougil",
+    "nobiin": "kogosh mougi",
+    "raw": "sible nerre-mougil kogosh mougi"
+  },
+  {
+    "english": "silence",
+    "mattokki": "kit,kitto",
+    "nobiin": "wiyyo-houss",
+    "raw": "silence kit,kitto wiyyo-houss"
+  },
+  {
+    "english": "similar",
+    "mattokki": "kotti",
+    "nobiin": "kelli",
+    "raw": "similar kotti kelli"
+  },
+  {
+    "english": "sing",
+    "mattokki": "aa,oa",
+    "nobiin": "kair",
+    "raw": "sing aa,oa kair"
+  },
+  {
+    "english": "singer",
+    "mattokki": "aai,oai",
+    "nobiin": "kaire",
+    "raw": "singer aai,oai kaire"
+  },
+  {
+    "english": "singing",
+    "mattokki": "oarur,oal",
+    "nobiin": "kaire",
+    "raw": "singing oarur,oal kaire"
+  },
+  {
+    "english": "single",
+    "mattokki": "koatoad",
+    "nobiin": "koatoad",
+    "raw": "single koatoad koatoad"
+  },
+  {
+    "english": "sink",
+    "mattokki": "kidgir",
+    "nobiin": "kidir",
+    "raw": "sink kidgir kidir"
+  },
+  {
+    "english": "sip",
+    "mattokki": "shilib",
+    "nobiin": "sheeb,koatge",
+    "raw": "sip shilib sheeb,koatge"
+  },
+  {
+    "english": "sister",
+    "mattokki": "essi",
+    "nobiin": "essi",
+    "raw": "sister essi essi"
+  },
+  {
+    "english": "sit",
+    "mattokki": "taig,agidd",
+    "nobiin": "teeg,aag",
+    "raw": "sit taig,agidd teeg,aag"
+  },
+  {
+    "english": "six",
+    "mattokki": "gorige'o",
+    "nobiin": "gorge'o",
+    "raw": "six gorige'o gorge'o"
+  },
+  {
+    "english": "sixteen",
+    "mattokki": "dimen-d-gorge'o",
+    "nobiin": "dime-gorge'o",
+    "raw": "sixteen dimen-d-gorge'o dime-gorge'o"
+  },
+  {
+    "english": "sixth",
+    "mattokki": "gorge'itti",
+    "nobiin": "gorge'itti",
+    "raw": "sixth gorge'itti gorge'itti"
+  },
+  {
+    "english": "skim",
+    "mattokki": "wullkir",
+    "nobiin": "ot",
+    "raw": "skim wullkir ot"
+  },
+  {
+    "english": "skin",
+    "mattokki": "age'in",
+    "nobiin": "nawa",
+    "raw": "skin age'in nawa"
+  },
+  {
+    "english": "skull",
+    "mattokki": "goumour",
+    "nobiin": "goumour",
+    "raw": "skull goumour goumour"
+  },
+  {
+    "english": "slaughter",
+    "mattokki": "geog'ur",
+    "nobiin": "goge'eed",
+    "raw": "slaughter geog'ur goge'eed"
+  },
+  {
+    "english": "slave",
+    "mattokki": "nougoud",
+    "nobiin": "oshshi",
+    "raw": "slave nougoud oshshi"
+  },
+  {
+    "english": "slavary",
+    "mattokki": "nougoud-kid",
+    "nobiin": "oshikki",
+    "raw": "slavary nougoud-kid oshikki"
+  },
+  {
+    "english": "slay",
+    "mattokki": "goge",
+    "nobiin": "goge",
+    "raw": "slay goge goge"
+  },
+  {
+    "english": "sleep",
+    "mattokki": "nair",
+    "nobiin": "nair",
+    "raw": "sleep nair nair"
+  },
+  {
+    "english": "sleeping",
+    "mattokki": "nairbou",
+    "nobiin": "nair-e-feen",
+    "raw": "sleeping nairbou nair-e-feen"
+  },
+  {
+    "english": "sleepy",
+    "mattokki": "nelige-bou",
+    "nobiin": "nail-a-feen",
+    "raw": "sleepy nelige-bou nail-a-feen"
+  },
+  {
+    "english": "sling",
+    "mattokki": "tolloulaya",
+    "nobiin": "togoge",
+    "raw": "sling tolloulaya togoge"
+  },
+  {
+    "english": "slip",
+    "mattokki": "sirge",
+    "nobiin": "sirge",
+    "raw": "slip sirge sirge"
+  },
+  {
+    "english": "slippery",
+    "mattokki": "sirge'ur",
+    "nobiin": "sirge'ure",
+    "raw": "slippery sirge'ur sirge'ure"
+  },
+  {
+    "english": "slowly",
+    "mattokki": "noare",
+    "nobiin": "eebeetge",
+    "raw": "slowly noare eebeetge"
+  },
+  {
+    "english": "slut",
+    "mattokki": "tullad",
+    "nobiin": "tullad",
+    "raw": "slut tullad tullad"
+  },
+  {
+    "english": "smash",
+    "mattokki": "toagige",
+    "nobiin": "felfel",
+    "raw": "smash toagige felfel"
+  },
+  {
+    "english": "small",
+    "mattokki": "kinna",
+    "nobiin": "koudood",
+    "raw": "small kinna koudood"
+  },
+  {
+    "english": "smell",
+    "mattokki": "iris",
+    "nobiin": "gutti (fragrence)",
+    "raw": "smell iris gutti (fragrence)"
+  },
+  {
+    "english": "smell",
+    "mattokki": "sounn",
+    "nobiin": "sounn (to smell)",
+    "raw": "smell sounn sounn (to smell)"
+  },
+  {
+    "english": "smelling",
+    "mattokki": "sounnur",
+    "nobiin": "sounneed",
+    "raw": "smelling sounnur sounneed"
+  },
+  {
+    "english": "smile",
+    "mattokki": "N/A",
+    "nobiin": "bishik",
+    "raw": "smile N/A bishik"
+  },
+  {
+    "english": "smoke",
+    "mattokki": "goussooti",
+    "nobiin": "toulli",
+    "raw": "smoke goussooti toulli"
+  },
+  {
+    "english": "snake",
+    "mattokki": "a'ya",
+    "nobiin": "wisslungi,bislungi",
+    "raw": "snake a'ya wisslungi,bislungi"
+  },
+  {
+    "english": "snap",
+    "mattokki": "tomm",
+    "nobiin": "toom",
+    "raw": "snap tomm toom"
+  },
+  {
+    "english": "sneeze",
+    "mattokki": "adiyi,arigne",
+    "nobiin": "urngne",
+    "raw": "sneeze adiyi,arigne urngne"
+  },
+  {
+    "english": "snore",
+    "mattokki": "atehtehe",
+    "nobiin": "atounnin",
+    "raw": "snore atehtehe atounnin"
+  },
+  {
+    "english": "soak",
+    "mattokki": "nengne-ir",
+    "nobiin": "neyyirsoft ge'ondo ge'ondo",
+    "raw": "soak nengne-ir neyyirsoft ge'ondo ge'ondo"
+  },
+  {
+    "english": "solid",
+    "mattokki": "kogor",
+    "nobiin": "kogor",
+    "raw": "solid kogor kogor"
+  },
+  {
+    "english": "some",
+    "mattokki": "bagid",
+    "nobiin": "bagid",
+    "raw": "some bagid bagid"
+  },
+  {
+    "english": "son",
+    "mattokki": "uffi,toad",
+    "nobiin": "ga'toad",
+    "raw": "son uffi,toad ga'toad"
+  },
+  {
+    "english": "son",
+    "mattokki": "ussi",
+    "nobiin": "ussi (grand son)",
+    "raw": "son ussi ussi (grand son)"
+  },
+  {
+    "english": "son",
+    "mattokki": "otti",
+    "nobiin": "otti (son in law)",
+    "raw": "son otti otti (son in law)"
+  },
+  {
+    "english": "song",
+    "mattokki": "oarur",
+    "nobiin": "kaire",
+    "raw": "song oarur kaire"
+  },
+  {
+    "english": "soul",
+    "mattokki": "newerti",
+    "nobiin": "shogorti",
+    "raw": "soul newerti shogorti"
+  },
+  {
+    "english": "sour",
+    "mattokki": "ourour",
+    "nobiin": "sutti",
+    "raw": "sour ourour sutti"
+  },
+  {
+    "english": "south",
+    "mattokki": "ongo",
+    "nobiin": "oro",
+    "raw": "south ongo oro"
+  },
+  {
+    "english": "speak",
+    "mattokki": "buy,bunge",
+    "nobiin": "bunge",
+    "raw": "speak buy,bunge bunge"
+  },
+  {
+    "english": "speaks",
+    "mattokki": "buyi,bungnei",
+    "nobiin": "bungne",
+    "raw": "speaks buyi,bungnei bungne"
+  },
+  {
+    "english": "spear",
+    "mattokki": "sha",
+    "nobiin": "sharti",
+    "raw": "spear sha sharti"
+  },
+  {
+    "english": "special",
+    "mattokki": "korin",
+    "nobiin": "abour-koari",
+    "raw": "special korin abour-koari"
+  },
+  {
+    "english": "speech",
+    "mattokki": "buyneed",
+    "nobiin": "bugneed",
+    "raw": "speech buyneed bugneed"
+  },
+  {
+    "english": "speed",
+    "mattokki": "boadir",
+    "nobiin": "war-a-weed",
+    "raw": "speed boadir war-a-weed"
+  },
+  {
+    "english": "spider",
+    "mattokki": "korab",
+    "nobiin": "kourabe",
+    "raw": "spider korab kourabe"
+  },
+  {
+    "english": "spin",
+    "mattokki": "nod,wedd",
+    "nobiin": "kusir",
+    "raw": "spin nod,wedd kusir"
+  },
+  {
+    "english": "spindle",
+    "mattokki": "wede",
+    "nobiin": "wede",
+    "raw": "spindle wede wede"
+  },
+  {
+    "english": "spinging",
+    "mattokki": "a-weddi-a-noddi",
+    "nobiin": "a-kusain",
+    "raw": "spinging a-weddi-a-noddi a-kusain"
+  },
+  {
+    "english": "spit",
+    "mattokki": "boge'ok",
+    "nobiin": "ge'isik",
+    "raw": "spit boge'ok ge'isik"
+  },
+  {
+    "english": "spite",
+    "mattokki": "koutig",
+    "nobiin": "koutir",
+    "raw": "spite koutig koutir"
+  },
+  {
+    "english": "spleen",
+    "mattokki": "nednudi",
+    "nobiin": "mir-n-ondi",
+    "raw": "spleen nednudi mir-n-ondi"
+  },
+  {
+    "english": "spill",
+    "mattokki": "N/A",
+    "nobiin": "fok",
+    "raw": "spill N/A fok"
+  },
+  {
+    "english": "split",
+    "mattokki": "wuitge-boo",
+    "nobiin": "guk-a-feen",
+    "raw": "split wuitge-boo guk-a-feen"
+  },
+  {
+    "english": "spoilt",
+    "mattokki": "N/A",
+    "nobiin": "forre",
+    "raw": "spoilt N/A forre"
+  },
+  {
+    "english": "spoke",
+    "mattokki": "buysoo,bungne,sou",
+    "nobiin": "bugne'on",
+    "raw": "spoke buysoo,bungne,sou bugne'on"
+  },
+  {
+    "english": "spoon",
+    "mattokki": "kash-eddi",
+    "nobiin": "kash-eddi",
+    "raw": "spoon kash-eddi kash-eddi"
+  },
+  {
+    "english": "sprain",
+    "mattokki": "bood-bou",
+    "nobiin": "bood-a-feen",
+    "raw": "sprain bood-bou bood-a-feen"
+  },
+  {
+    "english": "sprawl",
+    "mattokki": "obige,tourb",
+    "nobiin": "fush-a-fiy",
+    "raw": "sprawl obige,tourb fush-a-fiy"
+  },
+  {
+    "english": "spray",
+    "mattokki": "soor",
+    "nobiin": "soor",
+    "raw": "spray soor soor"
+  },
+  {
+    "english": "spread",
+    "mattokki": "uwid",
+    "nobiin": "uwwir",
+    "raw": "spread uwid uwwir"
+  },
+  {
+    "english": "spread",
+    "mattokki": "N/A",
+    "nobiin": "bas",
+    "raw": "spread N/A bas"
+  },
+  {
+    "english": "sprinkle",
+    "mattokki": "soull",
+    "nobiin": "soull",
+    "raw": "sprinkle soull soull"
+  },
+  {
+    "english": "spy",
+    "mattokki": "ge;ab",
+    "nobiin": "ge'ab",
+    "raw": "spy ge;ab ge'ab"
+  },
+  {
+    "english": "squander",
+    "mattokki": "N/A",
+    "nobiin": "meheg",
+    "raw": "squander N/A meheg"
+  },
+  {
+    "english": "squanderer",
+    "mattokki": "N/A",
+    "nobiin": "mehegad",
+    "raw": "squanderer N/A mehegad"
+  },
+  {
+    "english": "squat",
+    "mattokki": "den",
+    "nobiin": "kunder",
+    "raw": "squat den kunder"
+  },
+  {
+    "english": "squatting",
+    "mattokki": "den-gi-ge'om",
+    "nobiin": "kunder-kaoushir",
+    "raw": "squatting den-gi-ge'om kunder-kaoushir"
+  },
+  {
+    "english": "stagnate",
+    "mattokki": "taibboo",
+    "nobiin": "ge'ab-mangen",
+    "raw": "stagnate taibboo ge'ab-mangen"
+  },
+  {
+    "english": "stand",
+    "mattokki": "kout",
+    "nobiin": "kout",
+    "raw": "stand kout kout"
+  },
+  {
+    "english": "stand",
+    "mattokki": "up",
+    "nobiin": "kout-taib kouta-menege",
+    "raw": "stand up kout-taib kouta-menege"
+  },
+  {
+    "english": "stain",
+    "mattokki": "geirib",
+    "nobiin": "ge'irb",
+    "raw": "stain geirib ge'irb"
+  },
+  {
+    "english": "star",
+    "mattokki": "wissi",
+    "nobiin": "win'ge'i",
+    "raw": "star wissi win'ge'i"
+  },
+  {
+    "english": "starvation",
+    "mattokki": "orgid",
+    "nobiin": "orgid",
+    "raw": "starvation orgid orgid"
+  },
+  {
+    "english": "stay",
+    "mattokki": "aag",
+    "nobiin": "aag",
+    "raw": "stay aag aag"
+  },
+  {
+    "english": "staying",
+    "mattokki": "aagi",
+    "nobiin": "aagin",
+    "raw": "staying aagi aagin"
+  },
+  {
+    "english": "stench",
+    "mattokki": "siy'yel",
+    "nobiin": "koush-shad",
+    "raw": "stench siy'yel koush-shad"
+  },
+  {
+    "english": "step",
+    "mattokki": "bat",
+    "nobiin": "fung'a",
+    "raw": "step bat fung'a"
+  },
+  {
+    "english": "stick",
+    "mattokki": "witge'ir",
+    "nobiin": "gulle",
+    "raw": "stick witge'ir gulle"
+  },
+  {
+    "english": "still",
+    "mattokki": "elekkon",
+    "nobiin": "elgon",
+    "raw": "still elekkon elgon"
+  },
+  {
+    "english": "stir",
+    "mattokki": "kash",
+    "nobiin": "kash",
+    "raw": "stir kash kash"
+  },
+  {
+    "english": "stone",
+    "mattokki": "koulou",
+    "nobiin": "kid,koulod",
+    "raw": "stone koulou kid,koulod"
+  },
+  {
+    "english": "stook",
+    "mattokki": "tortor",
+    "nobiin": "tortor",
+    "raw": "stook tortor tortor"
+  },
+  {
+    "english": "stop",
+    "mattokki": "taib",
+    "nobiin": "men'ge",
+    "raw": "stop taib men'ge"
+  },
+  {
+    "english": "storm",
+    "mattokki": "kuge-wur",
+    "nobiin": "kinngneud",
+    "raw": "storm kuge-wur kinngneud"
+  },
+  {
+    "english": "story",
+    "mattokki": "koumma",
+    "nobiin": "koumma",
+    "raw": "story koumma koumma"
+  },
+  {
+    "english": "stradle",
+    "mattokki": "bagash",
+    "nobiin": "bugsh",
+    "raw": "stradle bagash bugsh"
+  },
+  {
+    "english": "straight",
+    "mattokki": "ogoad",
+    "nobiin": "ogoad",
+    "raw": "straight ogoad ogoad"
+  },
+  {
+    "english": "strangle",
+    "mattokki": "gid",
+    "nobiin": "gir",
+    "raw": "strangle gid gir"
+  },
+  {
+    "english": "strength",
+    "mattokki": "ibirti",
+    "nobiin": "ibtrti",
+    "raw": "strength ibirti ibtrti"
+  },
+  {
+    "english": "strike",
+    "mattokki": "null",
+    "nobiin": "null",
+    "raw": "strike null null"
+  },
+  {
+    "english": "strong",
+    "mattokki": "ibirti-koal",
+    "nobiin": "ibirti-ko",
+    "raw": "strong ibirti-koal ibirti-ko"
+  },
+  {
+    "english": "submerge",
+    "mattokki": "walawgir",
+    "nobiin": "walaw-kir",
+    "raw": "submerge walawgir walaw-kir"
+  },
+  {
+    "english": "succes",
+    "mattokki": "ogige'ked",
+    "nobiin": "ogge'ikki",
+    "raw": "succes ogige'ked ogge'ikki"
+  },
+  {
+    "english": "suffering",
+    "mattokki": "wittag'a",
+    "nobiin": "wuttag'e",
+    "raw": "suffering wittag'a wuttag'e"
+  },
+  {
+    "english": "suffocate",
+    "mattokki": "gomgomir",
+    "nobiin": "goummikir-simmikir",
+    "raw": "suffocate gomgomir goummikir-simmikir"
+  },
+  {
+    "english": "summer",
+    "mattokki": "bogon-bagon",
+    "nobiin": "fagon",
+    "raw": "summer bogon-bagon fagon"
+  },
+  {
+    "english": "sun",
+    "mattokki": "musil",
+    "nobiin": "masha",
+    "raw": "sun musil masha"
+  },
+  {
+    "english": "sunday",
+    "mattokki": "kirage'",
+    "nobiin": "kirage",
+    "raw": "sunday kirage' kirage"
+  },
+  {
+    "english": "sunrise",
+    "mattokki": "musil-belti",
+    "nobiin": "masha-n-fulti",
+    "raw": "sunrise musil-belti masha-n-fulti"
+  },
+  {
+    "english": "sunset",
+    "mattokki": "musil-toar",
+    "nobiin": "masha-n-toarti",
+    "raw": "sunset musil-toar masha-n-toarti"
+  },
+  {
+    "english": "support",
+    "mattokki": "N/A",
+    "nobiin": "tamul",
+    "raw": "support N/A tamul"
+  },
+  {
+    "english": "swagger",
+    "mattokki": "bellige",
+    "nobiin": "bellige",
+    "raw": "swagger bellige bellige"
+  },
+  {
+    "english": "swallow",
+    "mattokki": "goll",
+    "nobiin": "goll",
+    "raw": "swallow goll goll"
+  },
+  {
+    "english": "sway",
+    "mattokki": "terigne",
+    "nobiin": "trin'gne",
+    "raw": "sway terigne trin'gne"
+  },
+  {
+    "english": "sweat",
+    "mattokki": "tullutti",
+    "nobiin": "simutti",
+    "raw": "sweat tullutti simutti"
+  },
+  {
+    "english": "sweep",
+    "mattokki": "kull",
+    "nobiin": "kull,koss",
+    "raw": "sweep kull kull,koss"
+  },
+  {
+    "english": "sweet",
+    "mattokki": "ingiri",
+    "nobiin": "age'ow",
+    "raw": "sweet ingiri age'ow"
+  },
+  {
+    "english": "swell",
+    "mattokki": "ney-bou",
+    "nobiin": "ney'ya-a-feen",
+    "raw": "swell ney-bou ney'ya-a-feen"
+  },
+  {
+    "english": "swim",
+    "mattokki": "bow",
+    "nobiin": "koutge",
+    "raw": "swim bow koutge"
+  },
+  {
+    "english": "swiming",
+    "mattokki": "bowur",
+    "nobiin": "koutge'e",
+    "raw": "swiming bowur koutge'e"
+  },
+  {
+    "english": "swing",
+    "mattokki": "sol",
+    "nobiin": "sull",
+    "raw": "swing sol sull"
+  },
+  {
+    "english": "sword",
+    "mattokki": "siwid",
+    "nobiin": "farugne",
+    "raw": "sword siwid farugne"
+  },
+  {
+    "english": "tail",
+    "mattokki": "aiw",
+    "nobiin": "ge'lew",
+    "raw": "tail aiw ge'lew"
+  },
+  {
+    "english": "tail-less",
+    "mattokki": "wagtail",
+    "nobiin": "mourrouge",
+    "raw": "tail-less wagtail mourrouge"
+  },
+  {
+    "english": "tailor",
+    "mattokki": "kade-nig'il",
+    "nobiin": "kitti-nitge'i",
+    "raw": "tailor kade-nig'il kitti-nitge'i"
+  },
+  {
+    "english": "take",
+    "mattokki": "inge",
+    "nobiin": "enn",
+    "raw": "take inge enn"
+  },
+  {
+    "english": "talisman",
+    "mattokki": "soar",
+    "nobiin": "sho",
+    "raw": "talisman soar sho"
+  },
+  {
+    "english": "talk",
+    "mattokki": "we'tir",
+    "nobiin": "eeg-atir",
+    "raw": "talk we'tir eeg-atir"
+  },
+  {
+    "english": "taste",
+    "mattokki": "enni,engetel",
+    "nobiin": "enni",
+    "raw": "taste enni,engetel enni"
+  },
+  {
+    "english": "tasteful",
+    "mattokki": "enni-koal",
+    "nobiin": "enni-ko",
+    "raw": "tasteful enni-koal enni-ko"
+  },
+  {
+    "english": "tasteless",
+    "mattokki": "bussuri",
+    "nobiin": "fussi",
+    "raw": "tasteless bussuri fussi"
+  },
+  {
+    "english": "tattooing",
+    "mattokki": "touk,shok",
+    "nobiin": "ut",
+    "raw": "tattooing touk,shok ut"
+  },
+  {
+    "english": "tattoo",
+    "mattokki": "toukur,shokur",
+    "nobiin": "utterki",
+    "raw": "tattoo toukur,shokur utterki"
+  },
+  {
+    "english": "teach",
+    "mattokki": "kourkid",
+    "nobiin": "koulli-kir",
+    "raw": "teach kourkid koulli-kir"
+  },
+  {
+    "english": "teacher",
+    "mattokki": "fegeer",
+    "nobiin": "fegeer",
+    "raw": "teacher fegeer fegeer"
+  },
+  {
+    "english": "tears",
+    "mattokki": "messi-nessi",
+    "nobiin": "magne-essi",
+    "raw": "tears messi-nessi magne-essi"
+  },
+  {
+    "english": "tear",
+    "mattokki": "orr",
+    "nobiin": "orr",
+    "raw": "tear orr orr"
+  },
+  {
+    "english": "tearing",
+    "mattokki": "orrur",
+    "nobiin": "orrad",
+    "raw": "tearing orrur orrad"
+  },
+  {
+    "english": "teeth",
+    "mattokki": "neletge'i",
+    "nobiin": "needtoo",
+    "raw": "teeth neletge'i needtoo"
+  },
+  {
+    "english": "temple",
+    "mattokki": "birbe",
+    "nobiin": "birbe",
+    "raw": "temple birbe birbe"
+  },
+  {
+    "english": "ten",
+    "mattokki": "dimen",
+    "nobiin": "dime",
+    "raw": "ten dimen dime"
+  },
+  {
+    "english": "tent",
+    "mattokki": "kerri",
+    "nobiin": "kerri",
+    "raw": "tent kerri kerri"
+  },
+  {
+    "english": "tenth",
+    "mattokki": "demin-itti",
+    "nobiin": "dim-itti",
+    "raw": "tenth demin-itti dim-itti"
+  },
+  {
+    "english": "termite",
+    "mattokki": "nore",
+    "nobiin": "nore",
+    "raw": "termite nore nore"
+  },
+  {
+    "english": "test",
+    "mattokki": "gaw",
+    "nobiin": "gaw",
+    "raw": "test gaw gaw"
+  },
+  {
+    "english": "testicle",
+    "mattokki": "sord,gorbagne",
+    "nobiin": "gormagne",
+    "raw": "testicle sord,gorbagne gormagne"
+  },
+  {
+    "english": "thanks",
+    "mattokki": "aturwi",
+    "nobiin": "aturwin",
+    "raw": "thanks aturwi aturwin"
+  },
+  {
+    "english": "thankful",
+    "mattokki": "turwur",
+    "nobiin": "turwur",
+    "raw": "thankful turwur turwur"
+  },
+  {
+    "english": "that",
+    "mattokki": "mun",
+    "nobiin": "mun",
+    "raw": "that mun  mun"
+  },
+  {
+    "english": "their",
+    "mattokki": "tenna",
+    "nobiin": "tenna",
+    "raw": "their tenna tenna"
+  },
+  {
+    "english": "there",
+    "mattokki": "mundo",
+    "nobiin": "mundo",
+    "raw": "there mundo mundo"
+  },
+  {
+    "english": "therefore",
+    "mattokki": "waidir",
+    "nobiin": "waididdo",
+    "raw": "therefore waidir waididdo"
+  },
+  {
+    "english": "these",
+    "mattokki": "ingoo",
+    "nobiin": "ingoo",
+    "raw": "these ingoo ingoo"
+  },
+  {
+    "english": "they",
+    "mattokki": "tir",
+    "nobiin": "ter",
+    "raw": "they tir ter"
+  },
+  {
+    "english": "thick",
+    "mattokki": "do'ro",
+    "nobiin": "koulou'm",
+    "raw": "thick do'ro koulou'm"
+  },
+  {
+    "english": "thicken",
+    "mattokki": "nair",
+    "nobiin": "nerr",
+    "raw": "thicken nair nerr"
+  },
+  {
+    "english": "thigh",
+    "mattokki": "doge'in-bok",
+    "nobiin": "dogogne",
+    "raw": "thigh doge'in-bok dogogne"
+  },
+  {
+    "english": "thin",
+    "mattokki": "ese",
+    "nobiin": "o'low",
+    "raw": "thin ese o'low"
+  },
+  {
+    "english": "thing",
+    "mattokki": "urti",
+    "nobiin": "ourti",
+    "raw": "thing urti ourti"
+  },
+  {
+    "english": "third",
+    "mattokki": "toskitti",
+    "nobiin": "touskitti",
+    "raw": "third toskitti touskitti"
+  },
+  {
+    "english": "thirst",
+    "mattokki": "erid",
+    "nobiin": "ge'okkin",
+    "raw": "thirst erid ge'okkin"
+  },
+  {
+    "english": "thirteen",
+    "mattokki": "dimen-d-tosko",
+    "nobiin": "dime-tousko",
+    "raw": "thirteen dimen-d-tosko dime-tousko"
+  },
+  {
+    "english": "this",
+    "mattokki": "in",
+    "nobiin": "in",
+    "raw": "this in in"
+  },
+  {
+    "english": "thorn",
+    "mattokki": "kinissi",
+    "nobiin": "ginde",
+    "raw": "thorn kinissi ginde"
+  },
+  {
+    "english": "those",
+    "mattokki": "mungoo",
+    "nobiin": "mungoo",
+    "raw": "those mungoo mungoo"
+  },
+  {
+    "english": "thought",
+    "mattokki": "ge'illsou",
+    "nobiin": "ge'illon",
+    "raw": "thought ge'illsou ge'illon"
+  },
+  {
+    "english": "thousand",
+    "mattokki": "do're",
+    "nobiin": "do're",
+    "raw": "thousand do're do're"
+  },
+  {
+    "english": "thrash",
+    "mattokki": "noarur",
+    "nobiin": "noorur",
+    "raw": "thrash noarur noorur"
+  },
+  {
+    "english": "thread",
+    "mattokki": "ool",
+    "nobiin": "tissi",
+    "raw": "thread ool tissi"
+  },
+  {
+    "english": "three",
+    "mattokki": "tosks,toski",
+    "nobiin": "lou'sko",
+    "raw": "three tosks,toski lou'sko"
+  },
+  {
+    "english": "throat",
+    "mattokki": "goas",
+    "nobiin": "goas",
+    "raw": "throat goas goas"
+  },
+  {
+    "english": "throw",
+    "mattokki": "kud,louffe",
+    "nobiin": "kud",
+    "raw": "throw kud,louffe kud"
+  },
+  {
+    "english": "thunder",
+    "mattokki": "kuge-fogor",
+    "nobiin": "doo'doo",
+    "raw": "thunder kuge-fogor doo'doo"
+  },
+  {
+    "english": "thus",
+    "mattokki": "kewiddern",
+    "nobiin": "adingra",
+    "raw": "thus kewiddern adingra"
+  },
+  {
+    "english": "tick",
+    "mattokki": "wissi",
+    "nobiin": "wissi",
+    "raw": "tick wissi wissi"
+  },
+  {
+    "english": "tickle",
+    "mattokki": "kelkie",
+    "nobiin": "kill-killi",
+    "raw": "tickle kelkie kill-killi"
+  },
+  {
+    "english": "tie",
+    "mattokki": "digir",
+    "nobiin": "degir",
+    "raw": "tie digir degir"
+  },
+  {
+    "english": "tied",
+    "mattokki": "digirsou",
+    "nobiin": "degiron",
+    "raw": "tied digirsou degiron"
+  },
+  {
+    "english": "tying",
+    "mattokki": "moar",
+    "nobiin": "moar",
+    "raw": "tying  moar moar"
+  },
+  {
+    "english": "till",
+    "mattokki": "mokko",
+    "nobiin": "famin",
+    "raw": "till mokko famin"
+  },
+  {
+    "english": "tire",
+    "mattokki": "muris",
+    "nobiin": "kigne",
+    "raw": "tire muris kigne"
+  },
+  {
+    "english": "tired",
+    "mattokki": "muris-bou",
+    "nobiin": "kigne'a-feen",
+    "raw": "tired muris-bou kigne'a-feen"
+  },
+  {
+    "english": "to",
+    "mattokki": "abid,ked",
+    "nobiin": "teer",
+    "raw": "to abid,ked teer"
+  },
+  {
+    "english": "toast",
+    "mattokki": "nib",
+    "nobiin": "tokk",
+    "raw": "toast nib tokk"
+  },
+  {
+    "english": "toddle",
+    "mattokki": "dori",
+    "nobiin": "do'ow",
+    "raw": "toddle dori do'ow"
+  },
+  {
+    "english": "tomb",
+    "mattokki": "te",
+    "nobiin": "te",
+    "raw": "tomb te te"
+  },
+  {
+    "english": "tongue",
+    "mattokki": "ned",
+    "nobiin": "nur",
+    "raw": "tongue ned nur"
+  },
+  {
+    "english": "tortoise",
+    "mattokki": "hofing-efna",
+    "nobiin": "amunduki",
+    "raw": "tortoise hofing-efna amunduki"
+  },
+  {
+    "english": "tour",
+    "mattokki": "dage",
+    "nobiin": "greed",
+    "raw": "tour dage greed"
+  },
+  {
+    "english": "touring",
+    "mattokki": "dagebou",
+    "nobiin": "greeda-feen",
+    "raw": "touring dagebou greeda-feen"
+  },
+  {
+    "english": "trace",
+    "mattokki": "tig",
+    "nobiin": "tig",
+    "raw": "trace tig tig"
+  },
+  {
+    "english": "trap",
+    "mattokki": "begid",
+    "nobiin": "bigid",
+    "raw": "trap begid bigid"
+  },
+  {
+    "english": "trash",
+    "mattokki": "dettid",
+    "nobiin": "dettad",
+    "raw": "trash dettid dettad"
+  },
+  {
+    "english": "tread",
+    "mattokki": "futge",
+    "nobiin": "butge,ge'ukk",
+    "raw": "tread futge butge,ge'ukk"
+  },
+  {
+    "english": "tree",
+    "mattokki": "ge'ow'wi",
+    "nobiin": "gunde",
+    "raw": "tree ge'ow'wi gunde"
+  },
+  {
+    "english": "tremble",
+    "mattokki": "kerker",
+    "nobiin": "kerker",
+    "raw": "tremble kerker kerker"
+  },
+  {
+    "english": "tribe",
+    "mattokki": "aab",
+    "nobiin": "aab",
+    "raw": "tribe aab aab"
+  },
+  {
+    "english": "trill",
+    "mattokki": "killil",
+    "nobiin": "ge'uw",
+    "raw": "trill killil ge'uw"
+  },
+  {
+    "english": "trite",
+    "mattokki": "balagne",
+    "nobiin": "fekke",
+    "raw": "trite balagne fekke"
+  },
+  {
+    "english": "tritrate",
+    "mattokki": "ge'oag,futge",
+    "nobiin": "burs",
+    "raw": "tritrate ge'oag,futge burs"
+  },
+  {
+    "english": "trod",
+    "mattokki": "N/A",
+    "nobiin": "burs",
+    "raw": "trod N/A burs"
+  },
+  {
+    "english": "true",
+    "mattokki": "aleter",
+    "nobiin": "aleya",
+    "raw": "true aleter aleya"
+  },
+  {
+    "english": "turban",
+    "mattokki": "kusir",
+    "nobiin": "kasir",
+    "raw": "turban kusir kasir"
+  },
+  {
+    "english": "turtledove",
+    "mattokki": "kou'roo",
+    "nobiin": "doge",
+    "raw": "turtledove kou'roo doge"
+  },
+  {
+    "english": "tweezers",
+    "mattokki": "buskull",
+    "nobiin": "buskull",
+    "raw": "tweezers buskull buskull"
+  },
+  {
+    "english": "twelve",
+    "mattokki": "dimen-d-ow-ow",
+    "nobiin": "dime-r-ouwwo",
+    "raw": "twelve dimen-d-ow-ow dime-r-ouwwo"
+  },
+  {
+    "english": "twenty",
+    "mattokki": "are",
+    "nobiin": "aro",
+    "raw": "twenty are aro"
+  },
+  {
+    "english": "twig",
+    "mattokki": "utge-bou",
+    "nobiin": "age'a-feen",
+    "raw": "twig utge-bou age'a-feen"
+  },
+  {
+    "english": "twin",
+    "mattokki": "bursi,baras",
+    "nobiin": "bursi",
+    "raw": "twin bursi,baras bursi"
+  },
+  {
+    "english": "twinkle",
+    "mattokki": "tawinge",
+    "nobiin": "twinge,timinge",
+    "raw": "twinkle tawinge twinge,timinge"
+  },
+  {
+    "english": "twist",
+    "mattokki": "iri,eer",
+    "nobiin": "mill-ge'oude",
+    "raw": "twist iri,eer mill-ge'oude"
+  },
+  {
+    "english": "two",
+    "mattokki": "owwi",
+    "nobiin": "ow-wa",
+    "raw": "two owwi ow-wa"
+  },
+  {
+    "english": "udder",
+    "mattokki": "gaiw",
+    "nobiin": "gaiw",
+    "raw": "udder gaiw gaiw"
+  },
+  {
+    "english": "ugly",
+    "mattokki": "dogir",
+    "nobiin": "dogor",
+    "raw": "ugly dogir dogor"
+  },
+  {
+    "english": "unable",
+    "mattokki": "maros,maso",
+    "nobiin": "moskon",
+    "raw": "unable maros,maso moskon"
+  },
+  {
+    "english": "uncle",
+    "mattokki": "un-bana",
+    "nobiin": "aboa-n-eoga (father's brother)",
+    "raw": "uncle un-bana aboa-n-eoga (father's brother)"
+  },
+  {
+    "english": "uncle",
+    "mattokki": "ungy",
+    "nobiin": "ungy (mother's brother)",
+    "raw": "uncle ungy ungy (mother's brother)"
+  },
+  {
+    "english": "unique",
+    "mattokki": "toad",
+    "nobiin": "toad",
+    "raw": "unique toad toad"
+  },
+  {
+    "english": "unskillful",
+    "mattokki": "doash",
+    "nobiin": "doash",
+    "raw": "unskillful doash doash"
+  },
+  {
+    "english": "upland",
+    "mattokki": "ab",
+    "nobiin": "toddi",
+    "raw": "upland ab toddi"
+  },
+  {
+    "english": "uplift",
+    "mattokki": "kouge'gir",
+    "nobiin": "kairkir",
+    "raw": "uplift kouge'gir kairkir"
+  },
+  {
+    "english": "urine",
+    "mattokki": "ekked",
+    "nobiin": "erre",
+    "raw": "urine ekked erre"
+  },
+  {
+    "english": "vagabond",
+    "mattokki": "kittag-boo",
+    "nobiin": "kara-feen",
+    "raw": "vagabond kittag-boo kara-feen"
+  },
+  {
+    "english": "vain",
+    "mattokki": "wairkinni",
+    "nobiin": "waikigne'in",
+    "raw": "vain wairkinni waikigne'in"
+  },
+  {
+    "english": "vegitable",
+    "mattokki": "ge'ukood",
+    "nobiin": "ittir",
+    "raw": "vegitable ge'ukood ittir"
+  },
+  {
+    "english": "vein",
+    "mattokki": "koy",
+    "nobiin": "koy",
+    "raw": "vein koy koy"
+  },
+  {
+    "english": "very",
+    "mattokki": "desen",
+    "nobiin": "okka-goan",
+    "raw": "very desen okka-goan"
+  },
+  {
+    "english": "vessel",
+    "mattokki": "sukko",
+    "nobiin": "sukki (for kneeding)",
+    "raw": "vessel sukko sukki (for kneeding)"
+  },
+  {
+    "english": "vessel",
+    "mattokki": "gousse",
+    "nobiin": "gousse (for storing grains)",
+    "raw": "vessel gousse gousse (for storing grains)"
+  },
+  {
+    "english": "vessel",
+    "mattokki": "simug",
+    "nobiin": "simug (for storing food)",
+    "raw": "vessel simug simug (for storing food)"
+  },
+  {
+    "english": "village",
+    "mattokki": "oshay",
+    "nobiin": "ush-shaw",
+    "raw": "village oshay ush-shaw"
+  },
+  {
+    "english": "vomit",
+    "mattokki": "barisk",
+    "nobiin": "N/A",
+    "raw": "vomit barisk N/A"
+  },
+  {
+    "english": "virgin",
+    "mattokki": "feta,beyye-koal",
+    "nobiin": "fite",
+    "raw": "virgin feta,beyye-koal fite"
+  },
+  {
+    "english": "wade",
+    "mattokki": "toob",
+    "nobiin": "toob",
+    "raw": "wade toob toob"
+  },
+  {
+    "english": "wail",
+    "mattokki": "uwige",
+    "nobiin": "uwige",
+    "raw": "wail uwige uwige"
+  },
+  {
+    "english": "wailing",
+    "mattokki": "urwige'ur",
+    "nobiin": "urwige'eed",
+    "raw": "wailing urwige'ur urwige'eed"
+  },
+  {
+    "english": "waist",
+    "mattokki": "koullol",
+    "nobiin": "koull",
+    "raw": "waist koullol koull"
+  },
+  {
+    "english": "wait",
+    "mattokki": "erge,irngne",
+    "nobiin": "irngne",
+    "raw": "wait erge,irngne irngne"
+  },
+  {
+    "english": "waiting",
+    "mattokki": "erge'ur,irigne",
+    "nobiin": "onrgne'eed",
+    "raw": "waiting erge'ur,irigne onrgne'eed"
+  },
+  {
+    "english": "wake",
+    "mattokki": "bitge",
+    "nobiin": "fik (wake up)",
+    "raw": "wake bitge fik (wake up)"
+  },
+  {
+    "english": "walk",
+    "mattokki": "tullur",
+    "nobiin": "tunngne",
+    "raw": "walk tullur tunngne"
+  },
+  {
+    "english": "walks",
+    "mattokki": "tulli",
+    "nobiin": "tugne'in",
+    "raw": "walks tulli tugne'in"
+  },
+  {
+    "english": "walking",
+    "mattokki": "tullbou",
+    "nobiin": "tugne-a-feen",
+    "raw": "walking tullbou tugne-a-feen"
+  },
+  {
+    "english": "walker",
+    "mattokki": "tullutti",
+    "nobiin": "tugne'utti",
+    "raw": "walker tullutti tugne'utti"
+  },
+  {
+    "english": "wall",
+    "mattokki": "kutre,dab",
+    "nobiin": "katare",
+    "raw": "wall kutre,dab katare"
+  },
+  {
+    "english": "wallet",
+    "mattokki": "ge'ilbaya",
+    "nobiin": "doukki",
+    "raw": "wallet ge'ilbaya doukki"
+  },
+  {
+    "english": "wallow",
+    "mattokki": "kib,",
+    "nobiin": "kembet",
+    "raw": "wallow kib, kembet"
+  },
+  {
+    "english": "wanderer",
+    "mattokki": "tishbou",
+    "nobiin": "tish-a-feen",
+    "raw": "wanderer tishbou tish-a-feen"
+  },
+  {
+    "english": "want",
+    "mattokki": "birgur",
+    "nobiin": "firgur",
+    "raw": "want birgur firgur"
+  },
+  {
+    "english": "wants",
+    "mattokki": "birg",
+    "nobiin": "firg",
+    "raw": "wants birg firg"
+  },
+  {
+    "english": "wanted",
+    "mattokki": "birgoasou",
+    "nobiin": "firgo-ason",
+    "raw": "wanted birgoasou firgo-ason"
+  },
+  {
+    "english": "war",
+    "mattokki": "kursigi,tamougid",
+    "nobiin": "dingi",
+    "raw": "war kursigi,tamougid dingi"
+  },
+  {
+    "english": "warm",
+    "mattokki": "kukkbou",
+    "nobiin": "kukk-afeen",
+    "raw": "warm kukkbou kukk-afeen"
+  },
+  {
+    "english": "warn",
+    "mattokki": "kogustbou",
+    "nobiin": "ge'ism",
+    "raw": "warn kogustbou ge'ism"
+  },
+  {
+    "english": "wash",
+    "mattokki": "shook",
+    "nobiin": "song (wash cloths)",
+    "raw": "wash shook song (wash cloths)"
+  },
+  {
+    "english": "wash",
+    "mattokki": "aiw",
+    "nobiin": "ge'lew (wash face)",
+    "raw": "wash aiw ge'lew (wash face)"
+  },
+  {
+    "english": "water",
+    "mattokki": "essi",
+    "nobiin": "amun",
+    "raw": "water essi amun"
+  },
+  {
+    "english": "water-wheel",
+    "mattokki": "essikole",
+    "nobiin": "esskale",
+    "raw": "water-wheel essikole esskale"
+  },
+  {
+    "english": "wave",
+    "mattokki": "arre",
+    "nobiin": "tibid",
+    "raw": "wave arre tibid"
+  },
+  {
+    "english": "way",
+    "mattokki": "ge'ir",
+    "nobiin": "duwwi",
+    "raw": "way ge'ir duwwi"
+  },
+  {
+    "english": "we",
+    "mattokki": "ur",
+    "nobiin": "ou",
+    "raw": "we ur ou"
+  },
+  {
+    "english": "weak",
+    "mattokki": "ge'agood",
+    "nobiin": "ge'agud",
+    "raw": "weak ge'agood ge'agud"
+  },
+  {
+    "english": "wean",
+    "mattokki": "ukk",
+    "nobiin": "ukk",
+    "raw": "wean ukk ukk"
+  },
+  {
+    "english": "weaned",
+    "mattokki": "ukksou",
+    "nobiin": "ukkon",
+    "raw": "weaned ukksou ukkon"
+  },
+  {
+    "english": "weave",
+    "mattokki": "gogne,goy",
+    "nobiin": "gogne",
+    "raw": "weave gogne,goy gogne"
+  },
+  {
+    "english": "weaving",
+    "mattokki": "gogne'ur",
+    "nobiin": "gogne'e",
+    "raw": "weaving gogne'ur gogne'e"
+  },
+  {
+    "english": "wedding",
+    "mattokki": "erkane,bale",
+    "nobiin": "bale",
+    "raw": "wedding erkane,bale bale"
+  },
+  {
+    "english": "weep",
+    "mattokki": "oy,ogne",
+    "nobiin": "ogne",
+    "raw": "weep oy,ogne ogne"
+  },
+  {
+    "english": "weeping",
+    "mattokki": "oyur,ogne",
+    "nobiin": "ogne",
+    "raw": "weeping oyur,ogne ogne"
+  },
+  {
+    "english": "wept",
+    "mattokki": "oysou,",
+    "nobiin": "ogne'on",
+    "raw": "wept oysou, ogne'on"
+  },
+  {
+    "english": "wear",
+    "mattokki": "hade'gi-oundour",
+    "nobiin": "kitti-ga-oudir",
+    "raw": "wear hade'gi-oundour kitti-ga-oudir"
+  },
+  {
+    "english": "west",
+    "mattokki": "tingar",
+    "nobiin": "tino",
+    "raw": "west tingar tino"
+  },
+  {
+    "english": "wet",
+    "mattokki": "negnegir",
+    "nobiin": "neyyir",
+    "raw": "wet negnegir neyyir"
+  },
+  {
+    "english": "what",
+    "mattokki": "mine,minur",
+    "nobiin": "min'a",
+    "raw": "what mine,minur min'a"
+  },
+  {
+    "english": "wheat",
+    "mattokki": "ille",
+    "nobiin": "ille",
+    "raw": "wheat ille ille"
+  },
+  {
+    "english": "wheel",
+    "mattokki": "urgade",
+    "nobiin": "urgade",
+    "raw": "wheel urgade urgade"
+  },
+  {
+    "english": "when",
+    "mattokki": "sitta",
+    "nobiin": "ison",
+    "raw": "when sitta ison"
+  },
+  {
+    "english": "whirlpool",
+    "mattokki": "N/A",
+    "nobiin": "leyyan",
+    "raw": "whirlpool N/A leyyan"
+  },
+  {
+    "english": "whistle",
+    "mattokki": "fook,week",
+    "nobiin": "fook",
+    "raw": "whistle fook,week fook"
+  },
+  {
+    "english": "white",
+    "mattokki": "aroo",
+    "nobiin": "nooloo",
+    "raw": "white aroo nooloo"
+  },
+  {
+    "english": "while",
+    "mattokki": "shoab",
+    "nobiin": "shoab",
+    "raw": "while shoab shoab"
+  },
+  {
+    "english": "who",
+    "mattokki": "ni",
+    "nobiin": "nay",
+    "raw": "who ni nay"
+  },
+  {
+    "english": "wicked",
+    "mattokki": "ooss",
+    "nobiin": "oos",
+    "raw": "wicked ooss oos"
+  },
+  {
+    "english": "wife",
+    "mattokki": "ain",
+    "nobiin": "idain",
+    "raw": "wife ain idain"
+  },
+  {
+    "english": "wild",
+    "mattokki": "morri",
+    "nobiin": "morri",
+    "raw": "wild morri morri"
+  },
+  {
+    "english": "will",
+    "mattokki": "metti",
+    "nobiin": "metti",
+    "raw": "will metti metti"
+  },
+  {
+    "english": "wind",
+    "mattokki": "tooroug",
+    "nobiin": "toog",
+    "raw": "wind tooroug toog"
+  },
+  {
+    "english": "wine",
+    "mattokki": "bagonaina",
+    "nobiin": "baganaina",
+    "raw": "wine bagonaina baganaina"
+  },
+  {
+    "english": "wing",
+    "mattokki": "awir",
+    "nobiin": "awir",
+    "raw": "wing awir awir"
+  },
+  {
+    "english": "wipe",
+    "mattokki": "komis",
+    "nobiin": "kou'sm",
+    "raw": "wipe komis kou'sm"
+  },
+  {
+    "english": "wiped",
+    "mattokki": "komis-sou",
+    "nobiin": "kou'sm-on",
+    "raw": "wiped komis-sou kou'sm-on"
+  },
+  {
+    "english": "wise",
+    "mattokki": "errig-koal",
+    "nobiin": "oune-ko",
+    "raw": "wise errig-koal oune-ko"
+  },
+  {
+    "english": "wisdom",
+    "mattokki": "errig",
+    "nobiin": "oune",
+    "raw": "wisdom errig oune"
+  },
+  {
+    "english": "with",
+    "mattokki": "kodon",
+    "nobiin": "dun",
+    "raw": "with kodon dun"
+  },
+  {
+    "english": "with-out",
+    "mattokki": "kinni",
+    "nobiin": "kigne'i",
+    "raw": "with-out kinni kigne'i"
+  },
+  {
+    "english": "wolf",
+    "mattokki": "geleg",
+    "nobiin": "geleg",
+    "raw": "wolf geleg geleg"
+  },
+  {
+    "english": "woman",
+    "mattokki": "ain",
+    "nobiin": "idain",
+    "raw": "woman ain idain"
+  },
+  {
+    "english": "women",
+    "mattokki": "aintge'i",
+    "nobiin": "angei",
+    "raw": "women aintge'i angei"
+  },
+  {
+    "english": "wood",
+    "mattokki": "ber",
+    "nobiin": "koi",
+    "raw": "wood ber koi"
+  },
+  {
+    "english": "wool",
+    "mattokki": "abog,bennage",
+    "nobiin": "fag",
+    "raw": "wool abog,bennage fag"
+  },
+  {
+    "english": "work",
+    "mattokki": "gelli",
+    "nobiin": "gelli",
+    "raw": "work gelli gelli"
+  },
+  {
+    "english": "worm",
+    "mattokki": "wegid",
+    "nobiin": "weerki",
+    "raw": "worm wegid weerki"
+  },
+  {
+    "english": "worse",
+    "mattokki": "milli",
+    "nobiin": "sawo",
+    "raw": "worse milli sawo"
+  },
+  {
+    "english": "wound",
+    "mattokki": "kor",
+    "nobiin": "kor",
+    "raw": "wound kor kor"
+  },
+  {
+    "english": "wrap",
+    "mattokki": "gar,dawil",
+    "nobiin": "gar,dabul",
+    "raw": "wrap gar,dawil gar,dabul"
+  },
+  {
+    "english": "wring",
+    "mattokki": "nees",
+    "nobiin": "nees",
+    "raw": "wring nees nees"
+  },
+  {
+    "english": "write",
+    "mattokki": "bage",
+    "nobiin": "fay",
+    "raw": "write bage fay"
+  },
+  {
+    "english": "writing",
+    "mattokki": "a-bage'i",
+    "nobiin": "a-fayin",
+    "raw": "writing a-bage'i a-fayin"
+  },
+  {
+    "english": "wrote",
+    "mattokki": "bagesou",
+    "nobiin": "fayon",
+    "raw": "wrote bagesou fayon"
+  },
+  {
+    "english": "yawn",
+    "mattokki": "gange",
+    "nobiin": "gange",
+    "raw": "yawn gange gange"
+  },
+  {
+    "english": "year",
+    "mattokki": "g'en",
+    "nobiin": "g\\'em",
+    "raw": "year g'en g\\'em"
+  },
+  {
+    "english": "yellow",
+    "mattokki": "gunder",
+    "nobiin": "gindor",
+    "raw": "yellow gunder gindor"
+  },
+  {
+    "english": "yes",
+    "mattokki": "ay",
+    "nobiin": "ay (to answer question)",
+    "raw": "yes ay ay (to answer question)"
+  },
+  {
+    "english": "yes",
+    "mattokki": "hoy",
+    "nobiin": "hoy (to answer a calling)",
+    "raw": "yes hoy hoy (to answer a calling)"
+  },
+  {
+    "english": "yolk",
+    "mattokki": "gunder",
+    "nobiin": "gindar",
+    "raw": "yolk gunder gindar"
+  },
+  {
+    "english": "you",
+    "mattokki": "er",
+    "nobiin": "ir (single person)",
+    "raw": "you er ir (single person)"
+  },
+  {
+    "english": "you",
+    "mattokki": "ir",
+    "nobiin": "ou'r (plural)",
+    "raw": "you ir ou'r (plural)"
+  },
+  {
+    "english": "your",
+    "mattokki": "indi",
+    "nobiin": "inni",
+    "raw": "your indi inni"
+  },
+  {
+    "english": "youth",
+    "mattokki": "ge'ahal",
+    "nobiin": "ge'ahal",
+    "raw": "youth ge'ahal ge'ahal"
+  }
+]
