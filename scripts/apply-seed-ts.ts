@@ -67,8 +67,56 @@ async function postgrestDelete(table: string, queryParams: string) {
   }
 }
 
+// Helper to execute raw SQL via Supabase PostgREST SQL endpoint (service role only)
+async function execSQL(sql: string, label: string) {
+  const endpoint = `${URL}/rest/v1/rpc/exec_sql`;
+  const res = await fetch(endpoint, {
+    method: 'POST',
+    headers: {
+      'apikey': KEY!,
+      'Authorization': `Bearer ${KEY}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ sql }),
+  });
+  if (!res.ok) {
+    const txt = await res.text();
+    // exec_sql might not exist yet — that's OK, print the warning
+    if (txt.includes('PGRST202') || txt.includes('not found')) {
+      console.log(`  ⚠️  ${label}: exec_sql RPC not available (apply SQL manually in dashboard)`);
+    } else {
+      console.log(`  ⚠️  ${label} warning: ${txt.slice(0, 120)}`);
+    }
+  } else {
+    console.log(`  ✓ ${label}`);
+  }
+}
+
 async function run() {
   console.log('\n🌊 Essi — Seeding Database via TypeScript source imports...\n');
+
+  // 0. Apply RLS migrations
+  console.log('Applying RLS policies for user_profiles...');
+  await execSQL(`
+    DO $$ BEGIN
+      -- Clean up old catch-all policy if it exists
+      DROP POLICY IF EXISTS "own profile" ON user_profiles;
+      DROP POLICY IF EXISTS "sel_own" ON user_profiles;
+      DROP POLICY IF EXISTS "upd_own" ON user_profiles;
+      DROP POLICY IF EXISTS "del_own" ON user_profiles;
+      DROP POLICY IF EXISTS "ins_own" ON user_profiles;
+      DROP POLICY IF EXISTS "Users can select their own profile" ON user_profiles;
+      DROP POLICY IF EXISTS "Users can update their own profile" ON user_profiles;
+      DROP POLICY IF EXISTS "Users can delete their own profile" ON user_profiles;
+      DROP POLICY IF EXISTS "Enable insert for all users" ON user_profiles;
+      DROP POLICY IF EXISTS "Enable insert for authenticated users" ON user_profiles;
+
+      CREATE POLICY "sel_own" ON user_profiles FOR SELECT USING (auth.uid() = user_id);
+      CREATE POLICY "upd_own" ON user_profiles FOR UPDATE USING (auth.uid() = user_id) WITH CHECK (auth.uid() = user_id);
+      CREATE POLICY "del_own" ON user_profiles FOR DELETE USING (auth.uid() = user_id);
+      CREATE POLICY "ins_own" ON user_profiles FOR INSERT WITH CHECK (auth.uid() = user_id);
+    END $$;
+  `, 'user_profiles RLS policies applied');
 
   // 1. Seed morphology_rules
   console.log('Seeding morphology_rules...');

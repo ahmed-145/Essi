@@ -51,6 +51,9 @@ export async function play(source: Source) {
     player.volume = globalVolume;
     cache.set(source, player);
   }
+  // Stop cleanly before rewinding — prevents double-audio when the user taps
+  // replay while a track is still playing (was causing the whistle/echo).
+  player.pause();
   player.seekTo(0);
   player.play();
 }
