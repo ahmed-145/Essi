@@ -24,7 +24,7 @@ import type { SuffixSnapExercise as Ex } from '../../types';
 import { lexById } from '../../data/lexicon';
 import { ruleById } from '../../data/morphology-rules';
 
-interface Props { exercise: Ex; onAnswer: (isCorrect: boolean, wrongRuleId?: string) => void; }
+interface Props { exercise: Ex; onAnswer: (isCorrect: boolean, wrongRuleId?: string) => void; bottomInset?: number; }
 
 // ── Snap-target slot measurement ──────────────────────────────────────────────
 function zoneHit(zone: LayoutRectangle | null, px: number, py: number): boolean {
@@ -156,7 +156,7 @@ function SnapResult({ root, suffix, correct }: { root: string; suffix: string; c
 }
 
 // ── Root component ────────────────────────────────────────────────────────────
-export function SuffixSnapExercise({ exercise, onAnswer }: Props) {
+export function SuffixSnapExercise({ exercise, onAnswer, bottomInset = 0 }: Props) {
   const root = lexById[exercise.root_lexeme_id];
 
   // All rule IDs shown in the drawer (correct + distractors), shuffled
@@ -297,7 +297,7 @@ export function SuffixSnapExercise({ exercise, onAnswer }: Props) {
       </View>
 
       <View style={{ flex: 1 }} />
-      <View style={{ padding: 18, paddingBottom: 14 }}>
+      <View style={{ padding: 18, paddingBottom: Math.max(14, bottomInset + 14) }}>
         <EssiButton title="Apply suffix" onPress={submit} disabled={!snapped} />
       </View>
     </View>

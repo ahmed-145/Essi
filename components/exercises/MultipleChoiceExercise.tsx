@@ -15,9 +15,10 @@ interface Props {
   exercise: McqExercise;
   onAnswer: (isCorrect: boolean) => void;
   onTooltipRequest: (ruleId: string) => void;
+  bottomInset?: number;
 }
 
-export function MultipleChoiceExercise({ exercise, onAnswer, onTooltipRequest }: Props) {
+export function MultipleChoiceExercise({ exercise, onAnswer, onTooltipRequest, bottomInset = 0 }: Props) {
   const [picked, setPicked] = useState<number | null>(null);
   const script = useScriptStore((s) => s.scriptPref);
 
@@ -106,7 +107,7 @@ export function MultipleChoiceExercise({ exercise, onAnswer, onTooltipRequest }:
       </View>
 
       <View style={{ flex: 1 }} />
-      <View style={{ padding: 18, paddingBottom: 14 }}>
+      <View style={{ padding: 18, paddingBottom: Math.max(14, bottomInset + 14) }}>
         <EssiButton title="Check" onPress={submit} disabled={picked === null} />
       </View>
     </View>

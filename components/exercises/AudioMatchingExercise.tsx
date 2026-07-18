@@ -29,6 +29,7 @@ import Svg, { Path } from 'react-native-svg';
 interface Props {
   exercise: AudioMatchExercise;
   onAnswer: (isCorrect: boolean) => void;
+  bottomInset?: number;
 }
 
 // ── Speaker icon ──────────────────────────────────────────────────────────────
@@ -75,7 +76,7 @@ function WaveformBar({ targetH, delay, playing }: { targetH: number; delay: numb
 }
 
 // ── Main component ────────────────────────────────────────────────────────────
-export function AudioMatchingExercise({ exercise, onAnswer }: Props) {
+export function AudioMatchingExercise({ exercise, onAnswer, bottomInset = 0 }: Props) {
   const [picked, setPicked] = useState<number | null>(null);
   const [playing, setPlaying] = useState(false);
   const [audioError, setAudioError] = useState(false);
@@ -204,7 +205,7 @@ export function AudioMatchingExercise({ exercise, onAnswer }: Props) {
       </View>
 
       <View style={{ flex: 1 }} />
-      <View style={{ padding: 18, paddingBottom: 14 }}>
+      <View style={{ padding: 18, paddingBottom: Math.max(14, bottomInset + 14) }}>
         <EssiButton title="Check" onPress={submit} disabled={picked === null} />
       </View>
     </View>

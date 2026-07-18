@@ -187,13 +187,14 @@ export default function LessonPlayer() {
         </View>
       )}
 
-      {/* Exercise area */}
-      {ex.kind === 'audio_match'  && <AudioMatchingExercise   exercise={ex} onAnswer={onAnswer} />}
-      {ex.kind === 'mcq'          && <MultipleChoiceExercise  exercise={ex} onAnswer={onAnswer} onTooltipRequest={setTooltipRuleId} />}
-      {ex.kind === 'suffix_snap'  && <SuffixSnapExercise      exercise={ex} onAnswer={onAnswer} />}
-      {ex.kind === 'word_arrange' && <WordArrangementExercise exercise={ex} onAnswer={onAnswer} />}
+      {/* Exercise area — bottomInset passed so each component pads its own Check button
+           correctly. Do NOT add a sibling <View height={insets.bottom}> here — it would
+           fight with the exercise's internal flex:1 and clip the button off-screen. */}
+      {ex.kind === 'audio_match'  && <AudioMatchingExercise   exercise={ex} onAnswer={onAnswer} bottomInset={insets.bottom} />}
+      {ex.kind === 'mcq'          && <MultipleChoiceExercise  exercise={ex} onAnswer={onAnswer} onTooltipRequest={setTooltipRuleId} bottomInset={insets.bottom} />}
+      {ex.kind === 'suffix_snap'  && <SuffixSnapExercise      exercise={ex} onAnswer={onAnswer} bottomInset={insets.bottom} />}
+      {ex.kind === 'word_arrange' && <WordArrangementExercise exercise={ex} onAnswer={onAnswer} bottomInset={insets.bottom} />}
 
-      <View style={{ height: insets.bottom }} />
       <GrammarTooltipModal ruleId={tooltipRuleId} onClose={() => setTooltipRuleId(null)} />
     </View>
   );

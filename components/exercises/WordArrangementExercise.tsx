@@ -36,7 +36,7 @@ const ROLE_LABEL: Record<Role, string> = {
   V: 'verb',
 };
 
-interface Props { exercise: WordArrangeExercise; onAnswer: (isCorrect: boolean) => void; }
+interface Props { exercise: WordArrangeExercise; onAnswer: (isCorrect: boolean) => void; bottomInset?: number; }
 
 type Slot = Solution | null;
 
@@ -199,7 +199,7 @@ function DropZone({
 }
 
 // ── Root component ────────────────────────────────────────────────────────────
-export function WordArrangementExercise({ exercise, onAnswer }: Props) {
+export function WordArrangementExercise({ exercise, onAnswer, bottomInset = 0 }: Props) {
   const [bank, setBank] = useState<BankItem[]>(() =>
     [...exercise.solution]
       .sort(() => Math.random() - 0.5)
@@ -326,7 +326,7 @@ export function WordArrangementExercise({ exercise, onAnswer }: Props) {
       </View>
 
       <View style={{ flex: 1 }} />
-      <View style={{ padding: 18, paddingBottom: 14 }}>
+      <View style={{ padding: 18, paddingBottom: Math.max(14, bottomInset + 14) }}>
         <EssiButton
           title="Check the sentence"
           onPress={submit}
