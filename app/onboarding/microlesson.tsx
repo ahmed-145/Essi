@@ -167,7 +167,7 @@ export default function MicroLesson() {
           </ScrollView>
 
           {/* Button pinned outside ScrollView */}
-          <View style={{ paddingHorizontal: 24, paddingBottom: Math.max(insets.bottom, 16) + 8, paddingTop: 12, backgroundColor: colors.lime }}>
+          <View style={{ paddingHorizontal: 24, minHeight: 80, paddingBottom: Math.max(insets.bottom, 20) + 8, paddingTop: 12, backgroundColor: colors.lime }}>
             <EssiButton title="Next →" arabicTitle="التالي" variant="primary" onPress={() => setStep('grammar')} />
           </View>
         </>
@@ -230,7 +230,7 @@ export default function MicroLesson() {
             </Pressable>
           </ScrollView>
 
-          <View style={{ paddingHorizontal: 24, paddingBottom: Math.max(insets.bottom, 16) + 8, paddingTop: 12, backgroundColor: colors.lime }}>
+          <View style={{ paddingHorizontal: 24, minHeight: 80, paddingBottom: Math.max(insets.bottom, 20) + 8, paddingTop: 12, backgroundColor: colors.lime }}>
             <EssiButton title="Start Quiz →" arabicTitle="ابدأ الاختبار" variant="primary" onPress={() => setStep('quiz')} />
           </View>
         </>
@@ -328,7 +328,7 @@ export default function MicroLesson() {
             )}
           </ScrollView>
 
-          <View style={{ paddingHorizontal: 24, paddingBottom: Math.max(insets.bottom, 16) + 8, paddingTop: 12, backgroundColor: colors.lime }}>
+          <View style={{ paddingHorizontal: 24, minHeight: 80, paddingBottom: Math.max(insets.bottom, 20) + 8, paddingTop: 12, backgroundColor: colors.lime }}>
             {allMatched ? (
               <EssiButton
                 title="Continue →"

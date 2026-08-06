@@ -43,16 +43,18 @@ export function EssiButton({
       style={({ pressed }) => [
         {
           height: HEIGHTS[size],
+          minHeight: HEIGHTS[size],   // never collapse to 0 on iOS
           width: full ? '100%' : undefined,
           backgroundColor: v.bg,
-          borderColor: v.border,
+          borderColor: v.border !== 'transparent' ? v.border : v.bg,
           borderWidth: 1.5,
           borderRadius: 14,
           paddingHorizontal: 20,
           alignItems: 'center',
           justifyContent: 'center',
           flexDirection: 'row',
-          opacity: disabled ? 0.5 : pressed ? 0.9 : 1,
+          overflow: 'visible',
+          opacity: disabled ? 0.45 : pressed ? 0.85 : 1,
           transform: [{ translateY: pressed ? 1 : 0 }],
         },
         style,

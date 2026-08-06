@@ -71,7 +71,7 @@ export default function Context() {
         backgroundColor: colors.lime,
         paddingHorizontal: 24,
         paddingTop: 16,
-        paddingBottom: Math.max(insets.bottom, 20) + 8,
+        minHeight: 80, paddingBottom: Math.max(insets.bottom, 20) + 8,
         borderTopWidth: 1,
         borderTopColor: 'rgba(0,0,0,0.06)',
       }}>

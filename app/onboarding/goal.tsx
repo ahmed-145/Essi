@@ -170,7 +170,7 @@ export default function Goal() {
       </ScrollView>
 
       {/* ── Button pinned at the bottom — NEVER inside the ScrollView ── */}
-      <View style={{ paddingHorizontal: 24, paddingBottom: Math.max(insets.bottom, 20) + 8, paddingTop: 16, backgroundColor: colors.lime }}>
+      <View style={{ paddingHorizontal: 24, minHeight: 80, paddingBottom: Math.max(insets.bottom, 20) + 8, paddingTop: 16, backgroundColor: colors.lime }}>
         <EssiButton
           title="Continue →"
           arabicTitle="استمر"
