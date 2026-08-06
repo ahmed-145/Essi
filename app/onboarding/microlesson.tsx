@@ -1,4 +1,4 @@
-// Screen 6 — Micro-Lesson
+// Screen — Micro-Lesson
 // PRD §7 Screen 6: teaches 3 words (essi, id, essi-we:r), interactive quiz,
 // Old Nubian script visual introduction, gentle haptics, next step on completion.
 

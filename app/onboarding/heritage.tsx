@@ -1,4 +1,4 @@
-// Screen 4 — Heritage Assessment
+// Screen — Heritage Assessment
 // PRD §7 Screen 4: Nothing at all, A few words from home, Can hold basic conversation.
 // Helps tailor pacing or routing during initial setup.
 
@@ -118,7 +118,7 @@ export default function Heritage() {
       </ScrollView>
 
       {/* ── Button pinned at the bottom — NEVER inside the ScrollView ── */}
-      <View style={{ paddingHorizontal: 24, paddingBottom: Math.max(insets.bottom, 16) + 8, paddingTop: 12, backgroundColor: colors.lime }}>
+      <View style={{ paddingHorizontal: 24, paddingBottom: Math.max(insets.bottom, 20) + 8, paddingTop: 16, backgroundColor: colors.lime }}>
         <EssiButton
           title="Continue →"
           arabicTitle="استمر"

@@ -1,4 +1,4 @@
-// Screen 3 — Motivation Selection
+// Screen — Motivation Selection
 // PRD §7: Connecting with family/ancestors, Speaking with elders, History/cultures, Just curious.
 // Updates local store motivation tags.
 
@@ -129,7 +129,7 @@ export default function Motivation() {
       </ScrollView>
 
       {/* ── Button pinned at the bottom — NEVER inside the ScrollView ── */}
-      <View style={{ paddingHorizontal: 24, paddingBottom: Math.max(insets.bottom, 16) + 8, paddingTop: 12, backgroundColor: colors.lime }}>
+      <View style={{ paddingHorizontal: 24, paddingBottom: Math.max(insets.bottom, 20) + 8, paddingTop: 16, backgroundColor: colors.lime }}>
         <EssiButton
           title="Continue →"
           arabicTitle="استمر"

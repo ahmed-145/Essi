@@ -1,4 +1,4 @@
-// Screen 5 — Goal Setting
+// Screen — Goal Setting
 // PRD §7 Screen 5: 3 mins (drop), 10 mins (cup), 20 mins (river).
 // Dynamically renders three traditional Nubian pottery vessels filled with water.
 
@@ -170,7 +170,7 @@ export default function Goal() {
       </ScrollView>
 
       {/* ── Button pinned at the bottom — NEVER inside the ScrollView ── */}
-      <View style={{ paddingHorizontal: 24, paddingBottom: Math.max(insets.bottom, 16) + 8, paddingTop: 12, backgroundColor: colors.lime }}>
+      <View style={{ paddingHorizontal: 24, paddingBottom: Math.max(insets.bottom, 20) + 8, paddingTop: 16, backgroundColor: colors.lime }}>
         <EssiButton
           title="Continue →"
           arabicTitle="استمر"
