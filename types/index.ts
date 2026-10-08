@@ -109,6 +109,8 @@ export interface UserProfile {
   motivation: 'heritage_primary' | 'heritage_urgent' | 'cultural_explorer' | 'casual';
   notifications_enabled: boolean;
   notification_time: string;   // 'HH:mm'
+  completed_lesson_ids?: string[];
+  last_active_date?: string;   // 'YYYY-MM-DD' in user's local timezone
 }
 
 /** Per-user SRS state for one lexeme — PRD srs_lexical */

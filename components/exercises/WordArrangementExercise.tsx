@@ -48,25 +48,29 @@ interface BankItem {
 // ── Drop-zone measurement ─────────────────────────────────────────────────────
 function zoneHit(zone: LayoutRectangle | null, px: number, py: number): boolean {
   if (!zone) return false;
-  return px >= zone.x && px <= zone.x + zone.width && py >= zone.y && py <= zone.y + zone.height;
+  const PAD = 28;
+  return px >= zone.x - PAD && px <= zone.x + zone.width + PAD &&
+         py >= zone.y - PAD && py <= zone.y + zone.height + PAD;
 }
 
 // ── Draggable word block ──────────────────────────────────────────────────────
 function DraggableBlock({
-  word, color, onDropped, onPickUp,
+  word, color, onDropped, onPickUp, onSelect,
 }: {
   word: Solution;
   color: string;
   onDropped: (word: Solution, ax: number, ay: number) => void;
   onPickUp: () => void;
+  onSelect: (word: Solution) => void;
 }) {
   const tx = useSharedValue(0);
   const ty = useSharedValue(0);
   const scale = useSharedValue(1);
   const zIndex = useSharedValue(1);
 
-  const originX = useRef(0);
-  const originY = useRef(0);
+  const tap = Gesture.Tap().onEnd(() => {
+    runOnJS(onSelect)(word);
+  });
 
   const pan = Gesture.Pan()
     .onBegin(() => {
@@ -82,14 +86,14 @@ function DraggableBlock({
     })
     .onEnd((e) => {
       'worklet';
-      const dropX = originX.current + e.translationX + 40;
-      const dropY = originY.current + e.translationY + 24;
       scale.value = withSpring(1, { damping: 14, stiffness: 300 });
       tx.value = withSpring(0);
       ty.value = withSpring(0);
       zIndex.value = 1;
-      runOnJS(onDropped)(word, dropX, dropY);
+      runOnJS(onDropped)(word, e.absoluteX, e.absoluteY);
     });
+
+  const gesture = Gesture.Race(pan, tap);
 
   const style = useAnimatedStyle(() => ({
     transform: [
@@ -101,15 +105,8 @@ function DraggableBlock({
   }));
 
   return (
-    <GestureDetector gesture={pan}>
-      <Animated.View
-        style={[style, { marginHorizontal: 5, marginVertical: 4 }]}
-        onLayout={(e) => {
-          const { x, y } = e.nativeEvent.layout;
-          originX.current = x;
-          originY.current = y;
-        }}
-      >
+    <GestureDetector gesture={gesture}>
+      <Animated.View style={[style, { marginHorizontal: 5, marginVertical: 4 }]}>
         <View style={{
           backgroundColor: color,
           paddingVertical: 12, paddingHorizontal: 16, borderRadius: 14,
@@ -235,6 +232,20 @@ export function WordArrangementExercise({ exercise, onAnswer, bottomInset = 0 }:
     }
   }, [placed]);
 
+  const handleSelect = useCallback((word: Solution) => {
+    const firstEmpty = placed.findIndex((s) => s === null);
+    if (firstEmpty === -1) return;
+    const newPlaced = [...placed];
+    newPlaced[firstEmpty] = word;
+    setPlaced(newPlaced);
+    setBank((b) => b.filter((bk) => bk.word.lexeme_id !== word.lexeme_id));
+    if (word.role === 'V' && firstEmpty !== 2) {
+      Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Heavy);
+    } else {
+      Haptics.selectionAsync();
+    }
+  }, [placed]);
+
   const handlePickUp = useCallback(() => {
     Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
   }, []);
@@ -315,6 +326,7 @@ export function WordArrangementExercise({ exercise, onAnswer, bottomInset = 0 }:
               color={ROLE_COLOR[item.word.role]}
               onDropped={handleDrop}
               onPickUp={handlePickUp}
+              onSelect={handleSelect}
             />
           ))}
           {bank.length === 0 && (

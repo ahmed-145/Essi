@@ -19,7 +19,7 @@ import Animated, {
   withRepeat, withTiming, withSequence, withDelay,
   cancelAnimation, Easing,
 } from 'react-native-reanimated';
-import { play } from '../../lib/audio';
+import { play, stopActiveAudio } from '../../lib/audio';
 import { Card } from '../Card';
 import { EssiButton } from '../EssiButton';
 import { colors } from '../../lib/colors';
@@ -109,6 +109,7 @@ export function AudioMatchingExercise({ exercise, onAnswer, bottomInset = 0 }: P
     return () => {
       clearTimeout(t);
       if (playingTimer.current) clearTimeout(playingTimer.current);
+      stopActiveAudio();
     };
   }, [exercise.audio_url]);
 

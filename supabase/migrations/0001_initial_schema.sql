@@ -124,11 +124,13 @@ create table media_assets (
 create table user_profiles (
   user_id             uuid primary key references auth.users(id) on delete cascade,
   auth_provider       text,
+  display_name        text,
   streak              int not null default 0,
   xp                  int not null default 0,
   script_preference   text not null default 'latin' check (script_preference in ('nubian','arabic','latin')),
   language_preference text not null default 'ar',
   daily_goal          int default 3,                    -- minutes: 3 / 10 / 20 (drop/cup/river)
+  motivation          text default 'casual',
   created_at          timestamptz not null default now(),
   updated_at          timestamptz not null default now()
 );

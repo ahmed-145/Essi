@@ -23,16 +23,15 @@ export default function Home() {
   const profile = useUserStore((s) => s.profile);
   const xp = profile?.xp ?? 0;
 
-  // Derive completed lessons from XP:
-  // 50 XP per lesson + 10 XP per correct answer (6 exercises × 10 = 60 bonus max)
-  // Use 50 XP as the base unit — every 50 XP = one lesson completed
-  const completedCount = Math.min(Math.floor(xp / 50), TOTAL - 1);
+  // Explicit completed lesson state from user profile:
+  const completedIds = profile?.completed_lesson_ids ?? [];
+  const completedCount = completedIds.length;
 
   const nodes = lessons.map((l, i): { lesson: typeof l; state: NodeState; pos: 'L' | 'R' } => {
     let state: NodeState;
-    if (i < completedCount) state = 'done';
-    else if (i === completedCount) state = 'active';
-    else if (i <= completedCount + 2) state = 'active'; // unlock next 2 as preview
+    if (completedIds.includes(l.id)) state = 'done';
+    else if (i === 0 || completedIds.includes(lessons[i - 1]?.id)) state = 'active';
+    else if (i <= completedCount + 1) state = 'active'; // unlock next 1 as preview
     else state = 'locked';
     return { lesson: l, state, pos: i % 2 === 0 ? 'L' : 'R' };
   });

@@ -13,12 +13,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "app.essi.learn",
-      "infoPlist": {
-        "UIBackgroundModes": [
-          "audio"
-        ]
-      }
+      "bundleIdentifier": "app.essi.learn"
     },
     "android": {
       "package": "app.essi.learn",

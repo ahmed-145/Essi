@@ -36,6 +36,18 @@ export function getVolume() {
   return globalVolume;
 }
 
+let activePlayer: AudioPlayer | null = null;
+
+export function stopActiveAudio() {
+  if (activePlayer) {
+    try {
+      activePlayer.pause();
+      activePlayer.seekTo(0);
+    } catch {}
+    activePlayer = null;
+  }
+}
+
 export async function play(source: Source) {
   await initAudio();
   // Cheap LRU — keep last 16 players hot
@@ -51,6 +63,12 @@ export async function play(source: Source) {
     player.volume = globalVolume;
     cache.set(source, player);
   }
+  // Pause any currently playing other track
+  if (activePlayer && activePlayer !== player) {
+    try { activePlayer.pause(); } catch {}
+  }
+  activePlayer = player;
+
   // Stop cleanly before rewinding — prevents double-audio when the user taps
   // replay while a track is still playing (was causing the whistle/echo).
   player.pause();
@@ -59,6 +77,7 @@ export async function play(source: Source) {
 }
 
 export function unloadAll() {
+  stopActiveAudio();
   for (const p of cache.values()) p.remove();
   cache.clear();
 }

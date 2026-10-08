@@ -2,7 +2,7 @@
 // PRD §21 Phase 2: "XP earned, words learned, streak update, continue."
 
 import React, { useEffect, useRef } from 'react';
-import { View, Text, Pressable } from 'react-native';
+import { View, Text, Pressable, Share } from 'react-native';
 import { useRouter, useLocalSearchParams } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import Animated, {
@@ -55,6 +55,15 @@ export default function LessonComplete() {
     { label: 'Accuracy', value: accuracy > 0 ? `${accuracy}%` : '—' },
   ];
   const cardAnims = [metricAnimStyle(card1), metricAnimStyle(card2), metricAnimStyle(card3)];
+
+  const handleShare = async () => {
+    try {
+      Haptics.selectionAsync();
+      await Share.share({
+        message: `🌊 I just completed a lesson on Essi (ⲉⲥⲥⲓ)! Watering my roots in Mattokki Nubian — اسقي جذورك. Streak: ${streak} days, XP: +${xpEarned}.\n\n#LearnNubian #Essi #NubianHeritage`,
+      });
+    } catch {}
+  };
 
   return (
     <View style={{ flex: 1, backgroundColor: colors.terra, paddingTop: insets.top }}>
@@ -122,7 +131,13 @@ export default function LessonComplete() {
         )}
       </View>
 
-      <View style={{ padding: 24, paddingBottom: insets.bottom + 16 }}>
+      <View style={{ padding: 24, paddingBottom: insets.bottom + 16, gap: 10 }}>
+        <EssiButton
+          title="Share Milestone 🌿"
+          arabicTitle="شارك إنجازك"
+          variant="ghost"
+          onPress={handleShare}
+        />
         <EssiButton
           title="Continue →"
           arabicTitle="كمل"

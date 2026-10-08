@@ -50,6 +50,11 @@ export default function LessonPlayer() {
 
   const record = useSrsStore((s) => s.record);
   const bumpXp = useUserStore((s) => s.bumpXp);
+  const markLessonCompleted = useUserStore((s) => s.markLessonCompleted);
+  const incrementStreak = useUserStore((s) => s.incrementStreak);
+
+  // Guard against infinite wrong-answer loop: cap retries per exercise to 2
+  const retriesRef = useRef<Record<string, number>>({});
 
   // PRD §8 Feature 2 edge case: multi-tap guard (ref, not state — synchronous).
   const answering = useRef(false);
@@ -57,10 +62,13 @@ export default function LessonPlayer() {
   const exerciseStartTime = useRef<number>(Date.now());
 
   // ── Animated progress bar ─────────────────────────────────────────────────
-  const progress = queue.length > 0 ? (idx + 1) / queue.length : 0;
+  const originalLen = lesson?.exercises.length ?? 1; // for question counter display
+  const progress = queue.length > 0 ? Math.min(1, Math.max(0.05, (idx + 1) / Math.max(originalLen, queue.length))) : 0;
   const progressWidth = useSharedValue(progress);
   useEffect(() => {
-    progressWidth.value = withTiming(progress, { duration: 220, easing: EASE_OUT });
+    // Monotonic progression — never visibly jump backward if wrong answers are re-queued
+    const nextVal = Math.max(progressWidth.value, progress);
+    progressWidth.value = withTiming(nextVal, { duration: 220, easing: EASE_OUT });
   }, [progress]);
   const progressStyle = useAnimatedStyle(() => ({
     width: `${progressWidth.value * 100}%`,
@@ -96,12 +104,13 @@ export default function LessonPlayer() {
   }
 
   const ex = queue[idx];
-  const originalLen = lesson.exercises.length; // for question counter display
 
   const next = useCallback(() => {
     if (idx + 1 >= queue.length) {
-      // Lesson complete — award lesson XP, clear session, navigate to complete screen
+      // Lesson complete — award lesson XP, bump streak, clear session, navigate to complete screen
       bumpXp(XP_PER_LESSON);
+      markLessonCompleted(id!);
+      incrementStreak();
       clearSession(id!);
       const accuracy = totalAnswered > 0 ? Math.round((correctCount / totalAnswered) * 100) : 0;
       router.replace({
@@ -146,8 +155,12 @@ export default function LessonPlayer() {
       bumpXp(XP_PER_EXERCISE);
       next();
     } else {
-      // PRD: wrong answers append to end of queue so user must answer correctly
-      setQueue((q) => [...q, ex]);
+      // Wrong answers append to end of queue up to 2 retries (prevents infinite loop deadlock)
+      const currentRetries = retriesRef.current[ex.id] ?? 0;
+      if (currentRetries < 2) {
+        retriesRef.current[ex.id] = currentRetries + 1;
+        setQueue((q) => [...q, ex]);
+      }
       next();
     }
   }, [ex, totalAnswered, correctCount, next]);

@@ -53,7 +53,7 @@ export function BottomNav() {
         const active = path?.includes(it.k) ?? false;
         const c = active ? colors.nile : colors.ink3;
         return (
-          <AnimatedPressable key={it.k} onPress={() => router.push(it.route)}
+          <AnimatedPressable key={it.k} onPress={() => { if (!active) router.replace(it.route); }}
             style={{ flex: 1, alignItems: 'center', paddingVertical: 4 }}>
             <Icon k={it.k} c={c} />
             <Text style={{ fontSize: 10.5, color: c, fontFamily: active ? 'Inter-Bold' : 'Inter-Medium', marginTop: 2 }}>

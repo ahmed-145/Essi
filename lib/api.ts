@@ -22,6 +22,7 @@ if (typeof globalThis.WebSocket === 'undefined') {
 }
 
 import { createClient, type SupabaseClient } from '@supabase/supabase-js';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import type { Lesson, UserProfile, LexicalSrs, MorphologicalSrs } from '../types';
 import { lessons } from '../data/lessons';
 
@@ -31,6 +32,23 @@ const KEY = process.env.EXPO_PUBLIC_SUPABASE_ANON_KEY;
 export const supabase: SupabaseClient | null =
   URL && KEY ? createClient(URL, KEY) : null;
 
+const OUTBOX_KEY = 'essi:offline_progress_events';
+
+/** Flush queued offline progress events when connection is re-established */
+export async function flushProgressOutbox() {
+  if (!supabase) return;
+  try {
+    const raw = await AsyncStorage.getItem(OUTBOX_KEY);
+    if (!raw) return;
+    const events = JSON.parse(raw);
+    if (!Array.isArray(events) || events.length === 0) return;
+    const { error } = await supabase.from('progress_events').insert(events);
+    if (!error) {
+      await AsyncStorage.removeItem(OUTBOX_KEY);
+    }
+  } catch {}
+}
+
 /** Fetch one lesson — mocked from local data if no Supabase. */
 export async function getLesson(id: string): Promise<Lesson | null> {
   if (!supabase) return lessons.find((l) => l.id === id) ?? null;
@@ -38,8 +56,8 @@ export async function getLesson(id: string): Promise<Lesson | null> {
   return data as Lesson;
 }
 
-/** POST /api/progress — call after every answer. Server should run the
- * ML-SRS update on its side too for source-of-truth. */
+/** POST /api/progress — call after every answer.
+ * Includes PRD §24.2 read-path offline queueing: if network drops, queues to AsyncStorage. */
 export async function recordAnswer(input: {
   exercise_id: string;
   is_correct: boolean;
@@ -47,7 +65,22 @@ export async function recordAnswer(input: {
   ms_to_answer: number;
 }) {
   if (!supabase) return { ok: true };
-  return supabase.from('progress_events').insert(input);
+  try {
+    const res = await supabase.from('progress_events').insert(input);
+    if (res.error) throw res.error;
+    // Opportunistically flush earlier outbox events on successful network write
+    flushProgressOutbox().catch(() => {});
+    return res;
+  } catch {
+    // Offline or weak signal — append to local outbox
+    try {
+      const raw = await AsyncStorage.getItem(OUTBOX_KEY);
+      const queue = raw ? JSON.parse(raw) : [];
+      queue.push({ ...input, created_at: new Date().toISOString() });
+      await AsyncStorage.setItem(OUTBOX_KEY, JSON.stringify(queue.slice(-100)));
+    } catch {}
+    return { ok: true, queued_offline: true };
+  }
 }
 
 export async function getUser(): Promise<UserProfile | null> {
@@ -118,7 +151,7 @@ export async function ensureUserProfile(
     .eq('user_id', userId)
     .maybeSingle();
   if (existing) return;
-  const { error } = await supabase.from('user_profiles').insert({
+  const insertPayload: Record<string, any> = {
     user_id: userId,
     auth_provider: authProvider,
     streak: 0,
@@ -127,7 +160,13 @@ export async function ensureUserProfile(
     language_preference: 'ar',
     daily_goal: dailyGoal,
     motivation: motivation,
-  });
+  };
+  let { error } = await supabase.from('user_profiles').insert(insertPayload);
+  if (error && error.message?.includes('motivation')) {
+    delete insertPayload.motivation;
+    const retry = await supabase.from('user_profiles').insert(insertPayload);
+    error = retry.error;
+  }
   if (error) throw error;
 }
 

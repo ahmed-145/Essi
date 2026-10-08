@@ -29,24 +29,29 @@ interface Props { exercise: Ex; onAnswer: (isCorrect: boolean, wrongRuleId?: str
 // ── Snap-target slot measurement ──────────────────────────────────────────────
 function zoneHit(zone: LayoutRectangle | null, px: number, py: number): boolean {
   if (!zone) return false;
-  return px >= zone.x && px <= zone.x + zone.width && py >= zone.y && py <= zone.y + zone.height;
+  const PAD = 28;
+  return px >= zone.x - PAD && px <= zone.x + zone.width + PAD &&
+         py >= zone.y - PAD && py <= zone.y + zone.height + PAD;
 }
 
 // ── Draggable suffix chip ─────────────────────────────────────────────────────
 function SuffixChip({
-  ruleId, selected, onDrop, onPickUp,
+  ruleId, selected, onDrop, onPickUp, onSelect,
 }: {
   ruleId: string;
   selected: boolean;
   onDrop: (ruleId: string, ax: number, ay: number) => void;
   onPickUp: () => void;
+  onSelect: (ruleId: string) => void;
 }) {
   const rule = ruleById[ruleId];
   const tx = useSharedValue(0);
   const ty = useSharedValue(0);
   const scale = useSharedValue(1);
-  const originX = useRef(0);
-  const originY = useRef(0);
+
+  const tap = Gesture.Tap().onEnd(() => {
+    runOnJS(onSelect)(ruleId);
+  });
 
   const pan = Gesture.Pan()
     .onBegin(() => {
@@ -61,13 +66,13 @@ function SuffixChip({
     })
     .onEnd((e) => {
       'worklet';
-      const dropX = originX.current + e.translationX + 30;
-      const dropY = originY.current + e.translationY + 18;
       scale.value = withSpring(1, { damping: 14, stiffness: 280 });
       tx.value = withSpring(0, { damping: 14 });
       ty.value = withSpring(0, { damping: 14 });
-      runOnJS(onDrop)(ruleId, dropX, dropY);
+      runOnJS(onDrop)(ruleId, e.absoluteX, e.absoluteY);
     });
+
+  const gesture = Gesture.Race(pan, tap);
 
   const style = useAnimatedStyle(() => ({
     transform: [{ translateX: tx.value }, { translateY: ty.value }, { scale: scale.value }],
@@ -75,16 +80,8 @@ function SuffixChip({
   }));
 
   return (
-    <GestureDetector gesture={pan}>
-      <Animated.View
-        style={[style, { marginHorizontal: 5 }]}
-        onLayout={(e) => {
-          e.target.measure((_x, _y, _w, _h, px, py) => {
-            originX.current = px;
-            originY.current = py;
-          });
-        }}
-      >
+    <GestureDetector gesture={gesture}>
+      <Animated.View style={[style, { marginHorizontal: 5 }]}>
         <View style={{
           backgroundColor: selected ? colors.terra : '#fff',
           paddingVertical: 14, paddingHorizontal: 16, borderRadius: 16, minWidth: 80,
@@ -179,6 +176,13 @@ export function SuffixSnapExercise({ exercise, onAnswer, bottomInset = 0 }: Prop
       setShowResult(true);
     }
     // If missed the zone, the chip springs back via its own Reanimated state
+  }, [snapped]);
+
+  const handleSelect = useCallback((ruleId: string) => {
+    if (snapped) return;
+    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
+    setSnapped(ruleId);
+    setShowResult(true);
   }, [snapped]);
 
   const handlePickUp = useCallback(() => {
@@ -291,6 +295,7 @@ export function SuffixSnapExercise({ exercise, onAnswer, bottomInset = 0 }: Prop
               selected={snapped === rId}
               onDrop={handleDrop}
               onPickUp={handlePickUp}
+              onSelect={handleSelect}
             />
           ))}
         </ScrollView>

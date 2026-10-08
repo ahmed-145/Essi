@@ -6,6 +6,7 @@ import React from 'react';
 import { Text, type TextProps, type TextStyle, StyleSheet } from 'react-native';
 import { useScriptStore } from '../stores/scriptStore';
 import { colors } from '../lib/colors';
+import { sawardaLoaded, notoCopticLoaded } from '../lib/fonts';
 
 interface Props extends TextProps {
   nubian: string;
@@ -27,7 +28,7 @@ export function MattokkiText({
 
   // Fallback chain — if Sawarda fails to load, Noto Sans Coptic still renders Old Nubian.
   const fontFamily =
-    script === 'nubian' ? 'SawardaNubian' :
+    script === 'nubian' ? (sawardaLoaded ? 'SawardaNubian' : notoCopticLoaded ? 'NotoSansCoptic' : 'Inter') :
     script === 'arabic' ? 'Cairo' :
     'Inter';
 

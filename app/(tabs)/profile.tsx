@@ -91,8 +91,8 @@ export default function Profile() {
   const { needed, current } = xpToNextLevel(xp);
   const levelProgress = needed > 0 ? Math.min(1, current / needed) : 1;
 
-  // Derived: lessons completed (approximate from XP)
-  const lessonsCompleted = Math.floor(xp / 60);
+  // Real completed lessons from user profile:
+  const lessonsCompleted = profile?.completed_lesson_ids?.length ?? 0;
 
   // Server metrics: weakest rule from the authoritative ML-SRS backend.
   // Hydrated on mount; falls back to local SRS store while loading or offline.
