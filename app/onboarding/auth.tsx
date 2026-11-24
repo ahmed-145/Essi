@@ -4,7 +4,7 @@
 //   ✓ Connection lost → retry prompt, no data loss
 //   ✓ Email works without any external OAuth setup
 
-import React, { useState } from 'react';
+import React, { useRef, useState } from 'react';
 import { View, Text, TextInput, ActivityIndicator, Pressable } from 'react-native';
 import { useRouter } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -14,10 +14,11 @@ import { colors } from '../../lib/colors';
 import { signUpWithEmail, signInWithEmail, ensureUserProfile } from '../../lib/api';
 import { useUserStore } from '../../stores/userStore';
 
-type AuthError = 'duplicate' | 'network' | 'invalid_credentials' | 'generic' | null;
+type AuthError = 'duplicate' | 'network' | 'invalid_credentials' | 'unconfirmed' | 'generic' | null;
 
 function parseError(msg: string): AuthError {
   const m = msg.toLowerCase();
+  if (m.includes('email not confirmed')) return 'unconfirmed';
   if (m.includes('already registered') || m.includes('user already exists')) return 'duplicate';
   if (m.includes('network') || m.includes('fetch') || m.includes('timeout') || m.includes('unable to connect')) return 'network';
   if (m.includes('invalid login') || m.includes('invalid credentials') || m.includes('wrong password')) return 'invalid_credentials';
@@ -31,6 +32,8 @@ export default function Auth() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [busy, setBusy] = useState(false);
+  const submitting = useRef(false);
+  const [confirmationSent, setConfirmationSent] = useState(false);
   const [errorKind, setErrorKind] = useState<AuthError>(null);
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
 
@@ -38,29 +41,38 @@ export default function Auth() {
   const patchLocalProfile = useUserStore((s) => s.patch);
 
   const attemptAuth = async () => {
+    if (submitting.current) return;
     if (!email.trim() || !password) {
       setErrorKind('generic');
       setErrorMsg('Enter your email and a password.');
       return;
     }
+    submitting.current = true;
     setBusy(true);
+    setConfirmationSent(false);
     setErrorKind(null);
     setErrorMsg(null);
     try {
-      const { user } = mode === 'signup'
+      const { session } = mode === 'signup'
         ? await signUpWithEmail(email.trim(), password)
         : await signInWithEmail(email.trim(), password);
       
-      if (user) {
-        // Hydrate local store with user details
-        patchLocalProfile({ id: user.id });
-        await ensureUserProfile(
-          user.id,
-          'email',
-          localProfile?.motivation || 'casual',
-          localProfile?.daily_goal_minutes || 10
-        );
+      if (!session) {
+        if (mode !== 'signup') throw new Error('Could not start your session. Try again.');
+        setConfirmationSent(true);
+        setPassword('');
+        setMode('signin');
+        return;
       }
+
+      const userId = session.user.id;
+      await ensureUserProfile(
+        userId,
+        'email',
+        localProfile?.motivation ?? 'casual',
+        localProfile?.daily_goal_minutes ?? 10,
+      );
+      patchLocalProfile({ id: userId });
       Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
       r.replace('/(tabs)/home');
     } catch (e: any) {
@@ -69,12 +81,15 @@ export default function Auth() {
       setErrorKind(kind);
       setErrorMsg(e?.message ?? 'Something went wrong — try again.');
     } finally {
+      submitting.current = false;
       setBusy(false);
     }
   };
 
-  const switchToLogin = () => {
-    setMode('signin');
+  const changeMode = (nextMode: 'signup' | 'signin') => {
+    if (submitting.current) return;
+    setMode(nextMode);
+    setConfirmationSent(false);
     setErrorKind(null);
     setErrorMsg(null);
   };
@@ -130,6 +145,12 @@ export default function Auth() {
           }}
         />
 
+        {(confirmationSent || errorKind === 'unconfirmed') && (
+          <Text accessibilityLiveRegion="polite" style={{ color: colors.lime, fontSize: 14, marginTop: 8 }}>
+            Check your inbox and confirm your email. Then come back to log in.
+          </Text>
+        )}
+
         {/* Contextual error messages */}
         {errorKind === 'duplicate' && (
           <View style={{ backgroundColor: 'rgba(245,240,232,0.06)', borderRadius: 12, padding: 14, marginTop: 8 }}>
@@ -139,7 +160,7 @@ export default function Auth() {
             <Text style={{ color: colors.lime, fontSize: 13, opacity: 0.8, marginBottom: 10 }}>
               Looks like you already have an Essi account. Log in to continue watering your roots.
             </Text>
-            <Pressable onPress={switchToLogin}>
+            <Pressable onPress={() => changeMode('signin')}>
               <Text style={{ color: colors.nile, fontFamily: 'Inter-Bold', fontSize: 13 }}>
                 → Log in instead
               </Text>
@@ -199,7 +220,7 @@ export default function Auth() {
           variant="ghostLime"
           size="sm"
           style={{ marginTop: 12 }}
-          onPress={switchToLogin}
+          onPress={() => changeMode(mode === 'signup' ? 'signin' : 'signup')}
         />
 
         {/* Google / Apple placeholders */}
