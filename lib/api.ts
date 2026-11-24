@@ -21,6 +21,7 @@ if (typeof globalThis.WebSocket === 'undefined') {
   (globalThis as any).WebSocket = MockWebSocket;
 }
 
+import { createProgressOutbox, type Answer } from './progressOutbox';
 import { uuid } from 'expo-modules-core';
 import { useAuthStore } from '../stores/authStore';
 import { Platform } from 'react-native';
@@ -43,31 +44,18 @@ export const supabase: SupabaseClient | null =
     },
   }) : null;
 
-// Older queue entries lack an owner and cannot safely be replayed.
-const pendingPrefix = (userId: string) => `essi:progress:v2:${userId}:`;
-let drain = Promise.resolve();
+const progressOutbox = createProgressOutbox({
+  storage: AsyncStorage,
+  owner: () => useAuthStore.getState().session?.user.id,
+  uuid: () => uuid.v4(),
+  async send(event) {
+    const { error } = await supabase!.from('progress_events')
+      .upsert(event, { onConflict: 'id', ignoreDuplicates: true });
+    return error;
+  },
+});
 
-export function flushProgressOutbox() {
-  const owner = useAuthStore.getState().session?.user.id;
-  const client = supabase;
-  if (!owner || !client) return Promise.resolve();
-  const run = drain.then(async () => {
-    const prefix = pendingPrefix(owner);
-    const keys = (await AsyncStorage.getAllKeys()).filter(key => key.startsWith(prefix)).sort();
-    for (const key of keys) {
-      if (useAuthStore.getState().session?.user.id !== owner) return;
-      const raw = await AsyncStorage.getItem(key);
-      if (!raw) continue;
-      const event = JSON.parse(raw);
-      const { error } = await client.from('progress_events')
-        .upsert(event, { onConflict: 'id', ignoreDuplicates: true });
-      if (error) return;
-      await AsyncStorage.removeItem(key);
-    }
-  });
-  drain = run.catch(() => {});
-  return run;
-}
+export const flushProgressOutbox = progressOutbox.flush;
 
 /** Fetch one lesson — mocked from local data if no Supabase. */
 export async function getLesson(id: string): Promise<Lesson | null> {
@@ -78,21 +66,9 @@ export async function getLesson(id: string): Promise<Lesson | null> {
 
 /** POST /api/progress — call after every answer.
  * Includes PRD §24.2 read-path offline queueing: if network drops, queues to AsyncStorage. */
-export async function recordAnswer(input: {
-  exercise_id: string;
-  is_correct: boolean;
-  wrong_rule_id?: string | null;
-  ms_to_answer: number;
-}) {
+export async function recordAnswer(input: Answer) {
   if (!supabase) return { ok: true };
-  const owner = useAuthStore.getState().session?.user.id;
-  if (!owner) return { ok: false };
-  const event = { ...input, id: uuid.v4(), user_id: owner, created_at: new Date().toISOString() };
-  const key = pendingPrefix(owner) + event.created_at + ':' + event.id;
-  await AsyncStorage.setItem(key, JSON.stringify(event));
-  await flushProgressOutbox();
-  return { ok: true };
-
+  return progressOutbox.record(input);
 }
 
 export async function getUser(): Promise<UserProfile | null> {
