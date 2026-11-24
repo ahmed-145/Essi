@@ -5,6 +5,7 @@ import 'react-native-reanimated';
 import '../global.css';
 
 import { useEffect } from 'react';
+import { AppState, Platform } from 'react-native';
 import { Stack } from 'expo-router';
 import { useFonts } from 'expo-font';
 import * as SplashScreen from 'expo-splash-screen';
@@ -16,7 +17,7 @@ import { PostHogProvider } from 'posthog-react-native';
 import { fontMap } from '../lib/fonts';
 import { initAudio } from '../lib/audio';
 import { configureChannelsAndroid } from '../lib/notifications';
-import { supabase } from '../lib/api';
+import { flushProgressOutbox, supabase } from '../lib/api';
 import { useAuthStore } from '../stores/authStore';
 
 SplashScreen.preventAutoHideAsync().catch(() => {});
@@ -59,8 +60,23 @@ function RootLayout() {
     });
     const { data: sub } = supabase.auth.onAuthStateChange((_event, session) => {
       setSession(session);
+      if (session) void flushProgressOutbox().catch(() => {});
     });
-    return () => sub.subscription.unsubscribe();
+    const auth = supabase.auth;
+    const updateRefresh = (state: string) => {
+      if (state === 'active') {
+        void auth.startAutoRefresh();
+        void flushProgressOutbox().catch(() => {});
+      }
+      else void auth.stopAutoRefresh();
+    };
+    const lifecycle = Platform.OS === 'web' ? undefined : AppState.addEventListener('change', updateRefresh);
+    if (lifecycle) updateRefresh(AppState.currentState);
+    return () => {
+      sub.subscription.unsubscribe();
+      lifecycle?.remove();
+      if (lifecycle) void auth.stopAutoRefresh();
+    };
   }, []);
 
   if (!loaded) return null;

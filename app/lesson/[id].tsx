@@ -2,7 +2,7 @@
 // PRD §8 Feature 2 — all four exercise types, mid-lesson persistence,
 // XP award on completion, and recordAnswer to Supabase.
 
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { View, Text, Pressable } from 'react-native';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -18,6 +18,7 @@ import { GrammarTooltipModal } from '../../components/GrammarTooltipModal';
 import { useSrsStore } from '../../stores/srsStore';
 import { useUserStore } from '../../stores/userStore';
 import { useLessonProgressStore } from '../../stores/lessonProgressStore';
+import { advanceLesson } from '../../lib/advanceLesson';
 import { recordAnswer } from '../../lib/api';
 import { colors } from '../../lib/colors';
 import type { Exercise } from '../../types';
@@ -26,19 +27,42 @@ const EASE_OUT = Easing.bezier(0.23, 1, 0.32, 1);
 const XP_PER_EXERCISE = 10;
 const XP_PER_LESSON = 50;
 
+export function generateStaticParams() {
+  return [...Object.keys(lessonById), 'review'].map(id => ({ id }));
+}
+
 export default function LessonPlayer() {
+  const { id, items } = useLocalSearchParams<{ id: string; items?: string }>();
+  const [hydrated, setHydrated] = useState(useLessonProgressStore.persist.hasHydrated);
+  useEffect(() => {
+    if (hydrated) return;
+    let mounted = true;
+    const ready = () => { if (mounted) setHydrated(true); };
+    // Fall back to a fresh session if persistent storage is unavailable.
+    Promise.resolve(useLessonProgressStore.persist.rehydrate()).then(ready, ready);
+    return () => { mounted = false; };
+  }, [hydrated]);
+  if (!hydrated) return null;
+  return <LessonSession key={id + (items ?? '')} id={id} items={items} />;
+}
+
+function LessonSession({ id, items }: { id: string; items?: string }) {
   const insets = useSafeAreaInsets();
   const router = useRouter();
-  const { id } = useLocalSearchParams<{ id: string }>();
-  const lesson = lessonById[id!];
-
-  // ── Restore mid-lesson session if one exists ──────────────────────────────
-  const savedSession = useLessonProgressStore((s) => s.session);
+  const review = id === 'review';
+  const [lesson] = useState(() => {
+    if (!review) return lessonById[id];
+    const pool = new Map(Object.values(lessonById).flatMap(l => l.exercises).map(ex => [ex.id, ex]));
+    const exercises = (items ?? '').split(',').flatMap(key => pool.get(key) ?? []);
+    return { id: 'Review', title: 'Daily Practice', exercises };
+  });
+  const [savedSession] = useState(() => useLessonProgressStore.getState().session);
   const saveSession = useLessonProgressStore((s) => s.saveSession);
   const clearSession = useLessonProgressStore((s) => s.clearSession);
 
   const hasSavedSession = savedSession?.lessonId === id;
 
+  const [startedAt] = useState(() => hasSavedSession ? savedSession!.startedAt : new Date().toISOString());
   const [queue, setQueue] = useState<Exercise[]>(() => {
     if (hasSavedSession) return savedSession!.queue;
     return [...(lesson?.exercises ?? [])];
@@ -52,9 +76,6 @@ export default function LessonPlayer() {
   const bumpXp = useUserStore((s) => s.bumpXp);
   const markLessonCompleted = useUserStore((s) => s.markLessonCompleted);
   const incrementStreak = useUserStore((s) => s.incrementStreak);
-
-  // Guard against infinite wrong-answer loop: cap retries per exercise to 2
-  const retriesRef = useRef<Record<string, number>>({});
 
   // PRD §8 Feature 2 edge case: multi-tap guard (ref, not state — synchronous).
   const answering = useRef(false);
@@ -76,25 +97,30 @@ export default function LessonPlayer() {
 
   // ── Persist mid-lesson state to AsyncStorage on every transition ──────────
   useEffect(() => {
-    if (!lesson || queue.length === 0) return;
+    if (review || !lesson || queue.length === 0) return;
     saveSession({
       lessonId: id!,
       queue,
       idx,
       correctCount,
       totalAnswered,
-      startedAt: savedSession?.startedAt ?? new Date().toISOString(),
+      startedAt,
     });
   }, [idx, queue]);
 
-  if (!lesson || queue.length === 0) {
+  useEffect(() => {
+    answering.current = false;
+    exerciseStartTime.current = Date.now();
+  }, [idx]);
+
+  if (!lesson || !queue[idx]) {
     return (
       <View style={{ flex: 1, backgroundColor: colors.lime, alignItems: 'center', justifyContent: 'center', padding: 24 }}>
         <Text style={{ fontFamily: 'Fraunces-SemiBold', fontSize: 22, color: colors.ink, textAlign: 'center' }}>
           {lesson?.title ?? 'Lesson'}
         </Text>
         <Text style={{ color: colors.ink3, marginTop: 8, textAlign: 'center' }}>
-          No exercises wired yet — see data/lessons.ts to populate from the Mattokki database.
+          There are no exercises available here yet.
         </Text>
         <Pressable onPress={() => router.back()} style={{ marginTop: 24 }}>
           <Text style={{ color: colors.nile, fontFamily: 'Inter-Bold' }}>Back to map</Text>
@@ -105,30 +131,7 @@ export default function LessonPlayer() {
 
   const ex = queue[idx];
 
-  const next = useCallback(() => {
-    if (idx + 1 >= queue.length) {
-      // Lesson complete — award lesson XP, bump streak, clear session, navigate to complete screen
-      bumpXp(XP_PER_LESSON);
-      markLessonCompleted(id!);
-      incrementStreak();
-      clearSession(id!);
-      const accuracy = totalAnswered > 0 ? Math.round((correctCount / totalAnswered) * 100) : 0;
-      router.replace({
-        pathname: '/lesson/complete',
-        params: {
-          xp: String(XP_PER_LESSON + correctCount * XP_PER_EXERCISE),
-          accuracy: String(accuracy),
-          words: String(lesson.exercises.filter((e) => e.kind === 'audio_match' || e.kind === 'mcq').length),
-        },
-      } as any);
-    } else {
-      setIdx(idx + 1);
-      answering.current = false;
-      exerciseStartTime.current = Date.now(); // reset timer for next exercise
-    }
-  }, [idx, queue.length, totalAnswered, correctCount]);
-
-  const onAnswer = useCallback((correct: boolean, wrongRuleId?: string) => {
+  function onAnswer(correct: boolean, wrongRuleId?: string) {
     if (answering.current) return;
     answering.current = true;
 
@@ -146,24 +149,32 @@ export default function LessonPlayer() {
       ms_to_answer: ms,
     }).catch(() => {});
 
-    const newTotal = totalAnswered + 1;
-    const newCorrect = correct ? correctCount + 1 : correctCount;
-    setTotalAnswered(newTotal);
-    setCorrectCount(newCorrect);
+    const result = advanceLesson(queue, idx, correctCount, totalAnswered, correct);
+    if (correct) bumpXp(XP_PER_EXERCISE);
 
-    if (correct) {
-      bumpXp(XP_PER_EXERCISE);
-      next();
-    } else {
-      // Wrong answers append to end of queue up to 2 retries (prevents infinite loop deadlock)
-      const currentRetries = retriesRef.current[ex.id] ?? 0;
-      if (currentRetries < 2) {
-        retriesRef.current[ex.id] = currentRetries + 1;
-        setQueue((q) => [...q, ex]);
-      }
-      next();
+    if (result.idx < result.queue.length) {
+      setQueue(result.queue);
+      setIdx(result.idx);
+      setCorrectCount(result.correctCount);
+      setTotalAnswered(result.totalAnswered);
+      return;
     }
-  }, [ex, totalAnswered, correctCount, next]);
+
+    const bonus = review ? 30 : XP_PER_LESSON;
+    bumpXp(bonus);
+    if (!review) markLessonCompleted(id!);
+    incrementStreak();
+    clearSession(id!);
+    router.replace({
+      pathname: '/lesson/complete',
+      params: {
+        mode: review ? 'review' : 'lesson',
+        xp: String(bonus + result.correctCount * XP_PER_EXERCISE),
+        accuracy: String(Math.round(100 * result.correctCount / result.totalAnswered)),
+        words: String(lesson.exercises.filter(e => e.kind === 'audio_match' || e.kind === 'mcq').length),
+      },
+    });
+  }
 
   return (
     <View style={{ flex: 1, backgroundColor: colors.lime, paddingTop: insets.top }}>
@@ -203,10 +214,10 @@ export default function LessonPlayer() {
       {/* Exercise area — bottomInset passed so each component pads its own Check button
            correctly. Do NOT add a sibling <View height={insets.bottom}> here — it would
            fight with the exercise's internal flex:1 and clip the button off-screen. */}
-      {ex.kind === 'audio_match'  && <AudioMatchingExercise   exercise={ex} onAnswer={onAnswer} bottomInset={insets.bottom} />}
-      {ex.kind === 'mcq'          && <MultipleChoiceExercise  exercise={ex} onAnswer={onAnswer} onTooltipRequest={setTooltipRuleId} bottomInset={insets.bottom} />}
-      {ex.kind === 'suffix_snap'  && <SuffixSnapExercise      exercise={ex} onAnswer={onAnswer} bottomInset={insets.bottom} />}
-      {ex.kind === 'word_arrange' && <WordArrangementExercise exercise={ex} onAnswer={onAnswer} bottomInset={insets.bottom} />}
+      {ex.kind === 'audio_match'  && <AudioMatchingExercise   key={idx} exercise={ex} onAnswer={onAnswer} bottomInset={insets.bottom} />}
+      {ex.kind === 'mcq'          && <MultipleChoiceExercise  key={idx} exercise={ex} onAnswer={onAnswer} onTooltipRequest={setTooltipRuleId} bottomInset={insets.bottom} />}
+      {ex.kind === 'suffix_snap'  && <SuffixSnapExercise      key={idx} exercise={ex} onAnswer={onAnswer} bottomInset={insets.bottom} />}
+      {ex.kind === 'word_arrange' && <WordArrangementExercise key={idx} exercise={ex} onAnswer={onAnswer} bottomInset={insets.bottom} />}
 
       <GrammarTooltipModal ruleId={tooltipRuleId} onClose={() => setTooltipRuleId(null)} />
     </View>

@@ -21,7 +21,10 @@ if (typeof globalThis.WebSocket === 'undefined') {
   (globalThis as any).WebSocket = MockWebSocket;
 }
 
-import { createClient, type SupabaseClient } from '@supabase/supabase-js';
+import { uuid } from 'expo-modules-core';
+import { useAuthStore } from '../stores/authStore';
+import { Platform } from 'react-native';
+import { createClient, processLock, type SupabaseClient } from '@supabase/supabase-js';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import type { Lesson, UserProfile, LexicalSrs, MorphologicalSrs } from '../types';
 import { lessons } from '../data/lessons';
@@ -30,23 +33,40 @@ const URL = process.env.EXPO_PUBLIC_SUPABASE_URL;
 const KEY = process.env.EXPO_PUBLIC_SUPABASE_ANON_KEY;
 
 export const supabase: SupabaseClient | null =
-  URL && KEY ? createClient(URL, KEY) : null;
+  URL && KEY ? createClient(URL, KEY, {
+    auth: Platform.OS === 'web' ? {} : {
+      storage: AsyncStorage,
+      persistSession: true,
+      autoRefreshToken: true,
+      detectSessionInUrl: false,
+      lock: processLock,
+    },
+  }) : null;
 
-const OUTBOX_KEY = 'essi:offline_progress_events';
+// Older queue entries lack an owner and cannot safely be replayed.
+const pendingPrefix = (userId: string) => `essi:progress:v2:${userId}:`;
+let drain = Promise.resolve();
 
-/** Flush queued offline progress events when connection is re-established */
-export async function flushProgressOutbox() {
-  if (!supabase) return;
-  try {
-    const raw = await AsyncStorage.getItem(OUTBOX_KEY);
-    if (!raw) return;
-    const events = JSON.parse(raw);
-    if (!Array.isArray(events) || events.length === 0) return;
-    const { error } = await supabase.from('progress_events').insert(events);
-    if (!error) {
-      await AsyncStorage.removeItem(OUTBOX_KEY);
+export function flushProgressOutbox() {
+  const owner = useAuthStore.getState().session?.user.id;
+  const client = supabase;
+  if (!owner || !client) return Promise.resolve();
+  const run = drain.then(async () => {
+    const prefix = pendingPrefix(owner);
+    const keys = (await AsyncStorage.getAllKeys()).filter(key => key.startsWith(prefix)).sort();
+    for (const key of keys) {
+      if (useAuthStore.getState().session?.user.id !== owner) return;
+      const raw = await AsyncStorage.getItem(key);
+      if (!raw) continue;
+      const event = JSON.parse(raw);
+      const { error } = await client.from('progress_events')
+        .upsert(event, { onConflict: 'id', ignoreDuplicates: true });
+      if (error) return;
+      await AsyncStorage.removeItem(key);
     }
-  } catch {}
+  });
+  drain = run.catch(() => {});
+  return run;
 }
 
 /** Fetch one lesson — mocked from local data if no Supabase. */
@@ -65,22 +85,14 @@ export async function recordAnswer(input: {
   ms_to_answer: number;
 }) {
   if (!supabase) return { ok: true };
-  try {
-    const res = await supabase.from('progress_events').insert(input);
-    if (res.error) throw res.error;
-    // Opportunistically flush earlier outbox events on successful network write
-    flushProgressOutbox().catch(() => {});
-    return res;
-  } catch {
-    // Offline or weak signal — append to local outbox
-    try {
-      const raw = await AsyncStorage.getItem(OUTBOX_KEY);
-      const queue = raw ? JSON.parse(raw) : [];
-      queue.push({ ...input, created_at: new Date().toISOString() });
-      await AsyncStorage.setItem(OUTBOX_KEY, JSON.stringify(queue.slice(-100)));
-    } catch {}
-    return { ok: true, queued_offline: true };
-  }
+  const owner = useAuthStore.getState().session?.user.id;
+  if (!owner) return { ok: false };
+  const event = { ...input, id: uuid.v4(), user_id: owner, created_at: new Date().toISOString() };
+  const key = pendingPrefix(owner) + event.created_at + ':' + event.id;
+  await AsyncStorage.setItem(key, JSON.stringify(event));
+  await flushProgressOutbox();
+  return { ok: true };
+
 }
 
 export async function getUser(): Promise<UserProfile | null> {

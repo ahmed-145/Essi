@@ -12,6 +12,8 @@ import { Card } from '../../components/Card';
 import { EssiButton } from '../../components/EssiButton';
 import { colors } from '../../lib/colors';
 import { useUserStore } from '../../stores/userStore';
+import { useSrsStore } from '../../stores/srsStore';
+import { useLessonProgressStore } from '../../stores/lessonProgressStore';
 import { signOut } from '../../lib/api';
 import { setVolume, getVolume } from '../../lib/audio';
 
@@ -44,6 +46,8 @@ export default function Settings() {
   const handleLogout = async () => {
     await signOut();
     reset();
+    useSrsStore.setState({ lex: {}, rule: {}, contrastiveFlags: [] });
+    useLessonProgressStore.getState().clearAll();
     router.replace('/');
   };
 

@@ -20,7 +20,7 @@ import { useUserStore } from '../../stores/userStore';
 export default function LessonComplete() {
   const router = useRouter();
   const insets = useSafeAreaInsets();
-  const params = useLocalSearchParams<{ xp?: string; accuracy?: string; words?: string }>();
+  const params = useLocalSearchParams<{ mode?: string; xp?: string; accuracy?: string; words?: string }>();
   const streak = useUserStore((s) => s.profile?.streak ?? 0);
 
   // Read from params (passed by lesson player) or fall back to sensible defaults
@@ -51,7 +51,7 @@ export default function LessonComplete() {
 
   const metrics = [
     { label: 'XP', value: `+${xpEarned}` },
-    { label: 'Words', value: words > 0 ? `${words} new` : '—' },
+    { label: 'Words', value: words > 0 ? `${words} ${params.mode === 'review' ? 'reviewed' : 'new'}` : '—' },
     { label: 'Accuracy', value: accuracy > 0 ? `${accuracy}%` : '—' },
   ];
   const cardAnims = [metricAnimStyle(card1), metricAnimStyle(card2), metricAnimStyle(card3)];
@@ -60,7 +60,7 @@ export default function LessonComplete() {
     try {
       Haptics.selectionAsync();
       await Share.share({
-        message: `🌊 I just completed a lesson on Essi (ⲉⲥⲥⲓ)! Watering my roots in Mattokki Nubian — اسقي جذورك. Streak: ${streak} days, XP: +${xpEarned}.\n\n#LearnNubian #Essi #NubianHeritage`,
+        message: `🌊 I just completed ${params.mode === 'review' ? 'Daily Practice' : 'a lesson'} on Essi (ⲉⲥⲥⲓ)! Watering my roots in Mattokki Nubian — اسقي جذورك. Streak: ${streak} days, XP: +${xpEarned}.\n\n#LearnNubian #Essi #NubianHeritage`,
       });
     } catch {}
   };
@@ -74,7 +74,7 @@ export default function LessonComplete() {
 
       <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center', padding: 28 }}>
         <Text style={{ fontSize: 11, letterSpacing: 4, color: colors.lime, fontFamily: 'Inter-Bold', opacity: 0.85, marginBottom: 14 }}>
-          LESSON COMPLETE
+          {params.mode === 'review' ? 'PRACTICE COMPLETE' : 'LESSON COMPLETE'}
         </Text>
         <Text style={{ fontFamily: 'Fraunces-SemiBold', fontSize: 42, color: colors.lime, textAlign: 'center', lineHeight: 44, marginBottom: 6 }}>
           The Nile{'\n'}flows on.
@@ -142,7 +142,7 @@ export default function LessonComplete() {
           title="Continue →"
           arabicTitle="كمل"
           variant="light"
-          onPress={() => router.replace('/(tabs)/home' as any)}
+          onPress={() => router.replace(params.mode === 'review' ? '/(tabs)/practice' : '/(tabs)/home')}
         />
       </View>
     </View>

@@ -5,9 +5,9 @@
 //   ✓ Session summary: rules practiced, recall improvement, next review
 //   ✓ Zero-state: proverb + earliest next review time
 
-import React, { useMemo, useState, useEffect, useCallback } from 'react';
+import React, { useMemo, useState, useCallback } from 'react';
 import { View, Text, ScrollView, ActivityIndicator } from 'react-native';
-import { useRouter } from 'expo-router';
+import { useFocusEffect, useRouter } from 'expo-router';
 import { AppTopBar } from '../../components/AppTopBar';
 import { EssiButton } from '../../components/EssiButton';
 import { OilLampFlame } from '../../components/brand/OilLampFlame';
@@ -63,35 +63,38 @@ export default function Practice() {
     [lex, rule],
   );
 
-  const fetchSession = useCallback(async () => {
-    setLoading(true);
-    try {
-      const serverResult = await getReviewSession(15);
-      if (serverResult && serverResult.queue && serverResult.queue.length > 0) {
-        // Server returned items — map the JSONB result to typed Exercise objects
-        // The server returns exercise IDs; we hydrate the full exercise from local data
-        const hydratedQueue: Exercise[] = serverResult.queue
-          .map((item: any) => {
-            const fullEx = ALL_EXERCISES.find((e) => e.id === item.id);
-            return fullEx ?? null;
-          })
-          .filter(Boolean) as Exercise[];
-        setSession({ queue: hydratedQueue, sessionFocus: serverResult.session_focus ?? [] });
-      } else {
-        // Server has no items due — fall back to local
+  useFocusEffect(useCallback(() => {
+    let active = true;
+    async function fetchSession() {
+      setLoading(true);
+      try {
+        const serverResult = await getReviewSession(15);
+        if (!active) return;
+        if (serverResult && Array.isArray(serverResult.queue)) {
+          // Server returned items — map the JSONB result to typed Exercise objects
+          // The server returns exercise IDs; we hydrate the full exercise from local data
+          const hydratedQueue: Exercise[] = serverResult.queue
+            .map((item: any) => {
+              const fullEx = ALL_EXERCISES.find((e) => e.id === item.id);
+              return fullEx ?? null;
+            })
+            .filter(Boolean) as Exercise[];
+          setSession({ queue: hydratedQueue, sessionFocus: serverResult.session_focus ?? [] });
+        } else {
+          // Local-only mode
+          setSession({ queue: localSession.queue, sessionFocus: localSession.sessionFocus });
+        }
+      } catch {
+        if (!active) return;
+        // Offline or unauthenticated — use local store
         setSession({ queue: localSession.queue, sessionFocus: localSession.sessionFocus });
+      } finally {
+        if (active) setLoading(false);
       }
-    } catch {
-      // Offline or unauthenticated — use local store
-      setSession({ queue: localSession.queue, sessionFocus: localSession.sessionFocus });
-    } finally {
-      setLoading(false);
     }
-  }, [localSession]);
-
-  useEffect(() => {
-    fetchSession();
-  }, [fetchSession]);
+    void fetchSession();
+    return () => { active = false; };
+  }, [localSession]));
 
   const currentSession = session ?? localSession;
   const hasItems = currentSession.queue.length > 0;
@@ -234,11 +237,10 @@ export default function Practice() {
               variant="primary"
               style={{ marginTop: 22 }}
               onPress={() => {
-                // Navigate to the first lesson that has exercises from the session
-                const firstEx = currentSession.queue[0];
-                if (firstEx?.lesson_id) {
-                  router.push(`/lesson/${firstEx.lesson_id}` as any);
-                }
+                router.push({
+                  pathname: '/lesson/[id]',
+                  params: { id: 'review', items: currentSession.queue.map(ex => ex.id).join(',') },
+                });
               }}
             />
           </>
